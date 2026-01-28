@@ -16,7 +16,7 @@ $PLAYLIST_SRC = getenv('PLAYLIST_SRC') ?: 'https://ipfs.io/ipns/k2k4r8oqlcjxsrit
 $PAGES_BASE = getenv('PAGES_BASE') ?: '';
 
 // Ventana EPG en horas (24/48 recomendado para bajar de tamaño)
-$HOURS = (int)(getenv('EPG_HOURS') ?: '48');
+$HOURS = (int)(getenv('EPG_HOURS') ?: '24');
 
 // Reescritura AceStream (opcional)
 $OLD_BASE = getenv('OLD_BASE') ?: 'http://127.0.0.1:6878/';
