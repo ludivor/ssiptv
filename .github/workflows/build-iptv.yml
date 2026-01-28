@@ -1,0 +1,36 @@
+name: build-iptv
+
+on:
+  schedule:
+    - cron: "15 4 * * *"  # diario 04:15 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.2"
+
+      - name: Build
+        env:
+          PAGES_BASE: https://TUUSUARIO.github.io/TUREPO
+          PLAYLIST_SRC: ${{ secrets.PLAYLIST_SRC }}
+          EPG_HOURS: "48"
+        run: |
+          php scripts/build.php
+
+      - name: Commit docs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add docs/epg.xml docs/lista.m3u
+          git commit -m "Update EPG/M3U" || exit 0
+          git push
