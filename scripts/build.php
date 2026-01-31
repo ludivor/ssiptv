@@ -8,6 +8,7 @@ declare(strict_types=1);
 
 // ===================== CONFIG =====================
 $EPG_SRC = getenv('EPG_SRC') ?: 'https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml';
+$EPG_PUBLIC_URL = getenv('https://ssiptv.sfl.workers.dev/epg.xml') ?: '';
 
 // IMPORTANTE: mejor por secret en GitHub Actions: PLAYLIST_SRC
 $PLAYLIST_SRC = getenv('PLAYLIST_SRC') ?: 'https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_iptv.m3u';
@@ -59,6 +60,7 @@ function atomic_replace(string $tmp, string $final): void {
 if ($PLAYLIST_SRC === '') fail("ERROR: falta PLAYLIST_SRC (ponlo como secret en Actions).");
 if ($PAGES_BASE === '')   fail("ERROR: falta PAGES_BASE (https://TUUSUARIO.github.io/TUREPO).");
 if ($HOURS < 6)           fail("ERROR: EPG_HOURS demasiado bajo (min 6).");
+if ($EPG_PUBLIC_URL === '') fail("ERROR: falta EPG_PUBLIC_URL (URL pública del Worker, ej: https://xxx.workers.dev/epg.xml).");
 
 // ===================== OUTPUT PATHS =====================
 $docsDir = __DIR__ . '/../docs';
@@ -164,7 +166,7 @@ if (stripos($m3u, '#EXTINF') === false) {
 }
 
 // Cabecera SS IPTV: x-tvg-url="EPG_url"
-$epgUrl = rtrim($PAGES_BASE, '/') . '/epg.xml';
+$epgUrl = $EPG_PUBLIC_URL;
 if (preg_match('/^\s*#EXTM3U.*$/m', $m3u)) {
   $m3u = preg_replace('/^\s*#EXTM3U.*$/m', '#EXTM3U x-tvg-url="'.$epgUrl.'"', $m3u, 1);
 } else {
