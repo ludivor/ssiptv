@@ -24,7 +24,7 @@ jobs:
           PAGES_BASE: https://ludivor.github.io/ssiptv
           PLAYLIST_SRC: https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_iptv.m3u
           EPG_PUBLIC_URL: https://ssiptv.sfl.workers.dev/epg.xml
-          EPG_HOURS: "6"
+          EPG_HOURS: "48"
         run: |
           php scripts/build.php
 
