@@ -134,10 +134,27 @@ $ts = $dt->getTimestamp();
   if (!$dt) continue;
 
   $ts = $dt->getTimestamp();
-  if ($ts >= $now && $ts <= $end) {
-    $outTv->appendChild($out->importNode($pr, true));
-    $kept++;
-  }
+$startAttr = trim($pr->getAttribute('start'));
+$stopAttr  = trim($pr->getAttribute('stop'));
+if ($startAttr === '' || $stopAttr === '') continue;
+
+// Normaliza: "YYYYMMDDHHMMSS +0100" -> "YYYYMMDDHHMMSS+0100"
+$startNorm = preg_replace('/\s+/', '', $startAttr);
+$stopNorm  = preg_replace('/\s+/', '', $stopAttr);
+
+// Parseo respetando zona horaria (TZ opcional en XMLTV)
+$dtStart = DateTime::createFromFormat('YmdHisO', $startNorm);
+$dtStop  = DateTime::createFromFormat('YmdHisO', $stopNorm);
+if (!$dtStart || !$dtStop) continue;
+
+$tsStart = $dtStart->getTimestamp();
+$tsStop  = $dtStop->getTimestamp();
+
+// Mantén programas que SOLAPEN la ventana [now, end]
+if ($tsStart < $end && $tsStop > $now) {
+  $outTv->appendChild($out->importNode($pr, true));
+  $kept++;
+}
 }
 
 file_put_contents($epgTmp, $out->saveXML());
