@@ -96,7 +96,8 @@ if (!$ok) fail("ERROR: no se pudo parsear el XMLTV (DOMDocument::loadXML).");
 $xpath = new DOMXPath($dom);
 
 $out = new DOMDocument('1.0', 'UTF-8');
-$out->formatOutput = false;
+$out->formatOutput = true;          // pretty print
+$out->preserveWhiteSpace = false;
 $outTvSrc = $xpath->query('/tv')->item(0);
 if (!$outTvSrc) fail("ERROR: no encuentro el nodo <tv> en el XMLTV.");
 
@@ -157,7 +158,8 @@ if ($tsStart < $end && $tsStop > $now) {
 }
 }
 
-file_put_contents($epgTmp, $out->saveXML());
+$xmlOut = $out->saveXML();
+file_put_contents($epgTmp, $xmlOut);
 
 // Validar tamaño EPG
 $MIN_PROGRAMMES = (int)(getenv('MIN_PROGRAMMES') ?: '200');
