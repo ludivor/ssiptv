@@ -58,7 +58,6 @@ function atomic_replace(string $tmp, string $final): void {
 
 // ===================== VALIDATE CONFIG =====================
 if ($PLAYLIST_SRC === '') fail("ERROR: falta PLAYLIST_SRC (ponlo como secret en Actions).");
-if ($PAGES_BASE === '')   fail("ERROR: falta PAGES_BASE (https://TUUSUARIO.github.io/TUREPO).");
 if ($HOURS < 6)           fail("ERROR: EPG_HOURS demasiado bajo (min 6).");
 if ($EPG_PUBLIC_URL === '') fail("ERROR: falta EPG_PUBLIC_URL (URL pública del Worker, ej: https://xxx.workers.dev/epg.xml).");
 
@@ -77,6 +76,24 @@ $m3uTmp = $docsDir . '/.lista.m3u.tmp';
 // Limpiar restos antiguos
 @unlink($epgTmp);
 @unlink($m3uTmp);
+
+// ===================== 0) DOWNLOAD M3U + EXTRAER tvg-id =====================
+$m3u = http_get($PLAYLIST_SRC, 90);
+
+// Validación mínima de M3U
+if (stripos($m3u, '#EXTINF') === false) {
+  fail("ERROR: la M3U descargada no contiene #EXTINF (¿URL correcta?).");
+}
+$wanted = []; // set: id => true
+if (preg_match_all('/tvg-id="([^"]+)"/i', $m3u, $mm)) {
+  foreach ($mm[1] as $id) {
+    $id = preg_replace('/\s+/', ' ', trim($id)); // normaliza espacios
+    if ($id !== '') $wanted[$id] = true;
+  }
+}
+if (count($wanted) < 1) {
+  fail('ERROR: no pude extraer tvg-id de la M3U (no puedo filtrar canales).');
+}
 
 // ===================== 1) BUILD EPG =====================
 $xmlStr = http_get($EPG_SRC, 90);
@@ -107,12 +124,13 @@ $out->appendChild($outTv);
 // Copiar solo los canales que están en la M3U (tvg-id)
 $keptChannels = 0;
 foreach ($xpath->query('/tv/channel') as $ch) {
-  $id = $ch->getAttribute('id');
+  $id = preg_replace('/\s+/', ' ', trim($ch->getAttribute('id')));
   if ($id !== '' && isset($wanted[$id])) {
     $outTv->appendChild($out->importNode($ch, true));
     $keptChannels++;
   }
 }
+
 if ($keptChannels < 1) {
   fail("ERROR: tras filtrar, no quedó ningún <channel>. ¿tvg-id coincide con channel id del XMLTV?");
 }
@@ -120,7 +138,7 @@ if ($keptChannels < 1) {
 // Copiar programas dentro de la ventana (por atributo start)
 $kept = 0;
 foreach ($xpath->query('/tv/programme') as $pr) {
-  $chName = $pr->getAttribute('channel');
+  $chName = preg_replace('/\s+/', ' ', trim($pr->getAttribute('channel')));
   if ($chName === '' || !isset($wanted[$chName])) continue;
 
   $startAttr = trim($pr->getAttribute('start'));
@@ -144,25 +162,6 @@ foreach ($xpath->query('/tv/programme') as $pr) {
   }
 }
 
-// Normaliza: "YYYYMMDDHHMMSS +0100" -> "YYYYMMDDHHMMSS+0100"
-$startNorm = preg_replace('/\s+/', '', $startAttr);
-$stopNorm  = preg_replace('/\s+/', '', $stopAttr);
-
-// Parseo respetando zona horaria (TZ opcional en XMLTV)
-$dtStart = DateTime::createFromFormat('YmdHisO', $startNorm);
-$dtStop  = DateTime::createFromFormat('YmdHisO', $stopNorm);
-if (!$dtStart || !$dtStop) continue;
-
-$tsStart = $dtStart->getTimestamp();
-$tsStop  = $dtStop->getTimestamp();
-
-// Mantén programas que SOLAPEN la ventana [now, end]
-if ($tsStart < $end && $tsStop > $now) {
-  $outTv->appendChild($out->importNode($pr, true));
-  $kept++;
-}
-}
-
 $xmlOut = $out->saveXML();
 file_put_contents($epgTmp, $xmlOut);
 
@@ -181,27 +180,6 @@ if (filesize($epgTmp) > $MAX_EPG_BYTES) {
 }
 
 // ===================== 2) BUILD M3U =====================
-// ===================== EXTRAER tvg-id DE LA M3U =====================
-$wanted = []; // set: id => true
-
-if (preg_match_all('/tvg-id="([^"]+)"/i', $m3u, $mm)) {
-  foreach ($mm[1] as $id) {
-    $id = trim($id);
-    if ($id !== '') $wanted[$id] = true;
-  }
-}
-
-if (count($wanted) < 1) {
-  fail("ERROR: no pude extraer tvg-id de la M3U (no puedo filtrar canales).");
-}
-
-
-// Validación mínima de M3U
-if (stripos($m3u, '#EXTINF') === false) {
-  @unlink($epgTmp);
-  fail("ERROR: la M3U descargada no contiene #EXTINF (¿URL correcta?).");
-}
-
 // Cabecera SS IPTV: x-tvg-url="EPG_url"
 $epgUrl = $EPG_PUBLIC_URL;
 if (preg_match('/^\s*#EXTM3U.*$/m', $m3u)) {
@@ -232,3 +210,8 @@ echo "OK\n";
 echo "EPG programmes kept: $kept\n";
 echo "EPG bytes: " . filesize($epgFinal) . "\n";
 echo "M3U bytes: " . filesize($m3uFinal) . "\n";
+echo "Channels kept: $keptChannels\n";
+if ($keptChannels > 150) {
+  fwrite(STDERR, "WARN: keptChannels=$keptChannels (más de lo esperado)\n");
+}
+echo "Wanted tvg-id: " . count($wanted) . "\n";
