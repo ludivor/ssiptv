@@ -95,7 +95,10 @@ $xpath = new DOMXPath($dom);
 
 $out = new DOMDocument('1.0', 'UTF-8');
 $out->formatOutput = false;
-$outTv = $out->createElement('tv');
+$outTvSrc = $xpath->query('/tv')->item(0);
+if (!$outTvSrc) fail("ERROR: no encuentro el nodo <tv> en el XMLTV.");
+
+$outTv = $out->importNode($outTvSrc, false); // false = sin hijos, mantiene atributos
 $out->appendChild($outTv);
 
 // Copiar todos los canales
@@ -109,8 +112,23 @@ foreach ($xpath->query('/tv/programme') as $pr) {
   $start = $pr->getAttribute('start'); // ej: 20260126213000 +0100
   if ($start === '') continue;
 
-  $s = substr($start, 0, 14);
-  $dt = DateTime::createFromFormat('YmdHis', $s, new DateTimeZone('UTC'));
+$start = trim($start);
+
+// Normaliza: "YYYYMMDDHHMMSS +0100" -> "YYYYMMDDHHMMSS+0100"
+$startNorm = preg_replace('/\s+/', '', $start);
+
+// Si tiene TZ (+HHMM o -HHMM) parsea con offset; si no, asume UTC
+if (preg_match('/^\d{14}[+-]\d{4}$/', $startNorm)) {
+  $dt = DateTime::createFromFormat('YmdHisO', $startNorm); // O = +0100
+} elseif (preg_match('/^\d{14}$/', $startNorm)) {
+  $dt = DateTime::createFromFormat('YmdHis', $startNorm, new DateTimeZone('UTC'));
+} else {
+  $dt = false;
+}
+if (!$dt) continue;
+
+$ts = $dt->getTimestamp();
+  
   if (!$dt) continue;
 
   $ts = $dt->getTimestamp();
@@ -123,9 +141,17 @@ foreach ($xpath->query('/tv/programme') as $pr) {
 file_put_contents($epgTmp, $out->saveXML());
 
 // Validar tamaño EPG
-if (!file_exists($epgTmp) || filesize($epgTmp) < $MIN_EPG_BYTES || $kept < 1000) {
+$MIN_PROGRAMMES = (int)(getenv('MIN_PROGRAMMES') ?: '200');
+
+if (!file_exists($epgTmp) || filesize($epgTmp) < $MIN_EPG_BYTES || $kept < $MIN_PROGRAMMES) {
   @unlink($epgTmp);
-  fail("ERROR: epg.tmp demasiado pequeño o con pocos programmes (kept=$kept). Prueba con EPG_HOURS=72/96 o revisa fuente.");
+  fail("ERROR: epg.tmp pequeño o pocos programmes (kept=$kept).");
+}
+$MAX_EPG_BYTES = (int)(getenv('MAX_EPG_BYTES') ?: (5 * 1024 * 1024));
+
+if (filesize($epgTmp) > $MAX_EPG_BYTES) {
+  @unlink($epgTmp);
+  fail("ERROR: epg.tmp supera 5MB (SS IPTV recomienda <5MB). Baja EPG_HOURS o filtra canales.");
 }
 
 // ===================== 2) BUILD M3U =====================
