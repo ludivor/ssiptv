@@ -8,7 +8,7 @@ declare(strict_types=1);
 
 // ===================== CONFIG =====================
 $EPG_SRC = getenv('EPG_SRC') ?: 'https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml';
-$EPG_PUBLIC_URL = getenv('https://ssiptv.sfl.workers.dev/epg.xml') ?: '';
+$EPG_PUBLIC_URL = getenv('EPG_PUBLIC_URL') ?: 'https://ssiptv.sfl.workers.dev/epg.xml';
 
 // IMPORTANTE: mejor por secret en GitHub Actions: PLAYLIST_SRC
 $PLAYLIST_SRC = getenv('PLAYLIST_SRC') ?: 'https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_iptv.m3u';
