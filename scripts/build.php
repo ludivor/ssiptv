@@ -104,40 +104,45 @@ if (!$outTvSrc) fail("ERROR: no encuentro el nodo <tv> en el XMLTV.");
 $outTv = $out->importNode($outTvSrc, false); // false = sin hijos, mantiene atributos
 $out->appendChild($outTv);
 
-// Copiar todos los canales
+// Copiar solo los canales que están en la M3U (tvg-id)
+$keptChannels = 0;
 foreach ($xpath->query('/tv/channel') as $ch) {
-  $outTv->appendChild($out->importNode($ch, true));
+  $id = $ch->getAttribute('id');
+  if ($id !== '' && isset($wanted[$id])) {
+    $outTv->appendChild($out->importNode($ch, true));
+    $keptChannels++;
+  }
+}
+if ($keptChannels < 1) {
+  fail("ERROR: tras filtrar, no quedó ningún <channel>. ¿tvg-id coincide con channel id del XMLTV?");
 }
 
 // Copiar programas dentro de la ventana (por atributo start)
 $kept = 0;
 foreach ($xpath->query('/tv/programme') as $pr) {
-  $start = $pr->getAttribute('start'); // ej: 20260126213000 +0100
-  if ($start === '') continue;
+  $chName = $pr->getAttribute('channel');
+  if ($chName === '' || !isset($wanted[$chName])) continue;
 
-$start = trim($start);
+  $startAttr = trim($pr->getAttribute('start'));
+  $stopAttr  = trim($pr->getAttribute('stop'));
+  if ($startAttr === '' || $stopAttr === '') continue;
 
-// Normaliza: "YYYYMMDDHHMMSS +0100" -> "YYYYMMDDHHMMSS+0100"
-$startNorm = preg_replace('/\s+/', '', $start);
+  $startNorm = preg_replace('/\s+/', '', $startAttr);
+  $stopNorm  = preg_replace('/\s+/', '', $stopAttr);
 
-// Si tiene TZ (+HHMM o -HHMM) parsea con offset; si no, asume UTC
-if (preg_match('/^\d{14}[+-]\d{4}$/', $startNorm)) {
-  $dt = DateTime::createFromFormat('YmdHisO', $startNorm); // O = +0100
-} elseif (preg_match('/^\d{14}$/', $startNorm)) {
-  $dt = DateTime::createFromFormat('YmdHis', $startNorm, new DateTimeZone('UTC'));
-} else {
-  $dt = false;
+  $dtStart = DateTime::createFromFormat('YmdHisO', $startNorm);
+  $dtStop  = DateTime::createFromFormat('YmdHisO', $stopNorm);
+  if (!$dtStart || !$dtStop) continue;
+
+  $tsStart = $dtStart->getTimestamp();
+  $tsStop  = $dtStop->getTimestamp();
+
+  // Programa que solapa la ventana [now, end]
+  if ($tsStart < $end && $tsStop > $now) {
+    $outTv->appendChild($out->importNode($pr, true));
+    $kept++;
+  }
 }
-if (!$dt) continue;
-
-$ts = $dt->getTimestamp();
-  
-  if (!$dt) continue;
-
-  $ts = $dt->getTimestamp();
-$startAttr = trim($pr->getAttribute('start'));
-$stopAttr  = trim($pr->getAttribute('stop'));
-if ($startAttr === '' || $stopAttr === '') continue;
 
 // Normaliza: "YYYYMMDDHHMMSS +0100" -> "YYYYMMDDHHMMSS+0100"
 $startNorm = preg_replace('/\s+/', '', $startAttr);
@@ -176,7 +181,20 @@ if (filesize($epgTmp) > $MAX_EPG_BYTES) {
 }
 
 // ===================== 2) BUILD M3U =====================
-$m3u = http_get($PLAYLIST_SRC, 90);
+// ===================== EXTRAER tvg-id DE LA M3U =====================
+$wanted = []; // set: id => true
+
+if (preg_match_all('/tvg-id="([^"]+)"/i', $m3u, $mm)) {
+  foreach ($mm[1] as $id) {
+    $id = trim($id);
+    if ($id !== '') $wanted[$id] = true;
+  }
+}
+
+if (count($wanted) < 1) {
+  fail("ERROR: no pude extraer tvg-id de la M3U (no puedo filtrar canales).");
+}
+
 
 // Validación mínima de M3U
 if (stripos($m3u, '#EXTINF') === false) {
