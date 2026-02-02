@@ -2,7 +2,7 @@ name: build-iptv
 
 on:
   schedule:
-    - cron: "52 * * * *"  # UTC
+    - cron: "37 * * * *"  # UTC
   workflow_dispatch:
 
 permissions:
