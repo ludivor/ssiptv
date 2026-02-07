@@ -176,17 +176,6 @@
 		<display-name>DAZN LaLiga 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"/>
 	</channel>
-  <channel id="LaLiga TV Hypermotion HD">
-		<display-name>LaLiga TV Hypermotion</display-name>
-		<display-name>LaLiga TV Hypermotion.TV</display-name>
-		<display-name>LaLiga TV Hypermotion SD</display-name>
-		<display-name>LaLiga TV Hypermotion HD</display-name>
-		<display-name>LaLiga TV Hypermotion FHD</display-name>
-		<display-name>LaLiga TV Hypermotion UHD</display-name>
-		<display-name>LaLiga TV Hypermotion 720</display-name>
-		<display-name>LaLiga TV Hypermotion 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png"/>
-	</channel>
   <channel id="M+ LaLiga 2 HD">
 		<display-name>M+ LaLiga 2</display-name>
 		<display-name>M+ LaLiga 2.TV</display-name>
@@ -1070,13 +1059,6 @@
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
 	</programme>
-  <programme start="20260207120000 +0100" stop="20260207125000 +0100" channel="La 2">
-    <title>Hundidos: RMS Solway</title>
-    <desc>Documentales,Ciencia tecnología | 2018 | TP | *6.4/10
-· El equipo de buzos, con Carlos a la cabeza, sale en busca del Solway, un vapor inglés construido en 1841, hundido a 20 metros de profundidad en los Bajos de Baldaio, en A Coruña.
-· País: España
-· Productora: Karlos Simón.</desc>
-	</programme>
   <programme start="20260207125000 +0100" stop="20260207132000 +0100" channel="La 2">
     <title>Página 2 T19 · Espido Freire y Ayesha L. Rubio</title>
     <desc>Cultural/Educativo,Literatura | 2026 | TP | *5.4/10
@@ -1896,12 +1878,6 @@
 · País: España
 · Dirección: Julián Nieto.</desc>
 	</programme>
-  <programme start="20260207111000 +0100" stop="20260207123500 +0100" channel="Cuatro HD">
-    <title>Viajeros Cuatro: Sur de Mallorca</title>
-    <desc>Documentales,Viajes | 2025 | +7 | *6.0/10
-· Aranzazu Fuertes y Álvaro Esteban recorren el sur de la isla de Mallorca. La ruta arranca en Cala Figuera junto a María Tudela, propietaria de una empresa de alquiler de barcos que los lleva en uno de ellos hasta Cala Màrmols, donde degustan langosta.
-· País: España</desc>
-	</programme>
   <programme start="20260207123500 +0100" stop="20260207140000 +0100" channel="Cuatro HD">
     <title>Viajeros Cuatro: República Dominicana</title>
     <desc>Documentales,Viajes | 2019 | +7 | *5.8/10
@@ -2505,6 +2481,13 @@
 · Presenta: Ana Rosa Quintana.
 · Productora: Cuarzo Producciones.</desc>
 	</programme>
+  <programme start="20260209123000 +0100" stop="20260209134500 +0100" channel="Telecinco HD">
+    <title>Vamos a ver T5</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Joaquín Prat junto a Patricia Pardo y Adriana Dorronsoro repasan todas las noticias de actualidad, investigación y entretenimiento que interesan al gran público.
+· País: España
+· Presenta: Joaquín Prat, Patricia Pardo, Adriana Dorronsoro.</desc>
+	</programme>
   <programme start="20260207102500 +0100" stop="20260207140000 +0100" channel="La Sexta HD">
     <title>Equipo de investigación T17</title>
     <desc>Información,Reportaje | 2025 | +12 | *6.0/10
@@ -2757,18 +2740,6 @@
 · Antonio García Ferreras presenta este espacio de debate sobre la actualidad, fundamentalmente política, y lejos de una línea editorial conservadora. Analistas, periodistas y expertos buscarán las claves de las noticias de cada día.
 · País: España
 · Dirección: Antonio G. Ferreras.</desc>
-	</programme>
-  <programme start="20260207110800 +0100" stop="20260207124200 +0100" channel="M+ Acción HD">
-    <title>Mad Max II: El guerrero de la carretera</title>
-    <desc>Cine,Acción | 1981 | +18 | *7.2/10
-· Max, un héroe solitario, exoficial de la Patrulla Central de Carretera, viaja por el despoblado interior de Australia en una interminable búsqueda de gasolina, el bien más escaso y codiciado de este mundo postapocalíptico.
-· País: Australia
-· Dirección: George Miller.
-· Reparto: Mel Gibson, Bruce Spence, Vernon Wells, Emil Minty, Michael Preston, Kjell Nilsson.
-· Guion: George Miller, Terry Hayes.
-· Música: Brian May.
-· Producción: Byron Kennedy.
-· Productora: Kennedy Miller Productions.</desc>
 	</programme>
   <programme start="20260207124200 +0100" stop="20260207145700 +0100" channel="M+ Acción HD">
     <title>Guillermo Tell</title>
@@ -3055,11 +3026,17 @@
 · Producción: Michael Mann, Hunt Lowry.
 · Productora: Morgan Creek International, Morgan Creek Productions.</desc>
 	</programme>
-  <programme start="20260207120200 +0100" stop="20260207123200 +0100" channel="Caza y Pesca HD">
-    <title>Lances gallegos: cucharillas en Lugo</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2024 | TP | *5.8/10
-· José y Taracho dos amantes de la pesca a la modalidad de ballesta nos muestras sus ríos favoritos donde han aprendido a utilizar esta modalidad tan arraigada al territorio Gallego, precisamente por la orografía y la particularidad de sus ríos.
-· País: España</desc>
+  <programme start="20260209120500 +0100" stop="20260209150100 +0100" channel="M+ Acción HD">
+    <title>El conde de Montecristo</title>
+    <desc>Cine,Aventuras | 2024 | +12 | *7.6/10
+· Edmundo Dantés está a punto de lograr todos sus anhelos, pero su fortuna despierta la envidia de las personas que le rodean, quienes urden un plan que acaba con el ingenuo joven en la prisión de la isla de If.
+· País: Francia
+· Dirección: Matthieu Delaporte, Alexandre de La Patellière.
+· Reparto: Pierre Niney, Bastien Bouillon, Anaïs Demoustier, Anamaria Vartolomei, Laurent Lafitte, Pierfrancesco Favino.
+· Guion: Matthieu Delaporte, Alexandre de La Patellière.
+· Música: Jérôme Rebotier.
+· Producción: Dimitri Rassam.
+· Productora: Chapter 2.</desc>
 	</programme>
   <programme start="20260207123200 +0100" stop="20260207130500 +0100" channel="Caza y Pesca HD">
     <title>De montería: Episodio T10 E7</title>
@@ -3650,6 +3627,19 @@
     <desc>Ocio y Aficiones,Caza y pesca | 2026 | +12 | *6.0/10
 · Un equipo de caza y pesca Tv se desplaza hasta los Cárpatos rumanos para recechar sus grandes venados en berrea e intentar la caza del rebeco carpático, el mas grande del mundo.
 · País: España</desc>
+	</programme>
+  <programme start="20260209122500 +0100" stop="20260209125000 +0100" channel="Caza y Pesca HD">
+    <title>Atunes marcados</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2025 | TP | *7.0/10
+· Scientific angler tagging tour organiza una sesión de marcaje de atún rojo. Nos contaran de primera mano, el cómo y el porqué de estas jornadas de ciencia ciudadana en las que participan pescadores y científicos de nivel internacional.
+· País: España</desc>
+	</programme>
+  <programme start="20260209125000 +0100" stop="20260209132000 +0100" channel="Caza y Pesca HD">
+    <title>Veda Abierta Caza T5 · Campeón de España caza menor con perro</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2026 | +7 | *6.2/10
+· En veda abierta contamos con la presencia del flamante campeón de caza menor con perro. César Bayo se alzó con el campeonato en Villegas( Burgos) en una de las finales más duras y difíciles que se recuerdan.
+· País: España
+· Dirección: Agustín Pérez-Mínguez.</desc>
 	</programme>
   <programme start="20260207070000 +0100" stop="20260207142700 +0100" channel="24 Horas">
     <title>Noticias 24H</title>
@@ -4456,11 +4446,6 @@
 · País: España
 · Presenta: Miriam Sánchez.</desc>
 	</programme>
-  <programme start="20260207104500 +0100" stop="20260207123000 +0100" channel="Real Madrid TV">
-    <title>DIRECTO RM Alevín A - Parla Escuela T25/26 · La cantera</title>
-    <desc>Deportes,Fútbol | 2026
-· Emisión de partidos de los equipos inferiores del Real Madrid.</desc>
-	</programme>
   <programme start="20260207123000 +0100" stop="20260207160000 +0100" channel="Real Madrid TV">
     <title>Ciudad Real Madrid</title>
     <desc>Deportes,Programa deportes | 2025 | *6.4/10
@@ -4634,13 +4619,6 @@
     <title>Ciudad Real Madrid</title>
     <desc>Deportes,Programa deportes | 2025 | *6.4/10
 · Programa deportivo que incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.</desc>
-	</programme>
-  <programme start="20260207113300 +0100" stop="20260207123000 +0100" channel="Ten">
-    <title>Hermanos asesinos: Romero y Self</title>
-    <desc>Documentales,Sociedad | 2020 | +16 | *5.6/10
-· En el otoño de 1992, dos hermanos aterrorizan a una comunidad de California al embarcarse en una ola de crímenes durante dos meses.
-· País: Estados Unidos
-· Productora: Scott Sternberg Productions, Oxygen Network.</desc>
 	</programme>
   <programme start="20260207123000 +0100" stop="20260207132500 +0100" channel="Ten">
     <title>Hermanos asesinos E9</title>
@@ -5043,17 +5021,12 @@
 · País: Estados Unidos
 · Presenta: Ana María Polo.</desc>
 	</programme>
-  <programme start="20260207105500 +0100" stop="20260207122900 +0100" channel="Movistar Plus+ HD">
-    <title>Loca academia de policía</title>
-    <desc>Cine,Comedia | 1984 | +16 | *7.6/10
-· A partir de ahora, la edad, la raza, la estatura, el sexo y la salud física y mental, no supondrán ningún problema para aquellos que quieran formar parte del cuerpo de policía.
+  <programme start="20260209120500 +0100" stop="20260209130500 +0100" channel="Ten">
+    <title>Caso cerrado T15 E117</title>
+    <desc>Entretenimiento,Tertulia | 2015 | +16 | *5.6/10
+· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
 · País: Estados Unidos
-· Dirección: Hugh Wilson.
-· Reparto: Steve Guttenberg, Kim Cattrall, George Gaynes, Bubba Smith, Donovan Scott, David Graf, Michael Winslow, G.W. Bailey.
-· Guion: Neal Israel, Pat Proft, Hugh Wilson.
-· Música: Robert Folk.
-· Producción: Paul Maslansky.
-· Productora: The Ladd Company, Warner Bros.</desc>
+· Presenta: Ana María Polo.</desc>
 	</programme>
   <programme start="20260207122900 +0100" stop="20260207132500 +0100" channel="Movistar Plus+ HD">
     <title>Aventura a caballo con Gordon Buchanan</title>
@@ -5386,11 +5359,15 @@
 · Dirección: Richard Attenborough.
 · Reparto: Robert Downey Jr., Milla Jovovich, Geraldine Chaplin, Kevin Kline, Diane Lane.</desc>
 	</programme>
-  <programme start="20260207102300 +0100" stop="20260207121900 +0100" channel="M+ Vamos HD">
-    <title>Euroliga de baloncesto T25/26 · Jornada 27: Baskonia - Barcelona</title>
-    <desc>Deportes,Baloncesto | TP | *6.6/10
-· El Kosner Baskonia (9-17) regresa al Buesa Arena tras caer en Milán frente al Olimpia 109-89, en su 13ª derrota fuera de casa de la temporada. Los de Galbiati, que en casa tienen un récord de 8-4 reciben al FC Barcelona (16-10) que ha perdido 2 seguidos.
-· País: España</desc>
+  <programme start="20260209125000 +0100" stop="20260209134700 +0100" channel="Movistar Plus+ HD">
+    <title>Oliver Stone: el outsider</title>
+    <desc>Documentales,Biografía | 2025 | +12 | *6.6/10
+· Con su cine, Oliver Stone ha retratado las luces y sombras de Estados Unidos. Este documental no solo recorre la trayectoria del célebre director, sino que también ofrece un retrato de su tiempo y de un país en conflicto consigo mismo.
+· País: Francia
+· Dirección: Amine Mestari.
+· Reparto: Nina Meurisse.
+· Guion: Amine Mestari.
+· Productora: Roche Productions.</desc>
 	</programme>
   <programme start="20260207121900 +0100" stop="20260207131400 +0100" channel="M+ Vamos HD">
     <title>Eurofighters T25/26 E19</title>
@@ -5884,12 +5861,6 @@
 · La Real Sociedad, clasificada para las semifinales de Copa e invicta con Matzarazzo, recibe al Elche, sin triunfos en los últimos cinco partidos de liga y a dos puntos del descenso.
 · País: España</desc>
 	</programme>
-  <programme start="20260207120000 +0100" stop="20260207121500 +0100" channel="DAZN LaLiga HD">
-    <title>Resúmenes LALIGA HyperMotion T25/26 · Jornada 25: Leganés - Granada</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-	</programme>
   <programme start="20260207121500 +0100" stop="20260207130000 +0100" channel="DAZN LaLiga HD">
     <title>Especiales LaLiga fin de temporada T24/25 · El sentido: Laliga Genuine</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
@@ -6145,157 +6116,6 @@
 · Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
 	</programme>
-  <programme start="20260207110000 +0100" stop="20260207130000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>LALIGA HYPERMOTION T25/26 · Jornada 25: Leganés - Granada</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260207130000 +0100" stop="20260207140000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>Especiales LaLiga fin de temporada T24/25 · El sentido: Laliga Genuine</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
-· LaLiga EA Sports ha finalizado otro curso plagado de historias y de fútbol. El campeonato español de la regularidad deja relatos para el recuerdo y héroes que se han convertido en los protagonistas de la temporada.</desc>
-	</programme>
-  <programme start="20260207140000 +0100" stop="20260207161500 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 25: Andorra - Real Sociedad B T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: Andorra</desc>
-	</programme>
-  <programme start="20260207161500 +0100" stop="20260207183000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 25: Las Palmas - Burgos T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260207183000 +0100" stop="20260207203000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 25: Zaragoza - Eibar T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260207203000 +0100" stop="20260207210000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>Previa Segunda División T25/26 · Cádiz - Almería</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.6/10
-· Toda la información previa a los partidos que se van a disputar en la siguiente jornada de competición. Noticias, estadísticas, análisis y los datos necesarios para disfrutar más de los encuentros.
-· País: España</desc>
-	</programme>
-  <programme start="20260207210000 +0100" stop="20260207230000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 25: Cádiz - Almería T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.2/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260207230000 +0100" stop="20260207233000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>Post Segunda División T25/26 · Cádiz - Almería</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
-· Tras la disputa de los encuentros, es tiempo para el análisis. Los entrenadores de los equipos de LaLiga HyperMotion desmenuzan las claves que, según ellos, han propiciado el resultado del partido que acaban de jugar.
-· País: España</desc>
-	</programme>
-  <programme start="20260207233000 +0100" stop="20260208013000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 25: Zaragoza - Eibar T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260208013000 +0100" stop="20260208070000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>LALIGA TV HYPERMOTION</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260208070000 +0100" stop="20260208090000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 25: Andorra - Real Sociedad B T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: Andorra</desc>
-	</programme>
-  <programme start="20260208090000 +0100" stop="20260208093000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>LALIGA VS T2 · Joan Capdevila y Gemma Mengual</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
-· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
-· País: España</desc>
-	</programme>
-  <programme start="20260208093000 +0100" stop="20260208113000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 25: Cádiz - Almería T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.2/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260208113000 +0100" stop="20260208133000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 25: Las Palmas - Burgos T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260208133000 +0100" stop="20260208140000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>Inside - El gran derbi</title>
-    <desc>Documentales,Deportes | 2025 | TP | *6.0/10
-· Un recorrido por la organización de El Gran Derbi de Sevilla y el impacto de la piratería audiovisual.
-· País: España</desc>
-	</programme>
-  <programme start="20260208140000 +0100" stop="20260208161500 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 25: Valladolid - Castellón T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260208161500 +0100" stop="20260208183000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 25: Deportivo - Albacete T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260208183000 +0100" stop="20260208203000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 25: Sporting - Huesca T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260208203000 +0100" stop="20260208210000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>Previa Segunda División T25/26 · Málaga - Cultural</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *8.0/10
-· Toda la información previa a los partidos que se van a disputar en la siguiente jornada de competición. Noticias, estadísticas, análisis y los datos necesarios para disfrutar más de los encuentros.
-· País: España</desc>
-	</programme>
-  <programme start="20260208210000 +0100" stop="20260208230000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 25: Málaga - Cultural T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.8/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260208230000 +0100" stop="20260208233000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>Post Segunda División T25/26 · Málaga - Cultural</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.6/10
-· Tras la disputa de los encuentros, es tiempo para el análisis. Los entrenadores de los equipos de LaLiga HyperMotion desmenuzan las claves que, según ellos, han propiciado el resultado del partido que acaban de jugar.
-· País: España</desc>
-	</programme>
-  <programme start="20260208233000 +0100" stop="20260209013000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>LALIGA HYPERMOTION T25/26 · Jornada 25: Ceuta - Córdoba</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.8/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260209013000 +0100" stop="20260209070000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>LALIGA TV HYPERMOTION</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260209070000 +0100" stop="20260209090000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 25: Sporting - Huesca T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260209090000 +0100" stop="20260209110000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 25: Valladolid - Castellón T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
-  <programme start="20260209110000 +0100" stop="20260209130000 +0100" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 25: Zaragoza - Eibar T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
-	</programme>
   <programme start="20260207080000 +0100" stop="20260207160900 +0100" channel="M+ LaLiga 2 HD">
     <title>M+ LALIGA 2</title>
     <desc>Deportes,Fútbol | TP | *6.0/10
@@ -6416,6 +6236,10 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260209081500 +0100" stop="20260209121500 +0100" channel="DAZN LaLiga 2 HD">
+    <title>DAZN LALIGA 2</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260209121500 +0100" stop="20260209161500 +0100" channel="DAZN LaLiga 2 HD">
     <title>DAZN LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -6594,6 +6418,11 @@
     <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
 · Liga Argentina. Torneo Apertura.
 · País: Argentina</desc>
+	</programme>
+  <programme start="20260209123000 +0100" stop="20260209130000 +0100" channel="M+ Liga de Campeones HD">
+    <title>Magazine Champions League T25/26 E18</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+· Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc>
 	</programme>
   <programme start="20260207080000 +0100" stop="20260207182500 +0100" channel="M+ Liga de Campeones 2 HD">
     <title>M+ Liga de Campeones 2</title>
@@ -7280,6 +7109,11 @@
     <desc>Deportes,Golf | 2026 | TP | *5.8/10
 · Cuarta parada de la International Swing. 14 españoles lucharán por el trofeo el domingo. Destaca la presencia de Patrick Reed, Jayden Schaper y Luke List.</desc>
 	</programme>
+  <programme start="20260209125000 +0100" stop="20260209132000 +0100" channel="M+ Golf HD">
+    <title>HotelPlanner Tour Series T2026 · SDC Open</title>
+    <desc>Deportes,Golf | 2026 | TP | *5.8/10
+· Arranca una nueva temporada del HotelPlanner Tour y lo hace en Sudáfrica. 8 españoles pelearán por lograr la primera victoria del año en el circuito satélite del DPWT.</desc>
+	</programme>
   <programme start="20260207111500 +0100" stop="20260207132500 +0100" channel="DAZN F1 HD">
     <title>Mundial de Fórmula 1 T2022 · GP de Hungría: Carrera</title>
     <desc>Deportes,Motor | 2022 | TP | *6.8/10
@@ -7450,6 +7284,11 @@
     <desc>Deportes,Motor | 2024 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
+  <programme start="20260209124000 +0100" stop="20260209140500 +0100" channel="DAZN F1 HD">
+    <title>Decoded: Alonso</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *5.6/10
+· Decoded: Alonso.</desc>
+	</programme>
   <programme start="20260207125100 +0100" stop="20260207132000 +0100" channel="DAZN 1 HD">
     <title>Edwin van der Sar, el guardián que definió una generación</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
@@ -7558,10 +7397,6 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260209060000 +0100" stop="20260209130000 +0100" channel="DAZN 1 HD">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260207100000 +0100" stop="20260207123000 +0100" channel="DAZN 2 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -7948,6 +7783,12 @@
 · El deporte rey del programa olímpico de invierno. Los espectaculares eslálones, descensos y supergigantes ponen a prueba a los mejores esquiadores. Las carreras femeninas se realizan en el centro Tofane de Cortina d'Ampezzo; las masculinas, en Bormio.
 · País: Italia</desc>
 	</programme>
+  <programme start="20260209121500 +0100" stop="20260209140000 +0100" channel="Eurosport 1 HD">
+    <title>DIRECTO Slopestyle F - Final T2026 · Esquí acrobático - JJ OO Cortina Milán 2026</title>
+    <desc>Deportes,Deporte invierno | 2026 | *5.2/10
+· El esquí acrobático es uno de los deportes más visuales del programa olímpico. Cuenta con diferentes modalidades (moguls, halfpipe, aerials, Big Air y skicross) y reparte 15 medallas de oro. Los eventos se desarrollan en Livigno, en Valtellina.
+· País: Italia</desc>
+	</programme>
   <programme start="20260207115000 +0100" stop="20260207134000 +0100" channel="Eurosport 2">
     <title>DIRECTO Etapa 3 - Abu Dhabi TeamLab Phenomena - Abu Dhabi Breakwater T2026 · UAE Tour F</title>
     <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
@@ -8159,6 +8000,12 @@
     <title>DIRECTO Fase de grupos: Italia - Estados Unidos T2026 · Curling Dobles Mixtos - JJ OO Cortina Milán 2026</title>
     <desc>Deportes,Curling | 2026 | *5.6/10
 · El curling es el deporte más madrugador en los Juegos de Cortina Milán. La competición de dobles mixtos se celebra del 4 al 10 de febrero en el Cortina Curling Olympic Stadium. Italia juega en casa y defiende el oro que logró hace cuatro años en Pekín.
+· País: Italia</desc>
+	</programme>
+  <programme start="20260209120500 +0100" stop="20260209144000 +0100" channel="Eurosport 2">
+    <title>DIRECTO Fase de grupos: Japón - Italia T2026 · Hockey sobre hielo F - JJ OO Cortina Milán 2026</title>
+    <desc>Deportes,Hockey hielo | 2026 | *6.0/10
+· El gran deporte por equipos de los Juegos Olímpicos de Invierno. La competición femenina cuenta con diez equipos que, del 5 al 19 de febrero, pelean en Milán por subir a lo más alto del cajón. Canadá es la defensora del oro.
 · País: Italia</desc>
 	</programme>
   <programme start="20260207113000 +0100" stop="20260207133000 +0100" channel="Teledeporte">
@@ -9108,12 +8955,13 @@
 · Música: Marco Beltrami.
 · Producción: W. K Border, Joel Soisson.</desc>
 	</programme>
-  <programme start="20260207120000 +0100" stop="20260207123100 +0100" channel="Canal Cocina">
-    <title>Julius invita en 22 minutos T1 E19</title>
-    <desc>Programa,Cocina | 2023 | TP
-· Julius prepara dos recetas para triunfar con nuestros invitados: Sopa de merluza y langostinos y Tortilla vaga de patatas chips, chorizo y pimientos de padrón.
-· País: España
-· Reparto: Julio Bienert.</desc>
+  <programme start="20260209122500 +0100" stop="20260209134800 +0100" channel="DARK">
+    <title>Curvature</title>
+    <desc>Cine,Ciencia Ficción,Suspense,Drama | 2017 | +16 | *4.7/10
+· Helen trata de sobrellevar la muerte de su marido, un científico que se suicidó cuando estaba acabando la construcción de una máquina del tiempo.
+· País: Estados Unidos
+· Dirección: Diego Hallivis.
+· Reparto: Glenn Morshower, Noah Bean, Lyndsy Fonseca, Linda Hamilton, Alex Lanipekun, Zach Avery, Ming Wang, Barry Mulholland, Leilani Barrett, William Cross.</desc>
 	</programme>
   <programme start="20260207123100 +0100" stop="20260207130100 +0100" channel="Canal Cocina">
     <title>La Raya: entre España y Portugal T1 E10 · El sur del sur de La Raya</title>
@@ -9790,6 +9638,13 @@
 · País: España
 · Reparto: Luis Mokoroa.</desc>
 	</programme>
+  <programme start="20260209123000 +0100" stop="20260209130100 +0100" channel="Canal Cocina">
+    <title>Julius invita en 22 minutos T3 E8</title>
+    <desc>Programa,Cocina | 2023 | TP
+· Julius prepara dos recetas para triunfar con nuestros invitados: Pasta marinera picante y Tacos de tarta de queso.
+· País: España
+· Reparto: Julio Bienert.</desc>
+	</programme>
   <programme start="20260207110000 +0100" stop="20260207140000 +0100" channel="Tennis Channel">
     <title>Abu Dhabi T2025 E6 · Semifinals</title>
     <desc>Deportes,Tenis | 2026 | TP
@@ -10141,10 +9996,6 @@
 	</programme>
   <programme start="20260208230000 +0100" stop="20260209010000 +0100" channel="ESPN 2">
     <title>Sassuolo vs. Inter · Serie A</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-  <programme start="20260207120000 +0100" stop="20260207123000 +0100" channel="ESPN 4">
-    <title>Historia del Super Bowl · Kansas City Chiefs vs. Tampa Bay Buccaneers, Super Bowl LV, Raymond James Stadium, Tampa</title>
     <desc>· Sin detalles...</desc>
 	</programme>
   <programme start="20260207123000 +0100" stop="20260207130000 +0100" channel="ESPN 4">
@@ -11206,10 +11057,6 @@
     <desc>Estilo de vida | +12
 · O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a DAZN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.</desc>
 	</programme>
-  <programme start="20260207103046 +0000" stop="20260207113424 +0000" channel="DE | Rally TV">
-    <title>SS9 Full Stage Replay - Rallye Monte-Carlo 2026</title>
-    <desc>Sports</desc>
-	</programme>
   <programme start="20260207113424 +0000" stop="20260207123318 +0000" channel="DE | Rally TV">
     <title>SS1 Full Stage Replay - Rallye Monte-Carlo 2026</title>
     <desc>Sports</desc>
@@ -11459,6 +11306,10 @@
 	</programme>
   <programme start="20260209102327 +0000" stop="20260209111951 +0000" channel="DE | Rally TV">
     <title>SS6 Full Stage Replay - Rally Sweden 2025</title>
+    <desc>Sports</desc>
+	</programme>
+  <programme start="20260209111951 +0000" stop="20260209121002 +0000" channel="DE | Rally TV">
+    <title>SS7 Full Stage Replay - Rally Sweden 2025</title>
     <desc>Sports</desc>
 	</programme>
   <programme start="20260207114000 +0100" stop="20260207135900 +0100" channel="Onetoro">
@@ -12126,6 +11977,21 @@
     <title>El Tato. En Corto y por Derecho</title>
     <desc>+16
 · En esta nueva entrega de la serie de televisión "En Corto y por Derecho”, Eduardo Dávila Miura nos llevará hasta la ganadería de “El Cahoso” y “Rio Grande.</desc>
+	</programme>
+  <programme start="20260209121300 +0100" stop="20260209122100 +0100" channel="Onetoro">
+    <title>Victorino: lote de vacas Monteviejo. Inside</title>
+    <desc>+16
+· Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
+	</programme>
+  <programme start="20260209122100 +0100" stop="20260209123100 +0100" channel="Onetoro">
+    <title>Inside Victorino Martín. Cobradiezmos.</title>
+    <desc>+16
+· Inside Victorino Martín Cobradiezmos. Las cámaras de Onetoro de adentran dentro del lote de vacas del legendario toro indultado por el matador Manuel Escribano en la Real Maestranza de Caballería de Sevilla.</desc>
+	</programme>
+  <programme start="20260209123100 +0100" stop="20260209132100 +0100" channel="Onetoro">
+    <title>La Tarde Después. Vila Viçosa (14/09/2025)</title>
+    <desc>+16
+· Nuevo capítulo de la 'La Tarde Después' de OneToro en Portugal. Esta vez en la localidad de Vila Viçosa.</desc>
 	</programme>
   <programme start="20260207225500 +0100" stop="20260208010000 +0100" channel="UK | Premier Sports 1">
     <title>Live: Liga Profesional de Fútbol · River Plate v Tigre</title>
