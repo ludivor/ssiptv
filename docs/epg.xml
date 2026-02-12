@@ -33,17 +33,6 @@
 		<display-name>Antena 3 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png"/>
 	</channel>
-  <channel id="Telecinco HD">
-		<display-name>Telecinco</display-name>
-		<display-name>Telecinco.TV</display-name>
-		<display-name>Telecinco SD</display-name>
-		<display-name>Telecinco HD</display-name>
-		<display-name>Telecinco FHD</display-name>
-		<display-name>Telecinco UHD</display-name>
-		<display-name>Telecinco 720</display-name>
-		<display-name>Telecinco 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png"/>
-	</channel>
   <channel id="Caza y Pesca HD">
 		<display-name>Caza y Pesca</display-name>
 		<display-name>Caza y Pesca.TV</display-name>
@@ -65,17 +54,6 @@
 		<display-name>Aragón TV 720</display-name>
 		<display-name>Aragón TV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png"/>
-	</channel>
-  <channel id="Ten">
-		<display-name>Ten</display-name>
-		<display-name>Ten.TV</display-name>
-		<display-name>Ten SD</display-name>
-		<display-name>Ten HD</display-name>
-		<display-name>Ten FHD</display-name>
-		<display-name>Ten UHD</display-name>
-		<display-name>Ten 720</display-name>
-		<display-name>Ten 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png"/>
 	</channel>
   <channel id="Movistar Plus+ HD">
 		<display-name>Movistar Plus+</display-name>
@@ -528,13 +506,6 @@
 		<display-name>Onetoro 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png"/>
 	</channel>
-  <programme start="20260212075000 +0100" stop="20260212103500 +0100" channel="La 1 HD">
-    <title>La hora de La 1: La hora de la actualidad T9 E29</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-	</programme>
   <programme start="20260212103500 +0100" stop="20260212145500 +0100" channel="La 1 HD">
     <title>Mañaneros 360 T2 E115</title>
     <desc>Entretenimiento,Magacín | 2026 | +16
@@ -805,20 +776,19 @@
 · País: España
 · Dirección: Miguel Ángel Sacaluga.</desc>
 	</programme>
-  <programme start="20260212095500 +0100" stop="20260212105000 +0100" channel="La 2">
-    <title>La aventura del saber</title>
-    <desc>Cultural/Educativo,Programa cultural | 2025 | TP | *6.0/10
-· Entrevistas y series documentales educativas sobre cultura y sociedad.
+  <programme start="20260214103000 +0100" stop="20260214110500 +0100" channel="La 1 HD">
+    <title>Viaje al centro de la tele T13</title>
+    <desc>Entretenimiento,Zapping | 2023 | TP | *6.0/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España
-· Dirección: Mara Peterssen, Lurdes Martín.
-· Productora: Televisión Española (TVE).</desc>
+· Dirección: Pedro Santos.</desc>
 	</programme>
-  <programme start="20260212105000 +0100" stop="20260212112000 +0100" channel="La 2">
-    <title>Al fuego T1 · El ahumado</title>
-    <desc>Ocio y Aficiones,Cocina | 2016 | TP | *6.0/10
-· El ahumado es una técnica culinaria que se utiliza en diferentes cocinas del mundo para conservar alimentos. Cuando aprendimos a hacer fuego, descubrimos que el humo tiene propiedades especiales: hoy en día también se usa para dar sabor y textura.
-· País: Australia
-· Reparto: Maeve O'Meara.</desc>
+  <programme start="20260214110500 +0100" stop="20260214120800 +0100" channel="La 1 HD">
+    <title>Viaje al centro de la tele T14</title>
+    <desc>Entretenimiento,Zapping | 2024 | TP | *6.2/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· País: España
+· Dirección: Pedro Santos.</desc>
 	</programme>
   <programme start="20260212112000 +0100" stop="20260212133000 +0100" channel="La 2">
     <title>La última aventura del general Custer</title>
@@ -1217,6 +1187,15 @@
 · Con vocación de servicio público y participación ciudadana, el programa lleva la actualidad del campo y el mar a agricultores, ganaderos, pescadores y habitantes del medio rural.
 · Dirección: Sergio Gómez Muñoz.</desc>
 	</programme>
+  <programme start="20260214110000 +0100" stop="20260214112900 +0100" channel="La 2">
+    <title>Arqueomanía</title>
+    <desc>Documentales,Historia | 2021 | TP | *6.4/10
+· La geografía española alberga preciados tesoros arqueológicos e históricos.
+· País: España
+· Presenta: Manuel Pimentel.
+· Dirección: Manuel Pimentel.
+· Productora: New Atlantis, La Nave del Tharsis.</desc>
+	</programme>
   <programme start="20260212085500 +0100" stop="20260212132000 +0100" channel="Antena 3 HD">
     <title>Espejo Público T20 E4705</title>
     <desc>Información,Magacín | 2026 | +16 | *6.2/10
@@ -1526,318 +1505,13 @@
 · Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público.
 · País: España</desc>
 	</programme>
-  <programme start="20260212090000 +0100" stop="20260212123000 +0100" channel="Telecinco HD">
-    <title>El programa de Ana Rosa T22 E29</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *7.0/10
-· Ana Rosa Quintana presenta este magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.
+  <programme start="20260214103000 +0100" stop="20260214124500 +0100" channel="Antena 3 HD">
+    <title>El Desafío T6 · Gala 6</title>
+    <desc>Entretenimiento,Concurso | 2026 | +7 | *6.4/10
+· Un grupo de famosos se enfrenta a difíciles pruebas cada semana en este concurso.
 · País: España
-· Presenta: Ana Rosa Quintana.
-· Productora: Cuarzo Producciones.</desc>
-	</programme>
-  <programme start="20260212123000 +0100" stop="20260212134500 +0100" channel="Telecinco HD">
-    <title>Vamos a ver T5 E28</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
-· Joaquín Prat junto a Patricia Pardo y Adriana Dorronsoro repasan todas las noticias de actualidad, investigación y entretenimiento que interesan al gran público.
-· País: España
-· Presenta: Joaquín Prat, Patricia Pardo, Adriana Dorronsoro.</desc>
-	</programme>
-  <programme start="20260212134500 +0100" stop="20260212150000 +0100" channel="Telecinco HD">
-    <title>El precio justo (diario) T2 E19</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | *5.6/10
-· Carlos Sobera premia a quien más se aproxime al valor de un artículo.
-· País: España
-· Presenta: Carlos Sobera.
-· Productora: FremantleMedia España.</desc>
-	</programme>
-  <programme start="20260212150000 +0100" stop="20260212153000 +0100" channel="Telecinco HD">
-    <title>Informativos Telecinco Noche</title>
-    <desc>Información,Informativo | 2025 | *6.0/10
-· Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
-· País: España
-· Presenta: Carlos Franganillo, Ángeles Blanco.
-· Productora: Gestevisión-Telecinco, S.A.</desc>
-	</programme>
-  <programme start="20260212153000 +0100" stop="20260212154000 +0100" channel="Telecinco HD">
-    <title>El Desmarque Telecinco T4 E39</title>
-    <desc>Deportes,Programa deportes | 2026 | *6.0/10
-· El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
-· País: España
-· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
-	</programme>
-  <programme start="20260212154000 +0100" stop="20260212154500 +0100" channel="Telecinco HD">
-    <title>El tiempo</title>
-    <desc>Información,Meteorología | 2017 | *5.8/10
-· Espacio informativo que ofrece la previsión meteorológica.
-· País: España
-· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
-	</programme>
-  <programme start="20260212154500 +0100" stop="20260212183000 +0100" channel="Telecinco HD">
-    <title>El tiempo justo T2 E29</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
-· Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
-· País: España
-· Presenta: Joaquín Prat.
-· Productora: Unicorn Content.</desc>
-	</programme>
-  <programme start="20260212183000 +0100" stop="20260212200000 +0100" channel="Telecinco HD">
-    <title>El Diario de Jorge T3 E29</title>
-    <desc>Entretenimiento,Tertulia | 2026 | +16 | *6.0/10
-· Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
-· País: España
-· Presenta: Jorge Javier Vázquez.</desc>
-	</programme>
-  <programme start="20260212200000 +0100" stop="20260212210000 +0100" channel="Telecinco HD">
-    <title>¡Allá tú! T2 E24</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
-· Concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.
-· País: España
-· Presenta: Juanra Bonet.
-· Productora: Gestmusic Endemol.</desc>
-	</programme>
-  <programme start="20260212210000 +0100" stop="20260212213000 +0100" channel="Telecinco HD">
-    <title>Informativos Telecinco Noche</title>
-    <desc>Información,Informativo | 2025 | *6.0/10
-· Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
-· País: España
-· Presenta: Carlos Franganillo, Ángeles Blanco.
-· Productora: Gestevisión-Telecinco, S.A.</desc>
-	</programme>
-  <programme start="20260212213000 +0100" stop="20260212214000 +0100" channel="Telecinco HD">
-    <title>El Desmarque Telecinco Noche T4 E39</title>
-    <desc>Deportes,Programa deportes | 2026 | *6.0/10
-· El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
-· País: España
-· Presenta: Matías Prats (hijo).</desc>
-	</programme>
-  <programme start="20260212214000 +0100" stop="20260212214500 +0100" channel="Telecinco HD">
-    <title>El tiempo</title>
-    <desc>Información,Meteorología | 2017 | *5.8/10
-· Espacio informativo que ofrece la previsión meteorológica.
-· País: España
-· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
-	</programme>
-  <programme start="20260212214500 +0100" stop="20260213020000 +0100" channel="Telecinco HD">
-    <title>GH Dúo T4 E6</title>
-    <desc>Entretenimiento,Telerrealidad | 2026 | +16 | *6.6/10
-· El popular concurso de convivencia vuelve encerrando a varias parejas de famosos en la casa de Tres Cantos.
-· País: España
-· Presenta: Jorge Javier Vázquez.</desc>
-	</programme>
-  <programme start="20260213020000 +0100" stop="20260213022500 +0100" channel="Telecinco HD">
-    <title>Gran Madrid Show T3 E45</title>
-    <desc>Entretenimiento | 2026 | +18 | *6.0/10
-· Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
-· País: España</desc>
-	</programme>
-  <programme start="20260213022500 +0100" stop="20260213024000 +0100" channel="Telecinco HD">
-    <title>El rey del mando T1 E12</title>
-    <desc>Entretenimiento,Zapping | 2025 | +16 | *6.0/10
-· Programa de zapping.
-· País: España</desc>
-	</programme>
-  <programme start="20260213024000 +0100" stop="20260213024500 +0100" channel="Telecinco HD">
-    <title>Horóscopo de Esperanza Gracia</title>
-    <desc>Ocio y Aficiones,Esoterismo | 2021 | +18 | *6.0/10
-· La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.
-· País: España
-· Presenta: Esperanza Gracia.</desc>
-	</programme>
-  <programme start="20260213024500 +0100" stop="20260213031500 +0100" channel="Telecinco HD">
-    <title>Love Shopping TV T1 E42</title>
-    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
-· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
-	</programme>
-  <programme start="20260213031500 +0100" stop="20260213034500 +0100" channel="Telecinco HD">
-    <title>Love Shopping TV T1 E43</title>
-    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
-· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
-	</programme>
-  <programme start="20260213034500 +0100" stop="20260213054500 +0100" channel="Telecinco HD">
-    <title>Miramimúsica</title>
-    <desc>Música,Programa de música | 2016 | TP | *6.4/10
-· Programa musical que se emite de madrugada.
-· País: España</desc>
-	</programme>
-  <programme start="20260213054500 +0100" stop="20260213060000 +0100" channel="Telecinco HD">
-    <title>Enphorma T1 E36</title>
-    <desc>Ocio y Aficiones,Salud y bienestar | 2025 | TP | *6.0/10
-· Programa especializado en temas actuales de alimentación, psicología y ejercicio.
-· País: España</desc>
-	</programme>
-  <programme start="20260213060000 +0100" stop="20260213080000 +0100" channel="Telecinco HD">
-    <title>Informativos Telecinco matinal</title>
-    <desc>Información,Informativo | 2025 | *5.8/10
-· Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.
-· País: España
-· Presenta: Bricio Segovia.
-· Productora: Gestevisión-Telecinco, S.A.</desc>
-	</programme>
-  <programme start="20260213080000 +0100" stop="20260213090000 +0100" channel="Telecinco HD">
-    <title>La mirada crítica T5 E30</title>
-    <desc>Información,Informativo | 2026 | +16 | *6.0/10
-· José Luis Vidal ofrece lo más destacado de la actualidad política, económica y social, entrevistas con los protagonistas del día y una tertulia diversa y plural.
-· País: España
-· Presenta: Ana Terradillos, José Luis Vidal, Antonio Texeira.</desc>
-	</programme>
-  <programme start="20260213090000 +0100" stop="20260213123000 +0100" channel="Telecinco HD">
-    <title>El programa de Ana Rosa T22 E30</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.8/10
-· Ana Rosa Quintana presenta este magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.
-· País: España
-· Presenta: Ana Rosa Quintana.
-· Productora: Cuarzo Producciones.</desc>
-	</programme>
-  <programme start="20260213123000 +0100" stop="20260213134500 +0100" channel="Telecinco HD">
-    <title>Vamos a ver T5 E29</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
-· Joaquín Prat junto a Patricia Pardo y Adriana Dorronsoro repasan todas las noticias de actualidad, investigación y entretenimiento que interesan al gran público.
-· País: España
-· Presenta: Joaquín Prat, Patricia Pardo, Adriana Dorronsoro.</desc>
-	</programme>
-  <programme start="20260213134500 +0100" stop="20260213150000 +0100" channel="Telecinco HD">
-    <title>El precio justo (diario) T2 E20</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
-· Carlos Sobera premia a quien más se aproxime al valor de un artículo.
-· País: España
-· Presenta: Carlos Sobera.
-· Productora: FremantleMedia España.</desc>
-	</programme>
-  <programme start="20260213150000 +0100" stop="20260213153000 +0100" channel="Telecinco HD">
-    <title>Informativos Telecinco Noche</title>
-    <desc>Información,Informativo | 2025 | *6.0/10
-· Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
-· País: España
-· Presenta: Carlos Franganillo, Ángeles Blanco.
-· Productora: Gestevisión-Telecinco, S.A.</desc>
-	</programme>
-  <programme start="20260213153000 +0100" stop="20260213154000 +0100" channel="Telecinco HD">
-    <title>El Desmarque Telecinco T4 E40</title>
-    <desc>Deportes,Programa deportes | 2026
-· El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
-· País: España
-· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
-	</programme>
-  <programme start="20260213154000 +0100" stop="20260213154500 +0100" channel="Telecinco HD">
-    <title>El tiempo</title>
-    <desc>Información,Meteorología | 2017 | *5.8/10
-· Espacio informativo que ofrece la previsión meteorológica.
-· País: España
-· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
-	</programme>
-  <programme start="20260213154500 +0100" stop="20260213183000 +0100" channel="Telecinco HD">
-    <title>El tiempo justo T2 E30</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
-· Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
-· País: España
-· Presenta: Joaquín Prat.
-· Productora: Unicorn Content.</desc>
-	</programme>
-  <programme start="20260213183000 +0100" stop="20260213200000 +0100" channel="Telecinco HD">
-    <title>El Diario de Jorge T3 E30</title>
-    <desc>Entretenimiento,Tertulia | 2026 | +16 | *6.6/10
-· Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
-· País: España
-· Presenta: Jorge Javier Vázquez.</desc>
-	</programme>
-  <programme start="20260213200000 +0100" stop="20260213210000 +0100" channel="Telecinco HD">
-    <title>¡Allá tú! T2 E25</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
-· Concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.
-· País: España
-· Presenta: Juanra Bonet.
-· Productora: Gestmusic Endemol.</desc>
-	</programme>
-  <programme start="20260213210000 +0100" stop="20260213213000 +0100" channel="Telecinco HD">
-    <title>Informativos Telecinco Noche</title>
-    <desc>Información,Informativo | 2025 | *6.0/10
-· Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
-· País: España
-· Presenta: Carlos Franganillo, Ángeles Blanco.
-· Productora: Gestevisión-Telecinco, S.A.</desc>
-	</programme>
-  <programme start="20260213213000 +0100" stop="20260213214000 +0100" channel="Telecinco HD">
-    <title>El Desmarque Telecinco Noche T4 E40</title>
-    <desc>Deportes,Programa deportes | 2026
-· El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
-· País: España
-· Presenta: Matías Prats (hijo).</desc>
-	</programme>
-  <programme start="20260213214000 +0100" stop="20260213214500 +0100" channel="Telecinco HD">
-    <title>El tiempo</title>
-    <desc>Información,Meteorología | 2017 | *5.8/10
-· Espacio informativo que ofrece la previsión meteorológica.
-· País: España
-· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
-	</programme>
-  <programme start="20260213214500 +0100" stop="20260214020000 +0100" channel="Telecinco HD">
-    <title>¡De Viernes! T4 E8</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
-· Programa de crónica social presentado por Beatriz Archidona y Santi Acosta en el que se entrevistan a personajes importantes así como también se desvelan grandes exclusivas además de un repaso a la actualidad que marca la agenda del corazón.
-· País: España
-· Presenta: Beatriz Archidona, Santi Acosta.</desc>
-	</programme>
-  <programme start="20260214020000 +0100" stop="20260214022500 +0100" channel="Telecinco HD">
-    <title>Gran Madrid Show T3 E46</title>
-    <desc>Entretenimiento | 2026 | +18
-· Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.</desc>
-	</programme>
-  <programme start="20260214022500 +0100" stop="20260214024000 +0100" channel="Telecinco HD">
-    <title>El rey del mando T1 E13</title>
-    <desc>Entretenimiento,Zapping | 2025 | +16 | *6.2/10
-· Programa de zapping.
-· País: España</desc>
-	</programme>
-  <programme start="20260214024000 +0100" stop="20260214024500 +0100" channel="Telecinco HD">
-    <title>Horóscopo de Esperanza Gracia</title>
-    <desc>Ocio y Aficiones,Esoterismo | 2021 | +18 | *6.0/10
-· La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.
-· País: España
-· Presenta: Esperanza Gracia.</desc>
-	</programme>
-  <programme start="20260214024500 +0100" stop="20260214031500 +0100" channel="Telecinco HD">
-    <title>Love Shopping TV T1 E43</title>
-    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
-· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
-	</programme>
-  <programme start="20260214031500 +0100" stop="20260214034500 +0100" channel="Telecinco HD">
-    <title>Love Shopping TV T1 E46</title>
-    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
-· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
-	</programme>
-  <programme start="20260214034500 +0100" stop="20260214073300 +0100" channel="Telecinco HD">
-    <title>Miramimúsica</title>
-    <desc>Música,Programa de música | 2016 | TP | *6.4/10
-· Programa musical que se emite de madrugada.
-· País: España</desc>
-	</programme>
-  <programme start="20260214073300 +0100" stop="20260214074900 +0100" channel="Telecinco HD">
-    <title>Enphorma T1</title>
-    <desc>Ocio y Aficiones,Salud y bienestar | 2023 | TP | *6.0/10
-· Programa especializado en temas actuales de alimentación, psicología y ejercicio.
-· País: España</desc>
-	</programme>
-  <programme start="20260214074900 +0100" stop="20260214082200 +0100" channel="Telecinco HD">
-    <title>Love Shopping TV T1</title>
-    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.6/10
-· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
-	</programme>
-  <programme start="20260214082200 +0100" stop="20260214110100 +0100" channel="Telecinco HD">
-    <title>Got Talent España</title>
-    <desc>Entretenimiento,Concurso | 2024 | +7 | *6.0/10
-· Concurso que busca nuevas promesas en distintas disciplinas artísticas. Los aspirantes mostrarán sus habilidades frente a un jurado compuesto por Florentino Fernández, Paula Echevarría, Tamara Falcó y Risto Mejide.
-· País: España</desc>
-	</programme>
-  <programme start="20260212102200 +0100" stop="20260212105200 +0100" channel="Caza y Pesca HD">
-    <title>Montería, una pasión portuguesa</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2021 | +12 | *6.4/10
-· La caza mayor en Portugal está, al igual que en España, en un momento de constante crecimiento. Los cazadores portugueses la viven con auténtica pasión, habiendo adoptado la montería como una modalidad propia.
-· País: España</desc>
-	</programme>
-  <programme start="20260212105200 +0100" stop="20260212111700 +0100" channel="Caza y Pesca HD">
-    <title>Atunes marcados</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2025 | TP | *7.0/10
-· Scientific angler tagging tour organiza una sesión de marcaje de atún rojo. Nos contaran de primera mano, el cómo y el porqué de estas jornadas de ciencia ciudadana en las que participan pescadores y científicos de nivel internacional.
-· País: España</desc>
+· Presenta: Roberto Leal.
+· Productora: Atresmedia Televisión, 7 y acción.</desc>
 	</programme>
   <programme start="20260212111700 +0100" stop="20260212115200 +0100" channel="Caza y Pesca HD">
     <title>De viaje: De Vallarta a Mismaloya</title>
@@ -2413,19 +2087,17 @@
 · País: España
 · Dirección: Agustín Pérez-Mínguez.</desc>
 	</programme>
-  <programme start="20260212100000 +0100" stop="20260212103000 +0100" channel="Aragón TV">
-    <title>La pera limonera T24/25 E2386</title>
-    <desc>Ocio y Aficiones,Cocina | 2024 | TP | *6.2/10
-· Programa de cocina que muestra, entre fogones, los trucos y secretos de las recetas tradicionales aragonesas. Daniel Yranzo es el encargado de animar a la audiencia a cocinar los platos del programa en sus casas.
-· País: España
-· Presenta: Daniel Yranzo.</desc>
+  <programme start="20260214105500 +0100" stop="20260214112300 +0100" channel="Caza y Pesca HD">
+    <title>Pesca en peligro de extinción: pesca a la allerana</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2024 | TP | *6.0/10
+· José Martínez Couñago pescador gallego, nos presenta distintas artes de pesca que, ya sea por su carácter exclusivo o por su o por su origen remoto, se encuentran al límite de la propia existencia.
+· País: España</desc>
 	</programme>
-  <programme start="20260212103000 +0100" stop="20260212110000 +0100" channel="Aragón TV">
-    <title>La pera limonera T14 E2794</title>
-    <desc>Ocio y Aficiones,Cocina | 2026 | TP | *5.6/10
-· Programa de cocina que muestra, entre fogones, los trucos y secretos de las recetas tradicionales aragonesas. Daniel Yranzo es el encargado de animar a la audiencia a cocinar los platos del programa en sus casas.
-· País: España
-· Presenta: Daniel Yranzo.</desc>
+  <programme start="20260214112300 +0100" stop="20260214115000 +0100" channel="Caza y Pesca HD">
+    <title>Basses y barbos al jig</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2023 | TP | *6.2/10
+· Viajamos a los embalses andaluces para probar con Humberto Gacio la técnica del jig. Unos señuelos que se muestran infalibles con dos de los predadores más deportivos que tenemos en nuestras aguas.
+· País: España</desc>
 	</programme>
   <programme start="20260212110000 +0100" stop="20260212131000 +0100" channel="Aragón TV">
     <title>Aquí y ahora T6 E1323</title>
@@ -2854,402 +2526,11 @@
 · Dirección: Enrique Labiano.
 · Productora: Chip Audiovisual.</desc>
 	</programme>
-  <programme start="20260212100600 +0100" stop="20260212110700 +0100" channel="Ten">
-    <title>Caso cerrado T15 E111</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *6.6/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260212110700 +0100" stop="20260212120800 +0100" channel="Ten">
-    <title>Caso cerrado T15 E143</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *6.0/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260212120800 +0100" stop="20260212130900 +0100" channel="Ten">
-    <title>Caso cerrado T15 E144</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *6.0/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260212130900 +0100" stop="20260212140900 +0100" channel="Ten">
-    <title>Caso cerrado T15 E145</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *6.4/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260212140900 +0100" stop="20260212150800 +0100" channel="Ten">
-    <title>Caso cerrado T15 E146</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *5.8/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260212150800 +0100" stop="20260212161100 +0100" channel="Ten">
-    <title>Caso cerrado T15 E147</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *6.0/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260212161100 +0100" stop="20260212172200 +0100" channel="Ten">
-    <title>Caso cerrado T15 E148</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *6.2/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260212172200 +0100" stop="20260212181700 +0100" channel="Ten">
-    <title>Caso cerrado T15 E149</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *5.4/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260212181700 +0100" stop="20260212190500 +0100" channel="Ten">
-    <title>Caso cerrado T15 E150</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *5.8/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260212190500 +0100" stop="20260212200000 +0100" channel="Ten">
-    <title>Caso cerrado T15 E151</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *5.8/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260212200000 +0100" stop="20260212205700 +0100" channel="Ten">
-    <title>Caso cerrado T15 E229</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *5.8/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260212205700 +0100" stop="20260212215300 +0100" channel="Ten">
-    <title>Hashtag asesinato E8</title>
-    <desc>Documentales,Sociedad | 2017 | +16 | *5.6/10
-· Espacio que destaca la verdadera historia de un impactante homicidio.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260212215300 +0100" stop="20260212225000 +0100" channel="Ten">
-    <title>Hermanos asesinos: Luna</title>
-    <desc>Documentales,Sociedad | 2020 | +16 | *6.0/10
-· Los ambiciosos hermanos Luna toman caminos completamente diferentes: uno se convierte en un condecorado oficial del ejército, mientras el otro asciende en un cártel mexicano.
-· País: Estados Unidos
-· Productora: Scott Sternberg Productions, Oxygen Network.</desc>
-	</programme>
-  <programme start="20260212225000 +0100" stop="20260212234000 +0100" channel="Ten">
-    <title>Hermanos asesinos E1</title>
-    <desc>Documentales,Sociedad | 2022 | +16 | *6.2/10
-· Programa que profundiza en las inquietantes historias reales de algunos de los hermanos más mortíferos de todos los tiempos.
-· País: Estados Unidos
-· Productora: Scott Sternberg Productions, Oxygen Network.</desc>
-	</programme>
-  <programme start="20260212234000 +0100" stop="20260213003600 +0100" channel="Ten">
-    <title>Justicia a toda costa E8</title>
-    <desc>Documentales,Sociedad | 2015 | +16 | *6.2/10
-· Serie de crímenes reales que usa recreaciones para mostrar lo que hace la gente para tratar de encontrar justicia para sus seres queridos que han sido víctimas de asesinato.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260213003600 +0100" stop="20260213013100 +0100" channel="Ten">
-    <title>Justicia a toda costa E9</title>
-    <desc>Documentales,Sociedad | 2015 | +16 | *5.6/10
-· Serie de crímenes reales que usa recreaciones para mostrar lo que hace la gente para tratar de encontrar justicia para sus seres queridos que han sido víctimas de asesinato.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260213013100 +0100" stop="20260213022100 +0100" channel="Ten">
-    <title>Justicia a toda costa E10</title>
-    <desc>Documentales,Sociedad | 2015 | +16 | *6.0/10
-· Serie de crímenes reales que usa recreaciones para mostrar lo que hace la gente para tratar de encontrar justicia para sus seres queridos que han sido víctimas de asesinato.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260213022100 +0100" stop="20260213025000 +0100" channel="Ten">
-    <title>European Poker Tour</title>
-    <desc>Deportes,Programa deportes | 2021 | +18 | *6.0/10
-· Emisión de las partidas más emocionantes del Campeonato Europeo de Póquer que enfrenta a los jugadores más selectos y expertos del panorama internacional de este deporte.</desc>
-	</programme>
-  <programme start="20260213025000 +0100" stop="20260213033900 +0100" channel="Ten">
-    <title>Curas asesinos E5</title>
-    <desc>Documentales,Sociedad | 2014 | +16 | *6.0/10
-· Los curas son siervos fieles que guían y conducen a su rebaño. Los fieles les confían sus secretos, pero qué sucede cuando los clérigos supuestamente devotos abusan de esa confianza para fines malvados.
-· País: Reino Unido
-· Productora: Sky Vision.</desc>
-	</programme>
-  <programme start="20260213033900 +0100" stop="20260213042500 +0100" channel="Ten">
-    <title>Curas asesinos E6</title>
-    <desc>Documentales,Sociedad | 2014 | +16 | *5.4/10
-· Los curas son siervos fieles que guían y conducen a su rebaño. Los fieles les confían sus secretos, pero qué sucede cuando los clérigos supuestamente devotos abusan de esa confianza para fines malvados.
-· País: Reino Unido
-· Productora: Sky Vision.</desc>
-	</programme>
-  <programme start="20260213042500 +0100" stop="20260213051000 +0100" channel="Ten">
-    <title>Curas asesinos E7</title>
-    <desc>Documentales,Sociedad | 2014 | +16 | *5.8/10
-· Los curas son siervos fieles que guían y conducen a su rebaño. Los fieles les confían sus secretos, pero qué sucede cuando los clérigos supuestamente devotos abusan de esa confianza para fines malvados.
-· País: Reino Unido
-· Productora: Sky Vision.</desc>
-	</programme>
-  <programme start="20260213051000 +0100" stop="20260213051400 +0100" channel="Ten">
-    <title>Curas asesinos E8</title>
-    <desc>Documentales,Sociedad | 2014 | +16 | *5.6/10
-· Los curas son siervos fieles que guían y conducen a su rebaño. Los fieles les confían sus secretos, pero qué sucede cuando los clérigos supuestamente devotos abusan de esa confianza para fines malvados.
-· País: Reino Unido
-· Productora: Sky Vision.</desc>
-	</programme>
-  <programme start="20260213051400 +0100" stop="20260213060000 +0100" channel="Ten">
-    <title>Killer</title>
-    <desc>Documentales,Sociedad | 2018 | +16 | *6.0/10
-· Programa de crímenes con reconstrucciones y entrevistas a familiares de las víctimas.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260213060000 +0100" stop="20260213062500 +0100" channel="Ten">
-    <title>Caso cerrado T15 E97</title>
-    <desc>Entretenimiento,Tertulia | 2005 | +16 | *6.2/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260213062500 +0100" stop="20260213070500 +0100" channel="Ten">
-    <title>Amor tóxico T2 E15</title>
-    <desc>Entretenimiento | 2022 | +16 | *6.2/10
-· Espacio que presenta historias impactantes comeditas para complacer a una pareja.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260213070500 +0100" stop="20260213074500 +0100" channel="Ten">
-    <title>Amor tóxico T2 E16</title>
-    <desc>Entretenimiento | 2022 | +16 | *5.8/10
-· Espacio que presenta historias impactantes comeditas para complacer a una pareja.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260213074500 +0100" stop="20260213083000 +0100" channel="Ten">
-    <title>Amor tóxico T2 E17</title>
-    <desc>Entretenimiento | 2022 | +16 | *6.0/10
-· Espacio que presenta historias impactantes comeditas para complacer a una pareja.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260213083000 +0100" stop="20260213093500 +0100" channel="Ten">
-    <title>Galería del coleccionista</title>
-    <desc>Ocio y Aficiones,Televenta | 2021 | TP | *6.0/10
-· Espacio comercial.
+  <programme start="20260214105500 +0100" stop="20260214130000 +0100" channel="Aragón TV">
+    <title>Gran Gala de jota 'Amigos de Roberto'</title>
+    <desc>Entretenimiento | 2025 | TP | *6.2/10
+· El artista Roberto Ciria y la Compañía Osca se dan la mano con ASPANOA, para llenar el escenario del Palacio de Congresos de Huesca de jota, folklore y música en esta ya tradicional gala en los días previos a la Navidad.
 · País: España</desc>
-	</programme>
-  <programme start="20260213093500 +0100" stop="20260213104000 +0100" channel="Ten">
-    <title>Caso cerrado T15 E114</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *6.4/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260213104000 +0100" stop="20260213114000 +0100" channel="Ten">
-    <title>Caso cerrado T15 E152</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *5.8/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260213114000 +0100" stop="20260213120500 +0100" channel="Ten">
-    <title>Hermanos Torres en casa T1</title>
-    <desc>Ocio y Aficiones,Cocina | 2024 | TP | *6.4/10
-· Nuevos contenidos de gastronomía, las recetas más innovadoras, retos y momentos divertidos, así como historias personales y vivencias de los Hermanos Torres a lo largo de su carrera.
-· País: España</desc>
-	</programme>
-  <programme start="20260213120500 +0100" stop="20260213130500 +0100" channel="Ten">
-    <title>Caso cerrado T15 E153</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *6.0/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260213130500 +0100" stop="20260213140500 +0100" channel="Ten">
-    <title>Caso cerrado T15 E154</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *6.0/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260213140500 +0100" stop="20260213150500 +0100" channel="Ten">
-    <title>Caso cerrado T15 E155</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *6.0/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260213150500 +0100" stop="20260213160500 +0100" channel="Ten">
-    <title>Caso cerrado T15 E156</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *5.8/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260213160500 +0100" stop="20260213170500 +0100" channel="Ten">
-    <title>Caso cerrado T15 E157</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *5.8/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260213170500 +0100" stop="20260213180500 +0100" channel="Ten">
-    <title>Caso cerrado T15 E158</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *6.0/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260213180500 +0100" stop="20260213190000 +0100" channel="Ten">
-    <title>Caso cerrado T15 E159</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *5.8/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260213190000 +0100" stop="20260213193000 +0100" channel="Ten">
-    <title>Caso cerrado T15 E185</title>
-    <desc>Entretenimiento,Tertulia | 2015 | +16 | *5.4/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260213193000 +0100" stop="20260213202500 +0100" channel="Ten">
-    <title>Caso cerrado</title>
-    <desc>Entretenimiento,Tertulia | 2005 | +16 | *6.2/10
-· Programa centrado en la resolución de conflictos presentado por la doctora cubana Ana María Polo. En cada edición se presentan varios casos entre participantes en litigio, y Ana María intenta resolver la situación como juez árbitro.
-· País: Estados Unidos
-· Presenta: Ana María Polo.</desc>
-	</programme>
-  <programme start="20260213202500 +0100" stop="20260213212000 +0100" channel="Ten">
-    <title>Durmiendo con la muerte: Terrores nocturnos</title>
-    <desc>Documentales,True crime | 2022 | +16 | *5.6/10
-· Un niño de tercer curso se despierta y se encuentra con una pesadilla al ver que su madre ha sido apuñalada casi 40 veces en su propia cama. La policía sospecha de las personas más cercanas a ella.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260213212000 +0100" stop="20260213222000 +0100" channel="Ten">
-    <title>Durmiendo con la muerte: La clave del asesinato</title>
-    <desc>Documentales,True crime | 2022 | +16 | *6.2/10
-· Una joven profesora auxiliar sufre una violación y muere tiroteada en mitad de la noche. Una desconcertante historia llena de misterio, desamor y que acabará con una trágico descubrimiento.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260213222000 +0100" stop="20260213222500 +0100" channel="Ten">
-    <title>ACB play</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
-· ACB play.
-· País: España</desc>
-	</programme>
-  <programme start="20260213222500 +0100" stop="20260213232500 +0100" channel="Ten">
-    <title>Durmiendo con la muerte: Una ejecución en Bigelow</title>
-    <desc>Documentales,True crime | 2022 | +16 | *5.4/10
-· En una pequeña localidad de Arkansas, mientras su mujer duerme a su lado, un hombre con una fuerte personalidad muere asesinado cuando le disparan una única bala en la cabeza.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260213232500 +0100" stop="20260214004000 +0100" channel="Ten">
-    <title>Durmiendo con la muerte: La máscara de la muerte</title>
-    <desc>Documentales,True crime | 2022 | +16 | *6.2/10
-· Un violento allanamiento en Navidad convierte un hogar festivo en la terrible escena de un crimen. Los detectives deben recorrer el país para desentrañar lo ocurrido y encontrar al asesino.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260214004000 +0100" stop="20260214014000 +0100" channel="Ten">
-    <title>Hermanos asesinos E9</title>
-    <desc>Documentales,Sociedad | 2020 | +16 | *6.4/10
-· Programa que profundiza en las inquietantes historias reales de algunos de los hermanos más mortíferos de todos los tiempos.
-· País: Estados Unidos
-· Productora: Scott Sternberg Productions, Oxygen Network.</desc>
-	</programme>
-  <programme start="20260214014000 +0100" stop="20260214022500 +0100" channel="Ten">
-    <title>Hermanos asesinos E10</title>
-    <desc>Documentales,Sociedad | 2020 | +16 | *5.8/10
-· Programa que profundiza en las inquietantes historias reales de algunos de los hermanos más mortíferos de todos los tiempos.
-· País: Estados Unidos
-· Productora: Scott Sternberg Productions, Oxygen Network.</desc>
-	</programme>
-  <programme start="20260214022500 +0100" stop="20260214030000 +0100" channel="Ten">
-    <title>European Poker Tour</title>
-    <desc>Deportes,Programa deportes | 2021 | +18 | *6.0/10
-· Emisión de las partidas más emocionantes del Campeonato Europeo de Póquer que enfrenta a los jugadores más selectos y expertos del panorama internacional de este deporte.</desc>
-	</programme>
-  <programme start="20260214030000 +0100" stop="20260214034500 +0100" channel="Ten">
-    <title>Amor tóxico T2 E18</title>
-    <desc>Entretenimiento | 2022 | +16 | *6.0/10
-· Espacio que presenta historias impactantes comeditas para complacer a una pareja.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260214034500 +0100" stop="20260214043500 +0100" channel="Ten">
-    <title>Amor tóxico T2 E19</title>
-    <desc>Entretenimiento | 2022 | +16 | *5.8/10
-· Espacio que presenta historias impactantes comeditas para complacer a una pareja.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260214043500 +0100" stop="20260214052000 +0100" channel="Ten">
-    <title>Enterrados en el jardín T5 · La última canción de tu vida</title>
-    <desc>Documentales,SIN CLASIFICAR | 2023 | +12 | *6.2/10
-· Cuando una madre se despierta y descubre que su hija ha desaparecido, las fuerzas del orden descubren una oscura trama.
-· País: Estados Unidos
-· Dirección: Erik S. Weigel.
-· Reparto: Amir Mo, Rhoda Pell, Kelly Ann Barrett.
-· Productora: Renegade 83.6.</desc>
-	</programme>
-  <programme start="20260214052000 +0100" stop="20260214060000 +0100" channel="Ten">
-    <title>Enterrados en el jardín T5 · Atrapar a un ladrón</title>
-    <desc>Documentales,SIN CLASIFICAR | 2023 | +12 | *6.2/10
-· Cuando un viudo desaparece, los investigadores se ven envueltos en un caso federal.
-· País: Estados Unidos
-· Dirección: Erik S. Weigel.
-· Reparto: Amir Mo, Rhoda Pell, Kelly Ann Barrett.
-· Productora: Renegade 83.6.</desc>
-	</programme>
-  <programme start="20260214060000 +0100" stop="20260214064300 +0100" channel="Ten">
-    <title>Killer</title>
-    <desc>Documentales,Sociedad | 2018 | +16 | *6.0/10
-· Programa de crímenes con reconstrucciones y entrevistas a familiares de las víctimas.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260214064300 +0100" stop="20260214072700 +0100" channel="Ten">
-    <title>Killer</title>
-    <desc>Documentales,Sociedad | 2018 | +16 | *6.0/10
-· Programa de crímenes con reconstrucciones y entrevistas a familiares de las víctimas.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260214072700 +0100" stop="20260214081100 +0100" channel="Ten">
-    <title>Killer</title>
-    <desc>Documentales,Sociedad | 2018 | +16 | *6.0/10
-· Programa de crímenes con reconstrucciones y entrevistas a familiares de las víctimas.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260214081100 +0100" stop="20260214091100 +0100" channel="Ten">
-    <title>Galería del coleccionista</title>
-    <desc>Ocio y Aficiones,Televenta | 2021 | TP | *6.0/10
-· Espacio comercial.
-· País: España</desc>
-	</programme>
-  <programme start="20260214091100 +0100" stop="20260214100900 +0100" channel="Ten">
-    <title>Killer</title>
-    <desc>Documentales,Sociedad | 2018 | +16 | *6.0/10
-· Programa de crímenes con reconstrucciones y entrevistas a familiares de las víctimas.
-· País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260214100900 +0100" stop="20260214110400 +0100" channel="Ten">
-    <title>La casa de mis sueños</title>
-    <desc>Ocio y Aficiones,Decoración | 2016 | TP | *6.4/10
-· Los hermanos Jonathan y Dew Scott, expertos en construcción y venta de inmuebles, conducen este espacio en el que ayudan a diversas parejas a encontrar, comprar y transformar casas de segunda mano en el hogar con el que siempre han soñado.
-· País: Canadá
-· Presenta: Drew Scott, Jonathan Scott.
-· Guion: Maureen Boyton.
-· Productora: Cineflix Productions.</desc>
-	</programme>
-  <programme start="20260212091000 +0100" stop="20260212110700 +0100" channel="Movistar Plus+ HD">
-    <title>El crack dos</title>
-    <desc>Cine,Policíaco | 1983 | +16 | *7.0/10
-· El expolicía, y ahora detective privado, Germán Areta recibe un encargo de un antiguo jefe: averiguar la vida de un hombre que ha abandonado a otro. Lo que, en principio, parece un caso rutinario, se enturbia cuando ambos individuos aparecen asesinados.
-· País: España
-· Dirección: José Luis Garci.
-· Reparto: Alfredo Landa, María Casanova, Miguel Rellán, José Bódalo, Agustín González, Rafael de Penagos, Arturo Fernández, José Manuel Lorenzo, José Manuel Cervino, José Luis Merino.
-· Guion: José Luis Garci, Horacio Valcárcel.
-· Música: Jesús Gluck.
-· Productora: Lima P.C., Nickel Odeon, Lolafilms S.A..</desc>
 	</programme>
   <programme start="20260212110700 +0100" stop="20260212123600 +0100" channel="Movistar Plus+ HD">
     <title>Sabina. Contra todo pronóstico</title>
@@ -3570,14 +2851,12 @@
 · Producción: Jesús Rubiera.
 · Productora: As Films Producción S.A, Asturias Films.</desc>
 	</programme>
-  <programme start="20260212095600 +0100" stop="20260212111700 +0100" channel="M+ Vamos HD">
-    <title>Bernabéu</title>
-    <desc>Documentales,Deportes | 2017 | TP | *7.8/10
-· Descubre la figura de Santiago Bernabéu, el hombre que durante 35 años dirigió el club y sentó las bases de lo que hoy representa.
+  <programme start="20260214112100 +0100" stop="20260214122100 +0100" channel="Movistar Plus+ HD">
+    <title>Eurofighters T25/26 E20</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Eurofighters crece una temporada más. La Euroliga femenina y masculina serán los protagonistas de este clásico de los viernes. Los 7 equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que sucede en todas las canchas.
 · País: España
-· Dirección: Ignacio Salazar-Simpson.
-· Guion: Joaquín Andújar.
-· Productora: El Socio Número 7 A.I.E, Redantfilms.</desc>
+· Presenta: Sara Giménez.</desc>
 	</programme>
   <programme start="20260212111700 +0100" stop="20260212121500 +0100" channel="M+ Vamos HD">
     <title>Informe Plus+. Maestro Obradovic</title>
@@ -3788,28 +3067,17 @@
     <desc>Deportes,Tenis | 2026 | TP | *5.8/10
 · Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
 	</programme>
-  <programme start="20260212091400 +0100" stop="20260212104900 +0100" channel="M+ LaLiga HD">
-    <title>Informe Plus+. Vivir vale la pena</title>
-    <desc>Deportes,Programa deportes | 2022 | TP | *8.0/10
-· Juan Carlos Unzué, ex portero y ex entrenador de fútbol, fue diagnosticado de ELA en 2019. La supervivencia de un paciente de esclerosis lateral amiotrófica oscila entre 3 y 5 años de media.
-· País: España</desc>
+  <programme start="20260214103500 +0100" stop="20260214110500 +0100" channel="M+ Vamos HD">
+    <title>Planeta Tenis T2026 E1</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slams mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
 	</programme>
-  <programme start="20260212104900 +0100" stop="20260212110100 +0100" channel="M+ LaLiga HD">
-    <title>Resúmenes LALIGA EA Sports T25/26 · Jornada 23: Celta - Osasuna</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *5.4/10
-· El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-	</programme>
-  <programme start="20260212110100 +0100" stop="20260212111300 +0100" channel="M+ LaLiga HD">
-    <title>Resúmenes LALIGA EA Sports T25/26 · Jornada 23: Villarreal - Espanyol</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
-· El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-	</programme>
-  <programme start="20260212111300 +0100" stop="20260212112500 +0100" channel="M+ LaLiga HD">
-    <title>Resúmenes LALIGA EA Sports T25/26 · Jornada 23: Barcelona - Mallorca</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.6/10
-· El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+  <programme start="20260214110500 +0100" stop="20260214125500 +0100" channel="M+ Vamos HD">
+    <title>Jornada 28: Partizán - Real Madrid T25/26 · Euroliga de baloncesto</title>
+    <desc>Deportes,Baloncesto | TP | *6.8/10
+· El Real Madrid (16-11) viaja hasta el Belgrado Arena para enfrentarse a Partizan (9-18) y a uno de los públicos más calientes de Europa. Los Blancos han perdido sus 3 últimos partidos, y el Partizan de Peñarroya viene de ganar a Panathinaikos.
 · País: España</desc>
 	</programme>
   <programme start="20260212112500 +0100" stop="20260212113600 +0100" channel="M+ LaLiga HD">
@@ -4199,6 +3467,14 @@
 · La Copa del Rey es el torneo con más historia del fútbol español.
 · País: España</desc>
 	</programme>
+  <programme start="20260214105000 +0100" stop="20260214114000 +0100" channel="M+ LaLiga HD">
+    <title>Universo Valdano T2 · Sergio Busquets</title>
+    <desc>Deportes,Programa deportes | 2018 | TP | *6.0/10
+· Charlamos con el mediocentro blaugrana sobre su trayectoria futbolística: recordamos sus inicios, la espina que el fútbol le ha dejado clavada, el periodo bajo el mando de Guardiola, su debut con el primer equipo del Barça...
+· País: España
+· Presenta: Jorge Valdano.
+· Productora: Mediapro.</desc>
+	</programme>
   <programme start="20260212120000 +0100" stop="20260212140000 +0100" channel="DAZN LaLiga HD">
     <title>LALIGA EA SPORTS T25/26 · Jornada 23: Sevilla - Girona</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
@@ -4395,11 +3671,6 @@
     <title>DAZN LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260212100000 +0100" stop="20260212103000 +0100" channel="M+ Liga de Campeones HD">
-    <title>Magazine Champions League T25/26 E18</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.6/10
-· Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc>
-	</programme>
   <programme start="20260212103000 +0100" stop="20260212123000 +0100" channel="M+ Liga de Campeones HD">
     <title>Brasileirao T2026 · Jornada 3: Vitoria - Flamengo</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
@@ -4571,6 +3842,17 @@
     <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
 · La Liga Profesional Saudí 2025-26 es la 50.ª edición del Campeonato de Fútbol de Arabia Saudí, la máxima división del fútbol saudí desde su fundación en 1976. El actual campeón es Al-Ittihad.
 · País: Arabia Saudí</desc>
+	</programme>
+  <programme start="20260214103000 +0100" stop="20260214110000 +0100" channel="M+ Liga de Campeones HD">
+    <title>Magazine Liga Argentina. Torneo Apertura T2026 E4</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Toda la información de actualidad de la Liga Profesional de Fútbol AFA de Argentina para los amantes del mejor fútbol.
+· País: España</desc>
+	</programme>
+  <programme start="20260214110000 +0100" stop="20260214113000 +0100" channel="M+ Liga de Campeones HD">
+    <title>Resumen liga brasileña T2026 · Jornada 3</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· El fútbol en Brasil es más que un deporte, es una religión. Su liga es una factoría inagotable de jugadores, muchos de los cuales emigran a Europa para triunfar. Este espacio repasa la actualidad de la competición.</desc>
 	</programme>
   <programme start="20260212120000 +0100" stop="20260213000000 +0100" channel="M+ Liga de Campeones 2 HD">
     <title>M+ Liga de Campeones 2</title>
@@ -4886,11 +4168,6 @@
     <desc>Deportes,Tenis | 2026 | TP | *6.2/10
 · Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
 	</programme>
-  <programme start="20260212080000 +0100" stop="20260212110500 +0100" channel="M+ Deportes 2 HD">
-    <title>M+ Deportes 2</title>
-    <desc>Deportes,Otros deportes | 2019 | TP | *5.8/10
-· M+ Deportes 2 -.</desc>
-	</programme>
   <programme start="20260212110500 +0100" stop="20260212140500 +0100" channel="M+ Deportes 2 HD">
     <title>Octavos de Final: Khachanov - Munar T2026 · Torneo de Rotterdam</title>
     <desc>Deportes,Tenis | 2026 | TP | *6.0/10
@@ -5144,10 +4421,10 @@
     <desc>Deportes,Rugby | 2023 | TP | *6.6/10
 · Las mejores selecciones de Rugby a 7 del planeta, con España entre ellas, miden sus fuerzas en las Series Mundiales de Seven 2025-26. Los especialistas del Seven nos ofrecen jugadas de otra galaxia: ensayos, placajes, rupturas, pases o contrapiés.</desc>
 	</programme>
-  <programme start="20260212070000 +0100" stop="20260212110000 +0100" channel="M+ Golf HD">
-    <title>Ladies European Tour T2026 · PIF Saudi Ladies International. Jornada 1</title>
-    <desc>Deportes,Golf | 2026 | TP | *6.0/10
-· Comienza la temporada en el LET y lo hace por primera vez en Riyadh con el PIF Saudí Ladies International con un fuerte field con 8 españolas. Entre otras, Carlota Ciganda, Julia López y haciendo su debut como pro, Carolina Chacarra.</desc>
+  <programme start="20260214103500 +0100" stop="20260214113000 +0100" channel="M+ Ellas Vamos HD">
+    <title>Unrivaled T2026 · Temporada Regular: Rose - Mist</title>
+    <desc>Deportes,Baloncesto 3x3 | 2026 | TP | *6.0/10
+· Unrivaled.</desc>
 	</programme>
   <programme start="20260212110000 +0100" stop="20260212113000 +0100" channel="M+ Golf HD">
     <title>Locos por el golf T2026 E5</title>
@@ -5293,6 +4570,11 @@
 · José Manuel Lara, dos veces ganador en el European Tour, se convierte en el profesor particular de los abonados de Movistar Golf con consejos en el campo de prácticas, situaciones reales, consultas de espectadores y análisis de los profesionales.
 · País: España
 · Presenta: Jose Manuel Lara.</desc>
+	</programme>
+  <programme start="20260214103000 +0100" stop="20260214143000 +0100" channel="M+ Golf HD">
+    <title>DIRECTO PIF Saudi Ladies International. Jornada 4 T2026 · Ladies European Tour</title>
+    <desc>Deportes,Golf | 2026 | TP | *5.6/10
+· Comienza la temporada en el LET y lo hace por primera vez en Riyadh con el PIF Saudí Ladies International con un fuerte field con 8 españolas. Entre otras, Carlota Ciganda, Julia López y haciendo su debut como pro, Carolina Chacarra.</desc>
 	</programme>
   <programme start="20260212095500 +0100" stop="20260212120500 +0100" channel="DAZN F1 HD">
     <title>Mundial de Fórmula 1 T2023 · GP de Estados Unidos: Carrera</title>
@@ -5504,6 +4786,11 @@
     <desc>Deportes,Motor | 2025 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
+  <programme start="20260214110000 +0100" stop="20260214113000 +0100" channel="DAZN F1 HD">
+    <title>En el corazón de Aston Martin</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *6.0/10
+· En el corazón de Aston Martin.</desc>
+	</programme>
   <programme start="20260212130100 +0100" stop="20260212150300 +0100" channel="DAZN 1 HD">
     <title>Copa de Italia T25/26 · Cuartos de final: Bolonia - Lazio</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
@@ -5687,12 +4974,6 @@
   <programme start="20260214100000 +0100" stop="20260214115000 +0100" channel="DAZN 2 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260212095500 +0100" stop="20260212110000 +0100" channel="Eurosport 1 HD">
-    <title>DIRECTO Campo a través M - Clasificación T2026 · Snowboard - JJ OO Cortina Milán 2026</title>
-    <desc>Deportes,Snowboard | 2026 | *6.0/10
-· El snowboard es uno de los deportes más populares del programa olímpico. Cuenta con diferentes modalidades (slopestyle, halfpipe, eslalon paralelo, Big Air y cross) y reparte 11 medallas de oro. Los eventos se desarrollan en Livigno.
-· País: Italia</desc>
 	</programme>
   <programme start="20260212110000 +0100" stop="20260212130000 +0100" channel="Eurosport 1 HD">
     <title>DIRECTO Supergigante F T2026 · Esquí alpino - JJ OO Cortina Milán 2026</title>
@@ -5980,18 +5261,6 @@
 · El deporte rey del programa olímpico de invierno. Los espectaculares eslálones, descensos y supergigantes ponen a prueba a los mejores esquiadores. Las carreras femeninas se realizan en el centro Tofane de Cortina d'Ampezzo; las masculinas, en Bormio.
 · País: Italia</desc>
 	</programme>
-  <programme start="20260212092500 +0100" stop="20260212103000 +0100" channel="Eurosport 2">
-    <title>DIRECTO Masculino - serie 1 T2026 · Skeleton - JJ OO Cortina Milán 2026</title>
-    <desc>Deportes,Skeleton | 2026 | *6.6/10
-· En el skeleton, el atleta comienza de pie y, tras el impulso inicial, salta boca abajo sobre el trineo, descendiendo por la pista helada a 130-140 km/h y guiando el vehículo solo con el cuerpo. Un vertiginoso deporte que cuenta con tres eventos.
-· País: Italia</desc>
-	</programme>
-  <programme start="20260212103000 +0100" stop="20260212110000 +0100" channel="Eurosport 2">
-    <title>Esquí acrobático - JJ OO Cortina Milán 2026 T2026 · Moguls F - Final</title>
-    <desc>Deportes,Deporte invierno | 2026 | *6.0/10
-· El esquí acrobático es uno de los deportes más visuales del programa olímpico. Cuenta con diferentes modalidades (moguls, halfpipe, aerials, Big Air y skicross) y reparte 15 medallas de oro. Los eventos se desarrollan en Livigno, en Valtellina.
-· País: Italia</desc>
-	</programme>
   <programme start="20260212110000 +0100" stop="20260212120000 +0100" channel="Eurosport 2">
     <title>DIRECTO Masculino - serie 2 T2026 · Skeleton - JJ OO Cortina Milán 2026</title>
     <desc>Deportes,Skeleton | 2026 | *6.0/10
@@ -6215,12 +5484,6 @@
     <title>DIRECTO Dual Moguls F - Gran final T2026 · Esquí acrobático - JJ OO Cortina Milán 2026</title>
     <desc>Deportes,Deporte invierno | *6.0/10
 · El esquí acrobático es uno de los deportes más visuales del programa olímpico. Cuenta con diferentes modalidades (moguls, halfpipe, aerials, Big Air y skicross) y reparte 15 medallas de oro. Los eventos se desarrollan en Livigno, en Valtellina.
-· País: Italia</desc>
-	</programme>
-  <programme start="20260212095500 +0100" stop="20260212112500 +0100" channel="Teledeporte">
-    <title>DIRECTO Campo a través M - Clasificación T2026 · Snowboard - JJ OO Cortina Milán 2026</title>
-    <desc>Deportes,Snowboard | 2026 | *6.0/10
-· El snowboard es uno de los deportes más populares del programa olímpico. Cuenta con diferentes modalidades (slopestyle, halfpipe, eslalon paralelo, Big Air y cross) y reparte 11 medallas de oro. Los eventos se desarrollan en Livigno.
 · País: Italia</desc>
 	</programme>
   <programme start="20260212112500 +0100" stop="20260212133000 +0100" channel="Teledeporte">
@@ -6682,14 +5945,6 @@
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260212093300 +0100" stop="20260212110400 +0100" channel="DARK">
-    <title>The dark</title>
-    <desc>Cine,Terror,Drama | 2018 | +18 | *5.6/10
-· Una muchacha sobrevive en un bosque tras haber sufrido un intento de asesinato tiempo atrás.
-· País: Australia, Austria, Canadá
-· Dirección: Justin P. Lange, Klemens Hufnagl.
-· Reparto: Nadia Alexander, Toby Nichols, Karl Markovics, Sarah Murphy-Dyson, Margarete Tiesel, Dan Beirne, Alexander Nadia, Chris Farquhar, Margarethe Tiesel, Dylan Trowbridge, Scott Beaudin.</desc>
-	</programme>
   <programme start="20260212110400 +0100" stop="20260212123800 +0100" channel="DARK">
     <title>Retornados</title>
     <desc>Cine,Terror,Ciencia Ficción,Acción | 2013 | +16 | *5.9/10
@@ -6991,20 +6246,13 @@
 · Dirección: Eddie Arya.
 · Reparto: Zahlee Moore, Izzy Bridger, Lily Brown Griffiths, Jay Kallaway, Dominic Stone.</desc>
 	</programme>
-  <programme start="20260212100000 +0100" stop="20260212103000 +0100" channel="Canal Cocina">
-    <title>Los fogones tradicionales T30 E11</title>
-    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
-· Graus y San Felices de los Gallegos nos reciben con Sopa de hígado y Lengua de morucha, dos guisos que reflejan la identidad de sus tierras.
-· País: España
-· Dirección: Eugenio Monesma.
-· Reparto: Varios int.</desc>
-	</programme>
-  <programme start="20260212103000 +0100" stop="20260212110000 +0100" channel="Canal Cocina">
-    <title>Quique al cubo T2 E11</title>
-    <desc>Programa,Cocina | 2022 | TP
-· En este episodio de Quique al cubo, nuestro cocinero Quique Barella elabora tres recetas: Conejo al ajillo, Coulant de pistachos exprés y Bacalao con sus callos y garbanzos.
-· País: España
-· Reparto: Quique Barella.</desc>
+  <programme start="20260214102900 +0100" stop="20260214115700 +0100" channel="DARK">
+    <title>Horrorland</title>
+    <desc>Cine,Terror,Suspense | 2023 | +18 | *4.7/10
+· Una desconcertante escena inicial te introduce en este terrorífico 'slasher' en el que una noche de Halloween privada en un parque de atracciones se convierte rápidamente en una auténtica pesadilla repleta de sangre, secretos y venganza.
+· País: Suecia
+· Dirección: Simon Sandquist.
+· Reparto: Emil Algpeus, Omar Rudberg, Wilma Lidén, Ludvig Deltin, Embla Ingelman-Sundberg, Amanda Lindh, Michael Brolin, Sandra Caraan, Manfred Knapp Drougge, Thomas Hedengran.</desc>
 	</programme>
   <programme start="20260212110000 +0100" stop="20260212113000 +0100" channel="Canal Cocina">
     <title>Devuélveme los tápers T1 E11</title>
@@ -7669,6 +6917,20 @@
 · Dirección: Varios.
 · Reparto: María Trinidad Jiménez.</desc>
 	</programme>
+  <programme start="20260214103000 +0100" stop="20260214110000 +0100" channel="Canal Cocina">
+    <title>Dulces con historia T1 E11</title>
+    <desc>Series,Documentales | 2025 | TP
+· En el capítulo 11 de Dulces con historia visitamos, en Ontiyent (Valencia), la Pastelería Mora, donde elaboran las Almendras rellenas, y, en Tenerife descubrimos las Milhojas que preparan en Casa Egón.
+· País: España
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260214110000 +0100" stop="20260214113100 +0100" channel="Canal Cocina">
+    <title>Cocina de fiesta T1 E21</title>
+    <desc>Programa,Cocina | 2021 | TP
+· Enn este episodio de Cocina de Fiesta, Quique Barella elabora Trío de ostras aliñadas en cebiche, con manzana ácida y con fresas y pimienta, Carpaccio de gambas con vinagreta de hierbas y granizado de Jerez y Cochinillo crujiente con patatas duquesa.
+· País: España
+· Reparto: Quique Barella.</desc>
+	</programme>
   <programme start="20260212070000 +0100" stop="20260212120000 +0100" channel="Tennis Channel">
     <title>Doha 2026 T2024 E2 · Early Rounds</title>
     <desc>Deportes,Tenis | 2025 | TP
@@ -7768,10 +7030,6 @@
     <desc>Deportes,Tenis | 2025 | TP
 · Transmisión de la edición 2025 del torneo de Doha.
 · País: QAT</desc>
-	</programme>
-  <programme start="20260212100000 +0100" stop="20260212110000 +0100" channel="ESPN">
-    <title>SportsCenter</title>
-    <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
 	</programme>
   <programme start="20260212110000 +0100" stop="20260212120000 +0100" channel="ESPN">
     <title>A confirmar</title>
@@ -7905,10 +7163,6 @@
     <title>SportsCenter (?)</title>
     <desc>... sin detalles</desc>
 	</programme>
-  <programme start="20260212100000 +0100" stop="20260212110000 +0100" channel="ESPN 2">
-    <title>Futbol Picante</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
   <programme start="20260212110000 +0100" stop="20260212130000 +0100" channel="ESPN 2">
     <title>Leuven vs. Arsenal · UEFA Women's Champions League</title>
     <desc>· Sin detalles...</desc>
@@ -8007,10 +7261,6 @@
 	</programme>
   <programme start="20260213210000 +0100" stop="20260214010000 +0100" channel="ESPN 2">
     <title>Segunda ronda · PGA Tour - AT&amp;T Pebble Beach Pro-Am</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-  <programme start="20260212090000 +0100" stop="20260212110000 +0100" channel="ESPN 4">
-    <title>NFL Super Bowl LX · Seattle Seahawks vs. New England Patriots, Super Bowl, Levi's Stadium</title>
     <desc>· Sin detalles...</desc>
 	</programme>
   <programme start="20260212110000 +0100" stop="20260212113000 +0100" channel="ESPN 4">
@@ -8132,12 +7382,6 @@
   <programme start="20260213230000 +0100" stop="20260214010000 +0100" channel="ESPN 4">
     <title>NBA G League · Capitanes de Ciudad de México vs. Stockton Kings</title>
     <desc>· Sin detalles...</desc>
-	</programme>
-  <programme start="20260212083000 +0100" stop="20260212103000 +0100" channel="PT | DAZN 1">
-    <title>Atl. Madrid x Betis: LaLiga EA Sports T1 · Atl. Madrid x Betis</title>
-    <desc>Futebol,Desporto | 2026 | +12
-· Assista ao jogo da LALIGA Atl. Madrid x Betis.
-· País: España</desc>
 	</programme>
   <programme start="20260212103000 +0100" stop="20260212113000 +0100" channel="PT | DAZN 1">
     <title>Bundesliga T1 E21 · RD21</title>
@@ -8346,6 +7590,11 @@
 · As melhores equipas dos Países Baixos agora jogam na DAZN. Não percas um dos campeonatos com mais talentos emergentes da Europa.
 · País: Países Bajos</desc>
 	</programme>
+  <programme start="20260214103000 +0100" stop="20260214123000 +0100" channel="PT | DAZN 1">
+    <title>PSG x Newcastle: Champions League T1 · PSG x Newcastle</title>
+    <desc>Futebol,Desporto | 2026 | +12
+· Assista ao jogo da UEFA Champions League PSG x Newcastle.</desc>
+	</programme>
   <programme start="20260212100000 +0100" stop="20260212120000 +0100" channel="PT | DAZN 2">
     <title>Everton x Bournemouth: Premier League T1 · Everton x Bournemouth</title>
     <desc>Futebol,Desporto | +12
@@ -8524,10 +7773,11 @@
 · Vê ou revê os melhores momentos da jornada da Premier League.
 · País: Reino Unido</desc>
 	</programme>
-  <programme start="20260212060000 +0100" stop="20260212110000 +0100" channel="PT | DAZN 3">
-    <title>Sem Emissão T1 · qui 12-fev, 05:00</title>
-    <desc>Estilo de vida | +12
-· O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a DAZN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.</desc>
+  <programme start="20260214110000 +0100" stop="20260214130000 +0100" channel="PT | DAZN 2">
+    <title>Chelsea x Leeds: Premier League T1 · Chelsea x Leeds</title>
+    <desc>Futebol,Desporto | 2026 | +12
+· Assista ao jogo da Premier League Chelsea x Leeds.
+· País: Reino Unido</desc>
 	</programme>
   <programme start="20260212110000 +0100" stop="20260212130000 +0100" channel="PT | DAZN 3">
     <title>UD Oliveirense x AD Sanjoanense: Hóquei Patins T1 · UD Oliveirense x AD Sanjoanense</title>
@@ -8668,6 +7918,12 @@
     <title>Sem Emissão T1 · sáb 14-fev, 05:00</title>
     <desc>Estilo de vida | +12
 · O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a DAZN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.</desc>
+	</programme>
+  <programme start="20260214110000 +0100" stop="20260214113000 +0100" channel="PT | DAZN 3">
+    <title>Bundesliga Special Report T1 E6 · De Janeiro</title>
+    <desc>Magazine de desporto,Desporto | 2026 | +12
+· Os golos e as melhores jogadas do último mês no principal escalão do futebol alemão.
+· País: Alemania</desc>
 	</programme>
   <programme start="20260212100000 +0100" stop="20260212140000 +0100" channel="PT | DAZN 4">
     <title>Sem Emissão T1 · qui 12-fev, 09:00</title>
@@ -8934,14 +8190,10 @@
     <desc>Desportos motorizados,Desporto | 2026 | +12
 · Acompanha todo o ABB FIA Formula E e o percurso de António Félix da Costa na Porsche.</desc>
 	</programme>
-  <programme start="20260212083704 +0000" stop="20260212092930 +0000" channel="DE | Rally TV">
-    <title>Full Event Highlights - Safari Rally Kenya 2025</title>
-    <desc>Sports
-· The WRC returns to the rugged terrain of Safari Rally Kenya for Round 3. This rally across the untamed African landscape is unlike any other, a real test of how much a car can endure.</desc>
-	</programme>
-  <programme start="20260212092930 +0000" stop="20260212094008 +0000" channel="DE | Rally TV">
-    <title>WRC Monte Carlo 10 Dramatic Moments</title>
-    <desc>Sports</desc>
+  <programme start="20260214112500 +0100" stop="20260214123000 +0100" channel="PT | DAZN 5">
+    <title>E-Prix Jeddah T1 · E-Prix Jeddah - Treinos Livres 3</title>
+    <desc>Desportos motorizados,Desporto | 2026 | +12
+· Acompanha todo o ABB FIA Formula E e o percurso de António Félix da Costa na Porsche.</desc>
 	</programme>
   <programme start="20260212094008 +0000" stop="20260212103223 +0000" channel="DE | Rally TV">
     <title>Best of Rally Argentina</title>
@@ -9320,6 +8572,10 @@
 	</programme>
   <programme start="20260214091000 +0000" stop="20260214100000 +0000" channel="DE | Rally TV">
     <title>SS9 - Vännäs 1 - WRC Rallye Sweden 2026 - LIVE</title>
+    <desc>Sports</desc>
+	</programme>
+  <programme start="20260214100000 +0000" stop="20260214110000 +0000" channel="DE | Rally TV">
+    <title>SS10 - Sarsjöliden 1 - TV Live WF2 - WRC Rallye Sweden 2026 - LIVE</title>
     <desc>Sports</desc>
 	</programme>
   <programme start="20260212083400 +0100" stop="20260212114500 +0100" channel="Onetoro">
@@ -9712,5 +8968,10 @@
     <title>Blanco, Plata y Honor. A Toro Pasado</title>
     <desc>Toros | +16
 · BLANCO, PLATA Y HONOR Miguel Abellán Los abonados de OneToro ya tienen a su disposición una nueva entrega de «A Toro Pasado» que esta semana recibe la visita Miguel Abellán. El torero madrileño, hijo del «Maletilla de Oro», que fraguó una gran carrera a base de poder, seguridad y entrega. Mano a mano con Javier F. Mardomingo, Miguel Abellán revivirá los inicios de su carrera en Madrid con tardes memorables como su debut de novillero en 1997 mano a mano con José Antonio Iniesta en la que se quedó solo con cinco novillos de Santa Coloma. Nos detendremos también en la impactante tarde de su consagración un año después cortando tres orejas a una novillada de El Torreón y saliendo en volandas por primera vez camino de la calle Alcalá.</desc>
+	</programme>
+  <programme start="20260214112500 +0100" stop="20260214135900 +0100" channel="Onetoro">
+    <title>Redifusión Recortes Santander 2024 (27/07/24)</title>
+    <desc>Toros | +16
+· Redifusión Recortes Santander 2024 (27/07/24). Tercera Eliminatoria del campeonato nacional Onetoro desde la plaza de toros de Santander.</desc>
 	</programme>
 </tv>
