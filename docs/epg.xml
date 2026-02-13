@@ -99,6 +99,17 @@
 		<display-name>DAZN LaLiga 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png"/>
 	</channel>
+  <channel id="LaLiga TV Hypermotion HD">
+		<display-name>LaLiga TV Hypermotion</display-name>
+		<display-name>LaLiga TV Hypermotion.TV</display-name>
+		<display-name>LaLiga TV Hypermotion SD</display-name>
+		<display-name>LaLiga TV Hypermotion HD</display-name>
+		<display-name>LaLiga TV Hypermotion FHD</display-name>
+		<display-name>LaLiga TV Hypermotion UHD</display-name>
+		<display-name>LaLiga TV Hypermotion 720</display-name>
+		<display-name>LaLiga TV Hypermotion 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png"/>
+	</channel>
   <channel id="M+ LaLiga 2 HD">
 		<display-name>M+ LaLiga 2</display-name>
 		<display-name>M+ LaLiga 2.TV</display-name>
@@ -814,31 +825,10 @@
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
-  <programme start="20260213060000 +0100" stop="20260213063000 +0100" channel="La 2">
-    <title>En lengua de signos</title>
-    <desc>Información,Informativo | 2025 | TP | *6.0/10
-· Paloma Soroa es la encargada de conducir este espacio semanal de noticias y reportajes.
-· País: España
-· Dirección: Lola Hernández.</desc>
-	</programme>
-  <programme start="20260213063000 +0100" stop="20260213064500 +0100" channel="La 2">
-    <title>That's English T25/26</title>
-    <desc>Cultural/Educativo,Idiomas | 2026 | TP | *5.8/10
-· Programa divulgativo que ofrece un curso de inglés a distancia.
-· País: España
-· Dirección: Andrew Morgan.</desc>
-	</programme>
-  <programme start="20260213064500 +0100" stop="20260213065500 +0100" channel="La 2">
-    <title>That's English T25/26</title>
-    <desc>Cultural/Educativo,Idiomas | 2026 | TP | *5.8/10
-· Programa divulgativo que ofrece un curso de inglés a distancia.
-· País: España
-· Dirección: Andrew Morgan.</desc>
-	</programme>
-  <programme start="20260213065500 +0100" stop="20260213071500 +0100" channel="La 2">
-    <title>Zoom net</title>
-    <desc>Ocio y Aficiones,Tecnologías | 2017 | TP | *6.2/10
-· Programa que ofrece contenidos relacionados con el entretenimiento digital.
+  <programme start="20260215070000 +0100" stop="20260215100500 +0100" channel="La 1 HD">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
   <programme start="20260213071500 +0100" stop="20260213074000 +0100" channel="La 2">
@@ -1283,11 +1273,19 @@
 · País: España
 · Dirección: Andrew Morgan.</desc>
 	</programme>
-  <programme start="20260213060000 +0100" stop="20260213061500 +0100" channel="Antena 3 HD">
-    <title>Vivara: gestionamos tu alquiler</title>
-    <desc>Ocio y Aficiones,Televenta | 2025 | TP | *5.4/10
-· Vivara: gestionamos tu alquiler.
-· País: España</desc>
+  <programme start="20260215062000 +0100" stop="20260215064000 +0100" channel="La 2">
+    <title>That's English T25/26</title>
+    <desc>Cultural/Educativo,Idiomas | 2026 | TP | *5.8/10
+· Programa divulgativo que ofrece un curso de inglés a distancia.
+· País: España
+· Dirección: Andrew Morgan.</desc>
+	</programme>
+  <programme start="20260215064000 +0100" stop="20260215074000 +0100" channel="La 2">
+    <title>UNED</title>
+    <desc>Cultural/Educativo,Formación | 2017 | TP | *6.0/10
+· Programa educativo vinculado a los cursos de la U.N.E.D.
+· País: España
+· Productora: Centro de Diseño y Producción de Medios Audiovisuales (CEMAV).</desc>
 	</programme>
   <programme start="20260213061500 +0100" stop="20260213085500 +0100" channel="Antena 3 HD">
     <title>Las noticias de la mañana</title>
@@ -1578,16 +1576,22 @@
 · Programa de televenta directa de joyería.
 · País: España</desc>
 	</programme>
-  <programme start="20260213060500 +0100" stop="20260213070000 +0100" channel="Caza y Pesca HD">
-    <title>De viaje: de Garachiné a Juradó</title>
-    <desc>Documentales,Caza y pesca | 2018 | TP | *6.4/10
-· Un equipo de Caza y Pesca se traslada hasta la costa panameña, entre las localidades de Garachiné hasta la frontera con Colombia, en Juradó. La riqueza de sus aguas hacen de este escenario un lugar ideal para la pesca de grandes peces.
+  <programme start="20260215064500 +0100" stop="20260215070000 +0100" channel="Antena 3 HD">
+    <title>Vivara: gestionamos tu alquiler</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | TP | *5.4/10
+· Vivara: gestionamos tu alquiler.
 · País: España</desc>
 	</programme>
-  <programme start="20260213070000 +0100" stop="20260213073000 +0100" channel="Caza y Pesca HD">
-    <title>410 por España: Torcaces</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2024 | +12 | *5.6/10
-· La paloma en media veda pondrá broche de oro a esta bonita expedición de 6 capítulos. Dos salidas muy especiales que nos harán disfrutar y aprender del arte de la caza con cimbel con un cartucho mas que exigente.
+  <programme start="20260215070000 +0100" stop="20260215072500 +0100" channel="Antena 3 HD">
+    <title>Pelopicopata T1 E29</title>
+    <desc>Entretenimiento | 2004 | TP | *6.2/10
+· Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas.
+· País: España</desc>
+	</programme>
+  <programme start="20260215072500 +0100" stop="20260215075000 +0100" channel="Antena 3 HD">
+    <title>Pelopicopata T1 E30</title>
+    <desc>Entretenimiento | 2004 | TP | *6.4/10
+· Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas.
 · País: España</desc>
 	</programme>
   <programme start="20260213073000 +0100" stop="20260213080000 +0100" channel="Caza y Pesca HD">
@@ -2162,29 +2166,23 @@
 · La pesca a rockfishing es una pesca que es de peces pequeños pero que no son pocas las sorpresas de buenos peces como las corvas, tordos, maragotas. Una pesca fina que obliga a poner en práctica una pesca muy depurada.
 · País: España</desc>
 	</programme>
-  <programme start="20260213055500 +0100" stop="20260213062000 +0100" channel="Aragón TV">
-    <title>EuroNews</title>
-    <desc>Información,Informativo | 2023 | TP | *6.2/10
-· Conexión con EuroNews, el canal informativo que transmite noticias de todo el mundo desde una perspectiva europea y en siete idiomas. EuroNews emite simultáneamente en inglés, francés, alemán, italiano, portugués, español y ruso.</desc>
+  <programme start="20260215062800 +0100" stop="20260215065800 +0100" channel="Caza y Pesca HD">
+    <title>Bellús a trece metros</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2021 | TP | *6.0/10
+· Bellús, es uno de los paraísos de la pesca de la carpa en la Comunidad Valenciana, localización en la que nos hemos dado cita con varios varios mundialistas en sus filas. Son una asociación de grandes pescadores de agua dulce.
+· País: España</desc>
 	</programme>
-  <programme start="20260213062000 +0100" stop="20260213070000 +0100" channel="Aragón TV">
-    <title>Aragón Noticias 2</title>
-    <desc>Información,Informativo | 2014 | TP | *6.0/10
-· Informativo vespertino de Aragón TV que ofrece las noticias más destacadas de la actualidad aragonesa, nacional e internacional, así como la información del tiempo y del mundo del deporte.
+  <programme start="20260215065800 +0100" stop="20260215072500 +0100" channel="Caza y Pesca HD">
+    <title>Wild hunting T5 · Berrea en el Pirineo</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2025 | +12 | *6.0/10
+· Nos vamos con Pablo Carol al Pirineo catalán en busca de una de las experiencias mas recomendables que ofrece el otoño: la berrea del ciervo de alta montaña.
 · País: España
-· Presenta: Miriam Sánchez, Sergio Melendo, Noemí Núñez, Javier Gastón, Eduardo Lolumo, Mirtha Orallo, Jacobo Fernández, Jacobo Fernández Cabo.</desc>
+· Productora: RecFish.</desc>
 	</programme>
-  <programme start="20260213070000 +0100" stop="20260213072000 +0100" channel="Aragón TV">
-    <title>Aragón deportes 2</title>
-    <desc>Deportes,Programa deportes | 2022 | *6.0/10
-· Toda la información deportiva de Aragón, sin perder de vista lo que ocurre en España y en el mundo.
-· País: España
-· Presenta: Jorge San Martín.</desc>
-	</programme>
-  <programme start="20260213072000 +0100" stop="20260213073000 +0100" channel="Aragón TV">
-    <title>El tiempo 2</title>
-    <desc>Información,Meteorología | 2022 | *6.0/10
-· Segunda edición del informativo meteorológico de Aragón TV.
+  <programme start="20260215072500 +0100" stop="20260215080000 +0100" channel="Caza y Pesca HD">
+    <title>Pesqueiras gallegas</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2021 | TP | *6.4/10
+· Todos los años la Lamprea remonta las fuertes corrientes del río Miño en un recorrido para terminar su ciclo vital con el desove. Desde la época de los romanos los pescadores tradicionales construyen sus pesqueiras para esperar este pez y atraparlo.
 · País: España</desc>
 	</programme>
   <programme start="20260213073000 +0100" stop="20260213080000 +0100" channel="Aragón TV">
@@ -2583,19 +2581,37 @@
 · País: España
 · Presenta: Carmen Gil.</desc>
 	</programme>
-  <programme start="20260213053500 +0100" stop="20260213062600 +0100" channel="Movistar Plus+ HD">
-    <title>Reino Unido: historia de una nación · Dos naciones 1815-1851</title>
-    <desc>Documentales,Historia | 2023 | +7 | *6.2/10
-· En el siglo XIX, la unión de Gran Bretaña e Irlanda parecía segura y estable. Sin embargo, había profundas divisiones entre ricos y pobres, y la clase social comenzó a definir identidades y lealtades.
-· País: Reino Unido
-· Dirección: Steven Clarke.</desc>
+  <programme start="20260215062500 +0100" stop="20260215064000 +0100" channel="Aragón TV">
+    <title>EuroNews</title>
+    <desc>Información,Informativo | 2023 | TP | *6.2/10
+· Conexión con EuroNews, el canal informativo que transmite noticias de todo el mundo desde una perspectiva europea y en siete idiomas. EuroNews emite simultáneamente en inglés, francés, alemán, italiano, portugués, español y ruso.</desc>
 	</programme>
-  <programme start="20260213062600 +0100" stop="20260213072200 +0100" channel="Movistar Plus+ HD">
-    <title>Reino Unido: historia de una nación · Unión y desunión 1911-2023</title>
-    <desc>Documentales,Historia | 2023 | +7 | *6.2/10
-· El siglo XX marcó la separación de Irlanda. Después de la Segunda Guerra Mundial surgió un sentimiento de unidad nacional, pero los desafíos económicos de la década de los setenta crearon nuevas divisiones y preguntas sobre el futuro de la unión.
-· País: Reino Unido
-· Dirección: Steven Clarke.</desc>
+  <programme start="20260215064000 +0100" stop="20260215071000 +0100" channel="Aragón TV">
+    <title>Aragón Noticias 2. Edición Fin de Semana</title>
+    <desc>Información,Informativo | 2015 | *6.2/10
+· Edición vespertina de los informativos de Aragón TV de fin de semana que repasa la actualidad aragonesa, nacional e internacional, así como la información meteorológica y lo más destacado del deporte.
+· País: España
+· Presenta: Miriam Sánchez, Sergio Melendo, Noemí Núñez, Mirtha Orallo, Jacobo Fernández, Jorge San Martín, Nuria Seró, Víctor Hugo Arroyo.</desc>
+	</programme>
+  <programme start="20260215071000 +0100" stop="20260215072000 +0100" channel="Aragón TV">
+    <title>Aragón deportes 2</title>
+    <desc>Deportes,Programa deportes | 2022 | *6.0/10
+· Toda la información deportiva de Aragón, sin perder de vista lo que ocurre en España y en el mundo.
+· País: España
+· Presenta: Jorge San Martín.</desc>
+	</programme>
+  <programme start="20260215072000 +0100" stop="20260215073000 +0100" channel="Aragón TV">
+    <title>El tiempo 2</title>
+    <desc>Información,Meteorología | 2022 | *6.0/10
+· Segunda edición del informativo meteorológico de Aragón TV.
+· País: España</desc>
+	</programme>
+  <programme start="20260215073000 +0100" stop="20260215075500 +0100" channel="Aragón TV">
+    <title>Charrín Charrán T1 E66</title>
+    <desc>Ocio y Aficiones,Espectáculo | 2019 | TP
+· Magazín de actualidad presentado por Silvia Cebolla destinado a difundir la cultura y la lengua aragonesas. El programa, el primero en emitirse en lengua aragonesa, ofrece reportajes y entrevistas sobre asuntos sociales y culturales.
+· País: España
+· Presenta: Silvia Cebolla.</desc>
 	</programme>
   <programme start="20260213072200 +0100" stop="20260213075000 +0100" channel="Movistar Plus+ HD">
     <title>Informe Robinson T4 · Las fronteras del deporte</title>
@@ -2889,11 +2905,9 @@
 · Dirección: Robert Alexander, Neil Berkeley, Marshall Curry, Jason Zeldes.
 · Productora: Broadway Video.</desc>
 	</programme>
-  <programme start="20260213054500 +0100" stop="20260213073500 +0100" channel="M+ Vamos HD">
-    <title>Liga Saudí T25/26 · Jornada 21: Al Nasser - Al Ittihad</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.4/10
-· La Liga Profesional Saudí 2025-26 es la 50.ª edición del Campeonato de Fútbol de Arabia Saudí, la máxima división del fútbol saudí desde su fundación en 1976. El actual campeón es Al-Ittihad.
-· País: Arabia Saudí</desc>
+  <programme start="20260215062700 +0100" stop="20260215083500 +0100" channel="Movistar Plus+ HD">
+    <title>Documentales</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260213073500 +0100" stop="20260213092500 +0100" channel="M+ Vamos HD">
     <title>Torneo de Rotterdam T2026 · TBC</title>
@@ -3085,12 +3099,6 @@
     <desc>Deportes,Fútbol | 2025 | TP | *6.4/10
 · La Liga Profesional Saudí 2025-26 es la 50.ª edición del Campeonato de Fútbol de Arabia Saudí, la máxima división del fútbol saudí desde su fundación en 1976. El actual campeón es Al-Ittihad.
 · País: Arabia Saudí</desc>
-	</programme>
-  <programme start="20260213051500 +0100" stop="20260213070800 +0100" channel="M+ LaLiga HD">
-    <title>LALIGA HYPERMOTION T25/26 · Jornada 25: Las Palmas - Burgos</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
-· País: España</desc>
 	</programme>
   <programme start="20260213070800 +0100" stop="20260213080000 +0100" channel="M+ LaLiga HD">
     <title>Universo Valdano T9 · Kylian Mbappé</title>
@@ -3643,6 +3651,124 @@
     <title>DAZN LALIGA</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
+  <programme start="20260213070000 +0100" stop="20260213110000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>LALIGA TV HYPERMOTION</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260213110000 +0100" stop="20260213150000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>LALIGA TV HYPERMOTION</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260213150000 +0100" stop="20260213190000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>LALIGA TV HYPERMOTION</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260213190000 +0100" stop="20260213193000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>LALIGA TV HYPERMOTION</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260213193000 +0100" stop="20260213203000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>Especiales LaLiga fin de temporada T24/25 · El sentido: Laliga Genuine</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+· LaLiga EA Sports ha finalizado otro curso plagado de historias y de fútbol. El campeonato español de la regularidad deja relatos para el recuerdo y héroes que se han convertido en los protagonistas de la temporada.</desc>
+	</programme>
+  <programme start="20260213203000 +0100" stop="20260213223000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>DIRECTO Jornada 26: Almería - Andorra T25/26 · LALIGA HYPERMOTION</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· País: España</desc>
+	</programme>
+  <programme start="20260213223000 +0100" stop="20260213230000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>Inside - El gran derbi</title>
+    <desc>Documentales,Deportes | 2025 | TP | *6.0/10
+· Un recorrido por la organización de El Gran Derbi de Sevilla y el impacto de la piratería audiovisual.
+· País: España</desc>
+	</programme>
+  <programme start="20260213230000 +0100" stop="20260214010000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>LALIGA HYPERMOTION T25/26 · Jornada 25: Racing - Mirandés</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· País: España</desc>
+	</programme>
+  <programme start="20260214010000 +0100" stop="20260214070000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>LALIGA TV HYPERMOTION</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260214070000 +0100" stop="20260214090000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>LALIGA HYPERMOTION T25/26 · Jornada 25: Zaragoza - Eibar</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· País: España</desc>
+	</programme>
+  <programme start="20260214090000 +0100" stop="20260214110000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>LALIGA HYPERMOTION T25/26 · Jornada 25: Málaga - Cultural</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
+· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· País: España</desc>
+	</programme>
+  <programme start="20260214110000 +0100" stop="20260214130000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>Jornada 26: Almería - Andorra T25/26 · LALIGA HYPERMOTION</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· País: España</desc>
+	</programme>
+  <programme start="20260214130000 +0100" stop="20260214140000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>Especiales LaLiga fin de temporada T24/25 · El sentido: Laliga Genuine</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+· LaLiga EA Sports ha finalizado otro curso plagado de historias y de fútbol. El campeonato español de la regularidad deja relatos para el recuerdo y héroes que se han convertido en los protagonistas de la temporada.</desc>
+	</programme>
+  <programme start="20260214140000 +0100" stop="20260214161500 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>DIRECTO Jornada 26: Córdoba - Leganés T25/26 · LALIGA HYPERMOTION</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· País: España</desc>
+	</programme>
+  <programme start="20260214161500 +0100" stop="20260214183000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>DIRECTO Jornada 26: Burgos - Cádiz T25/26 · LALIGA HYPERMOTION</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· País: España</desc>
+	</programme>
+  <programme start="20260214183000 +0100" stop="20260214203000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>DIRECTO Jornada 26: Cultural - Zaragoza T25/26 · LALIGA HYPERMOTION</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· País: España</desc>
+	</programme>
+  <programme start="20260214203000 +0100" stop="20260214210000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>Previa Segunda División T25/26 · Granada - Valladolid</title>
+    <desc>Sin clasificar,SIN CLASIFICAR | 2026 | TP | *6.2/10
+· Toda la información previa a los partidos que se van a disputar en la siguiente jornada de competición. Noticias, estadísticas, análisis y los datos necesarios para disfrutar más de los encuentros.
+· País: España</desc>
+	</programme>
+  <programme start="20260214210000 +0100" stop="20260214230000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>DIRECTO Jornada 26: Granada - Valladolid T25/26 · LALIGA HYPERMOTION</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· País: España</desc>
+	</programme>
+  <programme start="20260214230000 +0100" stop="20260214233000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>Post Segunda División T25/26 · Granada - Valladolid</title>
+    <desc>Sin clasificar,SIN CLASIFICAR | 2026 | TP | *6.2/10
+· Tras la disputa de los encuentros, es tiempo para el análisis. Los entrenadores de los equipos de LaLiga HyperMotion desmenuzan las claves que, según ellos, han propiciado el resultado del partido que acaban de jugar.
+· País: España</desc>
+	</programme>
+  <programme start="20260214233000 +0100" stop="20260215013000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>Jornada 26: Cultural - Zaragoza T25/26 · LALIGA HYPERMOTION</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· País: España</desc>
+	</programme>
+  <programme start="20260215013000 +0100" stop="20260215070000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>LALIGA TV HYPERMOTION</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260215070000 +0100" stop="20260215090000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>Jornada 26: Granada - Valladolid T25/26 · LALIGA HYPERMOTION</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· País: España</desc>
+	</programme>
   <programme start="20260213000000 +0100" stop="20260213120000 +0100" channel="M+ LaLiga 2 HD">
     <title>M+ LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
@@ -3732,18 +3858,6 @@
   <programme start="20260215041500 +0100" stop="20260215081500 +0100" channel="DAZN LaLiga 2 HD">
     <title>DAZN LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260213050000 +0100" stop="20260213063000 +0100" channel="M+ Liga de Campeones HD">
-    <title>El tercer tiempo T25/26 E21</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.4/10
-· Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
-· País: España
-· Presenta: José Sanchís, Axel Torres.</desc>
-	</programme>
-  <programme start="20260213063000 +0100" stop="20260213073000 +0100" channel="M+ Liga de Campeones HD">
-    <title>Magazine Europa League T25/26 E11</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
-· La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.</desc>
 	</programme>
   <programme start="20260213073000 +0100" stop="20260213093000 +0100" channel="M+ Liga de Campeones HD">
     <title>Liga Saudí T25/26 · Jornada 21: Al Qadsiah - Al Fateh</title>
@@ -3918,6 +4032,12 @@
     <desc>Deportes,Programa deportes | 2025 | TP | *5.6/10
 · Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc>
 	</programme>
+  <programme start="20260215063000 +0100" stop="20260215083000 +0100" channel="M+ Liga de Campeones HD">
+    <title>Jornada 22: Al Fateh - Al Nasser T25/26 · Liga Saudí</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *6.4/10
+· La Liga Profesional Saudí 2025-26 es la 50.ª edición del Campeonato de Fútbol de Arabia Saudí, la máxima división del fútbol saudí desde su fundación en 1976. El actual campeón es Al-Ittihad.
+· País: Arabia Saudí</desc>
+	</programme>
   <programme start="20260213000000 +0100" stop="20260213080000 +0100" channel="M+ Liga de Campeones 2 HD">
     <title>M+ Liga de Campeones 2</title>
     <desc>· Programa por determinar...</desc>
@@ -3969,26 +4089,6 @@
   <programme start="20260215000000 +0100" stop="20260215120000 +0100" channel="M+ Liga de Campeones 3 HD">
     <title>M+ Liga de Campeones 3</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260213055000 +0100" stop="20260213061400 +0100" channel="M+ Deportes HD">
-    <title>World Rugby Sevens Series T25/26 · Masculino: España - Argentina (Perth)</title>
-    <desc>Deportes,Rugby | 2023 | TP | *6.4/10
-· Las mejores selecciones de Rugby a 7 del planeta, con España entre ellas, miden sus fuerzas en las Series Mundiales de Seven 2025-26. Los especialistas del Seven nos ofrecen jugadas de otra galaxia: ensayos, placajes, rupturas, pases o contrapiés.</desc>
-	</programme>
-  <programme start="20260213061400 +0100" stop="20260213063400 +0100" channel="M+ Deportes HD">
-    <title>World Rugby Sevens Series T25/26 · Masculino: España - Gran Bretaña (Perth)</title>
-    <desc>Deportes,Rugby | 2023 | TP | *6.4/10
-· Las mejores selecciones de Rugby a 7 del planeta, con España entre ellas, miden sus fuerzas en las Series Mundiales de Seven 2025-26. Los especialistas del Seven nos ofrecen jugadas de otra galaxia: ensayos, placajes, rupturas, pases o contrapiés.</desc>
-	</programme>
-  <programme start="20260213063400 +0100" stop="20260213070100 +0100" channel="M+ Deportes HD">
-    <title>World Rugby Sevens Series T25/26 · Masculino: España - Argentina. Play off (Perth)</title>
-    <desc>Deportes,Rugby | 2023 | TP | *6.4/10
-· Las mejores selecciones de Rugby a 7 del planeta, con España entre ellas, miden sus fuerzas en las Series Mundiales de Seven 2025-26. Los especialistas del Seven nos ofrecen jugadas de otra galaxia: ensayos, placajes, rupturas, pases o contrapiés.</desc>
-	</programme>
-  <programme start="20260213070100 +0100" stop="20260213073100 +0100" channel="M+ Deportes HD">
-    <title>World Rugby Sevens Series T25/26 · Masculino: Final Masculina. Fiji - Sudáfrica (Perth)</title>
-    <desc>Deportes,Rugby | 2023 | TP | *8.0/10
-· Las mejores selecciones de Rugby a 7 del planeta, con España entre ellas, miden sus fuerzas en las Series Mundiales de Seven 2025-26. Los especialistas del Seven nos ofrecen jugadas de otra galaxia: ensayos, placajes, rupturas, pases o contrapiés.</desc>
 	</programme>
   <programme start="20260213073100 +0100" stop="20260213080000 +0100" channel="M+ Deportes HD">
     <title>World Rugby Sevens Series T25/26 · Femenino: Final Femenina. Nueva Zelanda - Australia (Perth)</title>
@@ -4201,6 +4301,11 @@
     <desc>Deportes,Rugby | 2026 | TP | *6.2/10
 · Irlanda e Italia abren la 2ª jornada del 6 Naciones 2026 con un duelo crucial en el Aviva Stadium de Dublín. Tras su derrota en París, el XV del Trébol ya no tiene margen de error y recupera al pilier Tadhg Furlong para firmar un triunfo imprescindible.</desc>
 	</programme>
+  <programme start="20260215073000 +0100" stop="20260215080000 +0100" channel="M+ Deportes HD">
+    <title>World of free sports T2026 E5</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *5.6/10
+· El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
+	</programme>
   <programme start="20260213000500 +0100" stop="20260213080000 +0100" channel="M+ Deportes 2 HD">
     <title>M+ Deportes 2</title>
     <desc>Deportes,Otros deportes | 2019 | TP | *5.8/10
@@ -4285,11 +4390,6 @@
     <title>M+ Deportes 2</title>
     <desc>Deportes,Otros deportes | 2019 | TP | *5.8/10
 · M+ Deportes 2 -.</desc>
-	</programme>
-  <programme start="20260213040000 +0100" stop="20260213063000 +0100" channel="M+ Deportes 3">
-    <title>DIRECTO Octavos de final: Paul - Kecmanovic (VO) T2026 · Torneo de Dallas</title>
-    <desc>Deportes,Tenis | 2026 | TP | *6.0/10
-· Los mejores tenistas recorren las pistas de todo el mundo luchando por ir sumando puntos que les aúpen a lo más alto del Ranking ATP. En arcilla, en hierba o en pista dura estos torneos se agrupan en cuatro categorías: 250, 500, 1000 y Grand Slams.</desc>
 	</programme>
   <programme start="20260213063000 +0100" stop="20260213080000 +0100" channel="M+ Deportes 3">
     <title>M+ Deportes 3</title>
@@ -4478,11 +4578,6 @@
     <desc>Deportes,Otros deportes | 2022 | *6.4/10
 · M+ Ellas #V.</desc>
 	</programme>
-  <programme start="20260213033000 +0100" stop="20260213073000 +0100" channel="M+ Golf HD">
-    <title>DIRECTO Adelaide. Jornada 2. Parte 2 T2026 · LIV Golf</title>
-    <desc>Deportes,Golf | 2026 | TP | *5.2/10
-· El LIV Adelaida es sinónimo de pasión, público entregado y espectáculo. El equipo 100% español de los Fireballs intentará repetir la victoria del año pasado. Jon Rahm viene de ser 2º en Riyadh y David Puig, 4º.</desc>
-	</programme>
   <programme start="20260213073000 +0100" stop="20260213103000 +0100" channel="M+ Golf HD">
     <title>PIF Saudi Ladies International. Jornada 2 T2026 · Ladies European Tour</title>
     <desc>Deportes,Golf | 2026 | TP | *6.0/10
@@ -4628,10 +4723,10 @@
     <desc>Deportes,Golf | 2026 | TP | *5.2/10
 · El LIV Adelaida es sinónimo de pasión, público entregado y espectáculo. El equipo 100% español de los Fireballs intentará repetir la victoria del año pasado. Jon Rahm viene de ser 2º en Riyadh y David Puig, 4º.</desc>
 	</programme>
-  <programme start="20260213051900 +0100" stop="20260213072500 +0100" channel="DAZN F1 HD">
-    <title>Mundial de Fórmula 1 T2021 · GP de Emilia Romagna: Carrera</title>
-    <desc>Deportes,Motor | 2021 | TP | *7.2/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca.</desc>
+  <programme start="20260215073000 +0100" stop="20260215113000 +0100" channel="M+ Golf HD">
+    <title>PIF Saudi Ladies International. Jornada 4 T2026 · Ladies European Tour</title>
+    <desc>Deportes,Golf | 2026 | TP | *5.6/10
+· Comienza la temporada en el LET y lo hace por primera vez en Riyadh con el PIF Saudí Ladies International con un fuerte field con 8 españolas. Entre otras, Carlota Ciganda, Julia López y haciendo su debut como pro, Carolina Chacarra.</desc>
 	</programme>
   <programme start="20260213072500 +0100" stop="20260213093800 +0100" channel="DAZN F1 HD">
     <title>Mundial de Fórmula 1 T2024 · GP de Singapur: Carrera</title>
@@ -4848,6 +4943,11 @@
     <desc>Deportes,Motor | 2023 | TP | *6.6/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
+  <programme start="20260215064500 +0100" stop="20260215085700 +0100" channel="DAZN F1 HD">
+    <title>Mundial de Fórmula 1 T2024 · GP de Hungría: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
   <programme start="20260213060000 +0100" stop="20260213130000 +0100" channel="DAZN 1 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
@@ -5058,18 +5158,6 @@
   <programme start="20260215060000 +0100" stop="20260215100000 +0100" channel="DAZN 2 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260213060000 +0100" stop="20260213070000 +0100" channel="Eurosport 1 HD">
-    <title>10km Libre Salida por Intervalos F T2026 · Esquí de fondo - JJ OO Cortina Milán 2026</title>
-    <desc>Deportes,Esquí de fondo | 2026 | TP | *6.0/10
-· La modalidad más antigua del esquí se mantiene como una de las citas imprescindibles del programa olímpico. Las competiciones se desarrollan en Tesero, en la región del Val di Fiemme, y, por primera vez, hombres y mujeres compiten en mismas distancias.
-· País: Italia</desc>
-	</programme>
-  <programme start="20260213070000 +0100" stop="20260213073000 +0100" channel="Eurosport 1 HD">
-    <title>A Day At The Olympics T2026 · 12/02/2026</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
-· Los Juegos Olímpicos reúnen en Italia a los mejores deportistas blancos del planeta en el invierno de 2026. Este espacio repasa las imágenes y los mejores momentos de las competiciones en Milán Cortina.
-· País: Italia</desc>
 	</programme>
   <programme start="20260213073000 +0100" stop="20260213083000 +0100" channel="Eurosport 1 HD">
     <title>Supergigante F T2026 · Esquí alpino - JJ OO Cortina Milán 2026</title>
@@ -5337,16 +5425,16 @@
 · Los espectaculares vuelos de los saltadores son siempre una de las imágenes más icónicas de los Juegos Olímpicos de Invierno. Del 7 al 16 de febrero, los trampolines de Predazzo, en Val di Fiemme, acogen una cita que entrega seis oros.
 · País: Italia</desc>
 	</programme>
-  <programme start="20260213050000 +0100" stop="20260213063000 +0100" channel="Eurosport 2">
-    <title>Fase de grupos: Chequia - Canadá T2026 · Hockey sobre hielo M - JJ OO Cortina Milán 2026</title>
-    <desc>Deportes,Hockey hielo | 2026 | *6.4/10
-· El gran deporte por equipos de los Juegos Olímpicos de Invierno. La competición masculina cuenta con doce equipos que, del 11 al 22 de febrero, pelean en Milán por subir a lo más alto del cajón. Finlandia es la defensora del oro.
+  <programme start="20260215070000 +0100" stop="20260215073000 +0100" channel="Eurosport 1 HD">
+    <title>A Day At The Olympics T2026 · 14/02/2026</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Los Juegos Olímpicos reúnen en Italia a los mejores deportistas blancos del planeta en el invierno de 2026. Este espacio repasa las imágenes y los mejores momentos de las competiciones en Milán Cortina.
 · País: Italia</desc>
 	</programme>
-  <programme start="20260213063000 +0100" stop="20260213073000 +0100" channel="Eurosport 2">
-    <title>Moguls M - Final T2026 · Esquí acrobático - JJ OO Cortina Milán 2026</title>
-    <desc>Deportes,Deporte invierno | 2026 | *6.0/10
-· El esquí acrobático es uno de los deportes más visuales del programa olímpico. Cuenta con diferentes modalidades (moguls, halfpipe, aerials, Big Air y skicross) y reparte 15 medallas de oro. Los eventos se desarrollan en Livigno, en Valtellina.
+  <programme start="20260215073000 +0100" stop="20260215083000 +0100" channel="Eurosport 1 HD">
+    <title>Gigante M - Manga 2 T2026 · Esquí alpino - JJ OO Cortina Milán 2026</title>
+    <desc>Deportes,Esquí alpino | 2026 | *6.4/10
+· El deporte rey del programa olímpico de invierno. Los espectaculares eslálones, descensos y supergigantes ponen a prueba a los mejores esquiadores. Las carreras femeninas se realizan en el centro Tofane de Cortina d'Ampezzo; las masculinas, en Bormio.
 · País: Italia</desc>
 	</programme>
   <programme start="20260213073000 +0100" stop="20260213090000 +0100" channel="Eurosport 2">
@@ -5571,6 +5659,12 @@
     <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
 · La Vuelta a la Región de Murcia amplia este año su duración, con dos etapas que se disputan el 13 y el 14 de febrero. Englobada en el circuito europeo de la UCI, cuenta con una participación reseñable encabezada por Thomas Pidcock.
 · País: España</desc>
+	</programme>
+  <programme start="20260215063000 +0100" stop="20260215080000 +0100" channel="Eurosport 2">
+    <title>Dual Moguls F - Gran final T2026 · Esquí acrobático - JJ OO Cortina Milán 2026</title>
+    <desc>Deportes,Deporte invierno | *6.0/10
+· El esquí acrobático es uno de los deportes más visuales del programa olímpico. Cuenta con diferentes modalidades (moguls, halfpipe, aerials, Big Air y skicross) y reparte 15 medallas de oro. Los eventos se desarrollan en Livigno, en Valtellina.
+· País: Italia</desc>
 	</programme>
   <programme start="20260213061000 +0100" stop="20260213100000 +0100" channel="Teledeporte">
     <title>Teledeporte</title>
@@ -5964,14 +6058,6 @@
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260213052700 +0100" stop="20260213065000 +0100" channel="DARK">
-    <title>Bad Apples</title>
-    <desc>Cine,Terror,Acción | 2018 | +18
-· Durante la noche de Halloween, dos 'manzanas podridas' deciden realizar algunos trucos perversos en una casa de los suburbios que no celebra Halloween.
-· País: Estados Unidos
-· Dirección: Bryan Coyne.
-· Reparto: Brea Grant, Graham Skipper, Richard Riehle, Miles Dougal, Heather Dorff, Hannah Prichard, Alycia Lourim, Andrea Collins, Danielle Reverman, Bre Grant, Diane Ayala Goldner, Aly Fitzgerald.</desc>
-	</programme>
   <programme start="20260213065000 +0100" stop="20260213081600 +0100" channel="DARK">
     <title>Invocación mortal</title>
     <desc>Cine,Terror,Suspense | 2021 | +18
@@ -6264,31 +6350,13 @@
 · Dirección: Drew Mylrea.
 · Reparto: Stephen Moyer, Mark Famiglietti, Alicia Silverstone, Simon Lees, Benjamin Arthur, Drew Van Acker, Akaash Yadav.</desc>
 	</programme>
-  <programme start="20260213055100 +0100" stop="20260213061800 +0100" channel="Canal Cocina">
-    <title>Escuela Canal Cocina T5 E17 · El invitado perfecto</title>
-    <desc>Programa,Estilo de vida,Cocina | 2023 | TP
-· Sergio Fernández elabora dos recetas para ejemplificar los platos que podemos llevar a nuestros anfitriones: Mermelada de mango, naranja y jengibre y Trufas variadas.
-· País: España
-· Reparto: Sergio Fernández.</desc>
-	</programme>
-  <programme start="20260213061800 +0100" stop="20260213064200 +0100" channel="Canal Cocina">
-    <title>Escuela Canal Cocina T5 E18 · Postres sin horno</title>
-    <desc>Programa,Estilo de vida,Cocina | 2023 | TP
-· En la clase de hoy vamos a ver cómo podemos hacer postres deliciosos y económicos sin encender el horno. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Mousse de café y Semifrío de frambuesas.
-· País: España
-· Reparto: Sergio Fernández.</desc>
-	</programme>
-  <programme start="20260213064200 +0100" stop="20260213070100 +0100" channel="Canal Cocina">
-    <title>Canal Cocina Love Tartas de queso T1 E2</title>
-    <desc>Programa,Cocina | 2023 | TP
-· Tarta helada de queso con arándanos, Tarta de queso estilo japo con lima, Tarta de queso de cabra y fruta de la pasión y Tarta de queso con fresas en escabeche de agua de azahar.
-· País: España</desc>
-	</programme>
-  <programme start="20260213070100 +0100" stop="20260213073000 +0100" channel="Canal Cocina">
-    <title>Productos artesanos T2 E11</title>
-    <desc>Documental,Viajes y aventuras | 2020 | TP
-· Desvelamos todos los secretos de la elaboración tradicional del Requeixo (A Coruña), Berenjenas de Almagro (Ciudad Real) y Plancha de hojaldre (Madrid).
-· País: España</desc>
+  <programme start="20260215071100 +0100" stop="20260215083200 +0100" channel="DARK">
+    <title>Tucker &amp; Dale contra el mal</title>
+    <desc>Cine,Terror,Humor Negro | 2010 | +16 | *7.5/10
+· Tucker y Dale son dos amigos que están de vacaciones en una destartalada cabaña de la montaña. Un grupo de unniversitarios, pijos y detestables, los confunden con paletos asesinos de los bosques.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Eli Craig.
+· Reparto: Chelan Simmons, Tyler Labine, Katrina Bowden, Alan Tudyk, Philip Granger, Brandon Jay McLaren, Christie Laing, Jesse Moss, Travis Nelson, Alex Arsenault.</desc>
 	</programme>
   <programme start="20260213073000 +0100" stop="20260213080000 +0100" channel="Canal Cocina">
     <title>Quique al cubo T1 E11</title>
@@ -6942,6 +7010,34 @@
 · País: España
 · Reparto: Sergio Fernández.</desc>
 	</programme>
+  <programme start="20260215061800 +0100" stop="20260215064400 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T6 E17 · Sin gluten</title>
+    <desc>Programa,Estilo de vida,Cocina | 2024 | TP
+· En la clase de hoy elaboramos distintos platos sin gluten. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Blondie y Rosca de tacos fluten free.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260215064400 +0100" stop="20260215070000 +0100" channel="Canal Cocina">
+    <title>Canal Cocina Love Tacos T1 E2</title>
+    <desc>Programa,Cocina | 2023 | TP
+· Cuatro recetas con tacos: Tacos dorados de tinga de pollo, Taco de lomo con pimientos y quinoa con verduras, Tacos dulces de manzana y crema de arroz y Tacos baja California con salmón marinado.
+· País: España</desc>
+	</programme>
+  <programme start="20260215070000 +0100" stop="20260215073000 +0100" channel="Canal Cocina">
+    <title>La cuchara de Carmen T1 E21</title>
+    <desc>Programa,Cocina | 2023 | TP
+· En este episodio de La cuchara de Carmen, la cocinera Carmen López del Hierro elabora dos recetas: Harira marroquí y Marmitako de salmón con aceite de perejil.
+· País: España
+· Reparto: Carmen López del Hierro.</desc>
+	</programme>
+  <programme start="20260215073000 +0100" stop="20260215080000 +0100" channel="Canal Cocina">
+    <title>Canal Cocina de puerto en puerto T1 E4</title>
+    <desc>Programa,Estilo de vida,Cocina | 2014 | TP
+· El velero de Canal Cocina vuelve a navegar con destino Málaga, luego pone rumbo a Caleta de Vélez y al Rincón de la Victoria.
+· País: España
+· Reparto: Siobhan Finneran, Don Gilet, Jack Bannon, Varios int.
+· Producción: Stephen Brady.</desc>
+	</programme>
   <programme start="20260213060000 +0100" stop="20260213110000 +0100" channel="Tennis Channel">
     <title>Doha 2026 T2025 E9 · Quarterfinals</title>
     <desc>Deportes,Tenis | 2025 | TP
@@ -7055,10 +7151,6 @@
 · Transmisión de la edición 2025 del torneo de Doha.
 · País: QAT</desc>
 	</programme>
-  <programme start="20260213060000 +0100" stop="20260213070000 +0100" channel="ESPN">
-    <title>ESPN FC</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
   <programme start="20260213070000 +0100" stop="20260213080000 +0100" channel="ESPN">
     <title>SportsCenter</title>
     <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
@@ -7127,10 +7219,6 @@
     <title>SportsCenter (?)</title>
     <desc>... sin detalles</desc>
 	</programme>
-  <programme start="20260213060000 +0100" stop="20260213070000 +0100" channel="ESPN 2">
-    <title>Futbol Picante</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
   <programme start="20260213070000 +0100" stop="20260213080000 +0100" channel="ESPN 2">
     <title>ESPN FC</title>
     <desc>· Sin detalles...</desc>
@@ -7177,10 +7265,6 @@
 	</programme>
   <programme start="20260213210000 +0100" stop="20260214010000 +0100" channel="ESPN 2">
     <title>Segunda ronda · PGA Tour - AT&amp;T Pebble Beach Pro-Am</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-  <programme start="20260213060000 +0100" stop="20260213070000 +0100" channel="ESPN 4">
-    <title>Goles de la Eredivisie</title>
     <desc>· Sin detalles...</desc>
 	</programme>
   <programme start="20260213070000 +0100" stop="20260213080000 +0100" channel="ESPN 4">
@@ -8069,14 +8153,6 @@
     <desc>Estilo de vida | +12
 · O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a DAZN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.</desc>
 	</programme>
-  <programme start="20260213050526 +0000" stop="20260213052422 +0000" channel="DE | Rally TV">
-    <title>Onboard of the Rally: Takamoto Katstua SS14 - Safari Rally Kenya 2025</title>
-    <desc>Sports</desc>
-	</programme>
-  <programme start="20260213052422 +0000" stop="20260213061637 +0000" channel="DE | Rally TV">
-    <title>Best of Rally Argentina</title>
-    <desc>Sports</desc>
-	</programme>
   <programme start="20260213061637 +0000" stop="20260213070904 +0000" channel="DE | Rally TV">
     <title>Full Event Highlights - Rallye Monte-Carlo 2026</title>
     <desc>Sports
@@ -8516,10 +8592,22 @@
     <title>Episode 7: Boiling Point - More Than Machine</title>
     <desc>Sports</desc>
 	</programme>
-  <programme start="20260213060000 +0100" stop="20260213072600 +0100" channel="Onetoro">
-    <title>MÍ tío Jacinto</title>
-    <desc>Toros | +18
-· Jacinto es un pobre torero retirado, trágico y alcohólico, que sobrevive gracias a los cuidados de su sobrino. Un día puede volver a torear, pero no tiene dinero para alquilar el traje. Él y su sobrino deciden ir al rastro a probar suerte.</desc>
+  <programme start="20260215052407 +0000" stop="20260215055937 +0000" channel="DE | Rally TV">
+    <title>Episode 1: Defend &amp; Attack - More Than Machine S2</title>
+    <desc>Sports
+· The season begins, and a new king reigns. But on the brutal icy roads of the legendary Rallye Monte-Carlo, legends and rivals are closing in. WRC More than Machine Season 2 is here!</desc>
+	</programme>
+  <programme start="20260215055937 +0000" stop="20260215061500 +0000" channel="DE | Rally TV">
+    <title>Top 10 Moments of the 2025 Season- WRC 2025</title>
+    <desc>Sports</desc>
+	</programme>
+  <programme start="20260215061500 +0000" stop="20260215063300 +0000" channel="DE | Rally TV">
+    <title>Good morning rally fans! Studio from Service Park, Umeå - WRC Rallye Sweden 2026 - LIVE</title>
+    <desc>Sports</desc>
+	</programme>
+  <programme start="20260215063300 +0000" stop="20260215072400 +0000" channel="DE | Rally TV">
+    <title>SS16 - Västervik 1 - WRC Rallye Sweden 2026 - LIVE</title>
+    <desc>Sports</desc>
 	</programme>
   <programme start="20260213072600 +0100" stop="20260213082000 +0100" channel="Onetoro">
     <title>Conexión Dax (14/08/2025)</title>
@@ -8809,5 +8897,10 @@
     <title>Redifusión Recortes Santander 2024 (27/07/24)</title>
     <desc>Toros | +16
 · Redifusión Recortes Santander 2024 (27/07/24). Tercera Eliminatoria del campeonato nacional Onetoro desde la plaza de toros de Santander.</desc>
+	</programme>
+  <programme start="20260215062700 +0100" stop="20260215075700 +0100" channel="Onetoro">
+    <title>El Litri y su sombra.</title>
+    <desc>Toros | +16
+· Descendiente de una estirpe de toreros, su padre sin embargo le prohibió torear. Por ello, él hizo una promesa: triunfaría en los ruedos para llenar de orgullo a su padre. Pero el camino no ha sido fácil.</desc>
 	</programme>
 </tv>
