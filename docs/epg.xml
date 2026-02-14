@@ -33,6 +33,17 @@
 		<display-name>Antena 3 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png"/>
 	</channel>
+  <channel id="Telecinco HD">
+		<display-name>Telecinco</display-name>
+		<display-name>Telecinco.TV</display-name>
+		<display-name>Telecinco SD</display-name>
+		<display-name>Telecinco HD</display-name>
+		<display-name>Telecinco FHD</display-name>
+		<display-name>Telecinco UHD</display-name>
+		<display-name>Telecinco 720</display-name>
+		<display-name>Telecinco 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png"/>
+	</channel>
   <channel id="Caza y Pesca HD">
 		<display-name>Caza y Pesca</display-name>
 		<display-name>Caza y Pesca.TV</display-name>
@@ -351,17 +362,6 @@
 		<display-name>M+ Deportes 6 720</display-name>
 		<display-name>M+ Deportes 6 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png"/>
-	</channel>
-  <channel id="M+ Deportes 7">
-		<display-name>M+ Deportes 7</display-name>
-		<display-name>M+ Deportes 7.TV</display-name>
-		<display-name>M+ Deportes 7 SD</display-name>
-		<display-name>M+ Deportes 7 HD</display-name>
-		<display-name>M+ Deportes 7 FHD</display-name>
-		<display-name>M+ Deportes 7 UHD</display-name>
-		<display-name>M+ Deportes 7 720</display-name>
-		<display-name>M+ Deportes 7 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png"/>
 	</channel>
   <channel id="DAZN 3 HD">
 		<display-name>DAZN 3</display-name>
@@ -795,13 +795,12 @@
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
 	</programme>
-  <programme start="20260214070500 +0100" stop="20260214080000 +0100" channel="La 2">
-    <title>La odisea de las especias</title>
-    <desc>Cine,Cine documental | 2022 | TP | *6.6/10
-· Documental que recorre la presencia ibérica en las llamadas islas de la especiería y profundiza en el desconocido legado que aún perdura.
+  <programme start="20260216075000 +0100" stop="20260216103500 +0100" channel="La 1 HD">
+    <title>La hora de La 1: La hora de la actualidad T9</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.6/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
-· Dirección: Alberto Flechoso.
-· Productora: Atrevida Producciones, Radio Televisión Española (RTVE).</desc>
+· Dirección: Silvia Intxaurrondo.</desc>
 	</programme>
   <programme start="20260214080000 +0100" stop="20260214092000 +0100" channel="La 2">
     <title>Los conciertos de La 2 T25/26</title>
@@ -1268,23 +1267,19 @@
 · Programa que ofrece contenidos relacionados con el entretenimiento digital.
 · País: España</desc>
 	</programme>
-  <programme start="20260214070000 +0100" stop="20260214072500 +0100" channel="Antena 3 HD">
-    <title>Pelopicopata T1 E26</title>
-    <desc>Entretenimiento | 2004 | TP | *6.0/10
-· Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas.
-· País: España</desc>
+  <programme start="20260216071500 +0100" stop="20260216081000 +0100" channel="La 2">
+    <title>Hundidos</title>
+    <desc>Documentales,Ciencia tecnología | 2018 | TP | *5.8/10
+· El experto en buceo Karlos Simón descubre la historia de 13 grandes barcos hundidos. Esta serie documental combina aventura y documentación histórica y se adentra en el misterio y la belleza de las profundidades marinas.
+· País: España
+· Productora: Karlos Simón.</desc>
 	</programme>
-  <programme start="20260214072500 +0100" stop="20260214075000 +0100" channel="Antena 3 HD">
-    <title>Pelopicopata T1 E27</title>
-    <desc>Entretenimiento | 2004 | TP | *6.0/10
-· Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas.
-· País: España</desc>
-	</programme>
-  <programme start="20260214075000 +0100" stop="20260214081500 +0100" channel="Antena 3 HD">
-    <title>Pelopicopata T1 E28</title>
-    <desc>Entretenimiento | 2004 | TP | *6.2/10
-· Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas.
-· País: España</desc>
+  <programme start="20260216081000 +0100" stop="20260216090000 +0100" channel="La 2">
+    <title>Las caras salvajes</title>
+    <desc>Documentales,Naturaleza | 2023 | +12 | *5.8/10
+· El río Mashatu, en Botsuana, alberga un increíble elenco de criaturas.
+· País: Estados Unidos
+· Productora: Red Rock Films, Terra Mater Factual Studios.</desc>
 	</programme>
   <programme start="20260214081500 +0100" stop="20260214095500 +0100" channel="Antena 3 HD">
     <title>Los más</title>
@@ -1603,17 +1598,293 @@
 · País: España
 · Presenta: Manu Sánchez, Marina Monzón, Noor Ben Yessef.</desc>
 	</programme>
-  <programme start="20260214070500 +0100" stop="20260214073500 +0100" channel="Caza y Pesca HD">
-    <title>Al acecho caza T4 E4</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2026 | +7 | *6.4/10
-· La lluvia, el viento y la nieve están complicando las competiciones de estas fechas invernales. Aplazados galgos y cetrería, nos quedamos con las perdices de Llanos del Caudillo de mano de la sexta edición de su máster.
+  <programme start="20260214075500 +0100" stop="20260214083000 +0100" channel="Telecinco HD">
+    <title>Love Shopping TV T1 E41</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.0/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+	</programme>
+  <programme start="20260214083000 +0100" stop="20260214084500 +0100" channel="Telecinco HD">
+    <title>Aída y vuelta sin cámaras T1 E2</title>
+    <desc>Entretenimiento | 2026 | +12 | *5.4/10
+· Programa especial con motivo del estreno en cines de "Aída y vuelta".
 · País: España</desc>
 	</programme>
-  <programme start="20260214073500 +0100" stop="20260214080000 +0100" channel="Caza y Pesca HD">
-    <title>Perdiz salvaje con Braco Alemán</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2023 | +12 | *6.2/10
-· Podemos decir que le braco alemán es una de las razas para la caza menor mas polivalentes. Hoy acampañaremos a un Joven cazador Ismael a cazar la perdiz roja al norte de Cáceres.
+  <programme start="20260214084500 +0100" stop="20260214101500 +0100" channel="Telecinco HD">
+    <title>El Gran Show T1 E3</title>
+    <desc>Entretenimiento,Variedades | 2025 | +12 | *5.8/10
+· Programa de entretenimiento que destaca por su espontaneidad y capacidad de improvisación. Presenta a famosos y bailarines aficionados, conocidos como "soñadores", quienes trabajan juntos para cumplir sueños. Presentado por Dani Martínez.
+· País: España
+· Presenta: Dani Martínez.</desc>
+	</programme>
+  <programme start="20260214101500 +0100" stop="20260214112000 +0100" channel="Telecinco HD">
+    <title>Más Que Coches T30 E7</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.6/10
+· Informativo que abarca todos los ámbitos del sector del motor: deporte, consumo o salones.
+· País: España
+· Dirección: Gonzalo Serrano.</desc>
+	</programme>
+  <programme start="20260214112000 +0100" stop="20260214123000 +0100" channel="Telecinco HD">
+    <title>Casados a primera vista T1 E4</title>
+    <desc>Entretenimiento,Telerrealidad | 2026 | +12 | *6.2/10
+· Doce personas se ponen en manos de expertos que los emparejan en el momento de casarse.
 · País: España</desc>
+	</programme>
+  <programme start="20260214123000 +0100" stop="20260214135000 +0100" channel="Telecinco HD">
+    <title>El precio justo (diario) T2 E21</title>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Carlos Sobera premia a quien más se aproxime al valor de un artículo.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: FremantleMedia España.</desc>
+	</programme>
+  <programme start="20260214135000 +0100" stop="20260214150000 +0100" channel="Telecinco HD">
+    <title>¡Vaya fama! T2 E17</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | +16 | *6.4/10
+· Espacio que analiza las noticias de mayor impacto en el mundo del corazón con exclusivas, reportajes, investigaciones, conexiones en directo y los momentazos que protagonizan en el plató su equipo de colaboradores y reporteros.
+· País: España
+· Presenta: Cristina Lasvignes, Fran Ramírez.
+· Productora: Cuarzo Producciones.</desc>
+	</programme>
+  <programme start="20260214150000 +0100" stop="20260214153000 +0100" channel="Telecinco HD">
+    <title>Informativos Telecinco Fin de Semana</title>
+    <desc>Información,Informativo | *6.2/10
+· María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.
+· País: España
+· Presenta: María Casado, Laila Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+	</programme>
+  <programme start="20260214153000 +0100" stop="20260214154500 +0100" channel="Telecinco HD">
+    <title>El Desmarque Telecinco fin de semana T4 E35</title>
+    <desc>Deportes,Programa deportes | 2026 | *6.0/10
+· El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Luis García (Presentador).</desc>
+	</programme>
+  <programme start="20260214154500 +0100" stop="20260214160000 +0100" channel="Telecinco HD">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+	</programme>
+  <programme start="20260214160000 +0100" stop="20260214210000 +0100" channel="Telecinco HD">
+    <title>¡Fiesta! T6 E15</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
+· Magacín presentado por Àlex Blanquer y César Muñoz que se centra en el mundo del corazón y el entretenimiento.
+· País: España
+· Presenta: Àlex Blanquer, César Muñoz.
+· Productora: Unicorn Content.</desc>
+	</programme>
+  <programme start="20260214210000 +0100" stop="20260214213000 +0100" channel="Telecinco HD">
+    <title>Informativos Telecinco Fin de Semana noche</title>
+    <desc>Información,Informativo | 2025 | *6.2/10
+· María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.
+· País: España
+· Presenta: María Casado, Laila Jiménez.</desc>
+	</programme>
+  <programme start="20260214213000 +0100" stop="20260214214000 +0100" channel="Telecinco HD">
+    <title>El Desmarque Telecinco Fin de Semana Noche T4 E34</title>
+    <desc>Deportes,Programa deportes | 2026 | *6.0/10
+· El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Luis García (Presentador).</desc>
+	</programme>
+  <programme start="20260214214000 +0100" stop="20260214220000 +0100" channel="Telecinco HD">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+	</programme>
+  <programme start="20260214220000 +0100" stop="20260215004500 +0100" channel="Telecinco HD">
+    <title>Got Talent España T11 E6</title>
+    <desc>Entretenimiento,Concurso | 2026 | +7 | *6.0/10
+· Concurso que busca nuevas promesas de diferentes disciplinas artísticas en España.
+· País: España
+· Presenta: Santi Millán.</desc>
+	</programme>
+  <programme start="20260215004500 +0100" stop="20260215020000 +0100" channel="Telecinco HD">
+    <title>Casados a primera vista T1 E4</title>
+    <desc>Entretenimiento,Telerrealidad | 2026 | +12 | *6.0/10
+· Doce personas se ponen en manos de expertos que los emparejan en el momento de casarse.
+· País: España</desc>
+	</programme>
+  <programme start="20260215020000 +0100" stop="20260215022500 +0100" channel="Telecinco HD">
+    <title>Gran Madrid Show T3 E47</title>
+    <desc>Entretenimiento | 2026 | +18
+· Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.</desc>
+	</programme>
+  <programme start="20260215022500 +0100" stop="20260215024000 +0100" channel="Telecinco HD">
+    <title>El rey del mando T1 E14</title>
+    <desc>Entretenimiento,Zapping | 2025 | +16 | *5.8/10
+· Programa de zapping.
+· País: España</desc>
+	</programme>
+  <programme start="20260215024000 +0100" stop="20260215024500 +0100" channel="Telecinco HD">
+    <title>Horóscopo de Esperanza Gracia</title>
+    <desc>Ocio y Aficiones,Esoterismo | 2021 | +18 | *6.0/10
+· La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.
+· País: España
+· Presenta: Esperanza Gracia.</desc>
+	</programme>
+  <programme start="20260215024500 +0100" stop="20260215031500 +0100" channel="Telecinco HD">
+    <title>Love Shopping TV T1 E46</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+	</programme>
+  <programme start="20260215031500 +0100" stop="20260215034500 +0100" channel="Telecinco HD">
+    <title>Love Shopping TV T1 E45</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+	</programme>
+  <programme start="20260215034500 +0100" stop="20260215074000 +0100" channel="Telecinco HD">
+    <title>Miramimúsica</title>
+    <desc>Música,Programa de música | 2016 | TP | *6.4/10
+· Programa musical que se emite de madrugada.
+· País: España</desc>
+	</programme>
+  <programme start="20260215074000 +0100" stop="20260215080000 +0100" channel="Telecinco HD">
+    <title>Enphorma T1 E34</title>
+    <desc>Ocio y Aficiones,Salud y bienestar | 2023 | TP | *6.0/10
+· Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+	</programme>
+  <programme start="20260215080000 +0100" stop="20260215083500 +0100" channel="Telecinco HD">
+    <title>Love Shopping TV T1 E44</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+	</programme>
+  <programme start="20260215083500 +0100" stop="20260215085000 +0100" channel="Telecinco HD">
+    <title>Got Talent España. Momentazos T10 E7</title>
+    <desc>Entretenimiento,Concurso | 2024 | +7 | *5.4/10
+· La adaptación española del formato internacional "Got Talent" busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.
+· País: España</desc>
+	</programme>
+  <programme start="20260215085000 +0100" stop="20260215094500 +0100" channel="Telecinco HD">
+    <title>Got Talent España. Momentazos T10 E8</title>
+    <desc>Entretenimiento,Concurso | 2024 | +7 | *6.2/10
+· La adaptación española del formato internacional "Got Talent" busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.
+· País: España</desc>
+	</programme>
+  <programme start="20260215094500 +0100" stop="20260215123000 +0100" channel="Telecinco HD">
+    <title>Got Talent: All-Stars T1 E6</title>
+    <desc>Entretenimiento,Concurso | 2023 | +7 | *6.8/10
+· El actor Luis Zahera es el encargado de elegir a uno de los dos finalistas de la noche y Edurne en esta ocasión la que determine la identidad del segundo entre los tres más votados por el público del plató.</desc>
+	</programme>
+  <programme start="20260215123000 +0100" stop="20260215135000 +0100" channel="Telecinco HD">
+    <title>El precio justo (diario) T2 E22</title>
+    <desc>Entretenimiento,Concurso | 2026 | TP
+· Carlos Sobera premia a quien más se aproxime al valor de un artículo.</desc>
+	</programme>
+  <programme start="20260215135000 +0100" stop="20260215150000 +0100" channel="Telecinco HD">
+    <title>¡Vaya fama! T2 E18</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | +16
+· Espacio que analiza las noticias de mayor impacto en el mundo del corazón con exclusivas, reportajes, investigaciones, conexiones en directo y los momentazos que protagonizan en el plató su equipo de colaboradores y reporteros.</desc>
+	</programme>
+  <programme start="20260215150000 +0100" stop="20260215153500 +0100" channel="Telecinco HD">
+    <title>Informativos Telecinco Fin de Semana</title>
+    <desc>Información,Informativo | *6.2/10
+· María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.
+· País: España
+· Presenta: María Casado, Laila Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+	</programme>
+  <programme start="20260215153500 +0100" stop="20260215154500 +0100" channel="Telecinco HD">
+    <title>El Desmarque Telecinco fin de semana T4 E36</title>
+    <desc>Deportes,Programa deportes | 2026
+· El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.</desc>
+	</programme>
+  <programme start="20260215154500 +0100" stop="20260215160000 +0100" channel="Telecinco HD">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+	</programme>
+  <programme start="20260215160000 +0100" stop="20260215210000 +0100" channel="Telecinco HD">
+    <title>¡Fiesta! T6 E16</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16
+· Magacín presentado por Àlex Blanquer y César Muñoz que se centra en el mundo del corazón y el entretenimiento.</desc>
+	</programme>
+  <programme start="20260215210000 +0100" stop="20260215213000 +0100" channel="Telecinco HD">
+    <title>Informativos Telecinco Fin de Semana noche</title>
+    <desc>Información,Informativo | 2025 | *6.2/10
+· María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.
+· País: España
+· Presenta: María Casado, Laila Jiménez.</desc>
+	</programme>
+  <programme start="20260215213000 +0100" stop="20260215214000 +0100" channel="Telecinco HD">
+    <title>El Desmarque Telecinco Fin de Semana Noche T4 E35</title>
+    <desc>Deportes,Programa deportes | 2026
+· El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.</desc>
+	</programme>
+  <programme start="20260215214000 +0100" stop="20260215220000 +0100" channel="Telecinco HD">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+	</programme>
+  <programme start="20260215220000 +0100" stop="20260216020000 +0100" channel="Telecinco HD">
+    <title>GH dúo. Cuentas pendientes T1 E6</title>
+    <desc>Entretenimiento,Telerrealidad | 2026 | +16
+· El popular concurso de convivencia vuelve encerrando a varias parejas de famosos en la casa de Tres Cantos.</desc>
+	</programme>
+  <programme start="20260216020000 +0100" stop="20260216022500 +0100" channel="Telecinco HD">
+    <title>Gran Madrid Show T3</title>
+    <desc>Entretenimiento | 2025 | +18 | *6.2/10
+· Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+	</programme>
+  <programme start="20260216022500 +0100" stop="20260216024000 +0100" channel="Telecinco HD">
+    <title>El rey del mando T1</title>
+    <desc>Entretenimiento,Zapping | 2025 | +16 | *6.2/10
+· Programa de zapping.
+· País: España</desc>
+	</programme>
+  <programme start="20260216024000 +0100" stop="20260216024500 +0100" channel="Telecinco HD">
+    <title>Horóscopo de Esperanza Gracia</title>
+    <desc>Ocio y Aficiones,Esoterismo | 2021 | +18 | *6.0/10
+· La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.
+· País: España
+· Presenta: Esperanza Gracia.</desc>
+	</programme>
+  <programme start="20260216024500 +0100" stop="20260216031500 +0100" channel="Telecinco HD">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.6/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+	</programme>
+  <programme start="20260216031500 +0100" stop="20260216034500 +0100" channel="Telecinco HD">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.6/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+	</programme>
+  <programme start="20260216034500 +0100" stop="20260216054500 +0100" channel="Telecinco HD">
+    <title>Miramimúsica</title>
+    <desc>Música,Programa de música | 2016 | TP | *6.4/10
+· Programa musical que se emite de madrugada.
+· País: España</desc>
+	</programme>
+  <programme start="20260216054500 +0100" stop="20260216060000 +0100" channel="Telecinco HD">
+    <title>Enphorma T1</title>
+    <desc>Ocio y Aficiones,Salud y bienestar | 2023 | TP | *6.0/10
+· Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+	</programme>
+  <programme start="20260216060000 +0100" stop="20260216080000 +0100" channel="Telecinco HD">
+    <title>Informativos Telecinco matinal</title>
+    <desc>Información,Informativo | 2025 | *5.8/10
+· Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.
+· País: España
+· Presenta: Bricio Segovia.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+	</programme>
+  <programme start="20260216080000 +0100" stop="20260216090000 +0100" channel="Telecinco HD">
+    <title>La mirada crítica T5</title>
+    <desc>Información,Informativo | 2025 | +16 | *5.8/10
+· José Luis Vidal ofrece lo más destacado de la actualidad política, económica y social, entrevistas con los protagonistas del día y una tertulia diversa y plural.
+· País: España
+· Presenta: Ana Terradillos, José Luis Vidal, Antonio Texeira.</desc>
 	</programme>
   <programme start="20260214080000 +0100" stop="20260214083000 +0100" channel="Caza y Pesca HD">
     <title>Los vientos del Setter</title>
@@ -2194,24 +2465,17 @@
 · Podemos decir que le braco alemán es una de las razas para la caza menor mas polivalentes. Hoy acampañaremos a un Joven cazador Ismael a cazar la perdiz roja al norte de Cáceres.
 · País: España</desc>
 	</programme>
-  <programme start="20260214070000 +0100" stop="20260214072000 +0100" channel="Aragón TV">
-    <title>Aragón deportes 2</title>
-    <desc>Deportes,Programa deportes | 2022 | *6.0/10
-· Toda la información deportiva de Aragón, sin perder de vista lo que ocurre en España y en el mundo.
-· País: España
-· Presenta: Jorge San Martín.</desc>
-	</programme>
-  <programme start="20260214072000 +0100" stop="20260214073000 +0100" channel="Aragón TV">
-    <title>El tiempo 2</title>
-    <desc>Información,Meteorología | 2022 | *6.0/10
-· Segunda edición del informativo meteorológico de Aragón TV.
+  <programme start="20260216073000 +0100" stop="20260216080000 +0100" channel="Caza y Pesca HD">
+    <title>Aren T3 · Arén extremo</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2025 | +12 | *6.0/10
+· La Colla de Arén caza en un vasto territorio donde en ocasiones la caza se vuelve extrema por la orografía del terreno, algo que no amedranta a los cazadores...
 · País: España</desc>
 	</programme>
-  <programme start="20260214073000 +0100" stop="20260214082000 +0100" channel="Aragón TV">
-    <title>Iconos de la Vida Silvestre · Grandes felinos de África</title>
-    <desc>Documentales,Naturaleza | 2012 | TP | *6.2/10
-· Los grandes felinos de África han desarrollado estrategias especializadas que les permiten coexistir.
-· País: Estados Unidos</desc>
+  <programme start="20260216080000 +0100" stop="20260216083000 +0100" channel="Caza y Pesca HD">
+    <title>Locos por el 20. Especial Argentina T3 · Patos de arrozal</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2024 | +12 | *5.6/10
+· los patos de los arrozales pondrán a prueba tanto escopetas como cartuchos de este pequeño calibre en unas jornadas donde la diversidad de patos ya justifican el viaje.
+· País: España</desc>
 	</programme>
   <programme start="20260214082000 +0100" stop="20260214084800 +0100" channel="Aragón TV">
     <title>Los secretos de las piedras E14</title>
@@ -2617,29 +2881,24 @@
 · País: España
 · Presenta: Jorge San Martín.</desc>
 	</programme>
-  <programme start="20260214062000 +0100" stop="20260214072100 +0100" channel="Movistar Plus+ HD">
-    <title>James Dean: un icono eterno</title>
-    <desc>Documentales,Biografía | 2025 | +12 | *6.2/10
-· James Dean murió a los 24 años tras protagonizar tan solo tres películas. Sin embargo, setenta años después, sigue siendo un icono cuya influencia persiste hasta hoy.
-· País: Francia
-· Dirección: Cyril Leuthy.</desc>
+  <programme start="20260216072000 +0100" stop="20260216073000 +0100" channel="Aragón TV">
+    <title>El tiempo 2</title>
+    <desc>Información,Meteorología | 2022 | *6.0/10
+· Segunda edición del informativo meteorológico de Aragón TV.
+· País: España</desc>
 	</programme>
-  <programme start="20260214072100 +0100" stop="20260214074200 +0100" channel="Movistar Plus+ HD">
-    <title>Una cabeza en la pared</title>
-    <desc>Cortometrajes,Corto drama | 2024 | +7 | *6.4/10
-· Tres años después de la abolición de los toros en España, el sueño de Rafael Jesús se desvanece. Desorientado, recorre un mundo que ya no tiene lugar para él.
-· País: España
-· Dirección: Manuel Manrique.
-· Reparto: Nacho Sánchez, Ángela Cervantes, Sara Ese, Julio Arnau, Lucas Torres.
-· Guion: Itziar Sanjuán.
-· Productora: Inaudita.</desc>
+  <programme start="20260216073000 +0100" stop="20260216080000 +0100" channel="Aragón TV">
+    <title>El campo es nuestro, fin de semana T1 E48</title>
+    <desc>Ocio y Aficiones,Naturaleza | 2026 | TP | *6.0/10
+· Programa que muestra el pasado, el presente y el futuro de las tierras de Aragón dando voz a gente con experiencia en el mundo de la agricultura y la ganadería y recogiendo las mejores imágenes de la naturaleza de Aragón.
+· País: España</desc>
 	</programme>
-  <programme start="20260214074200 +0100" stop="20260214080500 +0100" channel="Movistar Plus+ HD">
-    <title>Al encuentro de T1 · Alba Flores</title>
-    <desc>Cine,Programa de cine | 2025 | +7 | *4.4/10
-· Cristina Teva y Alba Flores repasan su carrera artística, que empezó en su adolescencia, disfrutó de un éxito descomunal con dos series de TV y está en un proceso de madurez como showrunner del documental sobre su padre "Flores para Antonio".
+  <programme start="20260216080000 +0100" stop="20260216100000 +0100" channel="Aragón TV">
+    <title>Buenos días Aragón T25/26 E3967</title>
+    <desc>Información,Informativo | 2026
+· Espacio matinal que ofrece la actualidad de la jornada, las mejores imágenes e historias de las últimas horas y un avance de las principales previsiones del día que comienza, así como un resumen de las noticias deportivas.
 · País: España
-· Presenta: Cristina Teva.</desc>
+· Presenta: Manuel Gómez, Nerea Resa.</desc>
 	</programme>
   <programme start="20260214080500 +0100" stop="20260214085700 +0100" channel="Movistar Plus+ HD">
     <title>Requisitos para ser azafata E1</title>
@@ -2957,11 +3216,19 @@
 · Presenta: Cristina Teva.
 · Productora: Movistar+.</desc>
 	</programme>
-  <programme start="20260214060500 +0100" stop="20260214074500 +0100" channel="M+ Vamos HD">
-    <title>Euroliga de baloncesto T25/26 · Jornada 28: Valencia - ASVEL</title>
-    <desc>Deportes,Baloncesto | TP | *6.4/10
-· Valencia Basket quiere seguir siendo la gran revelación de la temporada en la Euroliga. Los taronjas reciben al ASVEL francés, buscando mantener su tercera posición, a dos triunfos del Fenerbahçe, líder de la competicón.
-· País: España</desc>
+  <programme start="20260216072000 +0100" stop="20260216081700 +0100" channel="Movistar Plus+ HD">
+    <title>Los oligarcas rusos del petróleo · Los siete banqueros</title>
+    <desc>Documentales,Actualidad | 2024 | +12 | *6.2/10
+· ¿Cómo consiguieron los oligarcas rusos hacerse con las enormes reservas de petróleo y gas del país? ¿Qué pacto hicieron con Putin? ¿Y cómo financian su gran guerra contra Occidente?
+· País: Alemania
+· Dirección: Jérôme Fritel.</desc>
+	</programme>
+  <programme start="20260216081700 +0100" stop="20260216091100 +0100" channel="Movistar Plus+ HD">
+    <title>Los oligarcas rusos del petróleo · La conquista de occidente</title>
+    <desc>Documentales,Actualidad | 2024 | +12 | *5.8/10
+· Esta serie documental nos muestra las últimas cuatro décadas de la historia económica y financiera de Rusia, a través del nacimiento, ascenso y caída de sus oligarcas.
+· País: Alemania
+· Dirección: Jérôme Fritel.</desc>
 	</programme>
   <programme start="20260214074500 +0100" stop="20260214083500 +0100" channel="M+ Vamos HD">
     <title>Informe Plus+. Eterno Wilfred</title>
@@ -3162,12 +3429,6 @@
     <desc>Deportes,Fútbol | 2025 | TP | *6.4/10
 · La Liga Profesional Saudí 2025-26 es la 50.ª edición del Campeonato de Fútbol de Arabia Saudí, la máxima división del fútbol saudí desde su fundación en 1976. El actual campeón es Al-Ittihad.
 · País: Arabia Saudí</desc>
-	</programme>
-  <programme start="20260214061300 +0100" stop="20260214080000 +0100" channel="M+ LaLiga HD">
-    <title>LALIGA EA SPORTS T25/26 · Jornada 23: Real Sociedad - Elche</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
-· La Real Sociedad, clasificada para las semifinales de Copa e invicta con Matzarazzo, recibe al Elche, sin triunfos en los últimos cinco partidos de liga y a dos puntos del descenso.
-· País: España</desc>
 	</programme>
   <programme start="20260214080000 +0100" stop="20260214090000 +0100" channel="M+ LaLiga HD">
     <title>Informe Plus+. Cucu...Cucurella</title>
@@ -3425,6 +3686,13 @@
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · Duelo directo por consolidarse en posiciones europeas. La buena temporada de los dos clubes necesita el refrendo de una plaza en Europa y es parte de lo que está en juego en Cornellà-El Prat. Manolo Glez. y Claudio Giráldez ponen a prueba sus opciones.
 · País: España</desc>
+	</programme>
+  <programme start="20260216080000 +0100" stop="20260216091000 +0100" channel="M+ LaLiga HD">
+    <title>DeportePlus+ con Juanma Castaño T25/26 E19</title>
+    <desc>Deportes,Programa deportes | TP | *6.0/10
+· Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
 	</programme>
   <programme start="20260214060000 +0100" stop="20260214120000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LALIGA</title>
@@ -3836,10 +4104,6 @@
 · La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
 · País: España</desc>
 	</programme>
-  <programme start="20260214000000 +0100" stop="20260214080000 +0100" channel="M+ LaLiga 2 HD">
-    <title>M+ LALIGA 2</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
   <programme start="20260214080000 +0100" stop="20260214200000 +0100" channel="M+ LaLiga 2 HD">
     <title>M+ LALIGA 2</title>
     <desc>Deportes,Fútbol | TP | *6.0/10
@@ -3876,10 +4140,6 @@
 	</programme>
   <programme start="20260216000000 +0100" stop="20260216120000 +0100" channel="M+ LaLiga 2 HD">
     <title>M+ LALIGA 2</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260214041500 +0100" stop="20260214081500 +0100" channel="DAZN LaLiga 2 HD">
-    <title>DAZN LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260214081500 +0100" stop="20260214121500 +0100" channel="DAZN LaLiga 2 HD">
@@ -4129,11 +4389,6 @@
 · La Liga Profesional Saudí 2025-26 es la 50.ª edición del Campeonato de Fútbol de Arabia Saudí, la máxima división del fútbol saudí desde su fundación en 1976. El actual campeón es Al-Ittihad.
 · País: Arabia Saudí</desc>
 	</programme>
-  <programme start="20260213220000 +0100" stop="20260214080000 +0100" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>Deportes,Fútbol | TP | *6.2/10
-· M+ Liga de Campeones 2 -.</desc>
-	</programme>
   <programme start="20260214080000 +0100" stop="20260214200000 +0100" channel="M+ Liga de Campeones 2 HD">
     <title>M+ Liga de Campeones 2</title>
     <desc>· Programa por determinar...</desc>
@@ -4173,12 +4428,6 @@
   <programme start="20260216000000 +0100" stop="20260216120000 +0100" channel="M+ Liga de Campeones 3 HD">
     <title>M+ Liga de Campeones 3</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260214063000 +0100" stop="20260214080000 +0100" channel="M+ Deportes HD">
-    <title>NCAA Femenina T25/26 · Temporada regular: Duke - Louisville</title>
-    <desc>Deportes,Baloncesto | 2025 | TP | *6.0/10
-· Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.
-· País: Estados Unidos</desc>
 	</programme>
   <programme start="20260214080000 +0100" stop="20260214100000 +0100" channel="M+ Deportes HD">
     <title>Torneo de Rotterdam T2026 · TBC</title>
@@ -4389,10 +4638,10 @@
     <desc>Deportes,Rugby | 2025 | TP | *6.2/10
 · Duelo en la parte alta de la clasificación en la jornada 11 de la Liga Iberdrola de rugby femenino con el enfrentamiento entre Simón Verde Sport Cocos Sevilla, cuarto clasificado, y Silicius Majadahonda, que ocupa el tercer puesto.</desc>
 	</programme>
-  <programme start="20260214053000 +0100" stop="20260214080000 +0100" channel="M+ Deportes 2 HD">
-    <title>M+ Deportes 2</title>
-    <desc>Deportes,Otros deportes | 2019 | TP | *5.8/10
-· M+ Deportes 2 -.</desc>
+  <programme start="20260216080000 +0100" stop="20260216093000 +0100" channel="M+ Deportes HD">
+    <title>Auckland: Jornada 1 T2026 · SailGP</title>
+    <desc>Deportes,Vela | 2025 | TP | *6.0/10
+· Una competición náutica que enfrenta por países a los tripulantes de catamaranes F50. En la temporada 23/24, el certamen celebra su cuarta edición y visita costas tan icónicas como las de Bermuda, Chicago, Sydney, Cádiz o San Francisco.</desc>
 	</programme>
   <programme start="20260214080000 +0100" stop="20260214150500 +0100" channel="M+ Deportes 2 HD">
     <title>M+ Deportes 2</title>
@@ -4454,10 +4703,10 @@
     <desc>Deportes,Otros deportes | 2019 | TP | *5.8/10
 · M+ Deportes 2 -.</desc>
 	</programme>
-  <programme start="20260213214500 +0100" stop="20260214080000 +0100" channel="M+ Deportes 3">
-    <title>M+ Deportes 3</title>
-    <desc>Deportes,Otros deportes | 2019 | TP | *6.0/10
-· M+ Deportes 3 -.</desc>
+  <programme start="20260216080000 +0100" stop="20260216140000 +0100" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>Deportes,Otros deportes | 2019 | TP | *5.8/10
+· M+ Deportes 2 -.</desc>
 	</programme>
   <programme start="20260214080000 +0100" stop="20260214185500 +0100" channel="M+ Deportes 3">
     <title>M+ Deportes 3</title>
@@ -4500,15 +4749,9 @@
     <desc>Deportes,Otros deportes | 2019 | TP | *6.0/10
 · M+ Deportes 3 -.</desc>
 	</programme>
-  <programme start="20260214065500 +0100" stop="20260214072200 +0100" channel="M+ Ellas Vamos HD">
-    <title>DIRECTO Femenino: China - Argentina VO T25/26 · World Rugby Sevens Series</title>
-    <desc>Deportes,Rugby | 2023 | TP | *5.6/10
-· Las mejores selecciones de Rugby a 7 del planeta, con España entre ellas, miden sus fuerzas en las Series Mundiales de Seven 2025-26. Los especialistas del Seven nos ofrecen jugadas de otra galaxia: ensayos, placajes, rupturas, pases o contrapiés.</desc>
-	</programme>
-  <programme start="20260214072200 +0100" stop="20260214075700 +0100" channel="M+ Ellas Vamos HD">
-    <title>DIRECTO Femenino: España - Sudáfrica VO T25/26 · World Rugby Sevens Series</title>
-    <desc>Deportes,Rugby | 2023 | TP | *6.2/10
-· Las mejores selecciones de Rugby a 7 del planeta, con España entre ellas, miden sus fuerzas en las Series Mundiales de Seven 2025-26. Los especialistas del Seven nos ofrecen jugadas de otra galaxia: ensayos, placajes, rupturas, pases o contrapiés.</desc>
+  <programme start="20260216080000 +0100" stop="20260216200000 +0100" channel="M+ Deportes 3">
+    <title>M+ Deportes 3</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260214075700 +0100" stop="20260214100000 +0100" channel="M+ Ellas Vamos HD">
     <title>M+ Ellas #V</title>
@@ -4657,10 +4900,9 @@
     <desc>Deportes,Otros deportes | 2022 | *6.4/10
 · M+ Ellas #V.</desc>
 	</programme>
-  <programme start="20260214033000 +0100" stop="20260214073000 +0100" channel="M+ Golf HD">
-    <title>DIRECTO Adelaide. Jornada 3. Parte 2 T2026 · LIV Golf</title>
-    <desc>Deportes,Golf | 2026 | TP | *5.8/10
-· El LIV Adelaida es sinónimo de pasión, público entregado y espectáculo. El equipo 100% español de los Fireballs intentará repetir la victoria del año pasado. Jon Rahm viene de ser 2º en Riyadh y David Puig, 4º.</desc>
+  <programme start="20260216080000 +0100" stop="20260216200000 +0100" channel="M+ Ellas Vamos HD">
+    <title>M+ Ellas V</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260214073000 +0100" stop="20260214093000 +0100" channel="M+ Golf HD">
     <title>PIF Saudi Ladies International. Jornada 3 T2026 · Ladies European Tour</title>
@@ -4788,11 +5030,6 @@
     <title>M+ Golf</title>
     <desc>Sin clasificar,SIN CLASIFICAR | *6.0/10
 · M+ Golf.</desc>
-	</programme>
-  <programme start="20260214060000 +0100" stop="20260214081500 +0100" channel="DAZN F1 HD">
-    <title>Mundial de Fórmula 1 T2023 · GP de México: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP | *6.4/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
   <programme start="20260214081500 +0100" stop="20260214084000 +0100" channel="DAZN F1 HD">
     <title>True Driver T2024 · Ayrton Senna: 30 años de Eterna Leyenda</title>
@@ -4999,6 +5236,11 @@
     <desc>Deportes,Motor | 2022 | TP | *6.6/10
 · Sexta prueba de la temporada en el Circuit de Barcelona-Catalunya que se celebra por 32º vez de forma consecutiva. Max Verstappen ha ganado las dos últimas carreras y tres en total en lo que llevamos de campeonato. Aún así, Charles Leclerc es el líder.
 · País: España</desc>
+	</programme>
+  <programme start="20260216080500 +0100" stop="20260216100500 +0100" channel="DAZN F1 HD">
+    <title>Mundial de Fórmula 1 T2023 · GP de Las Vegas: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
   <programme start="20260214060000 +0100" stop="20260214115000 +0100" channel="DAZN 1 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
@@ -5242,12 +5484,6 @@
   <programme start="20260216060000 +0100" stop="20260216100000 +0100" channel="DAZN 2 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260214070000 +0100" stop="20260214073000 +0100" channel="Eurosport 1 HD">
-    <title>A Day At The Olympics T2026 · 13/02/2026</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
-· Los Juegos Olímpicos reúnen en Italia a los mejores deportistas blancos del planeta en el invierno de 2026. Este espacio repasa las imágenes y los mejores momentos de las competiciones en Milán Cortina.
-· País: Italia</desc>
 	</programme>
   <programme start="20260214073000 +0100" stop="20260214083000 +0100" channel="Eurosport 1 HD">
     <title>Esprint 10 km M T2026 · Biatlón - JJ OO Cortina Milán 2026</title>
@@ -5551,10 +5787,10 @@
 · Los Juegos Olímpicos reúnen en Italia a los mejores deportistas blancos del planeta en el invierno de 2026. Este espacio repasa las imágenes y los mejores momentos de las competiciones en Milán Cortina.
 · País: Italia</desc>
 	</programme>
-  <programme start="20260214063000 +0100" stop="20260214080000 +0100" channel="Eurosport 2">
-    <title>Halfpipe M - Final T2026 · Snowboard - JJ OO Cortina Milán 2026</title>
-    <desc>Deportes,Snowboard | 2026 | *5.8/10
-· El snowboard es uno de los deportes más populares del programa olímpico. Cuenta con diferentes modalidades (slopestyle, halfpipe, eslalon paralelo, Big Air y cross) y reparte 11 medallas de oro. Los eventos se desarrollan en Livigno.
+  <programme start="20260216073000 +0100" stop="20260216083000 +0100" channel="Eurosport 1 HD">
+    <title>Gigante F - Manga 2 T2026 · Esquí alpino - JJ OO Cortina Milán 2026</title>
+    <desc>Deportes,Esquí alpino | 2026 | *6.2/10
+· El deporte rey del programa olímpico de invierno. Los espectaculares eslálones, descensos y supergigantes ponen a prueba a los mejores esquiadores. Las carreras femeninas se realizan en el centro Tofane de Cortina d'Ampezzo; las masculinas, en Bormio.
 · País: Italia</desc>
 	</programme>
   <programme start="20260214080000 +0100" stop="20260214093000 +0100" channel="Eurosport 2">
@@ -5777,6 +6013,12 @@
 · El Tempodrom de la ciudad de Berlín alberga la disputa del Masters de Alemania del 26 de enero al 1 de febrero. El torneo pone más de 550.000 libras esterlinas en juego, de las cuales 100.000 son para el ganador. Kyren Wilson es el defensor del título.
 · País: Alemania</desc>
 	</programme>
+  <programme start="20260216080000 +0100" stop="20260216090000 +0100" channel="Eurosport 2">
+    <title>Etapa 2 - Murcia - Santomera T2026 · Vuelta a la Región de Murcia</title>
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
+· La Vuelta a la Región de Murcia amplia este año su duración, con dos etapas que se disputan el 13 y el 14 de febrero. Englobada en el circuito europeo de la UCI, cuenta con una participación reseñable encabezada por Thomas Pidcock.
+· País: España</desc>
+	</programme>
   <programme start="20260214062000 +0100" stop="20260214100000 +0100" channel="Teledeporte">
     <title>Teledeporte</title>
     <desc>Información,Deportes | TP | *6.2/10
@@ -5902,11 +6144,6 @@
     <title>M+ LALIGA 4</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260213213000 +0100" stop="20260214080000 +0100" channel="M+ Deportes 4">
-    <title>M+ Deportes 4</title>
-    <desc>Deportes,Otros deportes | 2019 | TP | *6.2/10
-· M+ Deportes 4 -.</desc>
-	</programme>
   <programme start="20260214080000 +0100" stop="20260214200000 +0100" channel="M+ Deportes 4">
     <title>M+ Deportes 4</title>
     <desc>· Programa por determinar...</desc>
@@ -5944,6 +6181,10 @@
     <desc>Deportes,Otros deportes | 2019 | TP | *6.2/10
 · M+ Deportes 4 -.</desc>
 	</programme>
+  <programme start="20260216080000 +0100" stop="20260216200000 +0100" channel="M+ Deportes 4">
+    <title>M+ Deportes 4</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
   <programme start="20260214065500 +0100" stop="20260214160000 +0100" channel="M+ Deportes 5">
     <title>DIRECTO Nairobi. Día 1 (VO) T25/26 · World Rugby Sevens Series</title>
     <desc>Deportes,Rugby | 2023 | TP | *5.8/10
@@ -5971,11 +6212,6 @@
     <title>M+ Deportes 5</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260213223000 +0100" stop="20260214080000 +0100" channel="M+ Deportes 6">
-    <title>M+ Deportes 6</title>
-    <desc>Deportes,Otros deportes | 2019 | TP | *6.4/10
-· M+ Deportes 6 -.</desc>
-	</programme>
   <programme start="20260214080000 +0100" stop="20260214200000 +0100" channel="M+ Deportes 6">
     <title>M+ Deportes 6</title>
     <desc>· Programa por determinar...</desc>
@@ -5994,31 +6230,6 @@
 	</programme>
   <programme start="20260216000000 +0100" stop="20260216120000 +0100" channel="M+ Deportes 6">
     <title>M+ Deportes 6</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260213211500 +0100" stop="20260214080000 +0100" channel="M+ Deportes 7">
-    <title>M+ Deportes 7</title>
-    <desc>Deportes,Otros deportes | 2019 | TP | *6.2/10
-· M+ Deportes 7 -.</desc>
-	</programme>
-  <programme start="20260214080000 +0100" stop="20260214200000 +0100" channel="M+ Deportes 7">
-    <title>M+ Deportes 7</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260214200000 +0100" stop="20260215000000 +0100" channel="M+ Deportes 7">
-    <title>M+ Deportes 7</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260215000000 +0100" stop="20260215120000 +0100" channel="M+ Deportes 7">
-    <title>M+ Deportes 7</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260215120000 +0100" stop="20260216000000 +0100" channel="M+ Deportes 7">
-    <title>M+ Deportes 7</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260216000000 +0100" stop="20260216120000 +0100" channel="M+ Deportes 7">
-    <title>M+ Deportes 7</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260214060000 +0100" stop="20260214100000 +0100" channel="DAZN 3 HD">
@@ -6124,14 +6335,6 @@
   <programme start="20260216050000 +0100" stop="20260216090000 +0100" channel="DAZN 4 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260214055300 +0100" stop="20260214073000 +0100" channel="DARK">
-    <title>Halloweed</title>
-    <desc>Cine,Suspense,Humor Negro | 2016 | +18 | *3.6/10
-· Intentando escapar de la infamia de un padre asesino en serie, Trent Modine y el tonto de su hermanastro Joey, van en busca de un nuevo comienzo.
-· País: Estados Unidos
-· Dirección: LazRael Lison.
-· Reparto: Simon Rex, Jim O'Heir, Jayson Bernard, Jason Mewes, Lester Speight, Shannion Brown, Michelle Mueller, Shannon Brown.</desc>
 	</programme>
   <programme start="20260214073000 +0100" stop="20260214084500 +0100" channel="DARK">
     <title>Killer Kate</title>
@@ -6421,19 +6624,6 @@
 · País: Francia
 · Dirección: Quarxx.
 · Reparto: Hug Dillon, Manon Maindivide, Arben Bajraktaraj, Hugo Dillon, Sidwell Weber, Albin Jensen, Jean Roceau, Eowyn Personne, Carl Laforêt, Ophelia Kolb, Zoe Cazal, Ophélia Kolb Kasapoglu.</desc>
-	</programme>
-  <programme start="20260214070400 +0100" stop="20260214073400 +0100" channel="Canal Cocina">
-    <title>Productos artesanos T2 E12</title>
-    <desc>Documental,Viajes y aventuras | 2020 | TP
-· Desvelamos todos los secretos de la elaboración tradicional de los Pimientos asados (León), Pastel de carnemurciano (Murcia) y Astucilla (Asturias).
-· País: España</desc>
-	</programme>
-  <programme start="20260214073400 +0100" stop="20260214080000 +0100" channel="Canal Cocina">
-    <title>Quique al cubo T1 E12</title>
-    <desc>Programa,Cocina | 2022 | TP
-· En este episodio de Quique al cubo, el cocinero Quique Barella elabora tres recetas: Calamares en su tinta, Empanadillas de morcilla con manzana y mahonesa de curry y Gazpacho de cerezas con camarones.
-· País: España
-· Reparto: Quique Barella.</desc>
 	</programme>
   <programme start="20260214080000 +0100" stop="20260214083000 +0100" channel="Canal Cocina">
     <title>Postres caseros T2 E1 · Postres caseros: Especial San Valentín</title>
@@ -7102,11 +7292,19 @@
 · País: España
 · Reparto: Carmen López del Hierro.</desc>
 	</programme>
-  <programme start="20260214060000 +0100" stop="20260214080000 +0100" channel="Tennis Channel">
-    <title>Doha 2026 T2025 E10 · Semifinals</title>
-    <desc>Deportes,Tenis | 2025 | TP
-· Transmisión de la edición 2025 del torneo de Doha.
-· País: QAT</desc>
+  <programme start="20260216073000 +0100" stop="20260216080000 +0100" channel="Canal Cocina">
+    <title>Canal Cocina de puerto en puerto T1 E5</title>
+    <desc>Programa,Estilo de vida,Cocina | 2014 | TP
+· El velero de Canal Cocina navega con destino Nerja y Motril.
+· País: España
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260216080000 +0100" stop="20260216083100 +0100" channel="Canal Cocina">
+    <title>El Camino de Santiago by Julius T1 E13 · Carrión de los Condes</title>
+    <desc>Documental,Viajes y aventuras | 2021 | TP
+· Julius conoce a las famosas monjas de Santa Clara y prueba las codornices escabechadas de Saldaña. Por último, Julius cocina en el desván de los monjes del Monasterio de San Zoilo.
+· País: España
+· Reparto: Julius, Julio Bienert, Julius Bienert.</desc>
 	</programme>
   <programme start="20260214080000 +0100" stop="20260214120000 +0100" channel="Tennis Channel">
     <title>Doha 2026 T2025 E10 · Semifinals</title>
@@ -7210,9 +7408,11 @@
 · Encore coverage from Dubai 2026.
 · País: Emiratos Árabes Unidos</desc>
 	</programme>
-  <programme start="20260214070000 +0100" stop="20260214080000 +0100" channel="ESPN">
-    <title>SportsCenter</title>
-    <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
+  <programme start="20260216080000 +0100" stop="20260216130000 +0100" channel="Tennis Channel">
+    <title>Dubai 2026 T2025 E1 · Early Rounds</title>
+    <desc>Deportes,Tenis | 2026 | TP
+· Encore coverage from Dubai 2026.
+· País: Emiratos Árabes Unidos</desc>
 	</programme>
   <programme start="20260214080000 +0100" stop="20260214090000 +0100" channel="ESPN">
     <title>ESPN Knockout, el show</title>
@@ -7438,12 +7638,6 @@
     <title>ATP World Tour - ABN AMRO World Tennis Tournament · Final, Ahoy Rotterdam, Rotterdam, Netherlands</title>
     <desc>· Sin detalles...</desc>
 	</programme>
-  <programme start="20260214060000 +0100" stop="20260214080000 +0100" channel="PT | DAZN 1">
-    <title>Elche x Osasuna: LaLiga EA Sports T1 · Elche x Osasuna</title>
-    <desc>Futebol,Desporto | 2026 | +12
-· Assista ao jogo da LALIGA Elche x Osasuna.
-· País: España</desc>
-	</programme>
   <programme start="20260214080000 +0100" stop="20260214083000 +0100" channel="PT | DAZN 1">
     <title>LaLiga Talking Football T1 E4 · Isco</title>
     <desc>Magazine de desporto,Desporto | 2026 | +12
@@ -7631,10 +7825,11 @@
 · Competitiva e emocionante, a LaLiga Hypermotion surpreende a cada a jornada. Acompanha o melhor da segunda liga espanhola em exclusivo na DAZN.
 · País: España</desc>
 	</programme>
-  <programme start="20260214060000 +0100" stop="20260214080000 +0100" channel="PT | DAZN 2">
-    <title>Nott'm Forest x Ferencváros: Liga Europa T1 · Nott'm Forest x Ferencváros</title>
-    <desc>Futebol,Desporto | 2026 | +12
-· Assista ao jogo da UEFA Europa League Nott'm Forest x Ferencváros.</desc>
+  <programme start="20260216080000 +0100" stop="20260216083000 +0100" channel="PT | DAZN 1">
+    <title>LaLiga Talking Football T1 E4 · Isco</title>
+    <desc>Magazine de desporto,Desporto | 2026 | +12
+· O futebol, pelos olhos de Isco Alarcón, uma das figuras de culto do Real Madrid.
+· País: España</desc>
 	</programme>
   <programme start="20260214080000 +0100" stop="20260214100000 +0100" channel="PT | DAZN 2">
     <title>Lyon x PAOK: Liga Europa T1 · Lyon x PAOK</title>
@@ -7847,6 +8042,12 @@
     <desc>Futebol,Desporto | 2026 | +12
 · A emoção segunda liga alemã para acompanhares em exclusivo na DAZN.
 · País: Alemania</desc>
+	</programme>
+  <programme start="20260216080000 +0100" stop="20260216100000 +0100" channel="PT | DAZN 2">
+    <title>Getafe x Villarreal: LaLiga EA Sports T1 · Getafe x Villarreal</title>
+    <desc>Futebol,Desporto | 2026 | +12
+· Assista ao jogo da LALIGA Getafe x Villarreal.
+· País: España</desc>
 	</programme>
   <programme start="20260214060000 +0100" stop="20260214110000 +0100" channel="PT | DAZN 3">
     <title>Sem Emissão T1 · sáb 14-fev, 05:00</title>
@@ -8255,20 +8456,6 @@
     <desc>Estilo de vida | +12
 · O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a DAZN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.</desc>
 	</programme>
-  <programme start="20260214054225 +0000" stop="20260214060849 +0000" channel="DE | Rally TV">
-    <title>Saturday Highlights - Rally Saudi Arabia 2025</title>
-    <desc>Sports
-· The final day of Rally Saudi Arabia 2025 left the competition and the championship up for grabs as we see the drivers push for the crown.</desc>
-	</programme>
-  <programme start="20260214060849 +0000" stop="20260214070232 +0000" channel="DE | Rally TV">
-    <title>Full Event Highlights - Rally Saudi Arabia 2025</title>
-    <desc>Sports
-· The final event of the 2025 competition at the all new Rally Saudi Arabia crowned a familiar champion. Dubbed the decider in the desert, the event gave us a dramatic end to the season.</desc>
-	</programme>
-  <programme start="20260214070232 +0000" stop="20260214071653 +0000" channel="DE | Rally TV">
-    <title>Top 10 Rallye Monte-Carlo Moments You Forgot</title>
-    <desc>Sports</desc>
-	</programme>
   <programme start="20260214071653 +0000" stop="20260214072630 +0000" channel="DE | Rally TV">
     <title>WRC24 Top 10 Meltdowns</title>
     <desc>Sports</desc>
@@ -8663,27 +8850,13 @@
     <title>SS8 Full Stage Replay - Rally Saudi Arabia 2025</title>
     <desc>Sports</desc>
 	</programme>
-  <programme start="20260214060000 +0100" stop="20260214070900 +0100" channel="Onetoro">
-    <title>La Tierra del Toro. Torrestrella</title>
-    <desc>Toros | +16
-· La Tierra del Toro visita la ganadería de Torrestrella.</desc>
+  <programme start="20260216062343 +0000" stop="20260216071244 +0000" channel="DE | Rally TV">
+    <title>SS9 Full Stage Replay - Rally Saudi Arabia 2025</title>
+    <desc>Sports</desc>
 	</programme>
-  <programme start="20260214070900 +0100" stop="20260214071200 +0100" channel="Onetoro">
-    <title>La alimentación. Aprende a ver toros</title>
-    <desc>+16
-· Miguel Ángel Sánchez 'Curro', mayoral de “Pedraza de Yeltes” nos explica en qué consiste la alimentación de un toro bravo.</desc>
-	</programme>
-  <programme start="20260214071200 +0100" stop="20260214071500 +0100" channel="Onetoro">
-    <title>El saneamiento. Aprende a ver toros</title>
-    <desc>+16</desc>
-	</programme>
-  <programme start="20260214071500 +0100" stop="20260214071700 +0100" channel="Onetoro">
-    <title>Apartar una corrida. Aprende a ver toros</title>
-    <desc>+16</desc>
-	</programme>
-  <programme start="20260214071700 +0100" stop="20260214072200 +0100" channel="Onetoro">
-    <title>Los hierros. Aprende a ver toros</title>
-    <desc>+16</desc>
+  <programme start="20260216071244 +0000" stop="20260216081042 +0000" channel="DE | Rally TV">
+    <title>SS10 Full Stage Replay - Rally Saudi Arabia 2025</title>
+    <desc>Sports</desc>
 	</programme>
   <programme start="20260214072200 +0100" stop="20260214101000 +0100" channel="Onetoro">
     <title>Redifusión Feria de Abril 20/04/24</title>
@@ -9364,5 +9537,39 @@
     <title>Torrinha.</title>
     <desc>Toros | +16
 · Película documental sobre la familia Ribeiro Telles. Hace un repaso por la vida del rejoneador David Ribeiro Telles como de sus hijos también rejoneadores.</desc>
+	</programme>
+  <programme start="20260216074000 +0100" stop="20260216074300 +0100" channel="Onetoro">
+    <title>La alimentación. Aprende a ver toros</title>
+    <desc>+16
+· Miguel Ángel Sánchez 'Curro', mayoral de “Pedraza de Yeltes” nos explica en qué consiste la alimentación de un toro bravo.</desc>
+	</programme>
+  <programme start="20260216074300 +0100" stop="20260216074600 +0100" channel="Onetoro">
+    <title>El saneamiento. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+  <programme start="20260216074600 +0100" stop="20260216074900 +0100" channel="Onetoro">
+    <title>Apartar una corrida. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+  <programme start="20260216075000 +0100" stop="20260216075400 +0100" channel="Onetoro">
+    <title>El herradero. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+  <programme start="20260216075400 +0100" stop="20260216080000 +0100" channel="Onetoro">
+    <title>El mayoral. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+  <programme start="20260216080000 +0100" stop="20260216080400 +0100" channel="Onetoro">
+    <title>Tentadero de hembras. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+  <programme start="20260216080400 +0100" stop="20260216080700 +0100" channel="Onetoro">
+    <title>El desembarque. Aprende a ver toros</title>
+    <desc>+16</desc>
+	</programme>
+  <programme start="20260216080700 +0100" stop="20260216110200 +0100" channel="Onetoro">
+    <title>Toros en Arganda del Rey 2017 (6/9/17)</title>
+    <desc>+16
+· 6 septiembre 2017- Novillos de Couto de Fornilhos: Manuel Ponce, Jesu?s A?lvarez y Miguel A?ngel Pacheco.</desc>
 	</programme>
 </tv>
