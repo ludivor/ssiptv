@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 10/03/2026 08:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 10/03/2026 12:47" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -506,6 +506,17 @@
 		<display-name>Torolé TV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png"/>
 	</channel>
+  <channel id="beIN SPORTS XTRA ñ">
+		<display-name>beIN SPORTS XTRA ñ</display-name>
+		<display-name>beIN SPORTS XTRA ñ.TV</display-name>
+		<display-name>beIN SPORTS XTRA ñ SD</display-name>
+		<display-name>beIN SPORTS XTRA ñ HD</display-name>
+		<display-name>beIN SPORTS XTRA ñ FHD</display-name>
+		<display-name>beIN SPORTS XTRA ñ UHD</display-name>
+		<display-name>beIN SPORTS XTRA ñ 720</display-name>
+		<display-name>beIN SPORTS XTRA ñ 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png"/>
+	</channel>
   <channel id="ESPN">
 		<display-name>ESPN</display-name>
 		<display-name>ESPN.TV</display-name>
@@ -527,6 +538,17 @@
 		<display-name>ESPN 2 720</display-name>
 		<display-name>ESPN 2 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png"/>
+	</channel>
+  <channel id="ESPN 3">
+		<display-name>ESPN 3</display-name>
+		<display-name>ESPN 3.TV</display-name>
+		<display-name>ESPN 3 SD</display-name>
+		<display-name>ESPN 3 HD</display-name>
+		<display-name>ESPN 3 FHD</display-name>
+		<display-name>ESPN 3 UHD</display-name>
+		<display-name>ESPN 3 720</display-name>
+		<display-name>ESPN 3 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png"/>
 	</channel>
   <channel id="ESPN 4">
 		<display-name>ESPN 4</display-name>
@@ -662,12 +684,14 @@
 	</channel>
   <programme start="20260310103500 +0100" stop="20260310145500 +0100" channel="La 1 HD">
     <title>Mañaneros 360 T2 E133</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
 	</programme>
   <programme start="20260310145500 +0100" stop="20260310153500 +0100" channel="La 1 HD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -694,23 +718,34 @@
 	</programme>
   <programme start="20260310155500 +0100" stop="20260310173500 +0100" channel="La 1 HD">
     <title>Directo al grano T2 E47</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
 	</programme>
   <programme start="20260310173500 +0100" stop="20260310183500 +0100" channel="La 1 HD">
     <title>Valle Salvaje T3 E131</title>
-    <desc>Series,Telenovela | 2026 | +12
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc>Series,Telenovela | 2026 | +12 | *6.6/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
 	</programme>
   <programme start="20260310183500 +0100" stop="20260310193500 +0100" channel="La 1 HD">
     <title>La Promesa T1 E791</title>
-    <desc>Series,Drama | 2026 | +12
-· En 1913, una mujer, una venganza y una gran historia de amor.</desc>
+    <desc>Series,Drama | 2026 | +12 | *6.0/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
 	</programme>
   <programme start="20260310193500 +0100" stop="20260310203000 +0100" channel="La 1 HD">
     <title>Malas lenguas T2 E122</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.4/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
 	</programme>
   <programme start="20260310203000 +0100" stop="20260310205500 +0100" channel="La 1 HD">
     <title>Aquí la Tierra</title>
@@ -721,7 +756,7 @@
 	</programme>
   <programme start="20260310205500 +0100" stop="20260310214000 +0100" channel="La 1 HD">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -736,13 +771,19 @@
 	</programme>
   <programme start="20260310214500 +0100" stop="20260310230000 +0100" channel="La 1 HD">
     <title>La revuelta T2 E89</title>
-    <desc>Entretenimiento,Entrevista | 2026 | +12
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.</desc>
+    <desc>Entretenimiento,Entrevista | 2026 | +12 | *5.4/10
+· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
 	</programme>
   <programme start="20260310230000 +0100" stop="20260311003500 +0100" channel="La 1 HD">
     <title>The Floor T2 · Morir o matar</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· La casilla dorada se convierte en la gran protagonista de la noche. 37 jugadores siguen al pie del cañón, aunque los grandes duelos al límite dejan fuera a 12 de ellos.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· La casilla dorada se convierte en la gran protagonista de la noche. 37 jugadores siguen al pie del cañón, aunque los grandes duelos al límite dejan fuera a 12 de ellos.
+· País: España
+· Presenta: Chenoa.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
   <programme start="20260311003500 +0100" stop="20260311015500 +0100" channel="La 1 HD">
     <title>The Floor T2 · Una travesti es valiente y poderosa</title>
@@ -790,7 +831,7 @@
 	</programme>
   <programme start="20260311145500 +0100" stop="20260311153500 +0100" channel="La 1 HD">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -826,7 +867,7 @@
 · Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
   <programme start="20260311173500 +0100" stop="20260311183500 +0100" channel="La 1 HD">
-    <title>Valle Salvaje</title>
+    <title>Valle Salvaje T3</title>
     <desc>Series,Telenovela | 2025 | +12 | *5.8/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
@@ -858,7 +899,7 @@
 	</programme>
   <programme start="20260311205500 +0100" stop="20260311214000 +0100" channel="La 1 HD">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -936,22 +977,34 @@
   <programme start="20260310133000 +0100" stop="20260310143000 +0100" channel="La 2">
     <title>El cazador T1 E195</title>
     <desc>Entretenimiento,Concurso | 2020 | TP | *6.0/10
-· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.</desc>
+· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
+· País: España
+· Presenta: Ion Aramendi.
+· Productora: Mediacrest, Radio Televisión Española (RTVE).</desc>
 	</programme>
   <programme start="20260310143000 +0100" stop="20260310153000 +0100" channel="La 2">
     <title>El cazador T1 E196</title>
     <desc>Entretenimiento,Concurso | 2020 | TP | *6.2/10
-· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.</desc>
+· Cuatro concursantes anónimos unirán sus conocimientos para ganar al 'cazador'.
+· País: España
+· Presenta: Ion Aramendi.
+· Productora: Mediacrest, Radio Televisión Española (RTVE).</desc>
 	</programme>
   <programme start="20260310153000 +0100" stop="20260310162000 +0100" channel="La 2">
     <title>Saber y ganar T29 E513</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
-· Concurso cultural con varios participantes que compiten hasta eliminarse entre sí.</desc>
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+· Concurso cultural con varios participantes que compiten hasta eliminarse entre sí.
+· País: España
+· Presenta: Jordi Hurtado, Pilar Vázquez.
+· Dirección: Sergi Schaaff.
+· Productora: Quart.</desc>
 	</programme>
   <programme start="20260310162000 +0100" stop="20260310171500 +0100" channel="La 2">
     <title>Mares en movimiento: Las maravillas del Mar del Norte</title>
     <desc>Documentales,Naturaleza | 2023 | TP | *4.8/10
-· Las aguas entre los fiordos noruegos y el mar de Wadden son escenario de muchos dramas.</desc>
+· Las aguas entre los fiordos noruegos y el mar de Wadden son escenario de muchos dramas.
+· País: Alemania
+· Dirección: Thomas Behrend.</desc>
 	</programme>
   <programme start="20260310171500 +0100" stop="20260310174500 +0100" channel="La 2">
     <title>The y el dinosaurio gigante · Grandes simios</title>
@@ -962,28 +1015,44 @@
 	</programme>
   <programme start="20260310174500 +0100" stop="20260310193500 +0100" channel="La 2">
     <title>Malas lenguas T2 E122</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.4/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
 	</programme>
   <programme start="20260310193500 +0100" stop="20260310203000 +0100" channel="La 2">
     <title>Sukha T1 E17</title>
     <desc>Entretenimiento,Magacín | 2026 | +7
-· Magacín diario con una amplia mirada al panorama cultural actual que gira sobre tres términos: felicidad, placer y bienestar, que son precisamente el significado de la palabra sánscrita 'sukha'.</desc>
+· Magacín diario con una amplia mirada al panorama cultural actual que gira sobre tres términos: felicidad, placer y bienestar, que son precisamente el significado de la palabra sánscrita 'sukha'.
+· País: España
+· Presenta: Pablo González Batista, Susana Castañón, Jerónimo Fernández.
+· Dirección: Miguel Ángel Hoyos.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
   <programme start="20260310203000 +0100" stop="20260310211000 +0100" channel="La 2">
     <title>Limpia y ordena T1 E5</title>
     <desc>Ocio y Aficiones,Decoración | 2021 | TP | *10.0/10
-· Steven y Sue adoran su bungaló de dos dormitorios, pero los problemas de movilidad de Steven han hecho que Sue tenga que asumir más carga de trabajo.</desc>
+· Steven y Sue adoran su bungaló de dos dormitorios, pero los problemas de movilidad de Steven han hecho que Sue tenga que asumir más carga de trabajo.
+· País: Reino Unido
+· Dirección: Claire Edwards.
+· Reparto: Maxine Dwyer, Tommy Walsh, Asher Edwards.
+· Productora: BBC (British Broadcasting Corporation), Curve Media.</desc>
 	</programme>
   <programme start="20260310211000 +0100" stop="20260310214000 +0100" channel="La 2">
     <title>Cifras y letras T2 E278</title>
     <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
-· Concurso cuyas pruebas deben superarse jugando con cifras y letras y donde, en cada entrega, los concursantes luchan por llevarse el bote acumulado. Presentado por Aitor Albizua, acompañado por los expertos Elena Herraiz y David Calle.</desc>
+· Concurso cuyas pruebas deben superarse jugando con cifras y letras y donde, en cada entrega, los concursantes luchan por llevarse el bote acumulado. Presentado por Aitor Albizua, acompañado por los expertos Elena Herraiz y David Calle.
+· País: España
+· Presenta: Aitor Albizua.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
   <programme start="20260310214000 +0100" stop="20260310221500 +0100" channel="La 2">
     <title>Cifras y letras T3 E132</title>
     <desc>Entretenimiento,Concurso | 2026 | TP
-· Concurso cuyas pruebas deben superarse jugando con cifras y letras y donde, en cada entrega, los concursantes luchan por llevarse el bote acumulado. Presentado por Aitor Albizua, acompañado por los expertos Elena Herraiz y David Calle.</desc>
+· Concurso cuyas pruebas deben superarse jugando con cifras y letras y donde, en cada entrega, los concursantes luchan por llevarse el bote acumulado. Presentado por Aitor Albizua, acompañado por los expertos Elena Herraiz y David Calle.
+· País: España
+· Presenta: Aitor Albizua.
+· Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
   <programme start="20260310221500 +0100" stop="20260310231500 +0100" channel="La 2">
     <title>Pioneras: Creadoras</title>
@@ -1005,8 +1074,11 @@
 	</programme>
   <programme start="20260311001500 +0100" stop="20260311011000 +0100" channel="La 2">
     <title>Dando forma a la mujer. Historia del sujetador</title>
-    <desc>Documentales,Historia | 2023
-· A finales del s.XIX el sujetador liberó a las mujeres del corsé. Hoy se debate si el sujetador libera o sexualiza a la mujer como objeto de deseo.</desc>
+    <desc>Documentales,Historia | 2023 | +12
+· A finales del s.XIX el sujetador liberó a las mujeres del corsé. Hoy se debate si el sujetador libera o sexualiza a la mujer como objeto de deseo.
+· País: Francia
+· Dirección: Sandra Rude.
+· Productora: Bachibouzouk.</desc>
 	</programme>
   <programme start="20260311011000 +0100" stop="20260311022500 +0100" channel="La 2">
     <title>Leonora Carrington. El juego surrealista</title>
@@ -1018,7 +1090,9 @@
   <programme start="20260311022500 +0100" stop="20260311025000 +0100" channel="La 2">
     <title>Conciertos de Radio-3 T25/26 · Isma Romero</title>
     <desc>Música,Concierto | 2026 | +7
-· Isma Romero es un artista que recoge la herencia de grandes cantautores depurando un tono actual y contemporáneo en sus canciones.</desc>
+· Isma Romero es un artista que recoge la herencia de grandes cantautores depurando un tono actual y contemporáneo en sus canciones.
+· País: España
+· Dirección: Tomás Fernando Flores.</desc>
 	</programme>
   <programme start="20260311025000 +0100" stop="20260311031500 +0100" channel="La 2">
     <title>Sin equipaje: Grecia: Las islas esporadas del norte</title>
@@ -1144,7 +1218,14 @@
   <programme start="20260311120500 +0100" stop="20260311133000 +0100" channel="La 2">
     <title>Texas Train</title>
     <desc>Cine,Oeste | 1988 | TP | *6.4/10
-· Después de pasar veinte años en prisión, un hombre llamado John Henry Lee reúne a su banda para realizar un golpe más.</desc>
+· Después de pasar veinte años en prisión, un hombre llamado John Henry Lee reúne a su banda para realizar un golpe más.
+· País: Estados Unidos
+· Dirección: Burt Kennedy.
+· Reparto: Chuck Connors, Richard Widmark, Gene Evans, Willie Nelson, Kevin McCarthy, Jack Elam, Royal Dano, Ken Curtis, Shaun Cassidy.
+· Guion: Burt Kennedy.
+· Música: Arthur B. Rubinstein.
+· Producción: Burt Kennedy.
+· Productora: Rastar Films, Brigade Productions.</desc>
 	</programme>
   <programme start="20260311133000 +0100" stop="20260311143000 +0100" channel="La 2">
     <title>El cazador T8</title>
@@ -1174,12 +1255,16 @@
   <programme start="20260311162000 +0100" stop="20260311171500 +0100" channel="La 2">
     <title>Mares en movimiento</title>
     <desc>Documentales,Naturaleza | 2023 | TP
-· Las aguas entre los fiordos noruegos y el mar de Wadden son escenario de muchos dramas.</desc>
+· Las aguas entre los fiordos noruegos y el mar de Wadden son escenario de muchos dramas.
+· País: Alemania
+· Dirección: Thomas Behrend.</desc>
 	</programme>
   <programme start="20260311171500 +0100" stop="20260311174500 +0100" channel="La 2">
     <title>Tecnología animal</title>
     <desc>Documentales,Naturaleza | 2021 | *6.0/10
-· Esta serie investiga cómo podríamos aprovechar las capacidades únicas de adaptación de la naturaleza para revolucionar nuestro futuro.</desc>
+· Esta serie investiga cómo podríamos aprovechar las capacidades únicas de adaptación de la naturaleza para revolucionar nuestro futuro.
+· País: Estados Unidos
+· Productora: Beach House Pictures.</desc>
 	</programme>
   <programme start="20260311174500 +0100" stop="20260311185500 +0100" channel="La 2">
     <title>Malas lenguas</title>
@@ -1189,9 +1274,10 @@
 · Dirección: Jesús Cintora.</desc>
 	</programme>
   <programme start="20260311185500 +0100" stop="20260311210500 +0100" channel="La 2">
-    <title>Copa de la Reina T25/26 · Semifinales: Club Atletico De Madrid - Costa Adeje Tenerife</title>
-    <desc>Deportes,Fútbol | 2026
-· La Copa de la Reina es el torneo del KO del fútbol femenino español. Todas las eliminatorias se deciden a partido único, incluida la final.</desc>
+    <title>DIRECTO Semifinales: Club Atletico De Madrid - Costa Adeje Tenerife T25/26 · Copa de la Reina</title>
+    <desc>Deportes,Fútbol | 2026 | *6.6/10
+· La Copa de la Reina es el torneo del KO del fútbol femenino español. Todas las eliminatorias se deciden a partido único, incluida la final.
+· País: España</desc>
 	</programme>
   <programme start="20260311210500 +0100" stop="20260311211000 +0100" channel="La 2">
     <title>La 2 express</title>
@@ -1232,7 +1318,10 @@
   <programme start="20260311231000 +0100" stop="20260312011000 +0100" channel="La 2">
     <title>El comisario Montalbano</title>
     <desc>Series,Policíaca | 2021 | +16 | *6.0/10
-· El Comisario Montalbano es un hombre de ley pero no duda en romperla para resolver casos.</desc>
+· El Comisario Montalbano es un hombre de ley pero no duda en romperla para resolver casos.
+· País: Italia
+· Reparto: Luca Zingaretti, Peppino Mazzotta, Angelo Russo, Cesare Bocci, Antonia Truppo.
+· Productora: RAI.</desc>
 	</programme>
   <programme start="20260312011000 +0100" stop="20260312015500 +0100" channel="La 2">
     <title>El arma del siglo</title>
@@ -1404,13 +1493,13 @@
 	</programme>
   <programme start="20260310153500 +0100" stop="20260310154000 +0100" channel="Antena 3 HD">
     <title>Al detalle T1 E58</title>
-    <desc>Información,Informativo | 2026 | +12 | *5.8/10
+    <desc>Información,Informativo | 2026 | +12 | *6.0/10
 · Espacio informativo dedicado al análisis en profundidad de temas de interés para la sociedad y cuestiones relevantes de la actualidad.
 · País: España</desc>
 	</programme>
   <programme start="20260310154000 +0100" stop="20260310154500 +0100" channel="Antena 3 HD">
     <title>Tu tiempo con Roberto Brasero</title>
-    <desc>Información,Meteorología | *6.0/10
+    <desc>Información,Meteorología | TP | *6.0/10
 · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.
 · País: España
 · Presenta: Roberto Brasero.</desc>
@@ -1463,7 +1552,7 @@
   <programme start="20260310214500 +0100" stop="20260310230000 +0100" channel="Antena 3 HD">
     <title>El hormiguero T20 · Luis Fonsi</title>
     <desc>Entretenimiento,Humor | 2026 | +7 | *6.0/10
-· Programa que mezcla la ciencia, la música y la política con el humor.
+· Pablo Motos recibe la visita del cantante Luis Fonsi, quien hablará sobre el fin de su gira mundial, con la que ha conmemorado sus 25 años de carrera, y presentará el que es su nuevo tema, titulado "Cambiaré".
 · País: España
 · Presenta: Pablo Motos.
 · Productora: 7 y acción.</desc>
@@ -1471,7 +1560,10 @@
   <programme start="20260310230000 +0100" stop="20260311003800 +0100" channel="Antena 3 HD">
     <title>En tierra lejana T1 E9</title>
     <desc>Series,Drama | 2024 | +16
-· Alya se escapa de casa de Nare y coge un taxi hacia el aeropuerto.</desc>
+· Alya se escapa de casa de Nare y coge un taxi hacia el aeropuerto.
+· País: Turquía
+· Reparto: Sinem Ünsal, Ozan Akbaba, Gonca Cilasun, Müfit Kayacan, Ferit Kaya, Atakan Özkaya.
+· Productora: AyNA Yapim.</desc>
 	</programme>
   <programme start="20260311003800 +0100" stop="20260311021500 +0100" channel="Antena 3 HD">
     <title>En tierra lejana T1</title>
@@ -1492,7 +1584,7 @@
 	</programme>
   <programme start="20260311030000 +0100" stop="20260311040000 +0100" channel="Antena 3 HD">
     <title>Galería del coleccionista</title>
-    <desc>Ocio y Aficiones,Televenta | 2021 | TP | *6.0/10
+    <desc>Ocio y Aficiones,Televenta | 2021 | *6.0/10
 · Espacio comercial.
 · País: España</desc>
 	</programme>
@@ -1559,7 +1651,7 @@
 	</programme>
   <programme start="20260311154000 +0100" stop="20260311154500 +0100" channel="Antena 3 HD">
     <title>Tu tiempo con Roberto Brasero</title>
-    <desc>Información,Meteorología | *6.0/10
+    <desc>Información,Meteorología | TP | *6.0/10
 · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.
 · País: España
 · Presenta: Roberto Brasero.</desc>
@@ -1618,7 +1710,7 @@
 · Productora: 7 y acción.</desc>
 	</programme>
   <programme start="20260311230000 +0100" stop="20260312010000 +0100" channel="Antena 3 HD">
-    <title>El Capitán en Japón: Perdóname T1 E6</title>
+    <title>El Capitán en Japón T1 · Perdóname</title>
     <desc>Entretenimiento,Telerrealidad | 2026 | +12 | *6.0/10
 · Tras retirarse del fútbol, Joaquín Sánchez emprende un viaje por Japón con su familia, mostrando su lado más personal y los momentos de unión, confesiones y diversión.
 · País: España</desc>
@@ -1670,7 +1762,7 @@
 	</programme>
   <programme start="20260310103000 +0100" stop="20260310140000 +0100" channel="Cuatro HD">
     <title>En boca de todos E130</title>
-    <desc>Documentales,Actualidad | 2026 | +16 | *6.0/10
+    <desc>Documentales,Actualidad | 2026 | +16 | *5.6/10
 · Programa diario de actualidad que acerca a los espectadores las noticias principales.
 · País: España
 · Presenta: Nacho Abad.</desc>
@@ -1719,7 +1811,7 @@
 	</programme>
   <programme start="20260310204000 +0100" stop="20260310210000 +0100" channel="Cuatro HD">
     <title>ElDesmarque de Cuatro noche. Lunes a viernes T3 E432</title>
-    <desc>Deportes,Programa deportes | 2026 | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | *5.4/10
 · Espacio analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
 · País: España
 · Presenta: Ricardo Reyes, Luis Alberto Vaquero.</desc>
@@ -1748,7 +1840,7 @@
 	</programme>
   <programme start="20260310230000 +0100" stop="20260311020000 +0100" channel="Cuatro HD">
     <title>Código 10 E24</title>
-    <desc>Documentales,Actualidad | 2026 | +16 | *5.6/10
+    <desc>Documentales,Actualidad | 2026 | +16 | *6.2/10
 · Programa de actualidad presentado por David Aleman y Nacho Abad. El espacio trata los crímenes y sucesos más destacados de la actualidad y casos históricos que han conmocionado a la sociedad española.
 · País: España
 · Presenta: David Alemán, Nacho Abad.
@@ -1925,56 +2017,42 @@
     <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
 · Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
 	</programme>
-  <programme start="20260312073000 +0100" stop="20260312080000 +0100" channel="Cuatro HD">
-    <title>¡Toma Salami!: La tv que nos parió T3</title>
-    <desc>Entretenimiento,Zapping | 2020 | +7 | *5.8/10
+  <programme start="20260312073000 +0100" stop="20260312075000 +0100" channel="Cuatro HD">
+    <title>¡Toma Salami!: La tv que nos parió T3 E63</title>
+    <desc>Entretenimiento,Zapping | 2020 | +7 | *6.0/10
 · Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
 · País: España
 · Presenta: Javier Capitán.
 · Productora: Mediaset, Mandarina Producciones.</desc>
 	</programme>
-  <programme start="20260312080000 +0100" stop="20260312084500 +0100" channel="Cuatro HD">
-    <title>Alerta Cobra</title>
-    <desc>Series,Acción | 2012 | +12 | *6.0/10
+  <programme start="20260312075000 +0100" stop="20260312083500 +0100" channel="Cuatro HD">
+    <title>Alerta Cobra T19 E4 · Fiesta familiar</title>
+    <desc>Series,Acción | 2014 | +12 | *4.8/10
+· Un cumpleaños familiar se convierte en una persecución mortal cuando Andrea y Semir caen en manos de Grigorov, un despiadado traficante de personas, y su banda.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+	</programme>
+  <programme start="20260312083500 +0100" stop="20260312092500 +0100" channel="Cuatro HD">
+    <title>Alerta Cobra T19 E13 · La última noche</title>
+    <desc>Series,Acción | 2015 | +12 | *5.4/10
 · Serie que muestra las vivencias de una brigada especial de carreteras.
 · País: Alemania
 · Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
 · Productora: RTL, Action Concept GmbH.</desc>
 	</programme>
-  <programme start="20260312084500 +0100" stop="20260312093500 +0100" channel="Cuatro HD">
-    <title>Alerta Cobra T18</title>
-    <desc>Series,Acción | 2013 | +12 | *6.2/10
-· Serie que muestra las vivencias de una brigada especial de carreteras.
+  <programme start="20260312092500 +0100" stop="20260312103000 +0100" channel="Cuatro HD">
+    <title>Alerta Cobra T19 E14 · Salta</title>
+    <desc>Series,Acción | 2014 | +12 | *6.0/10
+· La brigada especial de autopistas se encarga de luchar contra el crimen y mantener el orden en zonas muy conflictivas.
 · País: Alemania
-· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
-· Productora: RTL, Action Concept GmbH.</desc>
-	</programme>
-  <programme start="20260312093500 +0100" stop="20260312103000 +0100" channel="Cuatro HD">
-    <title>Alerta Cobra T18</title>
-    <desc>Series,Acción | 2013 | +12 | *6.2/10
-· Serie que muestra las vivencias de una brigada especial de carreteras.
-· País: Alemania
-· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer, Tom Beck.
 · Productora: RTL, Action Concept GmbH.</desc>
 	</programme>
   <programme start="20260312103000 +0100" stop="20260312140000 +0100" channel="Cuatro HD">
-    <title>En boca de todos T5</title>
-    <desc>Información,Magacín | 2025 | +16 | *6.0/10
-· Programa diario de actualidad que acerca a los espectadores las noticias principales.
-· País: España
-· Presenta: Nacho Abad.</desc>
-	</programme>
-  <programme start="20260310113000 +0100" stop="20260310122000 +0100" channel="Caza y Pesca HD">
-    <title>Los últimos gigantes T4 E4</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2021 | TP | *6.0/10
-· Una explosiva serie que sigue al popular aventurero Cyril Chauquet y a su equipo mientras se sumergen en los entornos más hostiles de la tierra.
-· País: Canadá</desc>
-	</programme>
-  <programme start="20260310122000 +0100" stop="20260310125500 +0100" channel="Caza y Pesca HD">
-    <title>Patos en El Matoll</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2026 | +12 | *6.0/10
-· El Matoll es unos de los puestos más afamados del Vedat de Sueca. Antes de la cacería se arregla todo el tema de los bocois y demás y se comienza a cebar hasta el día de la primera tirada. Las expectativas son muy buenas después de la anterior temporada.
-· País: España</desc>
+    <title>En boca de todos T5 Ep. 132</title>
+    <desc>Documentales
+· Sin detalles...</desc>
 	</programme>
   <programme start="20260310125500 +0100" stop="20260310132500 +0100" channel="Caza y Pesca HD">
     <title>Microjigging por la costa Brava</title>
@@ -2522,6 +2600,12 @@
 · Eduardo, un apasionado pescador submarino, nos guía a través de su emocionante experiencia en la pesca submarina en peso variable. Acompañado de Antonio su barquero, se enfrentará a desafíos para encontrar grandes depredadores como la corvina y el mero.
 · País: España</desc>
 	</programme>
+  <programme start="20260312123000 +0100" stop="20260312130000 +0100" channel="Caza y Pesca HD">
+    <title>De montería T10 · Batida en Pont de Sort</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2025 | +12 | *6.0/10
+· El equipo de De montería se desplaza hasta el pirineo catalán para asistir a una clásica batida jabalinera. El paraje de Pont del Sort pondrá a prueba tanto a perros como monteros.
+· País: España</desc>
+	</programme>
   <programme start="20260310103500 +0100" stop="20260310130000 +0100" channel="24 Horas">
     <title>Diario 24</title>
     <desc>Información,Informativo | 2025 | *6.0/10
@@ -2542,7 +2626,7 @@
 	</programme>
   <programme start="20260310145700 +0100" stop="20260310153600 +0100" channel="24 Horas">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -2584,7 +2668,7 @@
 	</programme>
   <programme start="20260310205800 +0100" stop="20260310213700 +0100" channel="24 Horas">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -2710,7 +2794,7 @@
 	</programme>
   <programme start="20260311145700 +0100" stop="20260311153600 +0100" channel="24 Horas">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -2752,7 +2836,7 @@
 	</programme>
   <programme start="20260311205800 +0100" stop="20260311213700 +0100" channel="24 Horas">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -3246,14 +3330,9 @@
 · País: España
 · Presenta: Rocío Delgado, Bernardo Montaña.</desc>
 	</programme>
-  <programme start="20260310114000 +0100" stop="20260310124500 +0100" channel="Real Madrid TV">
-    <title>Ciudad Real Madrid</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.4/10
-· Programa deportivo que incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.</desc>
-	</programme>
   <programme start="20260310124500 +0100" stop="20260310134000 +0100" channel="Real Madrid TV">
     <title>Ciudad Real Madrid T25/26 · Rueda de prensa (10/03/2026)</title>
-    <desc>Deportes,Programa deportes | 2026
+    <desc>Deportes,Programa deportes | 2026 | *6.0/10
 · Programa deportivo que incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.</desc>
 	</programme>
   <programme start="20260310134000 +0100" stop="20260310143000 +0100" channel="Real Madrid TV">
@@ -3293,7 +3372,7 @@
 	</programme>
   <programme start="20260310213000 +0100" stop="20260311001500 +0100" channel="Real Madrid TV">
     <title>Hulk</title>
-    <desc>Cine,Acción | 2003 | +12 | *6.6/10
+    <desc>Cine,Acción | 2003 | +16 | *6.6/10
 · Tras el brillante historial de Bruce Banner como investigador en el campo de la tecnología genética, se oculta un pasado doloroso. Sufre un accidente que le provoca su transformación en un monstruo verde.
 · País: Estados Unidos
 · Dirección: Ang Lee.
@@ -3328,8 +3407,8 @@
 · País: Reino Unido</desc>
 	</programme>
   <programme start="20260311061500 +0100" stop="20260311080000 +0100" channel="Real Madrid TV">
-    <title>Liga Endesa T25/26 · Jornada 21: Dreamland Gran Canaria - Real Madrid</title>
-    <desc>Deportes,Baloncesto | 2025 | TP | *6.8/10
+    <title>Liga Endesa T25/26 · Jornada 21: Gran Canaria - Real Madrid</title>
+    <desc>Deportes,Baloncesto | 2025 | *6.8/10
 · La Liga Endesa apuesta por el espectáculo. La máxima competición española de clubes cuenta, como es habitual, con una liga regular de 34 jornadas. Los ocho mejores equipos pelean por el título en unos exigentes playoffs. El Real Madrid defiende corona.
 · País: España</desc>
 	</programme>
@@ -3373,27 +3452,19 @@
     <desc>Deportes,Programa deportes | 2019 | *6.0/10
 · Real Madrid TV -.</desc>
 	</programme>
-  <programme start="20260310115800 +0100" stop="20260310133400 +0100" channel="Movistar Plus+ HD">
+  <programme start="20260310115800 +0100" stop="20260310142800 +0100" channel="Movistar Plus+ HD">
     <title>Torneo de Indian Wells T2026 · Tercera Ronda: Alcaraz - Rinderknech</title>
-    <desc>Deportes,Tenis | 2026 | TP | *5.8/10
+    <desc>Deportes,Tenis | 2026 | TP | *4.8/10
 · Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.</desc>
 	</programme>
-  <programme start="20260310133400 +0100" stop="20260310141900 +0100" channel="Movistar Plus+ HD">
-    <title>El consultorio de Berto T3 · Miguel Maldonado y el mirador hacia Cuenca</title>
-    <desc>Entretenimiento,Humor | 2025 | +16 | *6.2/10
-· Miguel Maldonado se encarga esta vez de ayudar a Berto a contestar las importantísimas consultas que llegan al programa. Por ejemplo: ¿Qué significa 'ponerse mirando a Cuenca'? ¿Cuántas palmadas hay que dar para que se considere un aplauso?
-· País: España
-· Presenta: Berto Romero.
-· Producción: Movistar Plus+.</desc>
-	</programme>
-  <programme start="20260310141900 +0100" stop="20260310152400 +0100" channel="Movistar Plus+ HD">
+  <programme start="20260310142800 +0100" stop="20260310153300 +0100" channel="Movistar Plus+ HD">
     <title>El día después T25/26 E26</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *5.6/10
 · 'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
 · País: España
 · Presenta: Noemí de Miguel, Carlos Martínez, Julio Maldonado, Álvaro Benito, Mateu Lahoz.</desc>
 	</programme>
-  <programme start="20260310152400 +0100" stop="20260310173000 +0100" channel="Movistar Plus+ HD">
+  <programme start="20260310153300 +0100" stop="20260310173900 +0100" channel="Movistar Plus+ HD">
     <title>Thelma &amp; Louise</title>
     <desc>Cine,Drama | 1991 | +12 | *7.4/10
 · Thelma es ama de casa, su vida es aburrida y Darryl, su machista marido, la trata como a una niña más que una esposa. Louise es camarera y también lleva una vida frustrante. Juntas inician un viaje en coche con el fin de evadirse durante unos días.
@@ -3405,21 +3476,24 @@
 · Producción: Ridley Scott, Mimi Polk, Mimi Polk Gitlin.
 · Productora: Metro-Goldwyn-Mayer (MGM), United In, Pathé Entertainment.</desc>
 	</programme>
-  <programme start="20260310173000 +0100" stop="20260310192800 +0100" channel="Movistar Plus+ HD">
-    <title>La forma del agua</title>
-    <desc>Cine,Fantástico | 2017 | +12 | *7.0/10
-· Baltimore, años 60. Elisa, muda desde que era un bebé, trabaja como limpiadora nocturna en un centro de investigación aeroespacial. Cuando está limpiando en un zona de alta seguridad, llevan al laboratorio una cápsula con un extraño ser en su interior.
-· País: Canadá y Estados Unidos
-· Dirección: Guillermo del Toro.
-· Reparto: Sally Hawkins, Michael Shannon, Richard Jenkins, Octavia Spencer, Doug Jones, Michael Stuhlbarg.
-· Guion: Guillermo del Toro, Vanessa Taylor.
-· Música: Alexandre Desplat.
-· Producción: Guillermo del Toro, J. Miles Dale.
-· Productora: Bull Productions, Disney Double Dare You (DDY), Fox Searchlight Pictures, TSG Entertainment.</desc>
+  <programme start="20260310173900 +0100" stop="20260310184200 +0100" channel="Movistar Plus+ HD">
+    <title>Desmitificando la menopausia</title>
+    <desc>Documentales,Sociedad | 2024 | TP | *5.8/10
+· La menopausia es una etapa natural en la vida de la mujer que afecta a la salud y el bienestar de millones de ellas. Este documental aborda esta crisis desatendida y cuestiona las deficiencias sociales y médicas que hay alrededor de ella.
+· País: Estados Unidos
+· Dirección: Jacoba Atlas.</desc>
 	</programme>
-  <programme start="20260310192800 +0100" stop="20260310200000 +0100" channel="Movistar Plus+ HD">
+  <programme start="20260310184200 +0100" stop="20260310192700 +0100" channel="Movistar Plus+ HD">
+    <title>El consultorio de Berto T3 · Miguel Maldonado y el mirador hacia Cuenca</title>
+    <desc>Entretenimiento,Humor | 2025 | +16 | *6.2/10
+· Miguel Maldonado se encarga esta vez de ayudar a Berto a contestar las importantísimas consultas que llegan al programa. Por ejemplo: ¿Qué significa 'ponerse mirando a Cuenca'? ¿Cuántas palmadas hay que dar para que se considere un aplauso?
+· País: España
+· Presenta: Berto Romero.
+· Producción: Movistar Plus+.</desc>
+	</programme>
+  <programme start="20260310192700 +0100" stop="20260310200000 +0100" channel="Movistar Plus+ HD">
     <title>Ilustres ignorantes T19 · El café</title>
-    <desc>Entretenimiento,Humor | 2025 | +16 | *6.0/10
+    <desc>Entretenimiento,Humor | 2025 | +16 | *5.8/10
 · La actriz Olga Hueso y el músico Grison visitan el plató de Ilustres Ignorantes para debatir sobre “El café” ¿Cuál ha sido la mejor taza de café que han tomado en su vida: en un vagón cafetería, con su amante, con sus tías…?
 · País: España
 · Presenta: Javier Coronas.
@@ -3434,7 +3508,7 @@
 	</programme>
   <programme start="20260310205300 +0100" stop="20260310230200 +0100" channel="Movistar Plus+ HD">
     <title>DIRECTO Octavos de final: Newcastle - Barcelona T25/26 · UEFA Champions League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.
 · País: Reino Unido</desc>
 	</programme>
@@ -3477,7 +3551,7 @@
 · País: España
 · Presenta: Cristina Teva.</desc>
 	</programme>
-  <programme start="20260311041600 +0100" stop="20260311055800 +0100" channel="Movistar Plus+ HD">
+  <programme start="20260311041600 +0100" stop="20260311055700 +0100" channel="Movistar Plus+ HD">
     <title>Rock Hudson: solo el cielo lo supo</title>
     <desc>Documentales,Biografía | 2023 | +12 | *6.2/10
 · Amantes, coprotagonistas y amigos hablan sobre la doble vida de la leyenda del cine Rock Hudson, cuya existencia fue orquestada por el sistema de estudios que temía que su vida privada saliese a la luz.
@@ -3487,7 +3561,7 @@
 · Producción: Will Clarke, Greg Berlanti.
 · Productora: Altitude Film Entertainment.</desc>
 	</programme>
-  <programme start="20260311055800 +0100" stop="20260311073000 +0100" channel="Movistar Plus+ HD">
+  <programme start="20260311055700 +0100" stop="20260311072800 +0100" channel="Movistar Plus+ HD">
     <title>Bardot</title>
     <desc>Documentales,Biografía | 2025 | +7 | *6.2/10
 · La actriz francesa deslumbró al mundo con su belleza y una actitud que no era común para su época. Icono internacional y símbolo sexual en los años cincuenta y sesenta, un día decidió dejarlo todo para dedicarse por completo a la defensa de los animales.
@@ -3497,14 +3571,14 @@
 · Producción: Featuristic Films, TIMPELPICTURES, Nicolas Bary.
 · Productora: Centre National du Cinéma et de L'image Animée (CNC).</desc>
 	</programme>
-  <programme start="20260311073000 +0100" stop="20260311082500 +0100" channel="Movistar Plus+ HD">
+  <programme start="20260311072800 +0100" stop="20260311082100 +0100" channel="Movistar Plus+ HD">
     <title>Catherine Deneuve: a su manera</title>
     <desc>Documentales,Biografía | 2023 | TP | *6.4/10
 · Una historia de cine y rebeldía que recorre todos sus papeles. A lo largo de su carrera, Catherine Deneuve ha luchado por deshacerse de los dictados establecidos para convertirse en el icono libre y transgresor que es hoy.
 · País: Francia
 · Dirección: Claire Laborey.</desc>
 	</programme>
-  <programme start="20260311082500 +0100" stop="20260311083500 +0100" channel="Movistar Plus+ HD">
+  <programme start="20260311082100 +0100" stop="20260311083500 +0100" channel="Movistar Plus+ HD">
     <title>Voces en femenino</title>
     <desc>Entretenimiento,Actualidad | 2026 | TP | *5.6/10
 · Spotify Equal impulsa la igualdad de género en la música con el objetivo de dar mayor visibilidad a mujeres creadoras en España. Una cita a la que han acudido nombres como Nathy Peluso, Luz Casal, Vanesa Martin o Rosario Flores, entre otras muchas.
@@ -3596,7 +3670,7 @@
 	</programme>
   <programme start="20260311205300 +0100" stop="20260311212500 +0100" channel="Movistar Plus+ HD">
     <title>Ilustres ignorantes T19 · El café</title>
-    <desc>Entretenimiento,Humor | 2025 | +16 | *6.0/10
+    <desc>Entretenimiento,Humor | 2025 | +16 | *5.8/10
 · La actriz Olga Hueso y el músico Grison visitan el plató de Ilustres Ignorantes para debatir sobre “El café” ¿Cuál ha sido la mejor taza de café que han tomado en su vida: en un vagón cafetería, con su amante, con sus tías…?
 · País: España
 · Presenta: Javier Coronas.
@@ -3855,12 +3929,12 @@
 · Tras 13 años como director de fútbol del Manchester City, Txiki Begiristain dejó su cargo en julio. "Txiki Begiristain: la despedida" repasa su trayectoria y rinde homenaje a una de las figuras clave en la consolidación del club en la élite del fútbol.
 · País: Reino Unido</desc>
 	</programme>
-  <programme start="20260310154000 +0100" stop="20260310174000 +0100" channel="M+ Vamos HD">
+  <programme start="20260310154000 +0100" stop="20260310180500 +0100" channel="M+ Vamos HD">
     <title>Torneo de Indian Wells T2026 · Tercera Ronda: Alcaraz - Rinderknech</title>
-    <desc>Deportes,Tenis | 2026 | TP | *5.8/10
+    <desc>Deportes,Tenis | 2026 | TP | *4.8/10
 · Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.</desc>
 	</programme>
-  <programme start="20260310174000 +0100" stop="20260310183700 +0100" channel="M+ Vamos HD">
+  <programme start="20260310180500 +0100" stop="20260310190200 +0100" channel="M+ Vamos HD">
     <title>Universo Valdano T9 · Filipe Luís</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
 · Jorge Valdano visitó a Filipe Luis en Brasil días antes de su repentino despido como entrenador del Flamengo. El exfutbolista del Deportivo de la Coruña, Atlético de Madrid, Chelsea y Flamengo analiza su primera experiencia en los banquillos.
@@ -3868,21 +3942,22 @@
 · Presenta: Jorge Valdano.
 · Productora: Mediapro.</desc>
 	</programme>
-  <programme start="20260310183700 +0100" stop="20260310194000 +0100" channel="M+ Vamos HD">
+  <programme start="20260310190200 +0100" stop="20260310200500 +0100" channel="M+ Vamos HD">
     <title>El día después T25/26 E26</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *5.6/10
 · 'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
 · País: España
 · Presenta: Noemí de Miguel, Carlos Martínez, Julio Maldonado, Álvaro Benito, Mateu Lahoz.</desc>
 	</programme>
-  <programme start="20260310194000 +0100" stop="20260310213000 +0100" channel="M+ Vamos HD">
-    <title>Michael Johnson: Superman</title>
-    <desc>Documentales,Deportes | 2024 | +16 | *6.0/10
-· El atleta Michael Johnson parecía un ser invencible. Fue uno de los mejores atletas de la historia, pero ahora se enfrenta a una realidad que le parecía lejana: su propia mortalidad.
-· País: Reino Unido
-· Dirección: Chris Grubb.
-· Producción: Anton Sensky, Drew Masters.
-· Productora: Whisper Films.</desc>
+  <programme start="20260310200500 +0100" stop="20260310213000 +0100" channel="M+ Vamos HD">
+    <title>Hermanos y Enemigos (Petrovic y Divac)</title>
+    <desc>Documentales,Deportes | 2010 | TP | *8.0/10
+· Vlade Divac, de origen serbio, y Drazen Petrovic, croata, fueron grandes amigos mientras jugaron juntos en la selección de Yugoslavia, pero dejaron de hablarse cuando se vieron en bandos distintos durante la guerra civil que asoló su país.
+· País: Estados Unidos
+· Dirección: Michael Tolajian.
+· Guion: Michael Tolajian.
+· Música: Joel Goodman.
+· Productora: NBA Entertainment.</desc>
 	</programme>
   <programme start="20260310213000 +0100" stop="20260310220000 +0100" channel="M+ Vamos HD">
     <title>Bakalá T25/26 E27</title>
@@ -3898,29 +3973,17 @@
 · País: España
 · Presenta: Lidia Blanco, Roberto Carretero.</desc>
 	</programme>
-  <programme start="20260310223100 +0100" stop="20260310231100 +0100" channel="M+ Vamos HD">
-    <title>El día menos pensado E1</title>
-    <desc>Documentales,Deportes | 2025 | TP | *5.8/10
-· La vieja guardia recibe la grabación de una nueva temporada de la serie con muchas cautelas. Sin embargo, la nueva generación lo ve como una oportunidad. Son personalidades muy distintas, dos mundos muy diferentes que comparten equipo.
+  <programme start="20260310223100 +0100" stop="20260310230000 +0100" channel="M+ Vamos HD">
+    <title>Bakalá T25/26 E26</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
 · País: España
-· Dirección: Marc Pons, José Larraza.
-· Productora: Movistar+.</desc>
+· Presenta: Raúl Pérez.</desc>
 	</programme>
-  <programme start="20260310231100 +0100" stop="20260310235700 +0100" channel="M+ Vamos HD">
-    <title>El día menos pensado E2</title>
-    <desc>Documentales,Deportes | 2025 | TP | *6.2/10
-· En el Tour, Enric no va. Lo que pocos saben es que sufre una lesión importante que le debilita más cada día. En mitad del caos, aparece Iván Romeo. Sueña con su primera etapa en el Tour.
-· País: España
-· Dirección: Marc Pons, José Larraza.
-· Productora: Movistar+.</desc>
-	</programme>
-  <programme start="20260310235700 +0100" stop="20260311004400 +0100" channel="M+ Vamos HD">
-    <title>El día menos pensado E3</title>
-    <desc>Documentales,Deportes | 2025 | TP | *6.4/10
-· El reto es mayúsculo. La idea es cazar etapas. Enric apoya al equipo en la distancia, mientras la nueva generación encargada de liderar la carrera lucha con hambre. Reusser ha superado sus problemas y se convierte en campeona del mundo y de Europa de CRI.
-· País: España
-· Dirección: Marc Pons, José Larraza.
-· Productora: Movistar+.</desc>
+  <programme start="20260310230000 +0100" stop="20260311004400 +0100" channel="M+ Vamos HD">
+    <title>Torneo de Indian Wells T2026 · Octavos de Final Evento 3</title>
+    <desc>Deportes,Tenis | 2026 | TP
+· Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.</desc>
 	</programme>
   <programme start="20260311004400 +0100" stop="20260311012500 +0100" channel="M+ Vamos HD">
     <title>Txiki Beguiristain: la despedida</title>
@@ -4045,7 +4108,7 @@
 	</programme>
   <programme start="20260312002500 +0100" stop="20260312022500 +0100" channel="M+ Vamos HD">
     <title>DIRECTO Octavos de final: Nashville - Inter Miami T2026 · Copa de Campeones de la Concacaf</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
 · 14ª edición de la Liga de Campeones de la Concacaf que se disputa del 15 de febrero al 4 de mayo de 2022. El campeón del torneo clasificará a la Copa Mundial de Clubes de la FIFA 2022.</desc>
 	</programme>
   <programme start="20260312022500 +0100" stop="20260312034000 +0100" channel="M+ Vamos HD">
@@ -4082,6 +4145,11 @@
     <title>TBC T2026 · Torneo de Indian Wells</title>
     <desc>Deportes,Tenis | 2026 | TP | *6.2/10
 · Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.</desc>
+	</programme>
+  <programme start="20260312121000 +0100" stop="20260312140000 +0100" channel="M+ Vamos HD">
+    <title>Jornada 10: Boca Juniors - San Lorenzo T2026 · Liga Argentina. Torneo Apertura</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· Liga Argentina. Torneo Apertura.</desc>
 	</programme>
   <programme start="20260310120000 +0100" stop="20260310135500 +0100" channel="M+ LaLiga HD">
     <title>LALIGA EA SPORTS T25/26 · Jornada 27: At. Madrid - Real Sociedad</title>
@@ -4141,7 +4209,7 @@
 	</programme>
   <programme start="20260310161700 +0100" stop="20260310162900 +0100" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA EA Sports T25/26 · Jornada 27: Sevilla - Rayo</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
 	</programme>
@@ -4335,7 +4403,7 @@
 	</programme>
   <programme start="20260311111400 +0100" stop="20260311112600 +0100" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA EA Sports T25/26 · Jornada 27: Sevilla - Rayo</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
 	</programme>
@@ -4495,7 +4563,7 @@
 	</programme>
   <programme start="20260311210400 +0100" stop="20260311211600 +0100" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA EA Sports T25/26 · Jornada 27: Sevilla - Rayo</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
 	</programme>
@@ -4574,6 +4642,18 @@
     <title>LALIGA HYPERMOTION T25/26 · Jornada 29: Cádiz - Zaragoza</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · El Cádiz buscará un partido de control emocional y centros tensos para instalarse cerca del área rival. El Zaragoza, con la permanencia como hoja de ruta, priorizará solidez y eficiencia; la estrategia y los rechaces pueden marcar un duelo.
+· País: España</desc>
+	</programme>
+  <programme start="20260312124500 +0100" stop="20260312125700 +0100" channel="M+ LaLiga HD">
+    <title>Resúmenes LALIGA EA Sports T25/26 · Jornada 27: Osasuna - Mallorca</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+	</programme>
+  <programme start="20260312125700 +0100" stop="20260312130900 +0100" channel="M+ LaLiga HD">
+    <title>Resúmenes LALIGA EA Sports T25/26 · Jornada 27: Getafe - Betis</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
 	</programme>
   <programme start="20260310120000 +0100" stop="20260310140000 +0100" channel="DAZN LaLiga HD">
@@ -4938,12 +5018,6 @@
     <title>DAZN LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260310102000 +0100" stop="20260310121000 +0100" channel="M+ Liga de Campeones HD">
-    <title>UEFA Champions League T25/26 · Play-offs: At. Madrid - Brujas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *7.2/10
-· Su contundencia en el Metropolitano debe ser uno de los argumentos del At.Madrid tras el 3-3 de la ida. El equipo belga ya demostró en Brujas que sabe competir y no se lo pondrá fácil a los de Simeone.
-· País: España</desc>
-	</programme>
   <programme start="20260310121000 +0100" stop="20260310130000 +0100" channel="M+ Liga de Campeones HD">
     <title>Magazine Champions League T25/26 E23</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
@@ -4995,7 +5069,7 @@
 	</programme>
   <programme start="20260310205300 +0100" stop="20260310230000 +0100" channel="M+ Liga de Campeones HD">
     <title>DIRECTO Octavos de final: Newcastle - Barcelona T25/26 · UEFA Champions League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.
 · País: Reino Unido</desc>
 	</programme>
@@ -5030,7 +5104,7 @@
 	</programme>
   <programme start="20260311063000 +0100" stop="20260311082000 +0100" channel="M+ Liga de Campeones HD">
     <title>Octavos de final: Newcastle - Barcelona T25/26 · UEFA Champions League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.
 · País: Reino Unido</desc>
 	</programme>
@@ -5071,7 +5145,7 @@
 	</programme>
   <programme start="20260311181000 +0100" stop="20260311200000 +0100" channel="M+ Liga de Campeones HD">
     <title>Octavos de final: Newcastle - Barcelona T25/26 · UEFA Champions League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.
 · País: Reino Unido</desc>
 	</programme>
@@ -5100,7 +5174,7 @@
 	</programme>
   <programme start="20260312002500 +0100" stop="20260312024000 +0100" channel="M+ Liga de Campeones HD">
     <title>DIRECTO Octavos de final: Nashville - Inter Miami T2026 · Copa de Campeones de la Concacaf</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
 · 14ª edición de la Liga de Campeones de la Concacaf que se disputa del 15 de febrero al 4 de mayo de 2022. El campeón del torneo clasificará a la Copa Mundial de Clubes de la FIFA 2022.</desc>
 	</programme>
   <programme start="20260312024000 +0100" stop="20260312043000 +0100" channel="M+ Liga de Campeones HD">
@@ -5264,11 +5338,6 @@
     <desc>Deportes,Fútbol | TP | *6.0/10
 · M+ Liga de Campeones 3 -.</desc>
 	</programme>
-  <programme start="20260310111500 +0100" stop="20260310125100 +0100" channel="M+ Deportes HD">
-    <title>Super Rugby Pacific T2026 · Temporada Regular: Waratahs - Hurricanes</title>
-    <desc>Deportes,Rugby | 2026 | TP | *5.8/10
-· Como cada año, la temporada de rugby en el hemisferio sur comienza con el Super Rugby Pacific, el mejor torneo de clubes del mundo. Las doce franquicias se medirán durante 15 jornadas de fase regular y unos playoffs para para conocer al 'Rey del Sur'.</desc>
-	</programme>
   <programme start="20260310125100 +0100" stop="20260310131000 +0100" channel="M+ Deportes HD">
     <title>#ÚneteALaMelé 6N T2026 · Jornada 4</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
@@ -5277,7 +5346,7 @@
 	</programme>
   <programme start="20260310131000 +0100" stop="20260310151500 +0100" channel="M+ Deportes HD">
     <title>Torneo de Indian Wells T2026 · Tercera Ronda: Alcaraz - Rinderknech</title>
-    <desc>Deportes,Tenis | 2026 | TP | *5.8/10
+    <desc>Deportes,Tenis | 2026 | TP | *4.8/10
 · Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.</desc>
 	</programme>
   <programme start="20260310151500 +0100" stop="20260310153000 +0100" channel="M+ Deportes HD">
@@ -5321,7 +5390,7 @@
   <programme start="20260310204500 +0100" stop="20260310230000 +0100" channel="M+ Deportes HD">
     <title>DIRECTO Jornada 34: París - Olympiacos T25/26 · Euroliga de baloncesto</title>
     <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
-· Jornada 34 de la mejor competición de baloncesto de Europa, con más equipos que nunca y con más jornadas que nunca. 20 equipos, 38 jornadas de competición, los play offs, la Final Four... 8 meses por delante para conocer al campeón del basket europeo.
+· El Adidas Arena acoge este partido adelantado de la jornada 34. Paris llega en su mejor racha de la temporada, con 3 victorias consecutivas. Olympiakos viene de ganar a Panathinaikos y tiene la duda de Vezenkov.
 · País: España</desc>
 	</programme>
   <programme start="20260310230000 +0100" stop="20260310233000 +0100" channel="M+ Deportes HD">
@@ -5405,7 +5474,7 @@
   <programme start="20260311123000 +0100" stop="20260311142000 +0100" channel="M+ Deportes HD">
     <title>Jornada 34: París - Olympiacos T25/26 · Euroliga de baloncesto</title>
     <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
-· Jornada 34 de la mejor competición de baloncesto de Europa, con más equipos que nunca y con más jornadas que nunca. 20 equipos, 38 jornadas de competición, los play offs, la Final Four... 8 meses por delante para conocer al campeón del basket europeo.
+· El Adidas Arena acoge este partido adelantado de la jornada 34. Paris llega en su mejor racha de la temporada, con 3 victorias consecutivas. Olympiakos viene de ganar a Panathinaikos y tiene la duda de Vezenkov.
 · País: España</desc>
 	</programme>
   <programme start="20260311142000 +0100" stop="20260311162000 +0100" channel="M+ Deportes HD">
@@ -5519,6 +5588,13 @@
     <title>TBC T2026 · Torneo de Indian Wells</title>
     <desc>Deportes,Tenis | 2026 | TP | *6.2/10
 · Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.</desc>
+	</programme>
+  <programme start="20260312123000 +0100" stop="20260312130000 +0100" channel="M+ Deportes HD">
+    <title>Planeta Tenis T2026 E5</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slams mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
 	</programme>
   <programme start="20260310080000 +0100" stop="20260310160000 +0100" channel="M+ Deportes 2 HD">
     <title>M+ Deportes 2</title>
@@ -5648,7 +5724,7 @@
   <programme start="20260310130100 +0100" stop="20260310132000 +0100" channel="M+ Golf HD">
     <title>Play Off T2026 E8</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Programa que nos acerca toda la actualidad del mundo del golf: los últimos torneos, la agenda, los ranking y los nombres propios más destacados con una atención especial a los jugadores españoles.
+· Jon Rahm vuelve a ganar 539 días después. El español puso fin en Hong Kong a una sequía de un año y medio. Repasamos también lo ocurrido en el Joburg Open y en el Blue Bay LPGA.
 · País: España
 · Presenta: María Camarero, Guillermo Salmerón.</desc>
 	</programme>
@@ -5671,13 +5747,13 @@
 	</programme>
   <programme start="20260310171500 +0100" stop="20260310174500 +0100" channel="M+ Golf HD">
     <title>The Legends Tour T2026 · Legends Tour Documentary EP 1</title>
-    <desc>Deportes,Golf | 2026 | TP | *6.0/10
+    <desc>Deportes,Golf | 2026 | TP | *6.2/10
 · El Staysure Tour, el circuito senior europeo se relanza con una nueva imagen y un nuevo nombre: Legends Tour. Son leyendas, capitanes ganadores de Ryder Cup, campeones de major e iconos de golf.</desc>
 	</programme>
   <programme start="20260310174500 +0100" stop="20260310180500 +0100" channel="M+ Golf HD">
     <title>Play Off T2026 E8</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Programa que nos acerca toda la actualidad del mundo del golf: los últimos torneos, la agenda, los ranking y los nombres propios más destacados con una atención especial a los jugadores españoles.
+· Jon Rahm vuelve a ganar 539 días después. El español puso fin en Hong Kong a una sequía de un año y medio. Repasamos también lo ocurrido en el Joburg Open y en el Blue Bay LPGA.
 · País: España
 · Presenta: María Camarero, Guillermo Salmerón.</desc>
 	</programme>
@@ -5702,14 +5778,14 @@
   <programme start="20260310221500 +0100" stop="20260310223500 +0100" channel="M+ Golf HD">
     <title>Play Off T2026 E8</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Programa que nos acerca toda la actualidad del mundo del golf: los últimos torneos, la agenda, los ranking y los nombres propios más destacados con una atención especial a los jugadores españoles.
+· Jon Rahm vuelve a ganar 539 días después. El español puso fin en Hong Kong a una sequía de un año y medio. Repasamos también lo ocurrido en el Joburg Open y en el Blue Bay LPGA.
 · País: España
 · Presenta: María Camarero, Guillermo Salmerón.</desc>
 	</programme>
   <programme start="20260310223500 +0100" stop="20260311000500 +0100" channel="M+ Golf HD">
     <title>Ladies European Tour T2026 · Australian Women's Classic. Jornada 3</title>
     <desc>Deportes,Golf | 2026 | TP | *6.2/10
-· El circuito europeo femenino viajará a 20 países por todo el mundo para un total de 32 torneos. Andalucía Costa del Sol Open de España pondrá por 4º año consecutivo el punto y final a la Race to Costa del Sol.</desc>
+· Tercer torneo y segunda parada de la gira australiana en el Ladies European Tour. 5 españolas buscarán la victoria el domingo: Marta Martín, Harang Lee, Blanca Fernández, Marta Sanza Barrio y Luna Sobrón.</desc>
 	</programme>
   <programme start="20260311000500 +0100" stop="20260311013500 +0100" channel="M+ Golf HD">
     <title>Ladies European Tour T2026 · Australian Women's Classic. Jornada 4</title>
@@ -5747,14 +5823,14 @@
   <programme start="20260311131000 +0100" stop="20260311132500 +0100" channel="M+ Golf HD">
     <title>Play Off T2026 E8</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Programa que nos acerca toda la actualidad del mundo del golf: los últimos torneos, la agenda, los ranking y los nombres propios más destacados con una atención especial a los jugadores españoles.
+· Jon Rahm vuelve a ganar 539 días después. El español puso fin en Hong Kong a una sequía de un año y medio. Repasamos también lo ocurrido en el Joburg Open y en el Blue Bay LPGA.
 · País: España
 · Presenta: María Camarero, Guillermo Salmerón.</desc>
 	</programme>
   <programme start="20260311132500 +0100" stop="20260311145500 +0100" channel="M+ Golf HD">
     <title>Ladies European Tour T2026 · Australian Women's Classic. Jornada 3</title>
     <desc>Deportes,Golf | 2026 | TP | *6.2/10
-· El circuito europeo femenino viajará a 20 países por todo el mundo para un total de 32 torneos. Andalucía Costa del Sol Open de España pondrá por 4º año consecutivo el punto y final a la Race to Costa del Sol.</desc>
+· Tercer torneo y segunda parada de la gira australiana en el Ladies European Tour. 5 españolas buscarán la victoria el domingo: Marta Martín, Harang Lee, Blanca Fernández, Marta Sanza Barrio y Luna Sobrón.</desc>
 	</programme>
   <programme start="20260311145500 +0100" stop="20260311162500 +0100" channel="M+ Golf HD">
     <title>Ladies European Tour T2026 · Australian Women's Classic. Jornada 4</title>
@@ -5848,7 +5924,7 @@
   <programme start="20260312100000 +0100" stop="20260312113000 +0100" channel="M+ Golf HD">
     <title>Ladies European Tour T2026 · Australian Women's Classic. Jornada 3</title>
     <desc>Deportes,Golf | 2026 | TP | *6.2/10
-· El circuito europeo femenino viajará a 20 países por todo el mundo para un total de 32 torneos. Andalucía Costa del Sol Open de España pondrá por 4º año consecutivo el punto y final a la Race to Costa del Sol.</desc>
+· Tercer torneo y segunda parada de la gira australiana en el Ladies European Tour. 5 españolas buscarán la victoria el domingo: Marta Martín, Harang Lee, Blanca Fernández, Marta Sanza Barrio y Luna Sobrón.</desc>
 	</programme>
   <programme start="20260312113000 +0100" stop="20260312130000 +0100" channel="M+ Golf HD">
     <title>Ladies European Tour T2026 · Australian Women's Classic. Jornada 4</title>
@@ -6342,13 +6418,13 @@
 	</programme>
   <programme start="20260311060000 +0100" stop="20260311070000 +0100" channel="Eurosport 1 HD">
     <title>Copa del mundo de esquí de fondo - Lahti T25/26 · 10km Clásico F</title>
-    <desc>Deportes,Deporte invierno | 2026 | TP | *6.0/10
+    <desc>Deportes,Esquí de fondo | 2026 | TP | *6.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. El noruego Johannes Hosflot (H) y la estadounidense Jessie Diggins (F) defienden título.
 · País: Finlandia</desc>
 	</programme>
   <programme start="20260311070000 +0100" stop="20260311080000 +0100" channel="Eurosport 1 HD">
     <title>Copa del mundo de esquí de fondo - Lahti T25/26 · 10km Clásico M</title>
-    <desc>Deportes,Esquí de fondo | 2026 | TP | *6.0/10
+    <desc>Deportes,Deporte invierno | 2026 | TP | *6.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. El noruego Johannes Hosflot (H) y la estadounidense Jessie Diggins (F) defienden título.
 · País: Finlandia</desc>
 	</programme>
@@ -6377,7 +6453,7 @@
 	</programme>
   <programme start="20260311123000 +0100" stop="20260311133000 +0100" channel="Eurosport 1 HD">
     <title>Copa del mundo de esquí de fondo - Lahti T25/26 · 10km Clásico M</title>
-    <desc>Deportes,Esquí de fondo | 2026 | TP | *6.0/10
+    <desc>Deportes,Deporte invierno | 2026 | TP | *6.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. El noruego Johannes Hosflot (H) y la estadounidense Jessie Diggins (F) defienden título.
 · País: Finlandia</desc>
 	</programme>
@@ -6419,7 +6495,7 @@
 	</programme>
   <programme start="20260311191500 +0100" stop="20260311200000 +0100" channel="Eurosport 1 HD">
     <title>Etapa 4 - Bourges - Uchon T2026 · París-Niza</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *5.6/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *5.8/10
 · La primera gran cita del calendario ciclista internacional. Del 8 al 15 de marzo, los mejores equipos del pelotón disputan la 'carrera del sol', que este año llega a su 84ª edición. En 2025, el triunfo correspondió al estadounidense Matteo Jorgenson.
 · País: Francia</desc>
 	</programme>
@@ -6449,7 +6525,7 @@
 	</programme>
   <programme start="20260311231500 +0100" stop="20260312000000 +0100" channel="Eurosport 1 HD">
     <title>Etapa 4 - Bourges - Uchon T2026 · París-Niza</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *5.6/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *5.8/10
 · La primera gran cita del calendario ciclista internacional. Del 8 al 15 de marzo, los mejores equipos del pelotón disputan la 'carrera del sol', que este año llega a su 84ª edición. En 2025, el triunfo correspondió al estadounidense Matteo Jorgenson.
 · País: Francia</desc>
 	</programme>
@@ -6466,13 +6542,13 @@
 	</programme>
   <programme start="20260312013000 +0100" stop="20260312021500 +0100" channel="Eurosport 1 HD">
     <title>Copa del mundo de esquí de fondo - Lahti T25/26 · 10km Clásico F</title>
-    <desc>Deportes,Deporte invierno | 2026 | TP | *6.0/10
+    <desc>Deportes,Esquí de fondo | 2026 | TP | *6.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. El noruego Johannes Hosflot (H) y la estadounidense Jessie Diggins (F) defienden título.
 · País: Finlandia</desc>
 	</programme>
   <programme start="20260312021500 +0100" stop="20260312030000 +0100" channel="Eurosport 1 HD">
     <title>Copa del mundo de esquí de fondo - Lahti T25/26 · 10km Clásico M</title>
-    <desc>Deportes,Esquí de fondo | 2026 | TP | *6.0/10
+    <desc>Deportes,Deporte invierno | 2026 | TP | *6.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. El noruego Johannes Hosflot (H) y la estadounidense Jessie Diggins (F) defienden título.
 · País: Finlandia</desc>
 	</programme>
@@ -6484,7 +6560,7 @@
 	</programme>
   <programme start="20260312040000 +0100" stop="20260312050000 +0100" channel="Eurosport 1 HD">
     <title>Etapa 4 - Bourges - Uchon T2026 · París-Niza</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *5.6/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *5.8/10
 · La primera gran cita del calendario ciclista internacional. Del 8 al 15 de marzo, los mejores equipos del pelotón disputan la 'carrera del sol', que este año llega a su 84ª edición. En 2025, el triunfo correspondió al estadounidense Matteo Jorgenson.
 · País: Francia</desc>
 	</programme>
@@ -6538,6 +6614,12 @@
   <programme start="20260312120000 +0100" stop="20260312123000 +0100" channel="Eurosport 1 HD">
     <title>Copa del mundo de biatlón - Kontiolahti T25/26 · Salida en masa F</title>
     <desc>Deportes,Deporte invierno | 2026 | TP | *6.2/10
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
+· País: Finlandia</desc>
+	</programme>
+  <programme start="20260312123000 +0100" stop="20260312131000 +0100" channel="Eurosport 1 HD">
+    <title>Copa del mundo de biatlón - Kontiolahti T25/26 · Salida en masa M</title>
+    <desc>Deportes,Deporte invierno | 2026 | TP | *6.4/10
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Finlandia</desc>
 	</programme>
@@ -6689,7 +6771,7 @@
 	</programme>
   <programme start="20260311154500 +0100" stop="20260311171500 +0100" channel="Eurosport 2">
     <title>DIRECTO Etapa 4 - Bourges - Uchon T2026 · París-Niza</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *5.6/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *5.8/10
 · La primera gran cita del calendario ciclista internacional. Del 8 al 15 de marzo, los mejores equipos del pelotón disputan la 'carrera del sol', que este año llega a su 84ª edición. En 2025, el triunfo correspondió al estadounidense Matteo Jorgenson.
 · País: Francia</desc>
 	</programme>
@@ -6724,7 +6806,7 @@
 	</programme>
   <programme start="20260311211500 +0100" stop="20260311220000 +0100" channel="Eurosport 2">
     <title>Etapa 4 - Bourges - Uchon T2026 · París-Niza</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *5.6/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *5.8/10
 · La primera gran cita del calendario ciclista internacional. Del 8 al 15 de marzo, los mejores equipos del pelotón disputan la 'carrera del sol', que este año llega a su 84ª edición. En 2025, el triunfo correspondió al estadounidense Matteo Jorgenson.
 · País: Francia</desc>
 	</programme>
@@ -6756,7 +6838,7 @@
 	</programme>
   <programme start="20260312020000 +0100" stop="20260312030000 +0100" channel="Eurosport 2">
     <title>Etapa 4 - Bourges - Uchon T2026 · París-Niza</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *5.6/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *5.8/10
 · La primera gran cita del calendario ciclista internacional. Del 8 al 15 de marzo, los mejores equipos del pelotón disputan la 'carrera del sol', que este año llega a su 84ª edición. En 2025, el triunfo correspondió al estadounidense Matteo Jorgenson.
 · País: Francia</desc>
 	</programme>
@@ -6780,7 +6862,7 @@
 	</programme>
   <programme start="20260312070000 +0100" stop="20260312080000 +0100" channel="Eurosport 2">
     <title>Etapa 4 - Bourges - Uchon T2026 · París-Niza</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *5.6/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *5.8/10
 · La primera gran cita del calendario ciclista internacional. Del 8 al 15 de marzo, los mejores equipos del pelotón disputan la 'carrera del sol', que este año llega a su 84ª edición. En 2025, el triunfo correspondió al estadounidense Matteo Jorgenson.
 · País: Francia</desc>
 	</programme>
@@ -6804,7 +6886,7 @@
 	</programme>
   <programme start="20260312110000 +0100" stop="20260312120000 +0100" channel="Eurosport 2">
     <title>Etapa 4 - Bourges - Uchon T2026 · París-Niza</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *5.6/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *5.8/10
 · La primera gran cita del calendario ciclista internacional. Del 8 al 15 de marzo, los mejores equipos del pelotón disputan la 'carrera del sol', que este año llega a su 84ª edición. En 2025, el triunfo correspondió al estadounidense Matteo Jorgenson.
 · País: Francia</desc>
 	</programme>
@@ -6982,13 +7064,15 @@
 	</programme>
   <programme start="20260310112500 +0100" stop="20260310125800 +0100" channel="Teledeporte">
     <title>Esquí de fondo - JJ PP Cortina Milán 2026 T2026 · Esprín clásico - Clasificación y Final</title>
-    <desc>Deportes,Evento deportivo | 2026 | TP
-· Los atletas compiten en carreras de 5, 10 y 20 km, y participan en las pruebas de relevos por equipos usando el estilo clásico o la técnica libre.</desc>
+    <desc>Deportes,Evento deportivo | 2026 | TP | *6.0/10
+· Los atletas compiten en carreras de 5, 10 y 20 km, y participan en las pruebas de relevos por equipos usando el estilo clásico o la técnica libre.
+· País: Italia</desc>
 	</programme>
   <programme start="20260310125800 +0100" stop="20260310143500 +0100" channel="Teledeporte">
-    <title>Para Esquí Alpino - JJ PP Cortina Milán 2026 T2026 · Combinada alpina - Eslalon - 2ª manga</title>
-    <desc>Deportes,Evento deportivo | 2026 | TP
-· Disciplina de velocidad y técnica en pistas de montaña.</desc>
+    <title>DIRECTO Combinada alpina - Eslalon - 2ª manga T2026 · Para Esquí Alpino - JJ PP Cortina Milán 2026</title>
+    <desc>Deportes,Evento deportivo | 2026 | TP | *5.6/10
+· Disciplina de velocidad y técnica en pistas de montaña.
+· País: Italia</desc>
 	</programme>
   <programme start="20260310143500 +0100" stop="20260310144500 +0100" channel="Teledeporte">
     <title>Informativo Deportes 24H</title>
@@ -7017,8 +7101,9 @@
 	</programme>
   <programme start="20260310171000 +0100" stop="20260310185000 +0100" channel="Teledeporte">
     <title>Curling en silla de ruedas Dobles Mixtos - JJ PP Cortina Milán 2026 T2026 · Primera semifinal</title>
-    <desc>Deportes,Evento deportivo | 2026 | TP
-· El curling en silla de ruedas es de los deportes más madrugadores en los Juegos Paralímpicos de Cortina Milán. La competición de dobles mixtos se celebra del 4 al 14 de marzo en el Cortina Curling Olympic Stadium.</desc>
+    <desc>Deportes,Evento deportivo | 2026 | TP | *6.0/10
+· El curling en silla de ruedas es de los deportes más madrugadores en los Juegos Paralímpicos de Cortina Milán. La competición de dobles mixtos se celebra del 4 al 14 de marzo en el Cortina Curling Olympic Stadium.
+· País: Italia</desc>
 	</programme>
   <programme start="20260310185000 +0100" stop="20260310190000 +0100" channel="Teledeporte">
     <title>Informativo Deportes 24H</title>
@@ -7037,44 +7122,52 @@
 · La Champions League corona cada año al rey del fútbol continental. Este espacio repasa lo ocurrido en los partidos de la máxima competición de clubes del planeta.</desc>
 	</programme>
   <programme start="20260310202000 +0100" stop="20260310223000 +0100" channel="Teledeporte">
-    <title>Basketball Champions League T25/26 · Jornada 5: Elan Chalon - Unicaja</title>
-    <desc>Deportes,Baloncesto | 2025 | TP
-· Una competición gestionada por la FIBA que junta a algunos de los mejores equipos del continente europeo. Esta es la décima campaña de este torneo tras la escisión con la Euroliga. Unicaja es el defensor del título.</desc>
+    <title>DIRECTO Jornada 5: Elan Chalon - Unicaja T25/26 · Basketball Champions League</title>
+    <desc>Deportes,Baloncesto | 2025 | TP | *5.2/10
+· Una competición gestionada por la FIBA que junta a algunos de los mejores equipos del continente europeo. Esta es la décima campaña de este torneo tras la escisión con la Euroliga. Unicaja es el defensor del título.
+· País: Francia</desc>
 	</programme>
   <programme start="20260310223000 +0100" stop="20260310231000 +0100" channel="Teledeporte">
     <title>Estudio Estadio Champions La Previa T25/26 · Martes 10 marzo</title>
-    <desc>Deportes,Programa deportes | 2026 | TP
-· Tras las jornadas de Champions League, el espacio ofrece toda la información que deparen los partidos, con especial atención a los encuentros que disputen los equipos españoles.</desc>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Tras las jornadas de Champions League, el espacio ofrece toda la información que deparen los partidos, con especial atención a los encuentros que disputen los equipos españoles.
+· País: España</desc>
 	</programme>
   <programme start="20260310231000 +0100" stop="20260311000000 +0100" channel="Teledeporte">
     <title>Estudio Estadio Champions Resúmenes T25/26 · Martes 10 marzo</title>
-    <desc>Deportes,Programa deportes | 2026 | TP
-· Tras las jornadas de Champions League, el espacio ofrece toda la información que deparen los partidos, con especial atención a los encuentros que disputen los equipos españoles.</desc>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Tras las jornadas de Champions League, el espacio ofrece toda la información que deparen los partidos, con especial atención a los encuentros que disputen los equipos españoles.
+· País: España</desc>
 	</programme>
   <programme start="20260311000000 +0100" stop="20260311003000 +0100" channel="Teledeporte">
     <title>Estudio Estadio Champions Tiempo Extra T25/26 · Martes 10 marzo</title>
-    <desc>Deportes,Programa deportes | 2026 | TP
-· Tras las jornadas de Champions League, el espacio ofrece toda la información que deparen los partidos, con especial atención a los encuentros que disputen los equipos españoles.</desc>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Tras las jornadas de Champions League, el espacio ofrece toda la información que deparen los partidos, con especial atención a los encuentros que disputen los equipos españoles.
+· País: España</desc>
 	</programme>
   <programme start="20260311003000 +0100" stop="20260311020500 +0100" channel="Teledeporte">
     <title>Para Hockey Hielo Mixto - JJ PP Cortina Milán 2026 T2026 · Canadá - Chequia</title>
-    <desc>Deportes,Evento deportivo | 2026 | TP
-· Deporte de equipo intenso y rápido en el que los jugadores compiten sobre trineos con cuchillas. Utilizan dos sticks para impulsarse y controlar el puck, intentando marcar más goles que el rival.</desc>
+    <desc>Deportes,Evento deportivo | 2026 | TP | *6.0/10
+· Deporte de equipo intenso y rápido en el que los jugadores compiten sobre trineos con cuchillas. Utilizan dos sticks para impulsarse y controlar el puck, intentando marcar más goles que el rival.
+· País: Italia</desc>
 	</programme>
   <programme start="20260311020500 +0100" stop="20260311031500 +0100" channel="Teledeporte">
     <title>Esquí de fondo - JJ PP Cortina Milán 2026 T2026 · Esprín clásico - Clasificación y Final</title>
-    <desc>Deportes,Evento deportivo | 2026 | TP
-· Los atletas compiten en carreras de 5, 10 y 20 km, y participan en las pruebas de relevos por equipos usando el estilo clásico o la técnica libre.</desc>
+    <desc>Deportes,Evento deportivo | 2026 | TP | *6.0/10
+· Los atletas compiten en carreras de 5, 10 y 20 km, y participan en las pruebas de relevos por equipos usando el estilo clásico o la técnica libre.
+· País: Italia</desc>
 	</programme>
   <programme start="20260311031500 +0100" stop="20260311050000 +0100" channel="Teledeporte">
     <title>Curling en silla de ruedas Dobles Mixtos - JJ PP Cortina Milán 2026 T2026 · Primera semifinal</title>
-    <desc>Deportes,Evento deportivo | 2026 | TP
-· El curling en silla de ruedas es de los deportes más madrugadores en los Juegos Paralímpicos de Cortina Milán. La competición de dobles mixtos se celebra del 4 al 14 de marzo en el Cortina Curling Olympic Stadium.</desc>
+    <desc>Deportes,Evento deportivo | 2026 | TP | *6.0/10
+· El curling en silla de ruedas es de los deportes más madrugadores en los Juegos Paralímpicos de Cortina Milán. La competición de dobles mixtos se celebra del 4 al 14 de marzo en el Cortina Curling Olympic Stadium.
+· País: Italia</desc>
 	</programme>
   <programme start="20260311050000 +0100" stop="20260311070000 +0100" channel="Teledeporte">
-    <title>Para Esquí Alpino - JJ PP Cortina Milán 2026 T2026 · Combinada alpina - Eslalon - 2ª manga</title>
-    <desc>Deportes,Evento deportivo | 2026 | TP
-· Disciplina de velocidad y técnica en pistas de montaña.</desc>
+    <title>Combinada alpina - Eslalon - 2ª manga T2026 · Para Esquí Alpino - JJ PP Cortina Milán 2026</title>
+    <desc>Deportes,Evento deportivo | 2026 | TP | *5.6/10
+· Disciplina de velocidad y técnica en pistas de montaña.
+· País: Italia</desc>
 	</programme>
   <programme start="20260311070000 +0100" stop="20260311100000 +0100" channel="Teledeporte">
     <title>Teledeporte</title>
@@ -7445,15 +7538,6 @@
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260310110500 +0100" stop="20260310122700 +0100" channel="DARK">
-    <title>El ejército de las tinieblas</title>
-    <desc>Cine,Terror,Comedia,Fantasía | 1992 | +18 | *7.4/10
-· El Necronomicón Ex Mortis, un antiguo libro de los muertos de origen sumerio, transporta a un simple trabajador de una ferretería al siglo XIV.
-· País: Estados Unidos
-· Dirección: Sam Raimi.
-· Reparto: Bruce Campbell, Ivan Raimi, Ted Raimi, Bridget Fonda, Bruce Thomas, Embeth Davidtz, Bill Moseley, Marcus Gilbert, Ian Abercrombie, Michael Earl Reid, Theodore Raimi, Timothy Patrick Quill, Sara Shearer, Richard Grove, Patricia Tallman, Deke Anderson.
-· Música: Joseph LoDuca, Danny Elfman.</desc>
-	</programme>
   <programme start="20260310122700 +0100" stop="20260310134000 +0100" channel="DARK">
     <title>Gatlopp</title>
     <desc>Cine,Comedia,Drama,Terror | 2022 | +18 | *5.9/10
@@ -7755,14 +7839,6 @@
 · Reparto: Robert Kerman, Francesca Ciardi, Perry Pirkanen, Luca Barbareschi, Salvatore Basile, Ricardo Fuentes, Gabriel Yorke, Paolo Paolini, Carl Gabriel Yorke, Paolo Paoloni.
 · Música: Riz Ortolani.
 · Producción: Franco Di Nunzio, Franco Palaggi.</desc>
-	</programme>
-  <programme start="20260310111900 +0100" stop="20260310125300 +0100" channel="AMC HD">
-    <title>American Ultra</title>
-    <desc>Cine,Acción,Comedia | 2010 | +18 | *6.1/10
-· La vida de Mike, un drogadicto desmotivado, de repente se pone patas arriba cuando descubre que es un agente encubierto altamente entrenado.
-· País: Suiza, Estados Unidos
-· Dirección: Nima Nourizadeh.
-· Reparto: Wayne Pére, Nash Edgerton, Tony Hale, Topher Grace, Connie Britton, Kristen Stewart, Jesse Eisenberg, Walton Goggins, Michael Papajohn, John Leguizamo, Bill Pullman, Stuart Greer.</desc>
 	</programme>
   <programme start="20260310125300 +0100" stop="20260310144600 +0100" channel="AMC HD">
     <title>No hay salida</title>
@@ -8862,11 +8938,6 @@
     <desc>Toros | +16
 · Esta semana en A Toro Pasado retrocedemos 36 veranos en el tiempo. El 2 de agosto de 1987 «Morenito de Maracay» salió catapultado de las Ventas abriendo la puerta grande con una corrida de Manuel Sánchez-Cobaleda. El torero venezolano nos acompañará en plató para recordar una tarde histórica junto a su apoderado Luis Álvarez y el conocido torero de plata Curro Álvarez.</desc>
 	</programme>
-  <programme start="20260310115500 +0100" stop="20260310123300 +0100" channel="Torolé TV">
-    <title>Toros para todos - T1, E6: Episodio 6 T1 E6</title>
-    <desc>Entretenimiento,Toros | +16
-· El programa de Torolé visita las mejores ganaderías y descubre otros toros diferentes así como otras tauromaquias, con una imagen alternativa del mundo del toro. Un concepto atractivo y moderno acorde con el lenguaje audiovisual que impera en la actualidad.</desc>
-	</programme>
   <programme start="20260310123300 +0100" stop="20260310151400 +0100" channel="Torolé TV">
     <title>Espectáculo taurino</title>
     <desc>Entretenimiento,Toros | +16
@@ -9167,6 +9238,256 @@
     <desc>Entretenimiento,Toros | +16
 · Espacio taurino presentado y dirigido por Víctor García-Rayo. El programa, que cuenta con diferentes secciones y colaboradores, ofrece interesantes reportajes camperos en las ganaderías bravas de España, Francia y Portugal.</desc>
 	</programme>
+  <programme start="20260312124500 +0100" stop="20260312134100 +0100" channel="Torolé TV">
+    <title>Toros para todos - T1, E1: Episodio 1 T1 E1</title>
+    <desc>Entretenimiento,Toros | +16
+· El programa de Torolé visita las mejores ganaderías y descubre otros toros diferentes así como otras tauromaquias, con una imagen alternativa del mundo del toro. Un concepto atractivo y moderno acorde con el lenguaje audiovisual que impera en la actualidad.</desc>
+	</programme>
+  <programme start="20260310110000 +0000" stop="20260310130000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Premier Padel Tennis</title>
+    <desc>Sports event,Racquet
+· Miami, final masculina.</desc>
+	</programme>
+  <programme start="20260310130000 +0000" stop="20260310140000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>The Xtra</title>
+    <desc>Sports related,Soccer
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260310140000 +0000" stop="20260310150000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>90 in 60</title>
+    <desc>Sports related,Soccer
+· 2010: Independiente vs. Goiás.</desc>
+	</programme>
+  <programme start="20260310150000 +0000" stop="20260310170000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>CONMEBOL Copa Sudamericana</title>
+    <desc>Sports event,Soccer
+· Boston River vs. Racing.</desc>
+	</programme>
+  <programme start="20260310170000 +0000" stop="20260310173000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Los 100 mejores knockouts de la historia</title>
+    <desc>Documentary,Sports related
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260310173000 +0000" stop="20260310180000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Los 100 mejores knockouts de la historia</title>
+    <desc>Documentary,Sports related
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260310180000 +0000" stop="20260310190000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Pro Footvolley Tour</title>
+    <desc>Sports related,Footvolley
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260310190000 +0000" stop="20260310193000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>90 in 30</title>
+    <desc>Sports related,Soccer
+· Ligue 1 2025-26: Paris Saint-Germain vs. AS Monaco.</desc>
+	</programme>
+  <programme start="20260310193000 +0000" stop="20260310200000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>90 in 30</title>
+    <desc>Sports related,Soccer
+· Superliga 2025-26: Besiktas vs. Galatasaray.</desc>
+	</programme>
+  <programme start="20260310200000 +0000" stop="20260310210000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Copa Libertadores Highlights</title>
+    <desc>Soccer,Sports related
+· Group Stage, Matchday 1.</desc>
+	</programme>
+  <programme start="20260310210000 +0000" stop="20260310220000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>The Xtra</title>
+    <desc>Sports related,Soccer
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260310220000 +0000" stop="20260310223000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Los mejores goles de los Mundiales</title>
+    <desc>Special,Sports related
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260310223000 +0000" stop="20260310230000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>The Knockout Room</title>
+    <desc>Soccer,Sports related
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260310230000 +0000" stop="20260311010000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>CONMEBOL Copa Sudamericana</title>
+    <desc>Sports event,Soccer
+· Boston River vs. Racing.</desc>
+	</programme>
+  <programme start="20260311010000 +0000" stop="20260311020000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>BYB Xtreme Fighting Series</title>
+    <desc>Boxing
+· BYB 9: Tampa Brawl.</desc>
+	</programme>
+  <programme start="20260311020000 +0000" stop="20260311040000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Supreme Fight Night 8</title>
+    <desc>Mixed martial arts
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311040000 +0000" stop="20260311050000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>The Xtra</title>
+    <desc>Sports related,Soccer
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311050000 +0000" stop="20260311053000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Tour Mundial de Baloncesto 3x3 de la FIBA</title>
+    <desc>Sports event,3x3 basketball
+· Abu Dabi: Skyliners vs. Kanazawa.</desc>
+	</programme>
+  <programme start="20260311053000 +0000" stop="20260311060000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Tour Mundial de Baloncesto 3x3 de la FIBA</title>
+    <desc>Sports event,3x3 basketball
+· Abu Dabi: Miami vs. Toulouse.</desc>
+	</programme>
+  <programme start="20260311060000 +0000" stop="20260311080000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Premier Padel Tennis</title>
+    <desc>Sports event,Racquet
+· Miami, final masculina.</desc>
+	</programme>
+  <programme start="20260311080000 +0000" stop="20260311100000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Supreme Fight Night 8</title>
+    <desc>Mixed martial arts
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311100000 +0000" stop="20260311103100 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>90 in 30</title>
+    <desc>Sports related,Soccer
+· Ligue 1 2025-26: Toulouse vs. Marseille.</desc>
+	</programme>
+  <programme start="20260311103100 +0000" stop="20260311110000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>90 in 30</title>
+    <desc>Sports related,Soccer
+· Taça de Portugal 2025-26: Sporting CP vs. Porto.</desc>
+	</programme>
+  <programme start="20260311110000 +0000" stop="20260311130000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Premier Padel Tennis</title>
+    <desc>Sports event,Racquet
+· Qatar Major, Men's final.</desc>
+	</programme>
+  <programme start="20260311130000 +0000" stop="20260311140000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>The Xtra</title>
+    <desc>Sports related,Soccer
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311140000 +0000" stop="20260311150000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>90 in 60</title>
+    <desc>Sports related,Soccer
+· 2012: Sao Paulo vs. Tigre.</desc>
+	</programme>
+  <programme start="20260311150000 +0000" stop="20260311170000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Fútbol Turco Superliga</title>
+    <desc>Sports event,Soccer
+· Besiktas vs. Galatasaray.</desc>
+	</programme>
+  <programme start="20260311170000 +0000" stop="20260311173000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Los 100 mejores knockouts de la historia</title>
+    <desc>Documentary,Sports related
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311173000 +0000" stop="20260311180000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Los 100 mejores knockouts de la historia</title>
+    <desc>Documentary,Sports related
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311180000 +0000" stop="20260311190000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Pro Footvolley Tour</title>
+    <desc>Sports related,Footvolley
+· Episode 15.</desc>
+	</programme>
+  <programme start="20260311190000 +0000" stop="20260311193100 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>90 in 30</title>
+    <desc>Sports related,Soccer
+· Ligue 1 2025-26: Toulouse vs. Marseille.</desc>
+	</programme>
+  <programme start="20260311193100 +0000" stop="20260311200000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>90 in 30</title>
+    <desc>Sports related,Soccer
+· Taça de Portugal 2025-26: Sporting CP vs. Porto.</desc>
+	</programme>
+  <programme start="20260311200000 +0000" stop="20260311210000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Copa Sudamericana Highlight Show</title>
+    <desc>Soccer,Sports related
+· Group Stage, Matchday 1.</desc>
+	</programme>
+  <programme start="20260311210000 +0000" stop="20260311215000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>The Xtra</title>
+    <desc>Sports related,Soccer
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311215000 +0000" stop="20260311220000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Best of beIN</title>
+    <desc>Sports related
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311220000 +0000" stop="20260311223000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Los 100 mejores knockouts de la historia</title>
+    <desc>Documentary,Sports related
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311223000 +0000" stop="20260311230000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>The Knockout Room</title>
+    <desc>Soccer,Sports related
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311230000 +0000" stop="20260312010000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Fútbol Turco Superliga</title>
+    <desc>Sports event,Soccer
+· Besiktas vs. Galatasaray.</desc>
+	</programme>
+  <programme start="20260312010000 +0000" stop="20260312020000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>BYB Xtreme Fighting Series</title>
+    <desc>Boxing
+· BYB 10: Biloxi Brawl.</desc>
+	</programme>
+  <programme start="20260312020000 +0000" stop="20260312040000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>BYB Xtreme Fighting Series</title>
+    <desc>Boxing
+· BYB 22: Rocky Mountain Brawl.</desc>
+	</programme>
+  <programme start="20260312040000 +0000" stop="20260312045000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>The Xtra</title>
+    <desc>Sports related,Soccer
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260312045000 +0000" stop="20260312050000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Best of beIN</title>
+    <desc>Sports related
+· Sin detalles...</desc>
+	</programme>
+  <programme start="20260312050000 +0000" stop="20260312053000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Tour Mundial de Baloncesto 3x3 de la FIBA</title>
+    <desc>Sports event,3x3 basketball
+· Abu Dabi: Amsterdam Rabobank vs. Baskets Bonn Telekom.</desc>
+	</programme>
+  <programme start="20260312053000 +0000" stop="20260312060000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Tour Mundial de Baloncesto 3x3 de la FIBA</title>
+    <desc>Sports event,3x3 basketball
+· Abu Dabi: Ub vs. Skyliners.</desc>
+	</programme>
+  <programme start="20260312060000 +0000" stop="20260312080000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Premier Padel Tennis</title>
+    <desc>Sports event,Racquet
+· Qatar Major, Men's final.</desc>
+	</programme>
+  <programme start="20260312080000 +0000" stop="20260312100000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>BYB Xtreme Fighting Series</title>
+    <desc>Boxing
+· BYB 22: Rocky Mountain Brawl.</desc>
+	</programme>
+  <programme start="20260312100000 +0000" stop="20260312103000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>90 in 30</title>
+    <desc>Sports related,Soccer
+· Ligue 1 2025-26: Lens vs. Metz.</desc>
+	</programme>
+  <programme start="20260312103000 +0000" stop="20260312110000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>90 in 30</title>
+    <desc>Sports related,Soccer
+· Superliga 2025-26: Fenerbahce vs. Samsunspor.</desc>
+	</programme>
+  <programme start="20260312110000 +0000" stop="20260312130000 +0000" channel="beIN SPORTS XTRA ñ">
+    <title>Premier Padel</title>
+    <desc>Sports event,Racquet
+· Gijón, Final Femenina.</desc>
+	</programme>
   <programme start="20260310120000 +0100" stop="20260310130000 +0100" channel="ESPN">
     <title>SportsCenter</title>
     <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
@@ -9390,6 +9711,134 @@
   <programme start="20260312003000 +0100" stop="20260312010000 +0100" channel="ESPN 2">
     <title>Lo mejor de MotoGP</title>
     <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260310120000 +0100" stop="20260310130000 +0100" channel="ESPN 3">
+    <title>SportsCenter</title>
+    <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
+	</programme>
+  <programme start="20260310130000 +0100" stop="20260310150000 +0100" channel="ESPN 3">
+    <title>Get Up!</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260310150000 +0100" stop="20260310171500 +0100" channel="ESPN 3">
+    <title>Ciclismo UCI World Tour masculino · París - Niza: etapa 3</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260310171500 +0100" stop="20260310190000 +0100" channel="ESPN 3">
+    <title>ESPN Knockout T2026 · Julio Cabrera vs. Gerardo Zapata</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260310190000 +0100" stop="20260310200000 +0100" channel="ESPN 3">
+    <title>SportsCenter</title>
+    <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
+	</programme>
+  <programme start="20260310200000 +0100" stop="20260310210000 +0100" channel="ESPN 3">
+    <title>SportsCenter Special T2026 E1 · NFL Free Agency Countdown</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260310210000 +0100" stop="20260310220000 +0100" channel="ESPN 3">
+    <title>NFL Live</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260310220000 +0100" stop="20260311000000 +0100" channel="ESPN 3">
+    <title>Golf PGA Tour · Arnold Palmer Invitational, ronda final</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311000000 +0100" stop="20260311010000 +0100" channel="ESPN 3">
+    <title>SailGP</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311010000 +0100" stop="20260311033000 +0100" channel="ESPN 3">
+    <title>Fútbol Conmebol Copa Libertadores · Botafogo vs. Barcelona SC</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311033000 +0100" stop="20260311040000 +0100" channel="ESPN 3">
+    <title>SportsCenter</title>
+    <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
+	</programme>
+  <programme start="20260311040000 +0100" stop="20260311063000 +0100" channel="ESPN 3">
+    <title>Baloncesto CIBACOPA · Pioneros de Los Mochis vs. Frayles de Guasave</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311063000 +0100" stop="20260311083000 +0100" channel="ESPN 3">
+    <title>Automovilismo NASCAR Cup Series · Phoenix: Carrera</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311083000 +0100" stop="20260311103000 +0100" channel="ESPN 3">
+    <title>Sóftbol Universitario · Duke vs. South Carolina</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311103000 +0100" stop="20260311120000 +0100" channel="ESPN 3">
+    <title>Sóftbol Universitario · Samford vs. Alabama</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311120000 +0100" stop="20260311130000 +0100" channel="ESPN 3">
+    <title>SportsCenter</title>
+    <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
+	</programme>
+  <programme start="20260311130000 +0100" stop="20260311150000 +0100" channel="ESPN 3">
+    <title>Get Up!</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311150000 +0100" stop="20260311171500 +0100" channel="ESPN 3">
+    <title>Ciclismo UCI World Tour masculino · París - Niza: etapa 4</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311171500 +0100" stop="20260311190000 +0100" channel="ESPN 3">
+    <title>Baloncesto Universitario · Torneo de la ACC, segunda ronda: Equipos por confirmar</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311190000 +0100" stop="20260311193000 +0100" channel="ESPN 3">
+    <title>College Basketball Live Scoreboard</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311193000 +0100" stop="20260311200000 +0100" channel="ESPN 3">
+    <title>SportsCenter</title>
+    <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
+	</programme>
+  <programme start="20260311200000 +0100" stop="20260311230000 +0100" channel="ESPN 3">
+    <title>Clásico Mundial de Béisbol 2026 · Canada vs. Cuba</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311230000 +0100" stop="20260311233000 +0100" channel="ESPN 3">
+    <title>PGA Tour Highlights</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260311233000 +0100" stop="20260312000000 +0100" channel="ESPN 3">
+    <title>EFL Highlights</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260312000000 +0100" stop="20260312003000 +0100" channel="ESPN 3">
+    <title>NBA esta noche</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260312003000 +0100" stop="20260312030000 +0100" channel="ESPN 3">
+    <title>Baloncesto NBA · Cleveland Cavaliers vs. Orlando Magic</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260312030000 +0100" stop="20260312053000 +0100" channel="ESPN 3">
+    <title>Baloncesto NBA · Houston Rockets vs. Denver Nuggets</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260312053000 +0100" stop="20260312060000 +0100" channel="ESPN 3">
+    <title>SportsCenter</title>
+    <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
+	</programme>
+  <programme start="20260312060000 +0100" stop="20260312080000 +0100" channel="ESPN 3">
+    <title>Fútbol Conmebol Copa Libertadores · Deportes Tolima vs. O'Higgins</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260312080000 +0100" stop="20260312100000 +0100" channel="ESPN 3">
+    <title>Clásico Mundial de Béisbol 2026 · Italia vs. México</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260312100000 +0100" stop="20260312120000 +0100" channel="ESPN 3">
+    <title>2026 World Baseball Classic · Dominican Republic vs. Venezuela</title>
+    <desc>· Sin detalles...</desc>
+	</programme>
+  <programme start="20260312120000 +0100" stop="20260312130000 +0100" channel="ESPN 3">
+    <title>SportsCenter</title>
+    <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
 	</programme>
   <programme start="20260310120000 +0100" stop="20260310130000 +0100" channel="ESPN 4">
     <title>Italian Serie A Highlights</title>
@@ -10007,6 +10456,11 @@
     <desc>Futebol,Desporto | 2026 | +12
 · Os melhores jogos da UEFA Champions League para veres aqui, na DAZN.</desc>
 	</programme>
+  <programme start="20260312115500 +0000" stop="20260312134500 +0000" channel="PT | DAZN 3">
+    <title>Atl. Madrid x Tottenham Hotspur T1 · Atl. Madrid x Tottenham Hotspur - Oitavos-De-Final 1ª Mão</title>
+    <desc>Futebol,Desporto | 2026 | +12
+· Os melhores jogos da UEFA Champions League para veres aqui, na DAZN.</desc>
+	</programme>
   <programme start="20260310090000 +0000" stop="20260310130000 +0000" channel="PT | DAZN 4">
     <title>Sem Emissão T1 · ter 10-mar, 09:00</title>
     <desc>Estilo de vida | +12
@@ -10247,6 +10701,11 @@
     <desc>Desportos motorizados,Desporto | 2026 | +12
 · A corrida mais importante do fim de semana, em direto de Albert Park, Melbourne.</desc>
 	</programme>
+  <programme start="20260312114000 +0000" stop="20260312123000 +0000" channel="PT | DAZN 5">
+    <title>Jarama F4 Race 1 T1 · Jarama F4 Race 1</title>
+    <desc>Desportos motorizados,Desporto | 2026 | +12
+· Queres descobrir as jovens estrelas que, dentro de poucos anos, podem estar na F1? Vê a F4, uma verdadeira escola de pilotos.</desc>
+	</programme>
   <programme start="20260310110657 +0000" stop="20260310115943 +0000" channel="DE | Rally TV">
     <title>SS2 Full Stage Replay - Safari Rally Kenya 2025</title>
     <desc>Sports</desc>
@@ -10466,6 +10925,11 @@
     <desc>Sports
 · In the heart of winter, margins were measured in tenths and courage in every corner. See how the story unfolded at Rally Sweden 2026.</desc>
 	</programme>
+  <programme start="20260312113144 +0000" stop="20260312120000 +0000" channel="DE | Rally TV">
+    <title>Preview Magazine - Safari Rally Kenya 2026</title>
+    <desc>Sports
+· Here is what awaits you in Kenya. Get ready for round 3, Safari Rally Kenya 2026.</desc>
+	</programme>
   <programme start="20260310110000 +0000" stop="20260310120000 +0000" channel="UK | TNT Sports 1">
     <title>Men's Cycling World Tour T2026 E28 · Tirreno Adriatico-Stage 1</title>
     <desc>Cycling,Sports
@@ -10670,6 +11134,11 @@
     <title>Live AFL T2026 E7 · Carlton v Richmond</title>
     <desc>Australian Rules Football,Sports
 · Carlton Blues v Richmond Tigers (Bounce-up 8.30am). Coverage of the match from Melbourne Cricket Ground.</desc>
+	</programme>
+  <programme start="20260312113000 +0000" stop="20260312120000 +0000" channel="UK | TNT Sports 1">
+    <title>The WRC Magazine T2026 E3 · Safari Rally Kenya</title>
+    <desc>Rallying,Sports
+· The latest news and action from Safari Rally Kenya.</desc>
 	</programme>
   <programme start="20260310110000 +0000" stop="20260310120000 +0000" channel="UK | TNT Sports 2">
     <title>PREM Rugby Cup T2025 E8 · Exeter Chiefs v Northampton Saints</title>
@@ -11205,6 +11674,11 @@
     <title>UEFA Champions League T2025 E171 · Real Madrid v Manchester City</title>
     <desc>Football - Club,Sports
 · Real Madrid v Manchester City.</desc>
+	</programme>
+  <programme start="20260312113000 +0000" stop="20260312120000 +0000" channel="UK | TNT Sports 3">
+    <title>UEFA Champions League T2025 E172 · Paris Saint-Germain v Chelsea</title>
+    <desc>Football - Club,Sports
+· Paris Saint-Germain v Chelsea.</desc>
 	</programme>
   <programme start="20260310110000 +0000" stop="20260310120000 +0000" channel="UK | Premier Sports 1">
     <title>Scottish Football Social Club T2025 E55 · Scottish Football Social Club 55</title>
