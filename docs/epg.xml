@@ -44,6 +44,17 @@
 		<display-name>Cuatro 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png"/>
 	</channel>
+  <channel id="La Sexta HD">
+		<display-name>La Sexta</display-name>
+		<display-name>La Sexta.TV</display-name>
+		<display-name>La Sexta SD</display-name>
+		<display-name>La Sexta HD</display-name>
+		<display-name>La Sexta FHD</display-name>
+		<display-name>La Sexta UHD</display-name>
+		<display-name>La Sexta 720</display-name>
+		<display-name>La Sexta 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png"/>
+	</channel>
   <channel id="Caza y Pesca HD">
 		<display-name>Caza y Pesca</display-name>
 		<display-name>Caza y Pesca.TV</display-name>
@@ -55,16 +66,16 @@
 		<display-name>Caza y Pesca 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png"/>
 	</channel>
-  <channel id="24 Horas">
-		<display-name>24 Horas</display-name>
-		<display-name>24 Horas.TV</display-name>
-		<display-name>24 Horas SD</display-name>
-		<display-name>24 Horas HD</display-name>
-		<display-name>24 Horas FHD</display-name>
-		<display-name>24 Horas UHD</display-name>
-		<display-name>24 Horas 720</display-name>
-		<display-name>24 Horas 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png"/>
+  <channel id="TVG Europa HD">
+		<display-name>TVG Europa</display-name>
+		<display-name>TVG Europa.TV</display-name>
+		<display-name>TVG Europa SD</display-name>
+		<display-name>TVG Europa HD</display-name>
+		<display-name>TVG Europa FHD</display-name>
+		<display-name>TVG Europa UHD</display-name>
+		<display-name>TVG Europa 720</display-name>
+		<display-name>TVG Europa 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Europa.png"/>
 	</channel>
   <channel id="Aragón TV">
 		<display-name>Aragón TV</display-name>
@@ -363,17 +374,6 @@
 		<display-name>M+ Liga de Campeones 6 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png"/>
 	</channel>
-  <channel id="M+ Liga de Campeones 10">
-		<display-name>M+ Liga de Campeones 10</display-name>
-		<display-name>M+ Liga de Campeones 10.TV</display-name>
-		<display-name>M+ Liga de Campeones 10 SD</display-name>
-		<display-name>M+ Liga de Campeones 10 HD</display-name>
-		<display-name>M+ Liga de Campeones 10 FHD</display-name>
-		<display-name>M+ Liga de Campeones 10 UHD</display-name>
-		<display-name>M+ Liga de Campeones 10 720</display-name>
-		<display-name>M+ Liga de Campeones 10 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png"/>
-	</channel>
   <channel id="M+ LaLiga 3 HD">
 		<display-name>M+ LaLiga 3</display-name>
 		<display-name>M+ LaLiga 3.TV</display-name>
@@ -472,6 +472,17 @@
 		<display-name>DARK 720</display-name>
 		<display-name>DARK 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png"/>
+	</channel>
+  <channel id="Canal Cocina">
+		<display-name>Canal Cocina</display-name>
+		<display-name>Canal Cocina.TV</display-name>
+		<display-name>Canal Cocina SD</display-name>
+		<display-name>Canal Cocina HD</display-name>
+		<display-name>Canal Cocina FHD</display-name>
+		<display-name>Canal Cocina UHD</display-name>
+		<display-name>Canal Cocina 720</display-name>
+		<display-name>Canal Cocina 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png"/>
 	</channel>
   <channel id="Tennis Channel">
 		<display-name>Tennis Channel</display-name>
@@ -649,14 +660,6 @@
 		<display-name>UK | Premier Sports 2 1080</display-name>
 		<icon src="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png"/>
 	</channel>
-  <programme start="20260317214500 +0100" stop="20260317230000 +0100" channel="La 1 HD">
-    <title>La revuelta T2 E93</title>
-    <desc>Entretenimiento,Entrevista | 2026 | +12 | *6.0/10
-· Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-· País: España
-· Presenta: David Broncano.
-· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
-	</programme>
   <programme start="20260317230000 +0100" stop="20260318004500 +0100" channel="La 1 HD">
     <title>The Floor T2 · A un paso de la gran final</title>
     <desc>Entretenimiento,Concurso | 2026 | TP | *6.4/10
@@ -935,13 +938,12 @@
 · Presenta: David Broncano.
 · Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
 	</programme>
-  <programme start="20260317214500 +0100" stop="20260317222000 +0100" channel="La 2">
-    <title>Cifras y letras T3 E137</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
-· Concurso cuyas pruebas deben superarse jugando con cifras y letras y donde, en cada entrega, los concursantes luchan por llevarse el bote acumulado. Presentado por Aitor Albizua, acompañado por los expertos Elena Herraiz y David Calle.
+  <programme start="20260319230000 +0100" stop="20260320000500 +0100" channel="La 1 HD">
+    <title>Al margen de todo T1</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *5.8/10
+· Dani Rovira despliega sus dotes como cómico y showman acompañado por varios colaboradores del mundo de la comedia y la interpretación.
 · País: España
-· Presenta: Aitor Albizua.
-· Productora: Radio Televisión Española (RTVE).</desc>
+· Presenta: Dani Rovira.</desc>
 	</programme>
   <programme start="20260317222000 +0100" stop="20260317231500 +0100" channel="La 2">
     <title>Bardem, las metamorfosis</title>
@@ -1423,13 +1425,9 @@
 · Presenta: Aitor Albizua.
 · Productora: Radio Televisión Española (RTVE).</desc>
 	</programme>
-  <programme start="20260317214500 +0100" stop="20260317230000 +0100" channel="Antena 3 HD">
-    <title>El hormiguero T20 · Ana Torroja</title>
-    <desc>Entretenimiento,Humor | 2026 | +7 | *6.4/10
-· Pablo Motos recibe la visita de la cantante Ana Torroja, quien presenta su nuevo disco, titulado "Se ha acabado el show". Se trata de un álbum escrito por la artista en su totalidad y compuesto por diez nuevos temas.
-· País: España
-· Presenta: Pablo Motos.
-· Productora: 7 y acción.</desc>
+  <programme start="20260319222000 +0100" stop="20260320001000 +0100" channel="La 2">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260317230000 +0100" stop="20260318003800 +0100" channel="Antena 3 HD">
     <title>En tierra lejana T1 E11</title>
@@ -1729,12 +1727,14 @@
 · Presenta: Pablo Motos.
 · Productora: 7 y acción.</desc>
 	</programme>
-  <programme start="20260317214000 +0100" stop="20260317230000 +0100" channel="Cuatro HD">
-    <title>Horizonte Diarios T1 E23</title>
-    <desc>Información,Informativo | 2026 | +16 | *6.2/10
-· Un espacio que analiza la actualidad y que pone el foco en el futuro a corto plazo.
+  <programme start="20260319230000 +0100" stop="20260320001000 +0100" channel="Antena 3 HD">
+    <title>Perdiendo el juicio T1 E6</title>
+    <desc>Series,Drama | 2025 | +12 | *6.0/10
+· Cuando el chef Joan Martorell es asesinado, su pinche Ana se convierte en la principal sospechosa. Amanda, convencida de su inocencia, investiga al chef rival Iñaki mientras se reencuentra con César y hace un descubrimiento crucial.
 · País: España
-· Dirección: Íker Jiménez, Carmen Porter.</desc>
+· Dirección: María Togores.
+· Reparto: Elena Rivera, Dafne Fernández, Miquel Fernández, Carol Rovira, Lucía Caraballo.
+· Productora: Atresmedia Televisión, Boomerang TV.</desc>
 	</programme>
   <programme start="20260317230000 +0100" stop="20260318015500 +0100" channel="Cuatro HD">
     <title>Código 10 E25</title>
@@ -2022,11 +2022,284 @@
 · Presenta: Íker Jiménez.
 · Productora: Plural Entertainment.</desc>
 	</programme>
-  <programme start="20260317220000 +0100" stop="20260317223000 +0100" channel="Caza y Pesca HD">
-    <title>El otro León con Pablo Castro Río Porma</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2022 | TP | *6.0/10
-· El Porma nos recibe con mucho caudal donde las truchas se mueven a su antojo. Aprenderemos a pescarlo y nos mostrará las mejores épocas para poder pescar las grandes truchas que posee.
+  <programme start="20260317230000 +0100" stop="20260318023000 +0100" channel="La Sexta HD">
+    <title>Apatrullando: Viaje de la droga</title>
+    <desc>Documentales,Actualidad | 2026 | +16 | *6.0/10
+· Jalis de la Serna muestra la realidad de las calles desde dentro y sin filtros.
 · País: España</desc>
+	</programme>
+  <programme start="20260318023000 +0100" stop="20260318031000 +0100" channel="La Sexta HD">
+    <title>Pokerstars casino</title>
+    <desc>Deportes,Programa deportes | 2022 | +18 | *5.6/10
+· El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
+· País: España
+· Presenta: Paco González.</desc>
+	</programme>
+  <programme start="20260318031000 +0100" stop="20260318032500 +0100" channel="La Sexta HD">
+    <title>La ruleta de la suerte noche T2 E6</title>
+    <desc>Entretenimiento,Concurso | 2025 | +18 | *6.0/10
+· Presentado por Jorge Fernández y Laura Moure, tres concursantes se enfrentan a un panel en blanco en el que deben adivinar las letras correctas con la ayuda de una ruleta.
+· País: España
+· Presenta: Jorge Fernández, Laura Moure.
+· Productora: Martingala.</desc>
+	</programme>
+  <programme start="20260318032500 +0100" stop="20260318040000 +0100" channel="La Sexta HD">
+    <title>Galería del coleccionista</title>
+    <desc>Ocio y Aficiones,Televenta | 2021 | TP | *6.0/10
+· Espacio comercial.
+· País: España</desc>
+	</programme>
+  <programme start="20260318040000 +0100" stop="20260318064500 +0100" channel="La Sexta HD">
+    <title>Venta Prime</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
+· Espacio de televenta.</desc>
+	</programme>
+  <programme start="20260318064500 +0100" stop="20260318070000 +0100" channel="La Sexta HD">
+    <title>Vivara: gestionamos tu alquiler</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | TP | *5.4/10
+· Vivara: gestionamos tu alquiler.
+· País: España</desc>
+	</programme>
+  <programme start="20260318070000 +0100" stop="20260318090000 +0100" channel="La Sexta HD">
+    <title>Previo Aruser@s T8 E1617</title>
+    <desc>Entretenimiento,Humor | 2025 | +7 | *6.0/10
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+	</programme>
+  <programme start="20260318090000 +0100" stop="20260318110000 +0100" channel="La Sexta HD">
+    <title>Aruser@s T8 E1617</title>
+    <desc>Entretenimiento,Humor | 2025 | +16 | *6.0/10
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+	</programme>
+  <programme start="20260318110000 +0100" stop="20260318141000 +0100" channel="La Sexta HD">
+    <title>Al rojo vivo T25/26 E3807</title>
+    <desc>Información,Debate | 2025 | +16 | *6.0/10
+· Antonio García Ferreras presenta este espacio de debate sobre la actualidad, fundamentalmente política, y lejos de una línea editorial conservadora. Analistas, periodistas y expertos buscarán las claves de las noticias de cada día.
+· País: España
+· Dirección: Antonio G. Ferreras.</desc>
+	</programme>
+  <programme start="20260318141000 +0100" stop="20260318151000 +0100" channel="La Sexta HD">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.2/10
+· Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Helena Resano es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Helena Resano.
+· Dirección: César G. Antón.
+· Productora: Globomedia.</desc>
+	</programme>
+  <programme start="20260318151000 +0100" stop="20260318153000 +0100" channel="La Sexta HD">
+    <title>Jugones</title>
+    <desc>Deportes,Programa deportes | 2014 | *7.0/10
+· Informativo que repasa todas las novedades sobre la actualidad deportiva presentado por Josep Pedrerol. El programa cuenta con toda una serie de colaboradores y especialistas que analizarán y debatirán todo lo sucedido en el mundo del deporte.
+· País: España
+· Presenta: Josep Pedrerol.</desc>
+	</programme>
+  <programme start="20260318153000 +0100" stop="20260318154500 +0100" channel="La Sexta HD">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+	</programme>
+  <programme start="20260318154500 +0100" stop="20260318171500 +0100" channel="La Sexta HD">
+    <title>Zapeando T25/26 E3063</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *6.0/10
+· Espacio que comenta con humor la actualidad televisiva.
+· País: España
+· Presenta: Dani Mateo.
+· Productora: Globomedia.</desc>
+	</programme>
+  <programme start="20260318171500 +0100" stop="20260318200000 +0100" channel="La Sexta HD">
+    <title>Más vale tarde T25/26 E862</title>
+    <desc>Información,Informativo | 2025 | +16 | *6.2/10
+· Espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.
+· País: España
+· Presenta: Cristina Pardo, Iñaki López.</desc>
+	</programme>
+  <programme start="20260318200000 +0100" stop="20260318210000 +0100" channel="La Sexta HD">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.2/10
+· Informativo que se emite cada tarde, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Cristina Saavedra es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Cristina Saavedra, Rodrigo Blázquez, Inés García.
+· Dirección: César G. Antón, Rodrigo Blázquez.
+· Productora: Globomedia.</desc>
+	</programme>
+  <programme start="20260318210000 +0100" stop="20260318212000 +0100" channel="La Sexta HD">
+    <title>laSexta Clave</title>
+    <desc>Información,Informativo | 2020 | *6.2/10
+· Espacio informativo diario que persigue dar un valor añadido a la actualidad.
+· País: España
+· Presenta: Joaquín Castellón, Rodrigo Blázquez.</desc>
+	</programme>
+  <programme start="20260318212000 +0100" stop="20260318212500 +0100" channel="La Sexta HD">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+	</programme>
+  <programme start="20260318212500 +0100" stop="20260318213000 +0100" channel="La Sexta HD">
+    <title>laSexta Deportes</title>
+    <desc>Información,Deportes | 2009 | *5.8/10
+· Conducido por Carlota Reig, este espacio ofrece la más completa información deportiva.
+· País: España
+· Presenta: Carlota Reig.</desc>
+	</programme>
+  <programme start="20260318213000 +0100" stop="20260318230000 +0100" channel="La Sexta HD">
+    <title>El intermedio T20 E646</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.2/10
+· El Gran Wyoming, con la ayuda de sus colaboradores, analiza en clave de humor las noticias más importantes del día. El sello inconfundible del cómico sirve para completar la información desde un punto de vista más distendido e irónico.
+· País: España
+· Presenta: El Gran Wyoming, Sandra Sabatés Campos.
+· Productora: Globomedia.</desc>
+	</programme>
+  <programme start="20260318230000 +0100" stop="20260319010000 +0100" channel="La Sexta HD">
+    <title>Especial El Objetivo</title>
+    <desc>Información,Informativo | 2026 | +16 | *6.2/10
+· Espacio presentado por Ana Pastor, que despeja las dudas sobre la veracidad de las noticias.
+· País: España</desc>
+	</programme>
+  <programme start="20260319010000 +0100" stop="20260319020600 +0100" channel="La Sexta HD">
+    <title>Equipo de investigación T16</title>
+    <desc>Información,Reportaje | 2024 | +12 | *6.2/10
+· Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad.
+· País: España
+· Presenta: Glòria Serra.
+· Productora: Antena 3 Televisión.</desc>
+	</programme>
+  <programme start="20260319020600 +0100" stop="20260319024500 +0100" channel="La Sexta HD">
+    <title>Pokerstars casino</title>
+    <desc>Deportes,Programa deportes | 2022 | +18 | *5.6/10
+· El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
+· País: España
+· Presenta: Paco González.</desc>
+	</programme>
+  <programme start="20260319024500 +0100" stop="20260319030000 +0100" channel="La Sexta HD">
+    <title>La Noche de Casino Pause &amp; Play</title>
+    <desc>Deportes,Programa deportes | 2025 | +18 | *6.0/10
+· El programa trae cada día toda la emoción de los juegos de casino.
+· País: España</desc>
+	</programme>
+  <programme start="20260319030000 +0100" stop="20260319033000 +0100" channel="La Sexta HD">
+    <title>Galería del coleccionista</title>
+    <desc>Ocio y Aficiones,Televenta | 2021 | *6.0/10
+· Espacio comercial.
+· País: España</desc>
+	</programme>
+  <programme start="20260319033000 +0100" stop="20260319064500 +0100" channel="La Sexta HD">
+    <title>Venta Prime</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
+· Espacio de televenta.</desc>
+	</programme>
+  <programme start="20260319064500 +0100" stop="20260319070000 +0100" channel="La Sexta HD">
+    <title>Remescar cosmética al instante T1 E21</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | +12 | *5.6/10
+· Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta.</desc>
+	</programme>
+  <programme start="20260319070000 +0100" stop="20260319090000 +0100" channel="La Sexta HD">
+    <title>Previo Aruser@s T8 E1618</title>
+    <desc>Entretenimiento,Humor | 2025 | +7
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+	</programme>
+  <programme start="20260319090000 +0100" stop="20260319110000 +0100" channel="La Sexta HD">
+    <title>Aruser@s T8 E1618</title>
+    <desc>Entretenimiento,Humor | 2025 | +16
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+	</programme>
+  <programme start="20260319110000 +0100" stop="20260319141000 +0100" channel="La Sexta HD">
+    <title>Al rojo vivo T25/26 E3808</title>
+    <desc>Información,Debate | 2025 | +16
+· Antonio García Ferreras presenta este espacio de debate sobre la actualidad, fundamentalmente política, y lejos de una línea editorial conservadora. Analistas, periodistas y expertos buscarán las claves de las noticias de cada día.
+· País: España
+· Dirección: Antonio G. Ferreras.</desc>
+	</programme>
+  <programme start="20260319141000 +0100" stop="20260319151000 +0100" channel="La Sexta HD">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.2/10
+· Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Helena Resano es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Helena Resano.
+· Dirección: César G. Antón.
+· Productora: Globomedia.</desc>
+	</programme>
+  <programme start="20260319151000 +0100" stop="20260319153000 +0100" channel="La Sexta HD">
+    <title>Jugones</title>
+    <desc>Deportes,Programa deportes | 2014 | *7.0/10
+· Informativo que repasa todas las novedades sobre la actualidad deportiva presentado por Josep Pedrerol. El programa cuenta con toda una serie de colaboradores y especialistas que analizarán y debatirán todo lo sucedido en el mundo del deporte.
+· País: España
+· Presenta: Josep Pedrerol.</desc>
+	</programme>
+  <programme start="20260319153000 +0100" stop="20260319154500 +0100" channel="La Sexta HD">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+	</programme>
+  <programme start="20260319154500 +0100" stop="20260319171500 +0100" channel="La Sexta HD">
+    <title>Zapeando T25/26 E3064</title>
+    <desc>Entretenimiento,Humor | 2026 | +16
+· Espacio que comenta con humor la actualidad televisiva.
+· País: España
+· Presenta: Dani Mateo.
+· Productora: Globomedia.</desc>
+	</programme>
+  <programme start="20260319171500 +0100" stop="20260319200000 +0100" channel="La Sexta HD">
+    <title>Más vale tarde T25/26 E863</title>
+    <desc>Información,Informativo | 2025 | +16
+· Espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.
+· País: España
+· Presenta: Cristina Pardo, Iñaki López.</desc>
+	</programme>
+  <programme start="20260319200000 +0100" stop="20260319210000 +0100" channel="La Sexta HD">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.2/10
+· Informativo que se emite cada tarde, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Cristina Saavedra es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Cristina Saavedra, Rodrigo Blázquez, Inés García.
+· Dirección: César G. Antón, Rodrigo Blázquez.
+· Productora: Globomedia.</desc>
+	</programme>
+  <programme start="20260319210000 +0100" stop="20260319212000 +0100" channel="La Sexta HD">
+    <title>laSexta Clave</title>
+    <desc>Información,Informativo | 2020 | *6.2/10
+· Espacio informativo diario que persigue dar un valor añadido a la actualidad.
+· País: España
+· Presenta: Joaquín Castellón, Rodrigo Blázquez.</desc>
+	</programme>
+  <programme start="20260319212000 +0100" stop="20260319212500 +0100" channel="La Sexta HD">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+	</programme>
+  <programme start="20260319212500 +0100" stop="20260319213000 +0100" channel="La Sexta HD">
+    <title>laSexta Deportes</title>
+    <desc>Información,Deportes | 2009 | *5.8/10
+· Conducido por Carlota Reig, este espacio ofrece la más completa información deportiva.
+· País: España
+· Presenta: Carlota Reig.</desc>
+	</programme>
+  <programme start="20260319213000 +0100" stop="20260319230000 +0100" channel="La Sexta HD">
+    <title>El intermedio T20 E647</title>
+    <desc>Entretenimiento,Humor | 2026 | +12
+· El Gran Wyoming, con la ayuda de sus colaboradores, analiza en clave de humor las noticias más importantes del día. El sello inconfundible del cómico sirve para completar la información desde un punto de vista más distendido e irónico.
+· País: España
+· Presenta: El Gran Wyoming, Sandra Sabatés Campos.
+· Productora: Globomedia.</desc>
+	</programme>
+  <programme start="20260319230000 +0100" stop="20260320010000 +0100" channel="La Sexta HD">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260317223000 +0100" stop="20260317230500 +0100" channel="Caza y Pesca HD">
     <title>Veda Abierta Caza T5 · Campeonas de caza menor con perro</title>
@@ -2589,416 +2862,366 @@
 · Viajamos a León para conocer como nuestros protagonistas no serían lo que son sin tener una vida en el río.
 · País: España</desc>
 	</programme>
-  <programme start="20260317220400 +0100" stop="20260318003000 +0100" channel="24 Horas">
-    <title>La noche en 24 horas</title>
-    <desc>Información,Informativo | 2025 | *6.6/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
-· País: España
-· Dirección: Xabier Fortes.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-  <programme start="20260318003000 +0100" stop="20260318020000 +0100" channel="24 Horas">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+  <programme start="20260319223000 +0100" stop="20260319230000 +0100" channel="Caza y Pesca HD">
+    <title>Morunas y conejos entre rocas</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2024 | +12 | *6.0/10
+· Acompañamos a Bernabé y Paulino, dos cazadores de Lanzarote a cazar perdices morunas con sus pointer americanos en los duros terrenos de lava volcánica.También viviremos la caza tradicional del conejo con podencos y hurones.
 · País: España</desc>
 	</programme>
-  <programme start="20260318020000 +0100" stop="20260318023000 +0100" channel="24 Horas">
-    <title>Telediario Internacional</title>
-    <desc>Información,Informativo | 2021 | *5.8/10
-· Informativo que prioriza las noticias internacionales sobre las nacionales.
-· País: España
-· Presenta: Moisés Rodríguez.
-· Productora: Canal 24 Horas.</desc>
-	</programme>
-  <programme start="20260318023000 +0100" stop="20260318030000 +0100" channel="24 Horas">
-    <title>Telediario Internacional</title>
-    <desc>Información,Informativo | 2021 | *5.8/10
-· Informativo que prioriza las noticias internacionales sobre las nacionales.
-· País: España
-· Presenta: Moisés Rodríguez.
-· Productora: Canal 24 Horas.</desc>
-	</programme>
-  <programme start="20260318030000 +0100" stop="20260318033000 +0100" channel="24 Horas">
-    <title>Telediario Internacional</title>
-    <desc>Información,Informativo | 2021 | *5.8/10
-· Informativo que prioriza las noticias internacionales sobre las nacionales.
-· País: España
-· Presenta: Moisés Rodríguez.
-· Productora: Canal 24 Horas.</desc>
-	</programme>
-  <programme start="20260318033000 +0100" stop="20260318040000 +0100" channel="24 Horas">
-    <title>Telediario Internacional</title>
-    <desc>Información,Informativo | 2021 | *5.8/10
-· Informativo que prioriza las noticias internacionales sobre las nacionales.
-· País: España
-· Presenta: Moisés Rodríguez.
-· Productora: Canal 24 Horas.</desc>
-	</programme>
-  <programme start="20260318040000 +0100" stop="20260318043000 +0100" channel="24 Horas">
-    <title>Telediario Internacional</title>
-    <desc>Información,Informativo | 2021 | *5.8/10
-· Informativo que prioriza las noticias internacionales sobre las nacionales.
-· País: España
-· Presenta: Moisés Rodríguez.
-· Productora: Canal 24 Horas.</desc>
-	</programme>
-  <programme start="20260318043000 +0100" stop="20260318044500 +0100" channel="24 Horas">
-    <title>Objetivo Igualdad T6 · Contra la discriminación racial</title>
-    <desc>Información,Informativo | 2026 | +7 | *6.0/10
-· Espacio con temática exclusiva en torno a la igualdad presentado por Carolina Pecharromán.
-· País: España
-· Presenta: Carolina Pecharromán.</desc>
-	</programme>
-  <programme start="20260318044500 +0100" stop="20260318045000 +0100" channel="24 Horas">
-    <title>Espacio de ajuste</title>
-    <desc>Entretenimiento | 2018 | TP | *5.8/10
-· Breve espacio que incluye reportajes y otros programas de contenidos diversos.</desc>
-	</programme>
-  <programme start="20260318045000 +0100" stop="20260318045300 +0100" channel="24 Horas">
-    <title>Espacio de ajuste</title>
-    <desc>Entretenimiento | 2018 | TP | *5.8/10
-· Breve espacio que incluye reportajes y otros programas de contenidos diversos.</desc>
-	</programme>
-  <programme start="20260318045300 +0100" stop="20260318045600 +0100" channel="24 Horas">
-    <title>Espacio de ajuste</title>
-    <desc>Entretenimiento | 2018 | TP | *5.8/10
-· Breve espacio que incluye reportajes y otros programas de contenidos diversos.</desc>
-	</programme>
-  <programme start="20260318045600 +0100" stop="20260318050000 +0100" channel="24 Horas">
-    <title>Espacio de ajuste</title>
-    <desc>Entretenimiento | 2018 | TP | *5.8/10
-· Breve espacio que incluye reportajes y otros programas de contenidos diversos.</desc>
-	</programme>
-  <programme start="20260318050000 +0100" stop="20260318053000 +0100" channel="24 Horas">
-    <title>Telediario Internacional</title>
-    <desc>Información,Informativo | 2021 | *5.8/10
-· Informativo que prioriza las noticias internacionales sobre las nacionales.
-· País: España
-· Presenta: Moisés Rodríguez.
-· Productora: Canal 24 Horas.</desc>
-	</programme>
-  <programme start="20260318053000 +0100" stop="20260318060000 +0100" channel="24 Horas">
-    <title>Telediario Internacional</title>
-    <desc>Información,Informativo | 2021 | *5.8/10
-· Informativo que prioriza las noticias internacionales sobre las nacionales.
-· País: España
-· Presenta: Moisés Rodríguez.
-· Productora: Canal 24 Horas.</desc>
-	</programme>
-  <programme start="20260318060000 +0100" stop="20260318075000 +0100" channel="24 Horas">
-    <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | TP | *6.0/10
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-  <programme start="20260318075000 +0100" stop="20260318103500 +0100" channel="24 Horas">
-    <title>La hora de La 1: La hora de la actualidad T9 E53</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-	</programme>
-  <programme start="20260318103500 +0100" stop="20260318140000 +0100" channel="24 Horas">
-    <title>Diario 24</title>
-    <desc>Información,Informativo | 2025 | *6.0/10
-· Espacio matinal para seguir la actualidad minuto a minuto.
-· País: España
-· Presenta: Lluís Guilera, Ana Belén Roy.</desc>
-	</programme>
-  <programme start="20260318140000 +0100" stop="20260318145700 +0100" channel="24 Horas">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+  <programme start="20260319230000 +0100" stop="20260319233500 +0100" channel="Caza y Pesca HD">
+    <title>De montería T10 · Resacando en Arén</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2025 | +12 | *6.0/10
+· Paco León y su equipo vuelven hasta tierras aragonesas para grabar el ultimo capitulo de la temporada junto a la mítica coya de Arén con un resultado espectacular.
 · País: España</desc>
 	</programme>
-  <programme start="20260318145700 +0100" stop="20260318153600 +0100" channel="24 Horas">
-    <title>Telediario 1</title>
+  <programme start="20260317224000 +0100" stop="20260317233500 +0100" channel="TVG Europa HD">
+    <title>Latitude Galega</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | *6.0/10
+· Conducido por Alba Mancebo y Perico Balado, un nuevo programa de viajes que viaja a diferentes lugares del mundo a través de las experiencias de gallegos residentes en el exterior. 'Latitude galega' visitará la capital bávara con cinco gallegos.
+· País: España</desc>
+	</programme>
+  <programme start="20260317233500 +0100" stop="20260318003500 +0100" channel="TVG Europa HD">
+    <title>Galegos no mundo</title>
+    <desc>Ocio y Aficiones,Viajes | 2017 | TP | *6.2/10
+· Serie documental que cuenta la vida de gallegos que viven fuera de Galicia.
+· País: España
+· Dirección: Toño López.
+· Productora: Portocabo.</desc>
+	</programme>
+  <programme start="20260318003500 +0100" stop="20260318013500 +0100" channel="TVG Europa HD">
+    <title>Conexión Galicia</title>
+    <desc>Información,Debate | 2022 | *5.8/10
+· Espacio de análisis informativo realizado por María Cheda, celebrado en la sede madrileña de la TVG, con la participación de periodistas gallegos que trabajan en la capital española.
+· País: España
+· Presenta: María Cheda.</desc>
+	</programme>
+  <programme start="20260318013500 +0100" stop="20260318022000 +0100" channel="TVG Europa HD">
+    <title>Galicia Noticias</title>
     <desc>Información,Informativo | 2014 | *6.2/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· Ana Pérez presenta la edición matutina de este espacio que Televisión de Galicia dedica a la información de proximidad, prestando especial atención a la actualidad de la comunidad autónoma gallega.
 · País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
+· Presenta: Raúl Quián.</desc>
 	</programme>
-  <programme start="20260318153600 +0100" stop="20260318154200 +0100" channel="24 Horas">
-    <title>Deportes 1</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
+  <programme start="20260318022000 +0100" stop="20260318032500 +0100" channel="TVG Europa HD">
+    <title>Libro de familia</title>
+    <desc>Series,Drama | 2022 | TP | *6.2/10
+· Serie que retrata tres familias gallegas que pertenecen a distintos estratos sociales: una familia de labradores de toda la vida convive con una saga de caciques y con unos emigrantes que regresan a Galicia tras hacerse ricos en Venezuela.
 · País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+· Dirección: Mariana Carballal.
+· Reparto: Diana Nogueira, Mara Sánchez, Gonzalo Uriarte, Monti Castiñeiras, Manuel San Martín, Mayka Braña, Abelardo Pérez.</desc>
 	</programme>
-  <programme start="20260318154200 +0100" stop="20260318154500 +0100" channel="24 Horas">
-    <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | *6.4/10
-· Información sobre la previsión meteorológica.
+  <programme start="20260318032500 +0100" stop="20260318044000 +0100" channel="TVG Europa HD">
+    <title>Libro de familia</title>
+    <desc>Series,Drama | 2022 | TP | *6.2/10
+· Serie que retrata tres familias gallegas que pertenecen a distintos estratos sociales: una familia de labradores de toda la vida convive con una saga de caciques y con unos emigrantes que regresan a Galicia tras hacerse ricos en Venezuela.
 · País: España
-· Productora: Televisión Española (TVE).</desc>
+· Dirección: Mariana Carballal.
+· Reparto: Diana Nogueira, Mara Sánchez, Gonzalo Uriarte, Monti Castiñeiras, Manuel San Martín, Mayka Braña, Abelardo Pérez.</desc>
 	</programme>
-  <programme start="20260318154500 +0100" stop="20260318155000 +0100" channel="24 Horas">
-    <title>Historias inspiradoras T1 · Alba Fresneda - comunicar con orgullo</title>
-    <desc>Entretenimiento | 2023 | TP | *6.0/10
-· Emisión de diferentes reportajes de Historias de superacion. Historias inspiradoras ONCE.
+  <programme start="20260318044000 +0100" stop="20260318054500 +0100" channel="TVG Europa HD">
+    <title>Libro de familia</title>
+    <desc>Series,Drama | 2022 | TP | *6.2/10
+· Serie que retrata tres familias gallegas que pertenecen a distintos estratos sociales: una familia de labradores de toda la vida convive con una saga de caciques y con unos emigrantes que regresan a Galicia tras hacerse ricos en Venezuela.
+· País: España
+· Dirección: Mariana Carballal.
+· Reparto: Diana Nogueira, Mara Sánchez, Gonzalo Uriarte, Monti Castiñeiras, Manuel San Martín, Mayka Braña, Abelardo Pérez.</desc>
+	</programme>
+  <programme start="20260318054500 +0100" stop="20260318065500 +0100" channel="TVG Europa HD">
+    <title>Libro de familia</title>
+    <desc>Series,Drama | 2022 | TP | *6.2/10
+· Serie que retrata tres familias gallegas que pertenecen a distintos estratos sociales: una familia de labradores de toda la vida convive con una saga de caciques y con unos emigrantes que regresan a Galicia tras hacerse ricos en Venezuela.
+· País: España
+· Dirección: Mariana Carballal.
+· Reparto: Diana Nogueira, Mara Sánchez, Gonzalo Uriarte, Monti Castiñeiras, Manuel San Martín, Mayka Braña, Abelardo Pérez.</desc>
+	</programme>
+  <programme start="20260318065500 +0100" stop="20260318070000 +0100" channel="TVG Europa HD">
+    <title>Información estado do mar mañá</title>
+    <desc>Información,Meteorología | 2023 | *5.8/10
+· Microespacio que ofrece la información meteorológica marítima. "Estado do mar" está dedicado fundamentalmente a la gente de mar y a los aficionados de los deportes náuticos.
 · País: España</desc>
 	</programme>
-  <programme start="20260318155000 +0100" stop="20260318170000 +0100" channel="24 Horas">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-	</programme>
-  <programme start="20260318170000 +0100" stop="20260318200000 +0100" channel="24 Horas">
-    <title>La tarde en 24h</title>
-    <desc>Información,Informativo | 2009 | TP | *5.6/10
-· Cristina Pampín conduce "La Tarde en 24h". Cinco horas en directo con todas las noticias de actualidad nacional e internacional.
-· País: España
-· Presenta: Cristina Pampín.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-  <programme start="20260318200000 +0100" stop="20260318205800 +0100" channel="24 Horas">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-	</programme>
-  <programme start="20260318205800 +0100" stop="20260318213700 +0100" channel="24 Horas">
-    <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-  <programme start="20260318213700 +0100" stop="20260318214400 +0100" channel="24 Horas">
-    <title>Deportes 2</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-	</programme>
-  <programme start="20260318214400 +0100" stop="20260318220400 +0100" channel="24 Horas">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-	</programme>
-  <programme start="20260318220400 +0100" stop="20260319003000 +0100" channel="24 Horas">
-    <title>La noche en 24 horas</title>
+  <programme start="20260318070000 +0100" stop="20260318080000 +0100" channel="TVG Europa HD">
+    <title>Galicia por diante</title>
     <desc>Información,Informativo | 2025 | *6.6/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
+· Las claves informativas de la jornada, con especial atención a la actualidad gallega.
 · País: España
-· Dirección: Xabier Fortes.
-· Productora: Televisión Española (TVE).</desc>
+· Presenta: Celia Rúa, Luis Ojea.</desc>
 	</programme>
-  <programme start="20260319003000 +0100" stop="20260319013000 +0100" channel="24 Horas">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-	</programme>
-  <programme start="20260319013000 +0100" stop="20260319014500 +0100" channel="24 Horas">
-    <title>Objetivo Igualdad T6 E38</title>
-    <desc>Información,Informativo | 2025 | +7 | *5.6/10
-· Espacio con temática exclusiva en torno a la igualdad presentado por Carolina Pecharromán.
+  <programme start="20260318080000 +0100" stop="20260318110000 +0100" channel="TVG Europa HD">
+    <title>Bos Días</title>
+    <desc>Información,Informativo | 2025 | *6.4/10
+· Espacio matinal realizado por los servicios informativos de Televisión de Galicia que hace un repaso de la actualidad. La información da paso a una entrevista diaria así como conexiones en directo y otras secciones de salud, gastronomía y opinión.
 · País: España
-· Presenta: Carolina Pecharromán.</desc>
+· Presenta: Almudena Rodríguez de Urzáiz.</desc>
 	</programme>
-  <programme start="20260319014500 +0100" stop="20260319015200 +0100" channel="24 Horas">
-    <title>Espacio de ajuste</title>
-    <desc>Entretenimiento | 2018 | TP | *5.8/10
-· Breve espacio que incluye reportajes y otros programas de contenidos diversos.</desc>
-	</programme>
-  <programme start="20260319015200 +0100" stop="20260319015700 +0100" channel="24 Horas">
-    <title>Espacio de ajuste</title>
-    <desc>Entretenimiento | 2018 | TP | *5.8/10
-· Breve espacio que incluye reportajes y otros programas de contenidos diversos.</desc>
-	</programme>
-  <programme start="20260319015700 +0100" stop="20260319020000 +0100" channel="24 Horas">
-    <title>Espacio de ajuste</title>
-    <desc>Entretenimiento | 2018 | TP | *5.8/10
-· Breve espacio que incluye reportajes y otros programas de contenidos diversos.</desc>
-	</programme>
-  <programme start="20260319020000 +0100" stop="20260319023000 +0100" channel="24 Horas">
-    <title>Telediario Internacional</title>
-    <desc>Información,Informativo | 2021 | *5.8/10
-· Informativo que prioriza las noticias internacionales sobre las nacionales.
+  <programme start="20260318110000 +0100" stop="20260318113000 +0100" channel="TVG Europa HD">
+    <title>Pulso activo</title>
+    <desc>Ocio y Aficiones,Salud y bienestar | 2025 | TP | *6.8/10
+· Eddy Insua propone una rutina diaria de ejercicio adaptado para mejorar la salud, combatir el sedentarismo y llenar las mañanas de energía positiva.
 · País: España
-· Presenta: Moisés Rodríguez.
-· Productora: Canal 24 Horas.</desc>
+· Presenta: Eddy Insua.
+· Productora: TVG, Televisión de Galicia (TVG).</desc>
 	</programme>
-  <programme start="20260319023000 +0100" stop="20260319030000 +0100" channel="24 Horas">
-    <title>Telediario Internacional</title>
-    <desc>Información,Informativo | 2021 | *5.8/10
-· Informativo que prioriza las noticias internacionales sobre las nacionales.
+  <programme start="20260318113000 +0100" stop="20260318135000 +0100" channel="TVG Europa HD">
+    <title>O termómetro</title>
+    <desc>Información,Informativo | 2025 | TP | *6.2/10
+· A TVG tómalle a temperatura ao día a día dos galegos. O magazine ofrecerá unha ampla cobertura en directo da actualidade e, da man de expertos, tratará os temas que máis preocupan os espectadores.
 · País: España
-· Presenta: Moisés Rodríguez.
-· Productora: Canal 24 Horas.</desc>
+· Presenta: Rocío Delgado, Bernardo Montaña.</desc>
 	</programme>
-  <programme start="20260319030000 +0100" stop="20260319033000 +0100" channel="24 Horas">
-    <title>Telediario Internacional</title>
-    <desc>Información,Informativo | 2021 | *5.8/10
-· Informativo que prioriza las noticias internacionales sobre las nacionales.
+  <programme start="20260318135000 +0100" stop="20260318143000 +0100" channel="TVG Europa HD">
+    <title>Galicia Noticias</title>
+    <desc>Información,Informativo | 2014 | *6.2/10
+· Ana Pérez presenta la edición matutina de este espacio que Televisión de Galicia dedica a la información de proximidad, prestando especial atención a la actualidad de la comunidad autónoma gallega.
 · País: España
-· Presenta: Moisés Rodríguez.
-· Productora: Canal 24 Horas.</desc>
+· Presenta: Raúl Quián.</desc>
 	</programme>
-  <programme start="20260319033000 +0100" stop="20260319040000 +0100" channel="24 Horas">
-    <title>Metrópolis T25/26 · Yoko Ono</title>
-    <desc>Ocio y Aficiones,Espectáculo | 2026 | +12 | *6.0/10
-· Programa de cultura sobre los últimos lenguajes artísticos audiovisuales.
-· País: España
-· Dirección: María Pallier.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-  <programme start="20260319040000 +0100" stop="20260319043000 +0100" channel="24 Horas">
-    <title>Telediario Internacional</title>
-    <desc>Información,Informativo | 2021 | *5.8/10
-· Informativo que prioriza las noticias internacionales sobre las nacionales.
-· País: España
-· Presenta: Moisés Rodríguez.
-· Productora: Canal 24 Horas.</desc>
-	</programme>
-  <programme start="20260319043000 +0100" stop="20260319050000 +0100" channel="24 Horas">
-    <title>Conversatorios en Casa de América</title>
-    <desc>Información,Entrevista | 2025 | TP | *6.0/10
-· Espacio de entrevistas en profundidad a personajes de la sociedad latinoamericana.
-· País: España</desc>
-	</programme>
-  <programme start="20260319050000 +0100" stop="20260319053000 +0100" channel="24 Horas">
-    <title>Telediario Internacional</title>
-    <desc>Información,Informativo | 2021 | *5.8/10
-· Informativo que prioriza las noticias internacionales sobre las nacionales.
-· País: España
-· Presenta: Moisés Rodríguez.
-· Productora: Canal 24 Horas.</desc>
-	</programme>
-  <programme start="20260319053000 +0100" stop="20260319060000 +0100" channel="24 Horas">
-    <title>Telediario Internacional</title>
-    <desc>Información,Informativo | 2021 | *5.8/10
-· Informativo que prioriza las noticias internacionales sobre las nacionales.
-· País: España
-· Presenta: Moisés Rodríguez.
-· Productora: Canal 24 Horas.</desc>
-	</programme>
-  <programme start="20260319060000 +0100" stop="20260319075000 +0100" channel="24 Horas">
-    <title>Telediario Matinal</title>
+  <programme start="20260318143000 +0100" stop="20260318151500 +0100" channel="TVG Europa HD">
+    <title>Telexornal Mediodía</title>
     <desc>Información,Informativo | 2023 | *6.0/10
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· Edición del mediodía de los informativos diarios del canal autonómico gallego. En "Telexornal" se ofrecen las noticias más recientes tanto nacionales como internacionales.
 · País: España
-· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-· Productora: Televisión Española (TVE).</desc>
+· Presenta: Marta Darriba.</desc>
 	</programme>
-  <programme start="20260319075000 +0100" stop="20260319093000 +0100" channel="24 Horas">
-    <title>La hora de La 1: La hora de la actualidad T9 E54</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+  <programme start="20260318151500 +0100" stop="20260318153000 +0100" channel="TVG Europa HD">
+    <title>Telexornal Deportes Mediodía</title>
+    <desc>Información,Deportes | *6.0/10
+· Espacio de los servicios informativos de la Televisión de Galicia dedicado a las noticias más relevantes de la actualidad deportiva tanto nacional como internacional. Presenta Sevi Martínez.
 · País: España
-· Dirección: Silvia Intxaurrondo.</desc>
+· Presenta: Sevi Martínez, Terio Carrera.</desc>
 	</programme>
-  <programme start="20260319093000 +0100" stop="20260319101500 +0100" channel="24 Horas">
-    <title>Los desayunos T1 E1</title>
-    <desc>Información,Informativo | 2026 | +18
-· Pepa Bueno, Juan Ramón Lucas y Mamen Jiménez serán los encargados de entrevistar a la vicepresidenta primera del Gobierno y ministra de Hacienda en este primer desayuno informativo.
+  <programme start="20260318153000 +0100" stop="20260318154500 +0100" channel="TVG Europa HD">
+    <title>O Tempo</title>
+    <desc>Información,Meteorología | 2023 | *6.0/10
+· Diego Viaño, Ana Celia Vázquez y Noelia Rodríguez son los encargados de acercar al público la información meteorológica de Galicia. Con el aval de Meteogalicia, este espacio ofrece la previsión del tiempo de manera próxima y sencilla.
+· País: España
+· Presenta: Loli Gómez Oviedo, Ana Celia Vázquez, Diego Viaño, Noelia Rodríguez.</desc>
+	</programme>
+  <programme start="20260318154500 +0100" stop="20260318185500 +0100" channel="TVG Europa HD">
+    <title>Atrápame se podes</title>
+    <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
+· Presentado por Rodrigo Vázquez, este concurso de preguntas y respuestas invita al espectador a jugar desde casa y brinda a los concursantes la oportunidad de ganar importantes premios.
+· País: España
+· Presenta: Rodrigo Vázquez.</desc>
+	</programme>
+  <programme start="20260318185500 +0100" stop="20260318210000 +0100" channel="TVG Europa HD">
+    <title>Hora Galega</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | *6.0/10
+· Programa variado y en directo, presentado por David Espiño y Rocío Durán entre semana y María Lamela y Adrián Díaz en fines de semana, donde los grandes protagonistas serán las historias cotidianas de los gallegos.
+· País: España
+· Presenta: David Espiño, Rocío Durán, Paula Señarís, Adrián Díaz.</desc>
+	</programme>
+  <programme start="20260318210000 +0100" stop="20260318213500 +0100" channel="TVG Europa HD">
+    <title>Telexornal Serán</title>
+    <desc>Información,Informativo | 2014 | *6.0/10
+· Edición vespertina de los informativos diarios de Televisión de Galicia. Ofrecemos un repaso de las noticias más recientes de ámbito autonómico, nacional e internacional.
+· País: España
+· Presenta: Pablo Muñoz, Carlos Amado.</desc>
+	</programme>
+  <programme start="20260318213500 +0100" stop="20260318214500 +0100" channel="TVG Europa HD">
+    <title>O Tempo</title>
+    <desc>Información,Meteorología | 2023 | *6.0/10
+· Diego Viaño, Ana Celia Vázquez y Noelia Rodríguez son los encargados de acercar al público la información meteorológica de Galicia. Con el aval de Meteogalicia, este espacio ofrece la previsión del tiempo de manera próxima y sencilla.
+· País: España
+· Presenta: Loli Gómez Oviedo, Ana Celia Vázquez, Diego Viaño, Noelia Rodríguez.</desc>
+	</programme>
+  <programme start="20260318214500 +0100" stop="20260318224500 +0100" channel="TVG Europa HD">
+    <title>Land Rober + Show</title>
+    <desc>Entretenimiento,Humor | 2025 | TP | *6.0/10
+· El "Land Rober + Show", programa conducido por Roberto Vilar, da un paso de gigante con este nuevo formato lleno de ritmo, humor y muchas sorpresas.
+· País: España
+· Presenta: Roberto Vilar.
+· Productora: TVG, Televisión de Galicia (TVG).</desc>
+	</programme>
+  <programme start="20260318224500 +0100" stop="20260318231500 +0100" channel="TVG Europa HD">
+    <title>O amor está en Galicia</title>
+    <desc>Entretenimiento,Variedades | 2026 | TP | *6.0/10
+· Los participantes de "O Amor está en Galicia" llegan al programa con un objetivo claro: encontrar el amor. Aunque no necesariamente tiene que convertirse en una relación seria.
 · País: España</desc>
 	</programme>
-  <programme start="20260319101500 +0100" stop="20260319140000 +0100" channel="24 Horas">
-    <title>Diario 24</title>
-    <desc>Información,Informativo | 2025 | *6.0/10
-· Espacio matinal para seguir la actualidad minuto a minuto.
-· País: España
-· Presenta: Lluís Guilera, Ana Belén Roy.</desc>
-	</programme>
-  <programme start="20260319140000 +0100" stop="20260319145700 +0100" channel="24 Horas">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+  <programme start="20260318231500 +0100" stop="20260318234500 +0100" channel="TVG Europa HD">
+    <title>O amor está en Galicia</title>
+    <desc>Entretenimiento,Variedades | 2026 | TP | *6.0/10
+· Los participantes de "O Amor está en Galicia" llegan al programa con un objetivo claro: encontrar el amor. Aunque no necesariamente tiene que convertirse en una relación seria.
 · País: España</desc>
 	</programme>
-  <programme start="20260319145700 +0100" stop="20260319153600 +0100" channel="24 Horas">
-    <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | TP | *6.2/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-  <programme start="20260319153600 +0100" stop="20260319154200 +0100" channel="24 Horas">
-    <title>Deportes 1</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-	</programme>
-  <programme start="20260319154200 +0100" stop="20260319154500 +0100" channel="24 Horas">
-    <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | *6.4/10
-· Información sobre la previsión meteorológica.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-  <programme start="20260319154500 +0100" stop="20260319155000 +0100" channel="24 Horas">
-    <title>Historias inspiradoras T1 E303</title>
-    <desc>Entretenimiento | 2023 | TP
-· Emisión de diferentes reportajes de Historias de superacion. Historias inspiradoras ONCE.
+  <programme start="20260318234500 +0100" stop="20260319003500 +0100" channel="TVG Europa HD">
+    <title>Amor Na Rede</title>
+    <desc>Entretenimiento,Tertulia | 2015 | TP | *6.4/10
+· Programa de entretenimiento que tiene como objetivo encontrar pareja a sus protagonistas. Éstos, de todas las edades, contarán con la ayuda de psicólogos expertos en la materia.
 · País: España</desc>
 	</programme>
-  <programme start="20260319155000 +0100" stop="20260319170000 +0100" channel="24 Horas">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+  <programme start="20260319003500 +0100" stop="20260319011500 +0100" channel="TVG Europa HD">
+    <title>Como galegos!</title>
+    <desc>Entretenimiento,Concurso | 2018 | TP | *6.2/10
+· Tres extranjeros de distinta nacionalidad demostrarán cuál de ellos se siente más gallego.</desc>
+	</programme>
+  <programme start="20260319011500 +0100" stop="20260319013000 +0100" channel="TVG Europa HD">
+    <title>Galicia bonita</title>
+    <desc>Entretenimiento,Telerrealidad | 2025 | TP | *6.2/10
+· La arquitecta Rosa Facal y sus ayudantes reforman varias viviendas gallegas en mal estado.
+· País: España
+· Presenta: Rosa Facal.</desc>
+	</programme>
+  <programme start="20260319013000 +0100" stop="20260319020000 +0100" channel="TVG Europa HD">
+    <title>Libro de familia</title>
+    <desc>Series,Drama | 2022 | TP | *6.2/10
+· Serie que retrata tres familias gallegas que pertenecen a distintos estratos sociales: una familia de labradores de toda la vida convive con una saga de caciques y con unos emigrantes que regresan a Galicia tras hacerse ricos en Venezuela.
+· País: España
+· Dirección: Mariana Carballal.
+· Reparto: Diana Nogueira, Mara Sánchez, Gonzalo Uriarte, Monti Castiñeiras, Manuel San Martín, Mayka Braña, Abelardo Pérez.</desc>
+	</programme>
+  <programme start="20260319020000 +0100" stop="20260319023000 +0100" channel="TVG Europa HD">
+    <title>Libro de familia</title>
+    <desc>Series,Drama | 2022 | TP | *6.2/10
+· Serie que retrata tres familias gallegas que pertenecen a distintos estratos sociales: una familia de labradores de toda la vida convive con una saga de caciques y con unos emigrantes que regresan a Galicia tras hacerse ricos en Venezuela.
+· País: España
+· Dirección: Mariana Carballal.
+· Reparto: Diana Nogueira, Mara Sánchez, Gonzalo Uriarte, Monti Castiñeiras, Manuel San Martín, Mayka Braña, Abelardo Pérez.</desc>
+	</programme>
+  <programme start="20260319023000 +0100" stop="20260319030000 +0100" channel="TVG Europa HD">
+    <title>Libro de familia</title>
+    <desc>Series,Drama | 2022 | TP | *6.2/10
+· Serie que retrata tres familias gallegas que pertenecen a distintos estratos sociales: una familia de labradores de toda la vida convive con una saga de caciques y con unos emigrantes que regresan a Galicia tras hacerse ricos en Venezuela.
+· País: España
+· Dirección: Mariana Carballal.
+· Reparto: Diana Nogueira, Mara Sánchez, Gonzalo Uriarte, Monti Castiñeiras, Manuel San Martín, Mayka Braña, Abelardo Pérez.</desc>
+	</programme>
+  <programme start="20260319030000 +0100" stop="20260319033000 +0100" channel="TVG Europa HD">
+    <title>Libro de familia</title>
+    <desc>Series,Drama | 2022 | TP | *6.2/10
+· Serie que retrata tres familias gallegas que pertenecen a distintos estratos sociales: una familia de labradores de toda la vida convive con una saga de caciques y con unos emigrantes que regresan a Galicia tras hacerse ricos en Venezuela.
+· País: España
+· Dirección: Mariana Carballal.
+· Reparto: Diana Nogueira, Mara Sánchez, Gonzalo Uriarte, Monti Castiñeiras, Manuel San Martín, Mayka Braña, Abelardo Pérez.</desc>
+	</programme>
+  <programme start="20260319033000 +0100" stop="20260319053000 +0100" channel="TVG Europa HD">
+    <title>Libro de familia</title>
+    <desc>Series,Drama | 2022 | TP | *6.2/10
+· Serie que retrata tres familias gallegas que pertenecen a distintos estratos sociales: una familia de labradores de toda la vida convive con una saga de caciques y con unos emigrantes que regresan a Galicia tras hacerse ricos en Venezuela.
+· País: España
+· Dirección: Mariana Carballal.
+· Reparto: Diana Nogueira, Mara Sánchez, Gonzalo Uriarte, Monti Castiñeiras, Manuel San Martín, Mayka Braña, Abelardo Pérez.</desc>
+	</programme>
+  <programme start="20260319053000 +0100" stop="20260319065500 +0100" channel="TVG Europa HD">
+    <title>Zigzag</title>
+    <desc>Entretenimiento | 2025 | TP | *5.8/10
+· Espacio cultural con contenidos cinematográficos, literarios y musicales, entre otros. El programa cuenta con una primera parte generalista y una segunda sección dedicada a una disciplina concreta que incluye una entrevista.
+· País: España
+· Dirección: María Solar.</desc>
+	</programme>
+  <programme start="20260319065500 +0100" stop="20260319070000 +0100" channel="TVG Europa HD">
+    <title>Información estado do mar mañá</title>
+    <desc>Información,Meteorología | 2023 | *5.8/10
+· Microespacio que ofrece la información meteorológica marítima. "Estado do mar" está dedicado fundamentalmente a la gente de mar y a los aficionados de los deportes náuticos.
 · País: España</desc>
 	</programme>
-  <programme start="20260319170000 +0100" stop="20260319200000 +0100" channel="24 Horas">
-    <title>La tarde en 24h</title>
-    <desc>Información,Informativo | 2009 | TP | *5.6/10
-· Cristina Pampín conduce "La Tarde en 24h". Cinco horas en directo con todas las noticias de actualidad nacional e internacional.
-· País: España
-· Presenta: Cristina Pampín.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-  <programme start="20260319200000 +0100" stop="20260319205800 +0100" channel="24 Horas">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-	</programme>
-  <programme start="20260319205800 +0100" stop="20260319213700 +0100" channel="24 Horas">
-    <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
-  <programme start="20260319213700 +0100" stop="20260319214400 +0100" channel="24 Horas">
-    <title>Deportes 2</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-	</programme>
-  <programme start="20260319214400 +0100" stop="20260319220400 +0100" channel="24 Horas">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-	</programme>
-  <programme start="20260319220400 +0100" stop="20260320003000 +0100" channel="24 Horas">
-    <title>La noche en 24 horas</title>
+  <programme start="20260319070000 +0100" stop="20260319080000 +0100" channel="TVG Europa HD">
+    <title>Galicia por diante</title>
     <desc>Información,Informativo | 2025 | *6.6/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
+· Las claves informativas de la jornada, con especial atención a la actualidad gallega.
 · País: España
-· Dirección: Xabier Fortes.
-· Productora: Televisión Española (TVE).</desc>
+· Presenta: Celia Rúa, Luis Ojea.</desc>
 	</programme>
-  <programme start="20260317215000 +0100" stop="20260317225000 +0100" channel="Aragón TV">
-    <title>Sopa de letras T2 E225</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | *5.8/10
-· Miki Nadal presenta este innovador concurso que desafía la agilidad mental y los conocimientos de concursantes, quienes tienen que encontrar las respuestas en una gran sopa de letras que ocupa el suelo del plató.
+  <programme start="20260319080000 +0100" stop="20260319093000 +0100" channel="TVG Europa HD">
+    <title>Hora Galega</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | *6.0/10
+· Programa variado y en directo, presentado por David Espiño y Rocío Durán entre semana y María Lamela y Adrián Díaz en fines de semana, donde los grandes protagonistas serán las historias cotidianas de los gallegos.
 · País: España
-· Presenta: Miki Nadal.
-· Productora: Globomedia.</desc>
+· Presenta: David Espiño, Rocío Durán, Paula Señarís, Adrián Díaz.</desc>
+	</programme>
+  <programme start="20260319093000 +0100" stop="20260319110000 +0100" channel="TVG Europa HD">
+    <title>Bos Días</title>
+    <desc>Información,Informativo | 2025 | *6.4/10
+· Espacio matinal realizado por los servicios informativos de Televisión de Galicia que hace un repaso de la actualidad. La información da paso a una entrevista diaria así como conexiones en directo y otras secciones de salud, gastronomía y opinión.
+· País: España
+· Presenta: Almudena Rodríguez de Urzáiz.</desc>
+	</programme>
+  <programme start="20260319110000 +0100" stop="20260319113000 +0100" channel="TVG Europa HD">
+    <title>Pulso activo</title>
+    <desc>Ocio y Aficiones,Salud y bienestar | 2025 | TP | *6.8/10
+· Eddy Insua propone una rutina diaria de ejercicio adaptado para mejorar la salud, combatir el sedentarismo y llenar las mañanas de energía positiva.
+· País: España
+· Presenta: Eddy Insua.
+· Productora: TVG, Televisión de Galicia (TVG).</desc>
+	</programme>
+  <programme start="20260319113000 +0100" stop="20260319135000 +0100" channel="TVG Europa HD">
+    <title>O termómetro</title>
+    <desc>Información,Informativo | 2025 | TP | *6.2/10
+· A TVG tómalle a temperatura ao día a día dos galegos. O magazine ofrecerá unha ampla cobertura en directo da actualidade e, da man de expertos, tratará os temas que máis preocupan os espectadores.
+· País: España
+· Presenta: Rocío Delgado, Bernardo Montaña.</desc>
+	</programme>
+  <programme start="20260319135000 +0100" stop="20260319143000 +0100" channel="TVG Europa HD">
+    <title>Galicia Noticias</title>
+    <desc>Información,Informativo | 2014 | *6.2/10
+· Ana Pérez presenta la edición matutina de este espacio que Televisión de Galicia dedica a la información de proximidad, prestando especial atención a la actualidad de la comunidad autónoma gallega.
+· País: España
+· Presenta: Raúl Quián.</desc>
+	</programme>
+  <programme start="20260319143000 +0100" stop="20260319151500 +0100" channel="TVG Europa HD">
+    <title>Telexornal Mediodía</title>
+    <desc>Información,Informativo | 2023 | *6.0/10
+· Edición del mediodía de los informativos diarios del canal autonómico gallego. En "Telexornal" se ofrecen las noticias más recientes tanto nacionales como internacionales.
+· País: España
+· Presenta: Marta Darriba.</desc>
+	</programme>
+  <programme start="20260319151500 +0100" stop="20260319153000 +0100" channel="TVG Europa HD">
+    <title>Telexornal Deportes Mediodía</title>
+    <desc>Información,Deportes | *6.0/10
+· Espacio de los servicios informativos de la Televisión de Galicia dedicado a las noticias más relevantes de la actualidad deportiva tanto nacional como internacional. Presenta Sevi Martínez.
+· País: España
+· Presenta: Sevi Martínez, Terio Carrera.</desc>
+	</programme>
+  <programme start="20260319153000 +0100" stop="20260319154500 +0100" channel="TVG Europa HD">
+    <title>O Tempo</title>
+    <desc>Información,Meteorología | 2023 | *6.0/10
+· Diego Viaño, Ana Celia Vázquez y Noelia Rodríguez son los encargados de acercar al público la información meteorológica de Galicia. Con el aval de Meteogalicia, este espacio ofrece la previsión del tiempo de manera próxima y sencilla.
+· País: España
+· Presenta: Loli Gómez Oviedo, Ana Celia Vázquez, Diego Viaño, Noelia Rodríguez.</desc>
+	</programme>
+  <programme start="20260319154500 +0100" stop="20260319185500 +0100" channel="TVG Europa HD">
+    <title>Atrápame se podes</title>
+    <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
+· Presentado por Rodrigo Vázquez, este concurso de preguntas y respuestas invita al espectador a jugar desde casa y brinda a los concursantes la oportunidad de ganar importantes premios.
+· País: España
+· Presenta: Rodrigo Vázquez.</desc>
+	</programme>
+  <programme start="20260319185500 +0100" stop="20260319210000 +0100" channel="TVG Europa HD">
+    <title>Hora Galega</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | *6.0/10
+· Programa variado y en directo, presentado por David Espiño y Rocío Durán entre semana y María Lamela y Adrián Díaz en fines de semana, donde los grandes protagonistas serán las historias cotidianas de los gallegos.
+· País: España
+· Presenta: David Espiño, Rocío Durán, Paula Señarís, Adrián Díaz.</desc>
+	</programme>
+  <programme start="20260319210000 +0100" stop="20260319213500 +0100" channel="TVG Europa HD">
+    <title>Telexornal Serán</title>
+    <desc>Información,Informativo | 2014 | *6.0/10
+· Edición vespertina de los informativos diarios de Televisión de Galicia. Ofrecemos un repaso de las noticias más recientes de ámbito autonómico, nacional e internacional.
+· País: España
+· Presenta: Pablo Muñoz, Carlos Amado.</desc>
+	</programme>
+  <programme start="20260319213500 +0100" stop="20260319214500 +0100" channel="TVG Europa HD">
+    <title>O Tempo</title>
+    <desc>Información,Meteorología | 2023 | *6.0/10
+· Diego Viaño, Ana Celia Vázquez y Noelia Rodríguez son los encargados de acercar al público la información meteorológica de Galicia. Con el aval de Meteogalicia, este espacio ofrece la previsión del tiempo de manera próxima y sencilla.
+· País: España
+· Presenta: Loli Gómez Oviedo, Ana Celia Vázquez, Diego Viaño, Noelia Rodríguez.</desc>
+	</programme>
+  <programme start="20260319214500 +0100" stop="20260319224500 +0100" channel="TVG Europa HD">
+    <title>Land Rober + Show</title>
+    <desc>Entretenimiento,Humor | 2025 | TP | *6.0/10
+· El "Land Rober + Show", programa conducido por Roberto Vilar, da un paso de gigante con este nuevo formato lleno de ritmo, humor y muchas sorpresas.
+· País: España
+· Presenta: Roberto Vilar.
+· Productora: TVG, Televisión de Galicia (TVG).</desc>
+	</programme>
+  <programme start="20260319224500 +0100" stop="20260319233000 +0100" channel="TVG Europa HD">
+    <title>Somos animais</title>
+    <desc>Ocio y Aficiones,Naturaleza | 2026 | TP | *6.2/10
+· Hugo Cabaleiro quiere aprenderlo todo sobre los animales.
+· País: España
+· Presenta: Hugo Cabaleiro.</desc>
 	</programme>
   <programme start="20260317225000 +0100" stop="20260318003000 +0100" channel="Aragón TV">
     <title>Asesinato en los Vosgos</title>
@@ -3404,11 +3627,17 @@
 · País: España
 · Presenta: José Luis Rodrigo.</desc>
 	</programme>
-  <programme start="20260317205500 +0100" stop="20260317225500 +0100" channel="Real Madrid TV">
-    <title>Hoy jugamos: Minuto a minuto T25/26 · Manchester City - Real Madrid</title>
-    <desc>Deportes,Programa deportes | 2026 | *6.0/10
-· La cadena oficial del Real Madrid ofrece información detallada de lo que ocurre sobre el césped durante la disputa de los encuentros del club de Concha Espina. El espacio narra los detalles y las incidencias de los partidos.
-· País: España</desc>
+  <programme start="20260319223500 +0100" stop="20260320002500 +0100" channel="Aragón TV">
+    <title>Tesoro del Amazonas</title>
+    <desc>Cine,Acción | 2003 | +12 | *6.6/10
+· En la jungla de Los Ángeles existe gente como Beck, que utiliza los medios necesarios para recuperar aquello por lo que le pagan. Su problema actual es el descerebrado Travis, cuyo padre ha encargado a Beck que lo recupere de una 'aventura' en Brasil.
+· País: Estados Unidos
+· Dirección: Peter Berg.
+· Reparto: Dwayne Johnson, Seann William Scott, Rosario Dawson, Christopher Walken, Ewen Bremner, Jon Gries.
+· Guion: R.J Stewart, James Vanderbilt.
+· Música: Harry Gregson-Williams.
+· Producción: Karen Glasser, Kevin Misher, Marc Abraham, Bill Corless.
+· Productora: Columbia Pictures Corporation, Universal Pictures, WWE Studios, Misher Films, IM3 Entertainment.</desc>
 	</programme>
   <programme start="20260317225500 +0100" stop="20260318001500 +0100" channel="Real Madrid TV">
     <title>Hoy jugamos: El análisis T25/26 · Manchester City - Real Madrid</title>
@@ -3496,12 +3725,6 @@
     <title>Real Madrid TV</title>
     <desc>Deportes,Programa deportes | 2019 | *6.0/10
 · Real Madrid TV -.</desc>
-	</programme>
-  <programme start="20260317205300 +0100" stop="20260317230200 +0100" channel="Movistar Plus+ HD">
-    <title>DIRECTO Octavos de final: Manchester City - Real Madrid T25/26 · UEFA Champions League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *7.0/10
-· El Real Madrid quiere confirmar su gran momento haciendo bueno el 3-0 conseguido en la ida gracias al hat-trick de Valverde.Por su parte, el Manchester City buscará la remontada en el Etihad Stadium tras empatar en liga contra el West Ham.
-· País: Reino Unido</desc>
 	</programme>
   <programme start="20260317230200 +0100" stop="20260318002100 +0100" channel="Movistar Plus+ HD">
     <title>Noche de Champions T25/26 · 17/03/2026</title>
@@ -3892,6 +4115,19 @@
     <desc>Documentales,Biografía | 2025 | +12 | *6.0/10
 · Alba Flores se dispone a buscar la verdad sobre quién fue su padre, el músico legendario, Antonio Flores, fallecido cuando ella tenía 8 años. Alba dejó de cantar al perder a Antonio y ahora se dispone a recuperar su voz y su historia.</desc>
 	</programme>
+  <programme start="20260319222000 +0100" stop="20260319230000 +0100" channel="Movistar Plus+ HD">
+    <title>Al encuentro de T1 · Alba Flores</title>
+    <desc>Cine,Programa de cine | 2025 | +7 | *5.8/10
+· Cristina Teva y Alba Flores repasan su carrera artística, que empezó en su adolescencia, disfrutó de un éxito descomunal con dos series de TV y está en un proceso de madurez como showrunner del documental sobre su padre "Flores para Antonio".
+· País: España
+· Presenta: Cristina Teva.</desc>
+	</programme>
+  <programme start="20260319230000 +0100" stop="20260320003000 +0100" channel="Movistar Plus+ HD">
+    <title>Noche de Europa League T25/26 · 19/03/2026</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
+· Revive los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
+	</programme>
   <programme start="20260317205400 +0100" stop="20260317231400 +0100" channel="Primera Federación">
     <title>Primera Federación T25/26 · Jornada 28: Ourense - Racing Ferrol</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
@@ -4021,13 +4257,6 @@
     <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · La Primera Federación es la categoría de bronce del fútbol español. Esta es la cuarta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
-	</programme>
-  <programme start="20260317220000 +0100" stop="20260317223000 +0100" channel="M+ Vamos HD">
-    <title>Planeta Tenis T2026 E6</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Magazine semanal en el que repasamos toda la actualidad del mundo del tenis, escuchamos a sus protagonistas y echamos una mirada a la historia.
-· País: España
-· Presenta: Lidia Blanco, Roberto Carretero.</desc>
 	</programme>
   <programme start="20260317223000 +0100" stop="20260318001500 +0100" channel="M+ Vamos HD">
     <title>Montezemolo: corazón rojo</title>
@@ -4660,10 +4889,10 @@
 · Presenta: Jorge Valdano.
 · Productora: Mediapro.</desc>
 	</programme>
-  <programme start="20260317210000 +0100" stop="20260317230000 +0100" channel="DAZN LaLiga HD">
-    <title>LALIGA EA SPORTS T25/26 · Jornada 28: Barcelona - Sevilla</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.4/10
-· Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+  <programme start="20260319230000 +0100" stop="20260319235500 +0100" channel="M+ LaLiga HD">
+    <title>Informe Plus+. Puro Djalminha</title>
+    <desc>Deportes,Programa deportes | 2024 | TP | *6.6/10
+· Djalminha, uno de los futbolistas más creativos y geniales que se recuerdan en el fútbol español pasó por A Coruña a mediados de los 90. Toneladas de talento y personalidad que nadie olvida cuando, años después, regresa a la que siempre será su casa.
 · País: España</desc>
 	</programme>
   <programme start="20260317230000 +0100" stop="20260318000000 +0100" channel="DAZN LaLiga HD">
@@ -4988,12 +5217,6 @@
     <title>DAZN LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260317205300 +0100" stop="20260317230000 +0100" channel="M+ Liga de Campeones HD">
-    <title>DIRECTO Octavos de final: Manchester City - Real Madrid T25/26 · UEFA Champions League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *7.0/10
-· El Real Madrid quiere confirmar su gran momento haciendo bueno el 3-0 conseguido en la ida gracias al hat-trick de Valverde.Por su parte, el Manchester City buscará la remontada en el Etihad Stadium tras empatar en liga contra el West Ham.
-· País: Reino Unido</desc>
-	</programme>
   <programme start="20260317230000 +0100" stop="20260318000000 +0100" channel="M+ Liga de Campeones HD">
     <title>Noche de Champions T25/26 · 17/03/2026</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
@@ -5195,11 +5418,11 @@
 · Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
 · País: España</desc>
 	</programme>
-  <programme start="20260317205300 +0100" stop="20260317230000 +0100" channel="M+ Liga de Campeones 2 HD">
-    <title>DIRECTO Octavos de final: Arsenal - Bayer Leverkusen T25/26 · UEFA Champions League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.
-· País: Reino Unido</desc>
+  <programme start="20260319230000 +0100" stop="20260320003000 +0100" channel="M+ Liga de Campeones HD">
+    <title>Noche de Europa League T25/26 · 19/03/2026</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
+· Revive los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
+· País: España</desc>
 	</programme>
   <programme start="20260317230000 +0100" stop="20260318080000 +0100" channel="M+ Liga de Campeones 2 HD">
     <title>M+ Liga de Campeones 2</title>
@@ -5266,11 +5489,10 @@
 · El Rayo quiere estar en cuartos de final. Trae una buena ventaja del partido de ida. 1-3 ganaron los rayistas en Turquía, un resultado que quieren defender.
 · País: España</desc>
 	</programme>
-  <programme start="20260317205300 +0100" stop="20260317230000 +0100" channel="M+ Liga de Campeones 3 HD">
-    <title>DIRECTO Octavos de final: Chelsea - PSG T25/26 · UEFA Champions League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· El PSG viaja a Londres con una ventaja de tres goles antes de medirse al Chelsea en Stamford Bridge en la vuelta de los octavos de final de la Liga de Campeones.
-· País: Reino Unido</desc>
+  <programme start="20260319230000 +0100" stop="20260320080000 +0100" channel="M+ Liga de Campeones 2 HD">
+    <title>M+ Liga de Campeones 2</title>
+    <desc>Deportes,Fútbol | TP | *6.2/10
+· M+ Liga de Campeones 2 -.</desc>
 	</programme>
   <programme start="20260317230000 +0100" stop="20260318080000 +0100" channel="M+ Liga de Campeones 3 HD">
     <title>M+ Liga de Campeones 3</title>
@@ -5329,11 +5551,10 @@
 · Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
 · País: España</desc>
 	</programme>
-  <programme start="20260317201500 +0100" stop="20260317223000 +0100" channel="M+ Deportes HD">
-    <title>DIRECTO Jornada 14: Olympiacos - Fenerbahce T25/26 · Euroliga de baloncesto</title>
-    <desc>Deportes,Baloncesto | 2025 | TP | *5.8/10
-· Dos de los favoritos, y los dos primeros en la clasificación, Olympiakos y Fenerbahce, se ponen al día en el Palacio de la Paz y la Amistad de El Pireo. Este partido de la jornada 14 tuvo que aplazarse por el temporal que azotó Atenas en diciembre.
-· País: España</desc>
+  <programme start="20260319230000 +0100" stop="20260320080000 +0100" channel="M+ Liga de Campeones 3 HD">
+    <title>M+ Liga de Campeones 3</title>
+    <desc>Deportes,Fútbol | TP | *6.0/10
+· M+ Liga de Campeones 3 -.</desc>
 	</programme>
   <programme start="20260317223000 +0100" stop="20260317233000 +0100" channel="M+ Deportes HD">
     <title>Highlights ATP T2026 · Indian Wells</title>
@@ -5574,10 +5795,10 @@
 · Jornada 32 de la Euroliga. Kosner Baskonia visita al poderoso Olympiacos en el Palacio de la Paz y la Amistad del Pireo. Olympiacos es segundo en la tabla con 20 victorias.
 · País: España</desc>
 	</programme>
-  <programme start="20260317200000 +0100" stop="20260317221500 +0100" channel="M+ Deportes 2 HD">
-    <title>DIRECTO Jornada 30: Partizán - Dubai T25/26 · Euroliga de baloncesto</title>
-    <desc>Deportes,Baloncesto | 2026 | TP | *6.4/10
-· Partizan de Belgrado y Dubai Basketball recuperan el partido aplazado de la jornada 30 de la Euroliga. Partizan apenas tiene opciones, y Dubai se juega su clasificación. Los serbios son antepenúltimos con 10 triunfos, mientras que Dubai tiene 16.
+  <programme start="20260319223000 +0100" stop="20260320003000 +0100" channel="M+ Deportes HD">
+    <title>Jornada 32: Valencia - Barcelona T25/26 · Euroliga de baloncesto</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Valencia (20-11) y Barça (17-14) se miden en el Roig Arena con necesidad de sumar la victoria. Los de Pedro Martínez, que recuperan a Kameron Taylor, para mantenerse entre los 4 primeros, y los de Xavi Pascual, para no caerse del play in.
 · País: España</desc>
 	</programme>
   <programme start="20260317221500 +0100" stop="20260318051500 +0100" channel="M+ Deportes 2 HD">
@@ -5713,17 +5934,6 @@
     <desc>Deportes,Tenis | 2026 | TP | *6.2/10
 · Miami acoge el segundo Masters 1000 de la temporada, que pone fin a la gira de pista dura americana de febrero y marzo. El checo Jakub Mensik fue el campeón de 2025.
 · País: Estados Unidos</desc>
-	</programme>
-  <programme start="20260317191000 +0100" stop="20260317221300 +0100" channel="M+ Golf HD">
-    <title>LIV Golf T2026 · Singapur. Jornada 4. Parte 2</title>
-    <desc>Deportes,Golf | 2026 | TP | *6.0/10
-· Días después de su contundente victoria en Hong Kong, Jon Rahm regresa a la competición en Singapur. Los Fireballs de Sergio García defienden título tras su exhibición en Sentosa en 2025.</desc>
-	</programme>
-  <programme start="20260317221300 +0100" stop="20260317225500 +0100" channel="M+ Golf HD">
-    <title>Sueños de Golf T2019 · La Escuela: fábrica de sueños</title>
-    <desc>Deportes,Programa deportes | 2019 | TP | *6.0/10
-· Jugadores jóvenes que sueñan con llegar al circuito europeo y jugadores veteranos que no han tenido una buena temporada y han perdido su tarjeta, compiten en una dura semana en la Escuela de clasificación del European Tour. Una semana de sueños.
-· País: España</desc>
 	</programme>
   <programme start="20260317225500 +0100" stop="20260317231300 +0100" channel="M+ Golf HD">
     <title>Play Off T2026 E9</title>
@@ -5941,6 +6151,18 @@
     <desc>Deportes,Golf | 2026 | TP | *5.8/10
 · LIV Golf llega por fin a Sudáfrica de la mano del equipo local, los Southern Guards capitaneados por Louis Oosthuizen. El español Jon Rahm lidera la clasificación general tras ganar en Hong Kong y David Puig busca meterse en los majors.</desc>
 	</programme>
+  <programme start="20260319224000 +0100" stop="20260319230000 +0100" channel="M+ Golf HD">
+    <title>Play Off T2026 E9</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· La Cenicienta se quedó sin final feliz. En un final dramático, Richard T.Lee falló un putt muy corto y Bryson Dechambeau celebró su cuarta victoria en el LIV con sorpresa e incredulidad.
+· País: España
+· Presenta: María Camarero, Guillermo Salmerón.</desc>
+	</programme>
+  <programme start="20260319230000 +0100" stop="20260320020000 +0100" channel="M+ Golf HD">
+    <title>DIRECTO Fortinet Founders Cup. Jornada 1 T2026 · Ladies PGA</title>
+    <desc>Deportes,Golf | 2026 | TP | *6.2/10
+· El LPGA regresa a Estados Unidos después de tres semanas de gira por Asia. La Founders Cup, que rinde homenaje a las 13 fundadoras del circuito americano, cumple este año su edición número 14.</desc>
+	</programme>
   <programme start="20260317213000 +0100" stop="20260317233500 +0100" channel="DAZN F1 HD">
     <title>Mundial F1 - GP de Emilia Romagna T2025 · Carrera</title>
     <desc>Deportes,Motor | 2025 | TP | *6.2/10
@@ -6122,11 +6344,15 @@
     <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
 · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-  <programme start="20260317200900 +0100" stop="20260317221200 +0100" channel="DAZN 1 HD">
-    <title>Premier League T25/26 · Jornada 26: West Ham - Manchester United</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
-· Nueve puntos de los últimos doce en juego le han devuelto la vida a los “hammers”. Cuatro victorias consecutivas, en puesto de UCL y sin conocer la derrota en Premier desde diciembre; Carrick y su United no están para bromas.
-· País: Reino Unido</desc>
+  <programme start="20260319221000 +0100" stop="20260319224500 +0100" channel="DAZN F1 HD">
+    <title>Gearbox T2026 E21</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.0/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+	</programme>
+  <programme start="20260319224500 +0100" stop="20260320010000 +0100" channel="DAZN F1 HD">
+    <title>Mundial F1 - GP de China T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
   <programme start="20260317221200 +0100" stop="20260317230800 +0100" channel="DAZN 1 HD">
     <title>MotoGP - GP de Tailandia T2026 · Carrera Moto3</title>
@@ -6259,6 +6485,11 @@
     <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
+	</programme>
+  <programme start="20260319222500 +0100" stop="20260319232500 +0100" channel="DAZN 1 HD">
+    <title>Rueda de prensa motos T2026 · Brasil - Paddock Abierto</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
 	</programme>
   <programme start="20260317220000 +0100" stop="20260318020000 +0100" channel="DAZN 2 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
@@ -6545,6 +6776,12 @@
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Noruega</desc>
 	</programme>
+  <programme start="20260319230000 +0100" stop="20260320000000 +0100" channel="Eurosport 1 HD">
+    <title>Grand Slam de salto ecuestre - Bolduque T2026 · Resumen</title>
+    <desc>Deportes,Hípica | 2026 | TP | *6.2/10
+· El Grand Slam es una de las competiciones más importantes del mundo ecuestre. Se trata de un circuito de obstáculos que premia a los jinetes que sobresalgan en los recorridos más complicados del planeta. En juego, suculentos premios económicos.
+· País: Países Bajos</desc>
+	</programme>
   <programme start="20260317220200 +0100" stop="20260318000400 +0100" channel="Eurosport 2">
     <title>Primera ronda - Día 2 T25/26 · World Open de snooker</title>
     <desc>Deportes,Snooker | 2026 | TP | *6.2/10
@@ -6826,11 +7063,11 @@
 · La Nokere Koerse es una carrera de un día que se corre por las carreteras de la provincia belga de Flandes Occidental. Disputada por primera vez en 1944, en 2026 celebra su 80ª edición. El neerlanés Nils Eekhoff se impuso en la de 2025.
 · País: Bélgica</desc>
 	</programme>
-  <programme start="20260317200000 +0100" stop="20260317224500 +0100" channel="GOL">
-    <title>Directo Gol Directos a la Champions T25/26 · Minuto a minuto martes 17/03/2026</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· El plató de Gol sirve de introducción del mejor fútbol durante la Champions League. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.
-· País: España</desc>
+  <programme start="20260319230000 +0100" stop="20260320003000 +0100" channel="Eurosport 2">
+    <title>UFC Fight Night: Emmett vs Vallejos T2026 · Main Card</title>
+    <desc>Deportes,Artes marciales mixtas | 2026 | +18
+· Nueva noche de combate en el Meta Apex de Enterprise, en el Valle de Las Vegas. El duelo del pluma entre Josh Emmett y Kevin Vallejos encabeza el cartel. En el peso paja femenino, también destaca el cruce entre Amanda Lemos y Gillian Robertson.
+· País: Estados Unidos</desc>
 	</programme>
   <programme start="20260317224500 +0100" stop="20260318010000 +0100" channel="GOL">
     <title>Gol T25/26 E200</title>
@@ -6988,6 +7225,12 @@
 · El plató de Gol sirve de introducción del mejor fútbol durante la Europa League. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.
 · País: España</desc>
 	</programme>
+  <programme start="20260319224500 +0100" stop="20260320010000 +0100" channel="GOL">
+    <title>Gol T25/26 E202</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· El plató de Gol sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.
+· País: España</desc>
+	</programme>
   <programme start="20260317215500 +0100" stop="20260317234500 +0100" channel="Teledeporte">
     <title>DIRECTO España - Estados Unidos T2026 · Torneos Clasificación MundoBasket F</title>
     <desc>Deportes,Baloncesto | 2026 | TP | *6.2/10
@@ -7078,11 +7321,6 @@
     <desc>Información,Deportes | TP | *6.2/10
 · Conexión con la programación del canal deportivo de TVE, Teledeporte.</desc>
 	</programme>
-  <programme start="20260317205300 +0100" stop="20260317230000 +0100" channel="M+ Liga de Campeones 4">
-    <title>DIRECTO Octavos de final: Multichampions (17/03/26) T25/26 · UEFA Champions League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.</desc>
-	</programme>
   <programme start="20260317230000 +0100" stop="20260318080000 +0100" channel="M+ Liga de Campeones 4">
     <title>M+ Liga de Campeones 4</title>
     <desc>Deportes,Fútbol | *6.2/10
@@ -7128,11 +7366,10 @@
     <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.</desc>
 	</programme>
-  <programme start="20260317205300 +0100" stop="20260317230000 +0100" channel="M+ Liga de Campeones 5">
-    <title>DIRECTO Octavos de final: Arsenal - Bayer Leverkusen T25/26 · UEFA Champions League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.
-· País: Reino Unido</desc>
+  <programme start="20260319230000 +0100" stop="20260320080000 +0100" channel="M+ Liga de Campeones 4">
+    <title>M+ Liga de Campeones 4</title>
+    <desc>Deportes,Fútbol | *6.2/10
+· M+ Liga de Campeones 4 -.</desc>
 	</programme>
   <programme start="20260317230000 +0100" stop="20260318080000 +0100" channel="M+ Liga de Campeones 5">
     <title>M+ Liga de Campeones 5</title>
@@ -7182,6 +7419,11 @@
 · Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
 · País: Portugal</desc>
 	</programme>
+  <programme start="20260319230000 +0100" stop="20260320080000 +0100" channel="M+ Liga de Campeones 5">
+    <title>M+ Liga de Campeones 5</title>
+    <desc>Deportes,Otros deportes | 2019 | TP | *6.0/10
+· En Movistar Liga de Campeones destaca la programación de la UEFA Champions League y la UEFA Europa League, las dos mejores competiciones del continente europeo a nivel de clubes. Cada jornada habrá programación especial en plató.</desc>
+	</programme>
   <programme start="20260317120000 +0100" stop="20260318000000 +0100" channel="M+ Liga de Campeones 6">
     <title>M+ Liga de Campeones 6</title>
     <desc>· Programa por determinar...</desc>
@@ -7228,41 +7470,10 @@
 · Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
 · País: Italia</desc>
 	</programme>
-  <programme start="20260317120000 +0100" stop="20260318000000 +0100" channel="M+ Liga de Campeones 10">
-    <title>M+ Liga de Campeones 10</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260318000000 +0100" stop="20260318120000 +0100" channel="M+ Liga de Campeones 10">
-    <title>M+ Liga de Campeones 10</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260318120000 +0100" stop="20260319000000 +0100" channel="M+ Liga de Campeones 10">
-    <title>M+ Liga de Campeones 10</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260319000000 +0100" stop="20260319080000 +0100" channel="M+ Liga de Campeones 10">
-    <title>M+ Liga de Campeones 10</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260319080000 +0100" stop="20260319184000 +0100" channel="M+ Liga de Campeones 10">
-    <title>M+ Liga de Campeones 10</title>
-    <desc>Deportes,Otros deportes | 2019 | *5.8/10
+  <programme start="20260319230000 +0100" stop="20260320080000 +0100" channel="M+ Liga de Campeones 6">
+    <title>M+ Liga de Campeones 6</title>
+    <desc>Deportes,Otros deportes | 2019 | TP | *6.0/10
 · En Movistar Liga de Campeones destaca la programación de la UEFA Champions League y la UEFA Europa League, las dos mejores competiciones del continente europeo a nivel de clubes. Cada jornada habrá programación especial en plató.</desc>
-	</programme>
-  <programme start="20260319184000 +0100" stop="20260319204500 +0100" channel="M+ Liga de Campeones 10">
-    <title>DIRECTO Octavos de final: Mainz - Sigma Olomouc T25/26 · UEFA Conference League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Poco a poco, la Conference League se va consolidando como una competición a seguir. El tercer torneo de la UEFA aglutina a 36 equipos en su fase liga, al igual que el resto de competiciones UEFA. El Chelsea es el actual campeón.</desc>
-	</programme>
-  <programme start="20260319204500 +0100" stop="20260319205500 +0100" channel="M+ Liga de Campeones 10">
-    <title>M+ Liga de Campeones 10</title>
-    <desc>Deportes,Otros deportes | 2019 | *5.8/10
-· En Movistar Liga de Campeones destaca la programación de la UEFA Champions League y la UEFA Europa League, las dos mejores competiciones del continente europeo a nivel de clubes. Cada jornada habrá programación especial en plató.</desc>
-	</programme>
-  <programme start="20260319205500 +0100" stop="20260319230000 +0100" channel="M+ Liga de Campeones 10">
-    <title>DIRECTO Octavos de final: Shakhtar - Lech Poznan T25/26 · UEFA Conference League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Poco a poco, la Conference League se va consolidando como una competición a seguir. El tercer torneo de la UEFA aglutina a 36 equipos en su fase liga, al igual que el resto de competiciones UEFA. El Chelsea es el actual campeón.</desc>
 	</programme>
   <programme start="20260317120000 +0100" stop="20260318000000 +0100" channel="M+ LaLiga 3 HD">
     <title>M+ LALIGA 3</title>
@@ -7370,6 +7581,11 @@
     <desc>Deportes,Baloncesto | 2026 | TP | *5.6/10
 · Jornada 32 de la mejor competición de baloncesto de Europa, con más equipos que nunca y con más jornadas que nunca. 20 equipos, 38 jornadas de competición, los play offs, la Final Four... 8 meses por delante para conocer al campeón del basket europeo.
 · País: España</desc>
+	</programme>
+  <programme start="20260319230000 +0100" stop="20260320054500 +0100" channel="M+ Deportes 4">
+    <title>M+ Deportes 4</title>
+    <desc>Deportes,Otros deportes | 2019 | TP | *6.2/10
+· M+ Deportes 4 -.</desc>
 	</programme>
   <programme start="20260317120000 +0100" stop="20260318000000 +0100" channel="M+ Deportes 5">
     <title>M+ Deportes 5</title>
@@ -7591,12 +7807,6 @@
   <programme start="20260319220000 +0100" stop="20260320020000 +0100" channel="DAZN 4 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260317215900 +0100" stop="20260317221000 +0100" channel="AMC HD">
-    <title>TikTak Cine T1 E9 · Jason Momoa</title>
-    <desc>Programa,Otros | 2021 | +18
-· Conocido por sus papeles carismáticos en Juego de tronos, Conan el bárbaro y Aquaman, su estilo y presencia en pantalla lo han consolidado como una figura destacada del cine de acción.
-· País: España, Estados Unidos</desc>
 	</programme>
   <programme start="20260317221000 +0100" stop="20260317234900 +0100" channel="AMC HD">
     <title>Al borde del abismo</title>
@@ -7914,19 +8124,13 @@
 · Con la interpretación en la sangre, Benedict Cumberbatch pasó del teatro londinense a consagrarse como estrella en el universo Marvel gracias a su versatilidad y magnetismo.
 · País: España, Estados Unidos</desc>
 	</programme>
-  <programme start="20260317204700 +0100" stop="20260317222200 +0100" channel="DARK">
-    <title>Este cuerpo me sienta de muerte</title>
-    <desc>Cine,Terror,Suspense,Humor Negro | 2020 | +16 | *6.3/10
-· Tras intercambiar su cuerpo con el de un asesino en serie, una joven estudiante descubre que tiene menos de 24 horas antes de que el cambio sea permanente.
-· País: Estados Unidos
-· Dirección: Christopher Landon.
-· Reparto: Vince Vaughn, Kathryn Newton, Alan Ruck, Katie Finneran, Uriah Shelton, Celeste O'Connor, Misha Osherovich Osherovich, Emily Holder, Nicholas Stargel, Dana Drori, Kelly Lamor Wilson, Mitchell Hoog, Melissa Collazo Collazo.</desc>
-	</programme>
-  <programme start="20260317222200 +0100" stop="20260317222900 +0100" channel="DARK">
-    <title>Inside Sitges 2025: Dark Circus T1 E3 · Vieja loca</title>
-    <desc>Programa,Entretenimiento | 2026 | +18
-· Un thriller íntimo y claustrofóbico, protagonizado por Carmen Maura y producido por Juan Antonio Bayona, que supone la ópera prima como director del argentino Martín Mauregui.
-· País: España</desc>
+  <programme start="20260319221000 +0100" stop="20260319235200 +0100" channel="AMC HD">
+    <title>Assassin's Creed</title>
+    <desc>Cine,Acción,Aventuras,Ciencia Ficción | 2016 | +16 | *5.6/10
+· Usando una tecnología que desbloquea recuerdos, Callum descubre que es descendiente de una antigua estirpe de Assassins y posee habilidades letales para superar a la opresora Orden Templaria. Basada en la saga de videojuegos.
+· País: Francia, Reino Unido, Estados Unidos
+· Dirección: Justin Kurzel.
+· Reparto: Michael Kenneth Williams, Michael Fassbender, Marion Cotillard, Jeremy Irons, Brendan Gleeson, Charlotte Rampling, Javier Gutiérrez, Carlos Bardem, Denis Menochet, Khalid Abdalla, Brian Gleeson, Callum Turner, Ariane Labed, Hovik Keuchkerian, James Sobol Kelly, Michael K. Williams.</desc>
 	</programme>
   <programme start="20260317222900 +0100" stop="20260318000000 +0100" channel="DARK">
     <title>Apéndice</title>
@@ -8206,6 +8410,707 @@
 · País: Estados Unidos
 · Dirección: Adam Green.
 · Reparto: Parry Shen, Kane Hodder, Jonah Ray, Dave Sheridan, Laura Ortiz, Tiffany Shepis, Brian Quinn, Felissa Rose, Chase Williamson, Kelly Vrooman, Katie Booth, Blake Woodruff, Krystal Joy Brown.</desc>
+	</programme>
+  <programme start="20260319222000 +0100" stop="20260319222700 +0100" channel="DARK">
+    <title>Inside Sitges 2025: Dark Circus T1 E5 · Lobos de Arga</title>
+    <desc>Programa,Entretenimiento | 2026 | +18
+· La comedia licántropa de Juan Martínez Moreno regresó a Sitges como película invitada. Carlos Areces nos cuenta cómo fue reencontrarse con una de las obras más queridas del cine fantástico.
+· País: España</desc>
+	</programme>
+  <programme start="20260319222700 +0100" stop="20260320000000 +0100" channel="DARK">
+    <title>Viejos</title>
+    <desc>Cine,Terror | 2022 | +18 | *5.3/10
+· Mario traslada a su padre a vivir con su familia debido a la ola de calor, pero la actitud de este es agresiva y difícil. Sin embargo, no es el único anciano que se comporta así.
+· País: España
+· Dirección: Raúl Cerezo, Fernando González Gómez.
+· Reparto: Zorion Eguileor, Paula Gallego, Gustavo Salmerón, Irene Anula, Josele Román, Carmen Ibeas, Juan Acedo, José Torija, Ángela López Gamonal, María Victoria Paniagua, José Ramón Pardo, José Luis Rancaño, Manuel de Blas.</desc>
+	</programme>
+  <programme start="20260317223200 +0100" stop="20260317230400 +0100" channel="Canal Cocina">
+    <title>Productos artesanos T3 E12</title>
+    <desc>Documental,Viajes y aventuras,Otros | 2022 | TP
+· Desvelamos todos los secretos de la elaboración tradicional del Foie Grass Mi Cuit (Abejar, Soria), la Torta de pan (Alfacar, Granada) y la Mermelada de café (Las Palmas de Gran Canaria).
+· País: España</desc>
+	</programme>
+  <programme start="20260317230400 +0100" stop="20260317233600 +0100" channel="Canal Cocina">
+    <title>Los fogones tradicionales T30 E12</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En Sobradillo y San Felices de los Gallegos, descubrimos sabores locales como los Hartabellacos, unas Alubias canelas con panceta y chorizo, y un Guiso de gallo de corral criado en libertad.
+· País: España
+· Dirección: Eugenio Monesma.
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260317233600 +0100" stop="20260318000600 +0100" channel="Canal Cocina">
+    <title>Blanca cocina con Air Fryer T1 E1</title>
+    <desc>Programa,Cocina | 2025 | TP
+· Blanca prepara 3 recetas deliciosas en Air Fryer: Samosas de verduras asadas, Costillar de cerdo glaseado con crema de boniatos cajún y S’mores de hojaldre con chocolate caliente.
+· País: España</desc>
+	</programme>
+  <programme start="20260318000600 +0100" stop="20260318003600 +0100" channel="Canal Cocina">
+    <title>La Raya: entre España y Portugal T1 E8 · Mirando al Douro</title>
+    <desc>Documental,Otros | 2023 | TP
+· Separadas y unidas por el río, encontramos Fermoselle (Zamora) y Miranda Do Douro (distrito de Braganza). Nos espera la asociación cocineras Amfer y vistas del Duero, entre otras sorpresas.
+· País: España
+· Dirección: Pepe Marín.
+· Reparto: Aida Barbosa, Chus Castro, Silvia Crespo, Pepe Marín.</desc>
+	</programme>
+  <programme start="20260318003600 +0100" stop="20260318013600 +0100" channel="Canal Cocina">
+    <title>Me voy a comer el mundo T4 E11 · Polonia</title>
+    <desc>Series,Otros | 2022 | TP | *7.5/10
+· Verónica llega a Varsovia de la mano de Artur, un abogado polaco que le mostrará los pierogi, el plato por excelencia de Polonia. En este viaje, también conocerá a Dorota y la parte más deliciosa de Varsovia probando algunos dulces típicos de la ciudad. Vero también descubrirá el pasado comunista de Polonia y cómo su legado ha influido en su gastronomía. Antes de irse de Varsovia, Verónica probará el cebularz en casa de Sebastián, quien le preparará este tradicional plato con un pan elaborado por él mismo. Tras visitar Varsovia, Vero llega a Lublin junto con Katy, una profesora de español que le enseñará todos los secretos de esta encantadora ciudad.
+· País: España</desc>
+	</programme>
+  <programme start="20260318013600 +0100" stop="20260318020100 +0100" channel="Canal Cocina">
+    <title>Con vistas al mar T1 E12</title>
+    <desc>Documental,Otros | 2024 | TP
+· Hoy visitamos los restaurantes Rincón canario en Maspalomas (Gran Canaria), Asador D'Pepe en San Vicente do Mar (O'Grove, Pontevedra) y La Fontanilla en Conil de la frontera (Cádiz).
+· País: España</desc>
+	</programme>
+  <programme start="20260318020100 +0100" stop="20260318022700 +0100" channel="Canal Cocina">
+    <title>Gentes del mar T1 E3 · Boquerón</title>
+    <desc>Documental,Otros | 2025 | TP
+· Nos dirigimos a las aguas gaditanas para, con sus pescadores, conocer la tradición de la pesca del boquerón y su recorrido hasta la lonja, los mercados, la conservera... y las mesas.
+· País: España
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260318022700 +0100" stop="20260318025200 +0100" channel="Canal Cocina">
+    <title>Dulces con Alma T3 E12</title>
+    <desc>Programa,Cocina | 2023 | TP
+· En este episodio de Dulces con Alma, Alma Obregón elabora dos recetas: Pavlova de cacao, avellanas y fresas y Natillas de coco.
+· País: España
+· Reparto: Alma Obregón.</desc>
+	</programme>
+  <programme start="20260318025200 +0100" stop="20260318031700 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E1 · Andalucía I</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy, nos adentramos a la gastronomía andaluza. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Mazamorra cordobesa y Torta de Ubrique.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260318031700 +0100" stop="20260318033900 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E2 · Andalucía II</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy seguimos conociendo la gastronomía andaluza. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Urta a la roteña y Torta de aceite.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260318033900 +0100" stop="20260318040300 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E3 · Aragón</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy exploramos los sabores auténticos de la gastronomía aragonesa. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Regañao de Teruel y Españoletas.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260318040300 +0100" stop="20260318042800 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E4 · Asturias</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy exploramos las tradiciones culinarias de Asturias. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Marmita de bonito y Casadielles.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260318042800 +0100" stop="20260318045300 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E5 · Baleares</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy nos sumergimos en la rica herencia gastronómica de las Islas Baleares. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Oliaigua y Flaó ibicenco.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260318045300 +0100" stop="20260318051500 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E6 · Canarias</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy viajamos hasta las Canarias para conocer sus tradiciones gastronómicas. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Escaldón de gofio y Bienmesabe canario.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260318051500 +0100" stop="20260318053900 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E7 · Cantabria</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy nos adentramos en la gastronomía cántabra. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Rabas y Bocartes en salazón.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260318053900 +0100" stop="20260318060300 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E8 · Castilla-La Mancha I</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy recorremos los sabores de Castilla-La Mancha. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Nuégados y Torcíos.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260318060300 +0100" stop="20260318062700 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E9 · Castilla-La Mancha II</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy seguimos recorriendo los sabores de Castilla-La Mancha. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Montadito de lomo de orza y Palpartas.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260318062700 +0100" stop="20260318065000 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E10 · Castilla y León</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy nos acercamos a la riqueza gastronómica de Castilla y León. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Revuelto de morcilla y Bollo maimón.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260318065000 +0100" stop="20260318070000 +0100" channel="Canal Cocina">
+    <title>Canal Cocina Love Tacos T1 E1</title>
+    <desc>Programa,Cocina | 2023 | TP
+· Cuatro recetras con taco: Tacos de costilla a la barbacoa, Tacos de ostras y verduras crujientes, Tacos de patata y pollo con salsa picantita de verduras y Tacos de cerdo asado con alubia del Pilar.
+· País: España</desc>
+	</programme>
+  <programme start="20260318070000 +0100" stop="20260318073100 +0100" channel="Canal Cocina">
+    <title>Productos artesanos T3 E12</title>
+    <desc>Documental,Viajes y aventuras,Otros | 2022 | TP
+· Desvelamos todos los secretos de la elaboración tradicional del Foie Grass Mi Cuit (Abejar, Soria), la Torta de pan (Alfacar, Granada) y la Mermelada de café (Las Palmas de Gran Canaria).
+· País: España</desc>
+	</programme>
+  <programme start="20260318073100 +0100" stop="20260318080000 +0100" channel="Canal Cocina">
+    <title>Quique al cubo T2 E12</title>
+    <desc>Programa,Cocina | 2022 | TP
+· En esta ocasión, el programa Quique al cubo del cocinero Quique Barella elabora estas tres recetas: Bonito en escabeche, Tempura de verduras y algas con mahonesa de soja y Pollo al curry con leche de coco.
+· País: España
+· Reparto: Quique Barella.</desc>
+	</programme>
+  <programme start="20260318080000 +0100" stop="20260318083000 +0100" channel="Canal Cocina">
+    <title>El Camino de Santiago by Julius T2 E13 · Llanes</title>
+    <desc>Documental,Viajes y aventuras | 2022 | TP
+· De Sotres a Llanes con un queso en la mochila, Julius se encuentra con unas croquetas de cabrales, un "cachopo cantábrico.
+· País: España
+· Reparto: Julio Bienert, Julius Bienert.</desc>
+	</programme>
+  <programme start="20260318083000 +0100" stop="20260318090000 +0100" channel="Canal Cocina">
+    <title>Canal Cocina te pasa el delantal T1 E13</title>
+    <desc>Programa,Cocina | 2022 | TP
+· Hoy viajamos a Navarra (Tudela), donde Santi nos prepara unas Pochas de Tudela para chuparse los dedos. Luego acudimos a Salamanca donde Sara nos da la fantástica receta de su Salmón a la naranja.
+· País: España</desc>
+	</programme>
+  <programme start="20260318090000 +0100" stop="20260318093000 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T4 E13 · Cocina árabe</title>
+    <desc>Programa,Estilo de vida,Cocina | 2022 | TP
+· En la clase de hoy conoceremos los platos árabes más populares. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Sfeeha y Fatush árabe.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260318093000 +0100" stop="20260318100000 +0100" channel="Canal Cocina">
+    <title>Dulces con Alma T3 E13</title>
+    <desc>Programa,Cocina | 2023 | TP
+· En este episodio de Dulces con Alma, Alma Obregón elabora dos recetas: Charlota de café y nueces y Peanut butter pie.
+· País: España
+· Reparto: Alma Obregón.</desc>
+	</programme>
+  <programme start="20260318100000 +0100" stop="20260318103000 +0100" channel="Canal Cocina">
+    <title>Los fogones tradicionales T23 E13</title>
+    <desc>Programa,Estilo de vida,Cocina | 2022 | TP
+· En Alacón (Teruel), nos preparan en su Asociaicónd de Cazadores los Huevos rellenos y fritos, el Conejo con encurtidos y los Caracoles amorraus.
+· País: España
+· Dirección: Eugenio Monesma.
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260318103000 +0100" stop="20260318110000 +0100" channel="Canal Cocina">
+    <title>Quique al cubo T3 E13</title>
+    <desc>Programa,Cocina | 2022 | TP
+· En este episodio de Quique al cubo Quique Barella elabora tres recetas: Ossobuco, Carpaccio de higos con sardina ahumada y edamame y Tosta de escalivada y anchoas con alioli.
+· País: España
+· Reparto: Quique Barella.</desc>
+	</programme>
+  <programme start="20260318110000 +0100" stop="20260318113200 +0100" channel="Canal Cocina">
+    <title>Menús de pescado en 22 minutos T1 E13</title>
+    <desc>Programa,Cocina | 2025 | TP
+· Julius prepara dos recetas cuyo ingrediente protagonista es el pescado: Empanadillas de atún y Cuscús marinero con salmonetes fritos.
+· País: España</desc>
+	</programme>
+  <programme start="20260318113200 +0100" stop="20260318120100 +0100" channel="Canal Cocina">
+    <title>Cocina italiana con Matteo de Filippo T1 E13</title>
+    <desc>Programa,Cocina | 2017 | TP
+· Con Matteo de Filippo aprenderemos secretos y recetas de la auténtica cocina italiana. Matteo de Filippo prepara Pasta vogole y Tarta de chocolate.
+· País: España
+· Reparto: Matteo de Filippo.</desc>
+	</programme>
+  <programme start="20260318120100 +0100" stop="20260318123100 +0100" channel="Canal Cocina">
+    <title>Blanca cocina con Air Fryer T1 E2</title>
+    <desc>Programa,Cocina | 2025 | TP
+· Blanca prepara 3 recetas deliciosas en Air Fryer: alitas de pollo caramelizadas y cortezas de maíz con cilantro, guindilla y lima, milanesa de berenjena 3 quesos con ensalada de canónigos, y crumble de manzana especiada en Air Fryer.
+· País: España</desc>
+	</programme>
+  <programme start="20260318123100 +0100" stop="20260318130100 +0100" channel="Canal Cocina">
+    <title>Con vistas al mar T1 E13</title>
+    <desc>Documental,Otros | 2024 | TP
+· Hoy visitamos los restaurantes Es códol foradat en Formentera, el restaurante Casa Jaime en Peñíscola (Castellón) y el Maruxa Marisqueíra en Raxó (Pontevedra).
+· País: España</desc>
+	</programme>
+  <programme start="20260318130100 +0100" stop="20260318133400 +0100" channel="Canal Cocina">
+    <title>Los fogones tradicionales T27 E13</title>
+    <desc>Programa,Estilo de vida,Cocina | 2024 | TP
+· Regresamos a la localidad zaragozana de Maella para disfrutar de una muestra de su suculenta gastronomía: Cardo a la maellana, Caracoles con salsa de tomate y Coca de huevo.
+· País: España
+· Dirección: Eugenio Monesma.
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260318133400 +0100" stop="20260318140600 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T6 E13 · Básicos para tener siempre en el congelador</title>
+    <desc>Programa,Estilo de vida,Cocina | 2024 | TP
+· Hoy llenaremos el congelador con básicos para futuras recetas. Además, Sergio elabora dos recetas para ejemplificar lo aprendido: Pizza dulce y Alcachofas con almejas.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260318140600 +0100" stop="20260318143800 +0100" channel="Canal Cocina">
+    <title>Devuélveme los tápers T1 E13</title>
+    <desc>Programa,Estilo de vida | 2024 | TP
+· En Cantabria, Pilar preparar tápers de maganos de guadañeta. Después, Viviana hace un 'mar y montaña' y prepara como táper principal unas verdinas con langostinos.
+· País: España
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260318143800 +0100" stop="20260318151000 +0100" channel="Canal Cocina">
+    <title>Julius invita en 22 minutos T4 E13</title>
+    <desc>Programa,Cocina | 2023 | TP
+· Julius prepara dos recetas para triunfar con nuestros invitados: Caldo gallego con lacón, ternera y habas y Paquetitos crujientes de queso de cabra y membrillo.
+· País: España
+· Reparto: Julio Bienert.</desc>
+	</programme>
+  <programme start="20260318151000 +0100" stop="20260318154100 +0100" channel="Canal Cocina">
+    <title>Productos artesanos T3 E13</title>
+    <desc>Documental,Viajes y aventuras,Otros | 2022 | TP
+· Desvelamos todos los secretos de la elaboración tradicional del Regañao (Teruel), las Anchoas de Guetaria (Guetaria, Gipuzkoa) y la Tarta Fusión (Valencia).
+· País: España</desc>
+	</programme>
+  <programme start="20260318154100 +0100" stop="20260318161300 +0100" channel="Canal Cocina">
+    <title>Los mejores postres del mundo T1 E13</title>
+    <desc>Programa,Cocina | 2019 | TP
+· Andrea Dopico elabora Medovik y Canoli.
+· País: España
+· Reparto: Andrea Dopico.</desc>
+	</programme>
+  <programme start="20260318161300 +0100" stop="20260318164400 +0100" channel="Canal Cocina">
+    <title>La Raya: entre España y Portugal T1 E9 · Española y portuguesa</title>
+    <desc>Documental,Otros | 2023 | TP
+· Hoy viajamos a Olivenza, donde probamos la técula mécula. En Juromenha cocinan peixe do rio. Otras curiosidades son el escarapuche o la Confraría de la sopa de tomate.
+· País: España
+· Dirección: Pepe Marín.
+· Reparto: Aida Barbosa, Chus Castro, Silvia Crespo, Pepe Marín.</desc>
+	</programme>
+  <programme start="20260318164400 +0100" stop="20260318171400 +0100" channel="Canal Cocina">
+    <title>Comer en carretera T1 E13</title>
+    <desc>Documental,Viajes y aventuras | 2022 | TP
+· Paramos en Los Cucharones en La Rioja, por Despeñaperro nos detenemos en el mítico Casa Pepe y, cerca de La Coruña, encontramos la parrillada Barral para los amantes de las carnes.
+· País: España
+· Dirección: Pepe Marín.
+· Reparto: Pepe Marín.</desc>
+	</programme>
+  <programme start="20260318171400 +0100" stop="20260318174600 +0100" channel="Canal Cocina">
+    <title>Los fogones tradicionales T26 E13</title>
+    <desc>Programa,Estilo de vida,Cocina | 2023 | TP
+· De nuevo en el pueblo turulense de Martín del Río, aprendemos tres recetas que han recuperado sus vecinos: Codillo asado, Bolas de sangre dulces y Mostillo de miel.
+· País: España
+· Dirección: Eugenio Monesma.
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260318174600 +0100" stop="20260318181900 +0100" channel="Canal Cocina">
+    <title>Canal Cocina te pasa el delantal T1 E13</title>
+    <desc>Programa,Cocina | 2022 | TP
+· Hoy viajamos a Navarra (Tudela), donde Santi nos prepara unas Pochas de Tudela para chuparse los dedos. Luego acudimos a Salamanca donde Sara nos da la fantástica receta de su Salmón a la naranja.
+· País: España</desc>
+	</programme>
+  <programme start="20260318181900 +0100" stop="20260318185100 +0100" channel="Canal Cocina">
+    <title>El Camino de Santiago by Julius T2 E13 · Llanes</title>
+    <desc>Documental,Viajes y aventuras | 2022 | TP
+· De Sotres a Llanes con un queso en la mochila, Julius se encuentra con unas croquetas de cabrales, un "cachopo cantábrico.
+· País: España
+· Reparto: Julio Bienert, Julius Bienert.</desc>
+	</programme>
+  <programme start="20260318185100 +0100" stop="20260318192100 +0100" channel="Canal Cocina">
+    <title>Nos gusta el pescado T1 E1</title>
+    <desc>Programa,Cocina | 2025 | TP
+· En este programa, Blanca Mayandía elabora Su sopa de marisco con pan de ajo y Quique Barella cocina Caballa en medio salazón con alcachofas y su crujiente.
+· País: España
+· Reparto: Blanca Mayandía, Quique Barella.</desc>
+	</programme>
+  <programme start="20260318192100 +0100" stop="20260318195200 +0100" channel="Canal Cocina">
+    <title>Productos artesanos T3 E13</title>
+    <desc>Documental,Viajes y aventuras,Otros | 2022 | TP
+· Desvelamos todos los secretos de la elaboración tradicional del Regañao (Teruel), las Anchoas de Guetaria (Guetaria, Gipuzkoa) y la Tarta Fusión (Valencia).
+· País: España</desc>
+	</programme>
+  <programme start="20260318195200 +0100" stop="20260318202300 +0100" channel="Canal Cocina">
+    <title>La Raya: entre España y Portugal T1 E9 · Española y portuguesa</title>
+    <desc>Documental,Otros | 2023 | TP
+· Hoy viajamos a Olivenza, donde probamos la técula mécula. En Juromenha cocinan peixe do rio. Otras curiosidades son el escarapuche o la Confraría de la sopa de tomate.
+· País: España
+· Dirección: Pepe Marín.
+· Reparto: Aida Barbosa, Chus Castro, Silvia Crespo, Pepe Marín.</desc>
+	</programme>
+  <programme start="20260318202300 +0100" stop="20260318205300 +0100" channel="Canal Cocina">
+    <title>Blanca cocina con Air Fryer T1 E2</title>
+    <desc>Programa,Cocina | 2025 | TP
+· Blanca prepara 3 recetas deliciosas en Air Fryer: alitas de pollo caramelizadas y cortezas de maíz con cilantro, guindilla y lima, milanesa de berenjena 3 quesos con ensalada de canónigos, y crumble de manzana especiada en Air Fryer.
+· País: España</desc>
+	</programme>
+  <programme start="20260318205300 +0100" stop="20260318212600 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T5 E13 · El banquete</title>
+    <desc>Programa,Estilo de vida,Cocina | 2023 | TP
+· En la clase de hoy elaboramos platos para comidas con grandes comensales. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Brazo de patata y Arroz con leche exótico.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260318212600 +0100" stop="20260318215600 +0100" channel="Canal Cocina">
+    <title>Quique al cubo T2 E13</title>
+    <desc>Programa,Cocina | 2022 | TP
+· En este episodio de Quique al cubo, el cocinero presentador Quique Barella elabora estas tres recetas: Alcachofas a la navarra, Lasaña de calabacín con jamón, espinacas y queso gorgonzola y Burguer de sepia con alioli de tinta y cebolla caramelizada.
+· País: España
+· Reparto: Quique Barella.</desc>
+	</programme>
+  <programme start="20260318215600 +0100" stop="20260318222800 +0100" channel="Canal Cocina">
+    <title>Julius invita en 22 minutos T4 E13</title>
+    <desc>Programa,Cocina | 2023 | TP
+· Julius prepara dos recetas para triunfar con nuestros invitados: Caldo gallego con lacón, ternera y habas y Paquetitos crujientes de queso de cabra y membrillo.
+· País: España
+· Reparto: Julio Bienert.</desc>
+	</programme>
+  <programme start="20260318222800 +0100" stop="20260318225900 +0100" channel="Canal Cocina">
+    <title>Productos artesanos T3 E13</title>
+    <desc>Documental,Viajes y aventuras,Otros | 2022 | TP
+· Desvelamos todos los secretos de la elaboración tradicional del Regañao (Teruel), las Anchoas de Guetaria (Guetaria, Gipuzkoa) y la Tarta Fusión (Valencia).
+· País: España</desc>
+	</programme>
+  <programme start="20260318225900 +0100" stop="20260318233200 +0100" channel="Canal Cocina">
+    <title>Los fogones tradicionales T30 E13</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· San Xoan de Río nos muestra su recetario tradicional con Caldo gallego, Castañas con setas, Conejo con castañas y Filloas de sangre, elaboradas en Casa Sotelo.
+· País: España
+· Dirección: Eugenio Monesma.
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260318233200 +0100" stop="20260319000200 +0100" channel="Canal Cocina">
+    <title>Blanca cocina con Air Fryer T1 E2</title>
+    <desc>Programa,Cocina | 2025 | TP
+· Blanca prepara 3 recetas deliciosas en Air Fryer: alitas de pollo caramelizadas y cortezas de maíz con cilantro, guindilla y lima, milanesa de berenjena 3 quesos con ensalada de canónigos, y crumble de manzana especiada en Air Fryer.
+· País: España</desc>
+	</programme>
+  <programme start="20260319000200 +0100" stop="20260319003300 +0100" channel="Canal Cocina">
+    <title>La Raya: entre España y Portugal T1 E9 · Española y portuguesa</title>
+    <desc>Documental,Otros | 2023 | TP
+· Hoy viajamos a Olivenza, donde probamos la técula mécula. En Juromenha cocinan peixe do rio. Otras curiosidades son el escarapuche o la Confraría de la sopa de tomate.
+· País: España
+· Dirección: Pepe Marín.
+· Reparto: Aida Barbosa, Chus Castro, Silvia Crespo, Pepe Marín.</desc>
+	</programme>
+  <programme start="20260319003300 +0100" stop="20260319013200 +0100" channel="Canal Cocina">
+    <title>Me voy a comer el mundo T4 E12 · Sevilla</title>
+    <desc>Series,Otros | 2022 | TP | *7.5/10
+· El periodista Carlos Herrera será el anfitrión de Verónica en Sevilla. El famoso comunicador llevará a Vero por sus bares de tapas favoritos de la cuidad y cocinará en su propia casa uno de sus guisos estrella. Verónica visitará algunos de los rincones gastronómicos más emblemáticos y secretos de la ciudad y disfrutará del atardecer y la noche junto al Guadalquivir. Tras visitar Sevilla, Verónica llegará a Carmona, un pequeño pueblo cuya gastronomía la dejará sin palabras.
+· País: España</desc>
+	</programme>
+  <programme start="20260319013200 +0100" stop="20260319015700 +0100" channel="Canal Cocina">
+    <title>Con vistas al mar T1 E13</title>
+    <desc>Documental,Otros | 2024 | TP
+· Hoy visitamos los restaurantes Es códol foradat en Formentera, el restaurante Casa Jaime en Peñíscola (Castellón) y el Maruxa Marisqueíra en Raxó (Pontevedra).
+· País: España</desc>
+	</programme>
+  <programme start="20260319015700 +0100" stop="20260319022100 +0100" channel="Canal Cocina">
+    <title>Nos gusta el pescado T1 E1</title>
+    <desc>Programa,Cocina | 2025 | TP
+· En este programa, Blanca Mayandía elabora Su sopa de marisco con pan de ajo y Quique Barella cocina Caballa en medio salazón con alcachofas y su crujiente.
+· País: España
+· Reparto: Blanca Mayandía, Quique Barella.</desc>
+	</programme>
+  <programme start="20260319022100 +0100" stop="20260319024800 +0100" channel="Canal Cocina">
+    <title>Dulces con Alma T3 E13</title>
+    <desc>Programa,Cocina | 2023 | TP
+· En este episodio de Dulces con Alma, Alma Obregón elabora dos recetas: Charlota de café y nueces y Peanut butter pie.
+· País: España
+· Reparto: Alma Obregón.</desc>
+	</programme>
+  <programme start="20260319024800 +0100" stop="20260319031100 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E11 · Cataluña</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy nos dejamos conquistar por la cocina catalana. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Calçots con romesco y Carquiñolis de avellana.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260319031100 +0100" stop="20260319033300 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E12 · Extremadura</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy nos adentramos a la gastronomía extremeña. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Cojondongo y Perrunillas.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260319033300 +0100" stop="20260319035600 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E13 · Galicia I</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy recorremos los sabores de Galicia. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Bica gallega y Queimada.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260319035600 +0100" stop="20260319041900 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E14 · Galicia II</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy seguimos conociendo la gastronomía gallega. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Tortilla de Betanzos y Melindres.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260319041900 +0100" stop="20260319044400 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E15 · Madrid</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy exploramos los platos más castizos de la capital. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Soldaditos de Pavía y Barquillos.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260319044400 +0100" stop="20260319050900 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E16 · Murcia</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy nos sumergimos en la rica herencia gastronómica de la Región de Murcia. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Ensaladilla marinera y Paparajotes.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260319050900 +0100" stop="20260319053400 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E17 · Navarra</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy viajamos hasta las Navarra para conocer sus tradiciones gastronómicas. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Talos con chistorra y Canutillos rellenos de crema.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260319053400 +0100" stop="20260319060000 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E18 · País Vasco I</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy nos adentramos en la gastronomía vasca. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Goxúa e Intxaursalsa.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260319060000 +0100" stop="20260319062300 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E19 · País Vasco II</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy seguimos conociendo la gastronomía vasca. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Torta de San Blas y Pastel de arroz.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260319062300 +0100" stop="20260319064900 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T7 E20 · La Rioja</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· En la clase de hoy viajamos hasta La Rioja para conocer sus tradiciones gastronómicas. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Huevos a la riojana y Fardelejos.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260319064900 +0100" stop="20260319070200 +0100" channel="Canal Cocina">
+    <title>Canal Cocina Love Tacos T1 E2</title>
+    <desc>Programa,Cocina | 2023 | TP
+· Cuatro recetas con tacos: Tacos dorados de tinga de pollo, Taco de lomo con pimientos y quinoa con verduras, Tacos dulces de manzana y crema de arroz y Tacos baja California con salmón marinado.
+· País: España</desc>
+	</programme>
+  <programme start="20260319070200 +0100" stop="20260319073300 +0100" channel="Canal Cocina">
+    <title>Productos artesanos T3 E13</title>
+    <desc>Documental,Viajes y aventuras,Otros | 2022 | TP
+· Desvelamos todos los secretos de la elaboración tradicional del Regañao (Teruel), las Anchoas de Guetaria (Guetaria, Gipuzkoa) y la Tarta Fusión (Valencia).
+· País: España</desc>
+	</programme>
+  <programme start="20260319073300 +0100" stop="20260319080000 +0100" channel="Canal Cocina">
+    <title>Quique al cubo T2 E13</title>
+    <desc>Programa,Cocina | 2022 | TP
+· En este episodio de Quique al cubo, el cocinero presentador Quique Barella elabora estas tres recetas: Alcachofas a la navarra, Lasaña de calabacín con jamón, espinacas y queso gorgonzola y Burguer de sepia con alioli de tinta y cebolla caramelizada.
+· País: España
+· Reparto: Quique Barella.</desc>
+	</programme>
+  <programme start="20260319080000 +0100" stop="20260319083000 +0100" channel="Canal Cocina">
+    <title>El Camino de Santiago by Julius T2 E14 · Ribadesella</title>
+    <desc>Documental,Viajes y aventuras | 2022 | TP
+· De Llanes a Ribadesella, Julius va recogiendo toda una tradición: pulpo con patatinas, la borona, una fabada asturiana de La Tila, completando la jornada con una tarta de arroz con leche y Manzana.
+· País: España
+· Reparto: Julio Bienert, Julius Bienert.</desc>
+	</programme>
+  <programme start="20260319083000 +0100" stop="20260319090000 +0100" channel="Canal Cocina">
+    <title>Canal Cocina te pasa el delantal T1 E14</title>
+    <desc>Programa,Cocina | 2022 | TP
+· Hoy nos trasladamos a La Rioja donde Esperanza nos prepara su plato de Huevos Alfaro. Después bajamos al sur de España y en Cádiz Merche nos prepara unos Fideos con caballa y hierbabuena.
+· País: España</desc>
+	</programme>
+  <programme start="20260319090000 +0100" stop="20260319093000 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T4 E14 · Cocina americana 2</title>
+    <desc>Programa,Estilo de vida,Cocina | 2022 | TP
+· En la clase de hoy, aprenderemos a cocinar los platos más populares con pollo y los típicos desayunos americanos. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Waffles y Peanut butter pie.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260319093000 +0100" stop="20260319100000 +0100" channel="Canal Cocina">
+    <title>Dulces con Alma T3 E14</title>
+    <desc>Programa,Cocina | 2023 | TP
+· En este episodio de Dulces con Alma, Alma Obregón elabora dos recetas: Profiteroles con crema de chocolate y Palmeras rellenas y variadas.
+· País: España
+· Reparto: Alma Obregón.</desc>
+	</programme>
+  <programme start="20260319100000 +0100" stop="20260319103000 +0100" channel="Canal Cocina">
+    <title>Los fogones tradicionales T23 E14</title>
+    <desc>Programa,Estilo de vida,Cocina | 2022 | TP
+· Regresamos a la localidad turolense de Alacón donde nos preparan Galletas rellenas y fritas, Tortilla de arroz y Alubias con oreja y morro, recetas recogidas del saber popular.
+· País: España
+· Dirección: Eugenio Monesma.
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260319103000 +0100" stop="20260319110000 +0100" channel="Canal Cocina">
+    <title>Quique al cubo T3 E14</title>
+    <desc>Programa,Cocina | 2022 | TP
+· En este episodio de Quique al cubo Quique Barella elabora tres recetas: Alubias con chorizo y repollo salteado, Morcilla de calamar con sopa de cebolla (trampantojo), Boquerones al limón a la malagueña.
+· País: España
+· Reparto: Quique Barella.</desc>
+	</programme>
+  <programme start="20260319110000 +0100" stop="20260319113100 +0100" channel="Canal Cocina">
+    <title>Menús de pescado en 22 minutos T1 E14</title>
+    <desc>Programa,Cocina | 2025 | TP
+· Julius prepara dos recetas cuyo ingrediente protagonista es el pescado: Aguacates rellenos de gambón y Marmitako de atún.
+· País: España</desc>
+	</programme>
+  <programme start="20260319113100 +0100" stop="20260319120100 +0100" channel="Canal Cocina">
+    <title>Cocina italiana con Matteo de Filippo T1 E14</title>
+    <desc>Programa,Cocina | 2017 | TP
+· Con Matteo de Filippo aprenderemos secretos y recetas de la auténtica cocina italiana. Matteo de Filippo prepara Pasta con papada de cerdo y queso picorino e Involtori a la verza.
+· País: España
+· Reparto: Matteo de Filippo.</desc>
+	</programme>
+  <programme start="20260319120100 +0100" stop="20260319123000 +0100" channel="Canal Cocina">
+    <title>Blanca cocina con Air Fryer T1 E3</title>
+    <desc>Programa,Cocina | 2025 | TP
+· Blanca prepara 3 recetas deliciosas en Air Fryer: Sopa asiática con setas y fideos, salmón en papel de arroz con chips de kale al ajillo, y scones con mermelada de frutos rojos asados.
+· País: España</desc>
+	</programme>
+  <programme start="20260319123000 +0100" stop="20260319130200 +0100" channel="Canal Cocina">
+    <title>Con vistas al mar T1 E14</title>
+    <desc>Documental,Otros | 2024 | TP
+· Hoy visitamos los restaurantes L'Arrosseria en Cunit (Tarragona), el Restaurante Peñón CQ en Soto de la Marina (Cantabria) y Taberna del Náutico en Sansenxo (Pontevedra).
+· País: España</desc>
+	</programme>
+  <programme start="20260319130200 +0100" stop="20260319133500 +0100" channel="Canal Cocina">
+    <title>Los fogones tradicionales T27 E14</title>
+    <desc>Programa,Estilo de vida,Cocina | 2024 | TP
+· Villar de la Encina es un pequeño pueblo perteneciente a La Mancha conquense, Dolores, Reme, Rus, Julia y Amelia nos preparan Sopa de ajo o sopa castellana, Gazpacho manchego y Rollo de fideos.
+· País: España
+· Dirección: Eugenio Monesma.
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260319133500 +0100" stop="20260319140700 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T6 E14 · Las recetas de la Marquesa de Parabere 2</title>
+    <desc>Programa,Estilo de vida,Cocina | 2024 | TP
+· En la clase de hoy rescatamos las recetas de la Marquesa de Parabere. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Croquetas de salmón a la indiana y Kristechas.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260319140700 +0100" stop="20260319144000 +0100" channel="Canal Cocina">
+    <title>Devuélveme los tápers T1 E14</title>
+    <desc>Programa,Estilo de vida | 2024 | TP
+· En Ourense, Javier prepara para sus hermano tápers variados: lasaña de atún, cocido gallego, pimientos de Padrón... En Madrid, Merche cocina para su madre y su hijo judías blancas con verduras.
+· País: España
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260319144000 +0100" stop="20260319151100 +0100" channel="Canal Cocina">
+    <title>Julius invita en 22 minutos T4 E14</title>
+    <desc>Programa,Cocina | 2023 | TP
+· Julius prepara dos recetas para triunfar con nuestros invitados: Salmón a la sal con verduras con vinagreta tailandesa y Compota de manzana con crema inglesa.
+· País: España
+· Reparto: Julio Bienert.</desc>
+	</programme>
+  <programme start="20260319151100 +0100" stop="20260319154300 +0100" channel="Canal Cocina">
+    <title>Productos artesanos T3 E14</title>
+    <desc>Documental,Viajes y aventuras,Otros | 2022 | TP
+· Desvelamos todos los secretos de la elaboración tradicional de la Crema de yogur (Manzanares El Real, Madrid), la Tortilla del Zabaleta (San Sebastián, Gipuzkoa) y los Bombones de mojama (Barbate, Cádiz).
+· País: España</desc>
+	</programme>
+  <programme start="20260319154300 +0100" stop="20260319161600 +0100" channel="Canal Cocina">
+    <title>Los mejores postres del mundo T1 E14</title>
+    <desc>Programa,Cocina | 2019 | TP
+· Andrea Dopico elabora Tiramisú y Pudding de toffee.
+· País: España
+· Reparto: Andrea Dopico.</desc>
+	</programme>
+  <programme start="20260319161600 +0100" stop="20260319164400 +0100" channel="Canal Cocina">
+    <title>Destino México T1 E3 · Cholula</title>
+    <desc>Documental,Viajes y aventuras | 2025 | TP
+· En Cholula recorremos las fonditas del zócalo, llegamos a la gran pirámide y, junto a ella, saboreamos las cholulteca en La Lunita para, después, probar las creaciones del chef Eduardo Luna.
+· País: España
+· Reparto: Varios int, Eduardo Luna.</desc>
+	</programme>
+  <programme start="20260319164400 +0100" stop="20260319171500 +0100" channel="Canal Cocina">
+    <title>Comer en carretera T1 E14</title>
+    <desc>Documental,Viajes y aventuras | 2022 | TP
+· Hoy paramos en el restaurante Juan Simón (Navarra), todo a fuego lento; en la Venta el Frenazo (Cádiz), tremendos desayunos; y en Bar Casino (Asturias), famosos bocadillos .
+· País: España
+· Dirección: Pepe Marín.
+· Reparto: Pepe Marín.</desc>
+	</programme>
+  <programme start="20260319171500 +0100" stop="20260319174800 +0100" channel="Canal Cocina">
+    <title>Los fogones tradicionales T25 E14</title>
+    <desc>Programa,Estilo de vida,Cocina | 2023 | TP
+· Volvemos por tercera vez al pueblo turulense de Martín del Río con tres reportajes: Conserva con patata y arroz, Guiso de la vaca en bocadillo, Tortas fritas y pan con vino y azúcar.
+· País: España
+· Dirección: Eugenio Monesma.
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260319174800 +0100" stop="20260319182100 +0100" channel="Canal Cocina">
+    <title>Canal Cocina te pasa el delantal T1 E14</title>
+    <desc>Programa,Cocina | 2022 | TP
+· Hoy nos trasladamos a La Rioja donde Esperanza nos prepara su plato de Huevos Alfaro. Después bajamos al sur de España y en Cádiz Merche nos prepara unos Fideos con caballa y hierbabuena.
+· País: España</desc>
+	</programme>
+  <programme start="20260319182100 +0100" stop="20260319185200 +0100" channel="Canal Cocina">
+    <title>El Camino de Santiago by Julius T2 E14 · Ribadesella</title>
+    <desc>Documental,Viajes y aventuras | 2022 | TP
+· De Llanes a Ribadesella, Julius va recogiendo toda una tradición: pulpo con patatinas, la borona, una fabada asturiana de La Tila, completando la jornada con una tarta de arroz con leche y Manzana.
+· País: España
+· Reparto: Julio Bienert, Julius Bienert.</desc>
+	</programme>
+  <programme start="20260319185200 +0100" stop="20260319192700 +0100" channel="Canal Cocina">
+    <title>Nos gusta el pescado T1 E2</title>
+    <desc>Programa,Cocina | 2025 | TP
+· En este programa, Loleta elabora Salmón marinado con remolacha y Urrechu prepara Filetes de mero rebozados con salsa de curry.
+· País: España
+· Reparto: Loleta Bernabé, Íñigo Urrechu.</desc>
+	</programme>
+  <programme start="20260319192700 +0100" stop="20260319195900 +0100" channel="Canal Cocina">
+    <title>Productos artesanos T3 E14</title>
+    <desc>Documental,Viajes y aventuras,Otros | 2022 | TP
+· Desvelamos todos los secretos de la elaboración tradicional de la Crema de yogur (Manzanares El Real, Madrid), la Tortilla del Zabaleta (San Sebastián, Gipuzkoa) y los Bombones de mojama (Barbate, Cádiz).
+· País: España</desc>
+	</programme>
+  <programme start="20260319195900 +0100" stop="20260319202700 +0100" channel="Canal Cocina">
+    <title>Destino México T1 E3 · Cholula</title>
+    <desc>Documental,Viajes y aventuras | 2025 | TP
+· En Cholula recorremos las fonditas del zócalo, llegamos a la gran pirámide y, junto a ella, saboreamos las cholulteca en La Lunita para, después, probar las creaciones del chef Eduardo Luna.
+· País: España
+· Reparto: Varios int, Eduardo Luna.</desc>
+	</programme>
+  <programme start="20260319202700 +0100" stop="20260319205700 +0100" channel="Canal Cocina">
+    <title>Blanca cocina con Air Fryer T1 E3</title>
+    <desc>Programa,Cocina | 2025 | TP
+· Blanca prepara 3 recetas deliciosas en Air Fryer: Sopa asiática con setas y fideos, salmón en papel de arroz con chips de kale al ajillo, y scones con mermelada de frutos rojos asados.
+· País: España</desc>
+	</programme>
+  <programme start="20260319205700 +0100" stop="20260319212900 +0100" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T5 E14 · Nuestras amigas las coles</title>
+    <desc>Programa,Estilo de vida,Cocina | 2023 | TP
+· En la clase de hoy aprenderemos a elaborar recetas exquisitas con coles y otras verduras menos populares. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Lasaña de repollo y Coles de Bruselas con calabaza, arándanos y nueces.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260319212900 +0100" stop="20260319220000 +0100" channel="Canal Cocina">
+    <title>Quique al cubo T2 E14</title>
+    <desc>Programa,Cocina | 2022 | TP
+· Quique elabora estas recetas: Garbanzos con langostinos, Hamburguesa de buey con queso halloumi a la plancha, rúcula y mermelada de pimiento y Chuletitas de cordero lechal empanadas con chutney.
+· País: España
+· Reparto: Quique Barella.</desc>
+	</programme>
+  <programme start="20260319220000 +0100" stop="20260319222900 +0100" channel="Canal Cocina">
+    <title>Productos españoles T1 E3 · Jamón ibérico</title>
+    <desc>Documental,Otros | 2026 | TP
+· Un viaje al corazón del jamón ibérico español, desde la dehesa, un ecosistema único en Europa, hasta la mesa.
+· País: España
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260319222900 +0100" stop="20260319230000 +0100" channel="Canal Cocina">
+    <title>Julius invita en 22 minutos T4 E14</title>
+    <desc>Programa,Cocina | 2023 | TP
+· Julius prepara dos recetas para triunfar con nuestros invitados: Salmón a la sal con verduras con vinagreta tailandesa y Compota de manzana con crema inglesa.
+· País: España
+· Reparto: Julio Bienert.</desc>
+	</programme>
+  <programme start="20260319230000 +0100" stop="20260319233300 +0100" channel="Canal Cocina">
+    <title>Los fogones tradicionales T30 E14</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· De Galicia a la Raya con Portugal, descubrimos Merluza a la gallega en San Xoan de Río y, en San Felices de los Gallegos, nos deleitan con Chicharros escabechados y Tarta de almendra.
+· País: España
+· Dirección: Eugenio Monesma.
+· Reparto: Varios int.</desc>
 	</programme>
   <programme start="20260317203000 +0100" stop="20260318000000 +0100" channel="Tennis Channel">
     <title>WTA Miami Open T2026 E1 · Fourth Round</title>
@@ -8936,10 +9841,6 @@
     <title>Redifusión Directo Feria de Fallas. (19/03/2026)</title>
     <desc>... sin detalles</desc>
 	</programme>
-  <programme start="20260317204000 +0100" stop="20260317230000 +0100" channel="ESPN">
-    <title>Manchester City vs. Real Madrid · UEFA Champions League</title>
-    <desc>· Desde el Etihad Stadium ubicado en la ciudad de Mánchester, Inglaterra, se enfrentan los equipos Manchester City Football Club versus Real Madrid Club de Fútbol.</desc>
-	</programme>
   <programme start="20260317230000 +0100" stop="20260318000000 +0100" channel="ESPN">
     <title>SportsCenter</title>
     <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
@@ -9108,9 +10009,9 @@
     <title>Equipo F Centroamérica</title>
     <desc>· Sin detalles...</desc>
 	</programme>
-  <programme start="20260317204000 +0100" stop="20260317230000 +0100" channel="ESPN 2">
-    <title>Chelsea vs. Paris Saint-Germain · UEFA Champions League</title>
-    <desc>· Sin detalles...</desc>
+  <programme start="20260319230000 +0100" stop="20260319235000 +0100" channel="ESPN">
+    <title>SportsCenter</title>
+    <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
 	</programme>
   <programme start="20260317230000 +0100" stop="20260318000000 +0100" channel="ESPN 2">
     <title>Equipo F Centroamérica</title>
@@ -9248,10 +10149,6 @@
     <title>ATP World Tour Masters 1000 - Miami Open · First Round, Hard Rock Stadium, Miami, FL, USA</title>
     <desc>· Sin detalles...</desc>
 	</programme>
-  <programme start="20260317220000 +0100" stop="20260317230000 +0100" channel="ESPN 4">
-    <title>Equipo F Costa Rica</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
   <programme start="20260317230000 +0100" stop="20260318010000 +0100" channel="ESPN 4">
     <title>Fórmula 1 · Gran Premio de China, Circuito Internacional de Shanghái</title>
     <desc>· Sin detalles...</desc>
@@ -9375,11 +10272,6 @@
   <programme start="20260319220000 +0100" stop="20260320000000 +0100" channel="ESPN 4">
     <title>6 Nations Rugby Tournament · Gales vs. Italia, Fecha 5, Principality Stadium</title>
     <desc>· Sin detalles...</desc>
-	</programme>
-  <programme start="20260317200000 +0000" stop="20260317220000 +0000" channel="PT | DAZN 1">
-    <title>Man City x Real Madrid T1 · Man City x Real Madrid - Oitavos-De-Final 2ª Mão</title>
-    <desc>Futebol,Desporto | 2026 | +12
-· Os melhores jogos da UEFA Champions League para veres aqui, na DAZN.</desc>
 	</programme>
   <programme start="20260317220000 +0000" stop="20260317230000 +0000" channel="PT | DAZN 1">
     <title>Champions Matchday T1 E50</title>
@@ -9595,10 +10487,10 @@
     <desc>Futebol,Desporto | 2026 | +12
 · Os melhores jogos da UEFA Europa League para veres aqui, na DAZN.</desc>
 	</programme>
-  <programme start="20260317200000 +0000" stop="20260317220000 +0000" channel="PT | DAZN 2">
-    <title>Chelsea x PSG T1 · Chelsea x PSG - Oitavos-De-Final 2ª Mão</title>
+  <programme start="20260319220000 +0000" stop="20260319223000 +0000" channel="PT | DAZN 1">
+    <title>Europa Matchday T1 E37</title>
     <desc>Futebol,Desporto | 2026 | +12
-· Os melhores jogos da UEFA Champions League para veres aqui, na DAZN.</desc>
+· Acompanha tudo sobre a UEFA Europa League e UEFA Conference League.</desc>
 	</programme>
   <programme start="20260317220000 +0000" stop="20260318000000 +0000" channel="PT | DAZN 2">
     <title>Crystal Palace x Leeds: Premier League T1 · Crystal Palace x Leeds</title>
@@ -9773,10 +10665,11 @@
     <desc>Futebol,Desporto | 2026 | +12
 · Os melhores jogos da UEFA Europa League para veres aqui, na DAZN.</desc>
 	</programme>
-  <programme start="20260317200000 +0000" stop="20260317220000 +0000" channel="PT | DAZN 3">
-    <title>Arsenal x Leverkusen T1 · Arsenal x Leverkusen - Oitavos-De-Final 2ª Mão</title>
-    <desc>Futebol,Desporto | 2026 | +12
-· Os melhores jogos da UEFA Champions League para veres aqui, na DAZN.</desc>
+  <programme start="20260319220000 +0000" stop="20260319223000 +0000" channel="PT | DAZN 2">
+    <title>Premier League T1 E31 · Malick Thiaw</title>
+    <desc>Celebridades,Notícias | +12
+· As grandes entrevistas da Premier League.
+· País: Reino Unido</desc>
 	</programme>
   <programme start="20260317220000 +0000" stop="20260317223000 +0000" channel="PT | DAZN 3">
     <title>Premier League Stories T1 · Unai Emery</title>
@@ -9906,6 +10799,11 @@
     <desc>Futebol,Desporto | 2026 | +12
 · Os melhores jogos da UEFA Europa League para veres aqui, na DAZN.</desc>
 	</programme>
+  <programme start="20260319220000 +0000" stop="20260320000000 +0000" channel="PT | DAZN 3">
+    <title>AEK Larnaca x Crystal Palace T1 · AEK Larnaca x Crystal Palace - Oitavos-De-Final 2ª Mão</title>
+    <desc>Futebol,Desporto | 2026 | +12
+· Os melhores jogos da UEFA Conference League para veres aqui, na DAZN.</desc>
+	</programme>
   <programme start="20260317210000 +0000" stop="20260318010000 +0000" channel="PT | DAZN 4">
     <title>Sem Emissão T1 · ter 17-mar, 21:00</title>
     <desc>Estilo de vida | +12
@@ -9981,15 +10879,10 @@
     <desc>Futebol,Desporto | 2026 | +12
 · Os melhores jogos da UEFA Conference League para veres aqui, na DAZN.</desc>
 	</programme>
-  <programme start="20260317210000 +0000" stop="20260317213000 +0000" channel="PT | DAZN 5">
-    <title>Magazine Grip T1 E1 · National Motorsports Competitions</title>
-    <desc>Magazine de desporto,Desporto | +12
-· Vê o melhor do desporto motorizado nacional, através do Grip.</desc>
-	</programme>
-  <programme start="20260317213000 +0000" stop="20260317220000 +0000" channel="PT | DAZN 5">
-    <title>Fórmula E Magazine T1 E5 · Madrid</title>
-    <desc>Magazine de desporto,Desporto | 2026 | +12
-· Antevisão à primeira ronda da 9. ª temporada do ABB FIA Formula E, que se vai correr na Cidade do México no Autódromo Hermanos Rodríguez.</desc>
+  <programme start="20260319220000 +0000" stop="20260320000000 +0000" channel="PT | DAZN 4">
+    <title>Midtjylland x Nott'm Forest T1 · Midtjylland x Nott'm Forest - Oitavos-De-Final 2ª Mão</title>
+    <desc>Futebol,Desporto | 2026 | +12
+· Os melhores jogos da UEFA Europa League para veres aqui, na DAZN.</desc>
 	</programme>
   <programme start="20260317220000 +0000" stop="20260318020000 +0000" channel="PT | DAZN 5">
     <title>Sem Emissão T1 · ter 17-mar, 22:00</title>
@@ -10142,10 +11035,15 @@
     <desc>Desportos motorizados,Desporto | 2026 | +12
 · A análise ao detalhe ao GP com Nuno Pinto, João Amaral, João Carlos Costa e moderação de Óscar Góis.</desc>
 	</programme>
-  <programme start="20260317202513 +0000" stop="20260317211731 +0000" channel="DE | Rally TV">
-    <title>SS9 Full Stage Replay - Rally di Roma Capitale 2025</title>
-    <desc>Sports
-· Giandomenico Basso &amp; Lorenzo Granai.</desc>
+  <programme start="20260319214500 +0000" stop="20260319220000 +0000" channel="PT | DAZN 5">
+    <title>Fórmula 1 T1 E2 · GP China</title>
+    <desc>Desportos motorizados,Desporto | 2026 | +12
+· Vê os melhores rádios de todos os Grandes Prémios do Mundial de Formula 1 2026.</desc>
+	</programme>
+  <programme start="20260319220000 +0000" stop="20260320020000 +0000" channel="PT | DAZN 5">
+    <title>Sem Emissão T1 · qui 19-mar, 22:00</title>
+    <desc>Estilo de vida | +12
+· O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a DAZN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.</desc>
 	</programme>
   <programme start="20260317211731 +0000" stop="20260317221620 +0000" channel="DE | Rally TV">
     <title>SS10 Full Stage Replay - Rally di Roma Capitale 2025</title>
@@ -10364,6 +11262,14 @@
 	</programme>
   <programme start="20260319195350 +0000" stop="20260319210836 +0000" channel="DE | Rally TV">
     <title>SS4 Full Stage Replay - V-Híd Rally Hungary 2025</title>
+    <desc>Sports</desc>
+	</programme>
+  <programme start="20260319210836 +0000" stop="20260319215434 +0000" channel="DE | Rally TV">
+    <title>SS5 Full Stage Replay - V-Híd Rally Hungary 2025</title>
+    <desc>Sports</desc>
+	</programme>
+  <programme start="20260319215434 +0000" stop="20260319230325 +0000" channel="DE | Rally TV">
+    <title>SS6 Full Stage Replay - V-Híd Rally Hungary 2025</title>
     <desc>Sports</desc>
 	</programme>
   <programme start="20260317190000 +0000" stop="20260317224500 +0000" channel="UK | TNT Sports 1">
@@ -10710,10 +11616,10 @@
     <desc>Football - Club,Sports
 · AS Roma v Bologna (Kick-off 8.00pm). Coverage of the last-16 second-leg match at Stadio Olimpico.</desc>
 	</programme>
-  <programme start="20260317210000 +0000" stop="20260317220000 +0000" channel="UK | TNT Sports 3">
-    <title>PREM Rugby Cup T2025 E10 · Leicester Tigers v Exeter Chiefs-Final</title>
-    <desc>Rugby Union - Domestic,Sports
-· Leicester Tigers v Exeter Chiefs in the final.</desc>
+  <programme start="20260319220000 +0000" stop="20260319233000 +0000" channel="UK | TNT Sports 2">
+    <title>LIV Golf T2026 E25 · South Africa-Round 1</title>
+    <desc>Golf,Sports
+· Action from the first day of the fifth round of the season, which took place at The Club at Steyn City in South Africa.</desc>
 	</programme>
   <programme start="20260317220000 +0000" stop="20260317230000 +0000" channel="UK | TNT Sports 3">
     <title>Premier League Review T2025 E30 · Matchday 30</title>
@@ -10930,10 +11836,10 @@
     <desc>Football - Club,Sports
 · FC Porto v VfB Stuttgart (Kick-off 8.00pm). coverage of the last-16 second-leg match at Estádio do Dragão.</desc>
 	</programme>
-  <programme start="20260317200000 +0000" stop="20260317220000 +0000" channel="UK | Premier Sports 1">
-    <title>Argentine Primera T2026 E21 · River Plate v Sarmiento</title>
-    <desc>Football - Club,Sports
-· River Plate v Sarmiento.</desc>
+  <programme start="20260319220000 +0000" stop="20260319223000 +0000" channel="UK | TNT Sports 3">
+    <title>Fight Week T2026 E11 · Fight Night-Evloev vs Murphy Preview Show</title>
+    <desc>Combat Sports (without own categ,Sports
+· A look ahead to UFC Fight Night 270 at the O2 Arena in London, featuring the featherweight bout between Movsar Evloev and Lerone Murphy.</desc>
 	</programme>
   <programme start="20260317220000 +0000" stop="20260318000000 +0000" channel="UK | Premier Sports 1">
     <title>Argentine Primera T2026 E22 · Lanus v Newell's Old Boys</title>
@@ -11195,6 +12101,11 @@
     <desc>Motor Sport,Sports
 · Action from the 2026 Pennzoil 400 presented by Jiffy Lube.</desc>
 	</programme>
+  <programme start="20260319220000 +0000" stop="20260319223000 +0000" channel="UK | Premier Sports 1">
+    <title>World of FreeSports T2025 E36</title>
+    <desc>Sports
+· Showcasing the world of action and outdoor sports from around the globe.</desc>
+	</programme>
   <programme start="20260317210000 +0000" stop="20260317230000 +0000" channel="UK | Premier Sports 2">
     <title>NHL Ice Hockey T2026 E304 · Boston at New Jersey</title>
     <desc>Ice Hockey,Sports
@@ -11364,5 +12275,20 @@
     <title>Eredivisie T2025 E54 · Feyenoord v Excelsior</title>
     <desc>Football - Club,Sports
 · Feyenoord v Excelsior.</desc>
+	</programme>
+  <programme start="20260319212000 +0000" stop="20260319213000 +0000" channel="UK | Premier Sports 2">
+    <title>LaLiga Match Highlights T2025 E245 · Atletico Madrid v Getafe</title>
+    <desc>Football - Club,Sports
+· Atletico Madrid v Getafe.</desc>
+	</programme>
+  <programme start="20260319213000 +0000" stop="20260319220000 +0000" channel="UK | Premier Sports 2">
+    <title>Temples of Sport T2022 E9 · Temples of Sport 9</title>
+    <desc>Sports
+· Iconic sporting venues from around the globe.</desc>
+	</programme>
+  <programme start="20260319220000 +0000" stop="20260319223000 +0000" channel="UK | Premier Sports 2">
+    <title>Temples of Sport T2022 E8 · Temples of Sport 8</title>
+    <desc>Sports
+· Iconic sporting venues from around the globe.</desc>
 	</programme>
 </tv>
