@@ -66,6 +66,28 @@
 		<display-name>La Sexta 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png"/>
 	</channel>
+  <channel id="M+ Acción HD">
+		<display-name>M+ Acción</display-name>
+		<display-name>M+ Acción.TV</display-name>
+		<display-name>M+ Acción SD</display-name>
+		<display-name>M+ Acción HD</display-name>
+		<display-name>M+ Acción FHD</display-name>
+		<display-name>M+ Acción UHD</display-name>
+		<display-name>M+ Acción 720</display-name>
+		<display-name>M+ Acción 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png"/>
+	</channel>
+  <channel id="M+ Comedia HD">
+		<display-name>M+ Comedia</display-name>
+		<display-name>M+ Comedia.TV</display-name>
+		<display-name>M+ Comedia SD</display-name>
+		<display-name>M+ Comedia HD</display-name>
+		<display-name>M+ Comedia FHD</display-name>
+		<display-name>M+ Comedia UHD</display-name>
+		<display-name>M+ Comedia 720</display-name>
+		<display-name>M+ Comedia 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png"/>
+	</channel>
   <channel id="Caza y Pesca HD">
 		<display-name>Caza y Pesca</display-name>
 		<display-name>Caza y Pesca.TV</display-name>
@@ -197,17 +219,6 @@
 		<display-name>DAZN LaLiga 2 720</display-name>
 		<display-name>DAZN LaLiga 2 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png"/>
-	</channel>
-  <channel id="LaLiga TV Hypermotion 2">
-		<display-name>LaLiga TV Hypermotion 2</display-name>
-		<display-name>LaLiga TV Hypermotion 2.TV</display-name>
-		<display-name>LaLiga TV Hypermotion 2 SD</display-name>
-		<display-name>LaLiga TV Hypermotion 2 HD</display-name>
-		<display-name>LaLiga TV Hypermotion 2 FHD</display-name>
-		<display-name>LaLiga TV Hypermotion 2 UHD</display-name>
-		<display-name>LaLiga TV Hypermotion 2 720</display-name>
-		<display-name>LaLiga TV Hypermotion 2 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png"/>
 	</channel>
   <channel id="M+ Liga de Campeones HD">
 		<display-name>M+ Liga de Campeones</display-name>
@@ -539,17 +550,6 @@
 		<display-name>Onetoro 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png"/>
 	</channel>
-  <channel id="beIN SPORTS XTRA ñ">
-		<display-name>beIN SPORTS XTRA ñ</display-name>
-		<display-name>beIN SPORTS XTRA ñ.TV</display-name>
-		<display-name>beIN SPORTS XTRA ñ SD</display-name>
-		<display-name>beIN SPORTS XTRA ñ HD</display-name>
-		<display-name>beIN SPORTS XTRA ñ FHD</display-name>
-		<display-name>beIN SPORTS XTRA ñ UHD</display-name>
-		<display-name>beIN SPORTS XTRA ñ 720</display-name>
-		<display-name>beIN SPORTS XTRA ñ 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png"/>
-	</channel>
   <channel id="ESPN">
 		<display-name>ESPN</display-name>
 		<display-name>ESPN.TV</display-name>
@@ -704,14 +704,6 @@
 		<display-name>UK | Premier Sports 2 1080</display-name>
 		<icon src="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png"/>
 	</channel>
-  <programme start="20260327060000 +0100" stop="20260327075000 +0100" channel="La 1 HD">
-    <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | *6.0/10
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-· Productora: Televisión Española (TVE).</desc>
-	</programme>
   <programme start="20260327075000 +0100" stop="20260327103500 +0100" channel="La 1 HD">
     <title>La hora de La 1: La hora de la actualidad T9</title>
     <desc>Entretenimiento,Magacín | 2026 | +16 | *5.8/10
@@ -965,28 +957,6 @@
     <desc>Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
-	</programme>
-  <programme start="20260327065500 +0100" stop="20260327071500 +0100" channel="La 2">
-    <title>Zoom tendencias</title>
-    <desc>Ocio y Aficiones,Ocio y cultura | 2017 | TP | *6.0/10
-· Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética. Aquellas tendencias que marcan la forma de ser hoy en día, serán tratadas en el programa.
-· País: España
-· Dirección: Mercedes Cámara.</desc>
-	</programme>
-  <programme start="20260327071500 +0100" stop="20260327074000 +0100" channel="La 2">
-    <title>España sin asfalto T1</title>
-    <desc>Ocio y Aficiones,Viajes | 2024 | TP | *6.0/10
-· Míriam Monlleó nos invita a conocer la enorme riqueza natural que nos rodea en defensa de un turismo de calidad y a promocionar los destinos sostenibles como una nueva forma de viajar alejándose de la masificación de los destinos congestionados.
-· País: España
-· Presenta: Míriam Monlleó.</desc>
-	</programme>
-  <programme start="20260327074000 +0100" stop="20260327083000 +0100" channel="La 2">
-    <title>Islandia. El despertar de la vida</title>
-    <desc>Cine,Cine documental | 2024 | TP | *5.6/10
-· Islandia es un territorio inhóspito. Situada junto en el polar ártico, la isla se cubre de nieve durante largos inviernos. Su fuerza destructora arrastra los ecosistemas a un nuevo punto de partida.
-· País: España e Islandia
-· Dirección: Carlos Pérez.
-· Productora: 1080 Wildlife Productions.</desc>
 	</programme>
   <programme start="20260327083000 +0100" stop="20260327093000 +0100" channel="La 2">
     <title>Ríos T1</title>
@@ -1406,6 +1376,24 @@
 · País: España
 · Productora: Centro de Diseño y Producción de Medios Audiovisuales (CEMAV).</desc>
 	</programme>
+  <programme start="20260329073000 +0100" stop="20260329082500 +0100" channel="La 2">
+    <title>El sistema solar</title>
+    <desc>Documentales,Ciencia tecnología | 2024 | TP | *6.4/10
+· A pesar de toda la información que tenemos sobre nuestro Sistema Solar, existen numerosos mundos inexplorados por descubrir. Este documental de BBC descubre todo lo que sucede en la superficie de los planetas y las lunas de nuestro sistema planetario.
+· País: Reino Unido
+· Presenta: Brian Cox.
+· Dirección: Ben Wilson.
+· Producción: Suzy Boyles.
+· Productora: BBC Studios.</desc>
+	</programme>
+  <programme start="20260329082500 +0100" stop="20260329091500 +0100" channel="La 2">
+    <title>Los conciertos de La 2 T25/26</title>
+    <desc>Música,Música clásica | 2025 | TP | *6.0/10
+· Retransmisión de un concierto de la Orquestra Sinfónica o del Coro de RTVE.
+· País: España
+· Dirección: Arturo Morales.
+· Productora: Televisión Española (TVE).</desc>
+	</programme>
   <programme start="20260327061500 +0100" stop="20260327085500 +0100" channel="Antena 3 HD">
     <title>Las noticias de la mañana</title>
     <desc>Información,Informativo | 2014 | *6.2/10
@@ -1713,32 +1701,11 @@
 · Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas.
 · País: España</desc>
 	</programme>
-  <programme start="20260327042500 +0100" stop="20260327070000 +0100" channel="Cuatro HD">
-    <title>Puro Cuatro</title>
-    <desc>Música,Programa de música | 2009 | TP | *6.2/10
-· Espacio que actúa a modo de escaparate de la música que suena en los programas de Cuatro.
+  <programme start="20260329081500 +0200" stop="20260329100000 +0200" channel="Antena 3 HD">
+    <title>Los más</title>
+    <desc>Entretenimiento,Zapping | 2017 | TP | *6.2/10
+· Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público.
 · País: España</desc>
-	</programme>
-  <programme start="20260327070000 +0100" stop="20260327073000 +0100" channel="Cuatro HD">
-    <title>Love Shopping TV Cuatro T1 E42</title>
-    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
-· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
-	</programme>
-  <programme start="20260327073000 +0100" stop="20260327075500 +0100" channel="Cuatro HD">
-    <title>¡Toma Salami!: La tv que nos parió T3 E88</title>
-    <desc>Entretenimiento,Zapping | 2020 | +7 | *6.2/10
-· Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
-· País: España
-· Presenta: Javier Capitán.
-· Productora: Mediaset, Mandarina Producciones.</desc>
-	</programme>
-  <programme start="20260327075500 +0100" stop="20260327084000 +0100" channel="Cuatro HD">
-    <title>Alerta Cobra T20 E9 · Vendetta: Parte 1</title>
-    <desc>Series,Acción | 2006 | +12 | *5.8/10
-· Semir mata al hijo de un mafioso durante una detención. Ahora, la venganza amenaza a su familia. Junto a Alex y el investigador Boschko, viaja a Albania para frenar la amenaza.
-· País: Alemania
-· Reparto: Gedeon Burkhard, René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
-· Productora: RTL, Action Concept GmbH.</desc>
 	</programme>
   <programme start="20260327084000 +0100" stop="20260327103000 +0100" channel="Cuatro HD">
     <title>Alerta Cobra T21 E3 · Cobra, encargaos vosotros</title>
@@ -1996,13 +1963,33 @@
 · Espacio que actúa a modo de escaparate de la música que suena en los programas de Cuatro.
 · País: España</desc>
 	</programme>
-  <programme start="20260327060000 +0100" stop="20260327080000 +0100" channel="Telecinco HD">
-    <title>Informativos Telecinco matinal</title>
-    <desc>Información,Informativo | 2025 | *6.0/10
-· Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.
+  <programme start="20260329070000 +0100" stop="20260329073000 +0100" channel="Cuatro HD">
+    <title>Love Shopping TV Cuatro T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+	</programme>
+  <programme start="20260329073000 +0100" stop="20260329075500 +0100" channel="Cuatro HD">
+    <title>¡Toma Salami!: La tv que nos parió T3</title>
+    <desc>Entretenimiento,Zapping | 2020 | +7 | *5.8/10
+· Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
 · País: España
-· Presenta: Bricio Segovia.
-· Productora: Gestevisión-Telecinco, S.A.</desc>
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+	</programme>
+  <programme start="20260329075500 +0100" stop="20260329081500 +0100" channel="Cuatro HD">
+    <title>¡Toma Salami!: La tv que nos parió T3</title>
+    <desc>Entretenimiento,Zapping | 2020 | +7 | *5.8/10
+· Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
+· País: España
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+	</programme>
+  <programme start="20260329081500 +0100" stop="20260329094000 +0100" channel="Cuatro HD">
+    <title>Volando voy</title>
+    <desc>Ocio y Aficiones,Viajes | 2023 | +7 | *5.8/10
+· Espacio que redescubre los paisajes de España utilizando la más avanzada tecnología.
+· País: España
+· Presenta: Jesús Calleja.</desc>
 	</programme>
   <programme start="20260327080000 +0100" stop="20260327090000 +0100" channel="Telecinco HD">
     <title>La mirada crítica T5 E60</title>
@@ -2262,10 +2249,23 @@
 · Programa especializado en temas actuales de alimentación, psicología y ejercicio.
 · País: España</desc>
 	</programme>
-  <programme start="20260327064500 +0100" stop="20260327070000 +0100" channel="La Sexta HD">
-    <title>Remescar cosmética al instante T1 E21</title>
-    <desc>Ocio y Aficiones,Televenta | 2025 | +12 | *5.6/10
-· Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta.</desc>
+  <programme start="20260329080200 +0200" stop="20260329083500 +0200" channel="Telecinco HD">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.6/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+	</programme>
+  <programme start="20260329083500 +0200" stop="20260329092000 +0200" channel="Telecinco HD">
+    <title>Got Talent España. Momentazos T8</title>
+    <desc>Entretenimiento,Concurso | 2022 | +7 | *6.0/10
+· La adaptación española del formato internacional "Got Talent" busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.
+· País: España</desc>
+	</programme>
+  <programme start="20260329092000 +0200" stop="20260329122600 +0200" channel="Telecinco HD">
+    <title>Got Talent España T9</title>
+    <desc>Entretenimiento,Concurso | 2023 | +7 | *6.0/10
+· Concurso que busca nuevas promesas de diferentes disciplinas artísticas en España.
+· País: España
+· Presenta: Santi Millán.</desc>
 	</programme>
   <programme start="20260327070000 +0100" stop="20260327090000 +0100" channel="La Sexta HD">
     <title>Previo Aruser@s T8 E1624</title>
@@ -2559,23 +2559,674 @@
 · Presenta: Glòria Serra.
 · Productora: Antena 3 Televisión.</desc>
 	</programme>
-  <programme start="20260327065500 +0100" stop="20260327072500 +0100" channel="Caza y Pesca HD">
-    <title>Caza bajo el sol T1 · Paloma Torcaz</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2026 | +12 | *6.0/10
-· La paloma torcaz ha visto multiplicadas sus poblaciones en buena parte de la península ibérica volviéndose sedentaria en amplias zonas sobre todo del interior.
+  <programme start="20260329083000 +0100" stop="20260329103000 +0100" channel="La Sexta HD">
+    <title>Aruser@s weekend</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Hans Arús y todo su equipo ocupan la tarde de los fines de semana con su magazine, para desgranar los temas de actualidad en tono de humor.
+· País: España
+· Presenta: Hans Arús.
+· Productora: Aruba Produccions.</desc>
+	</programme>
+  <programme start="20260327080000 +0100" stop="20260327094100 +0100" channel="M+ Acción HD">
+    <title>Razas de noche</title>
+    <desc>Cine,Terror | 1990 | +18 | *6.4/10
+· Un joven problemático aterriza en un extraño lugar llamado Midian habitado por seres monstruosos de ultratumba. Es entonces cuando decide ayudarles frente a un asesino en serie.
+· País: Canadá, Estados Unidos y Reino Unido
+· Dirección: Clive Barker.
+· Reparto: Craig Sheffer, Anne Bobby, David Cronenberg, Charles Haid, Hugh Quarshie, Hugh Ross, Nicholas Vince, Debora Weston.
+· Guion: Clive Barker.
+· Productora: Morgan Creek.</desc>
+	</programme>
+  <programme start="20260327094100 +0100" stop="20260327113400 +0100" channel="M+ Acción HD">
+    <title>Absolución</title>
+    <desc>Cine,Thriller | 2024 | +16 | *6.0/10
+· Un gánster de la vieja escuela empieza a experimentar pérdidas de memoria cada vez mayores. Tras un diagnóstico grave, decide intentar enmendar los errores de su pasado.
+· País: Estados Unidos
+· Dirección: Hans Petter Moland.
+· Reparto: Liam Neeson, Yolonda Ross, Frankie Shaw, Ron Perlman.
+· Guion: Tony Gayton.
+· Música: Kaspar Kaae.
+· Producción: Roger Birnbaum.
+· Productora: Sculptor Media, Electromagnetic Productions.</desc>
+	</programme>
+  <programme start="20260327113400 +0100" stop="20260327134800 +0100" channel="M+ Acción HD">
+    <title>Fast &amp; Furious: Hobbs &amp; Shaw</title>
+    <desc>Cine,Acción | 2019 | +16 | *7.2/10
+· En Londres, tras recuperar un peligroso supervirus, un equipo del MI6 es atacado por un letal hombre biónico. Para evitar que el virus caiga en su poder, una de las agentes se lo inyecta y huye del lugar, convirtiéndose en sospechosa del robo.
+· País: Estados Unidos
+· Dirección: David Leitch.
+· Reparto: Dwayne Johnson, Jason Statham, Vanessa Kirby, Idris Elba, Helen Mirren, Eiza González, Eddie Marsan, Ryan Reynolds.
+· Guion: Chris Morgan, Drew Pearce.
+· Música: Tyler Bates.
+· Producción: Dwayne Johnson, Jason Statham, Chris Morgan, Hiram Garcia.
+· Productora: Universal Pictures, Seven Bucks Productions, Chris Morgan Productions.</desc>
+	</programme>
+  <programme start="20260327134800 +0100" stop="20260327160800 +0100" channel="M+ Acción HD">
+    <title>Fast &amp; Furious 9</title>
+    <desc>Cine,Acción | 2021 | +12 | *6.6/10
+· Dom Toretto lleva una vida tranquila con Letty y su hijo, el pequeño Brian, pero sabe que el peligro siempre acecha. Esta vez, la amenaza obligará a Dom a enfrentarse a los pecados de su pasado para salvar a aquellos que más quiere.
+· País: Estados Unidos
+· Dirección: Justin Lin.
+· Reparto: Vin Diesel, John Cena, Michelle Rodriguez, Jordana Brewster, Tyrese Gibson, Chris 'Ludacris' Bridges, Charlize Theron, Sung Kang, Nathalie Emmanuel, Cardi B, Helen Mirren.
+· Guion: Justin Lin, Daniel Casey, Alfredo Botello.
+· Música: Brian Tyler.
+· Producción: Justin Lin, Vin Diesel, Jeff Kirschenbaum, Samantha Vincent, Clayton Townsend, Joe Roth, Neal H. Moritz.
+· Productora: One Race Films, Perfect Storm Entertainment, Original Film, Universal Pictures.</desc>
+	</programme>
+  <programme start="20260327160800 +0100" stop="20260327170400 +0100" channel="M+ Acción HD">
+    <title>Bruce Lee. Dentro del dragón</title>
+    <desc>Documentales,Biografía | 2025 | +12 | *6.2/10
+· Este documental examina cómo Bruce Lee transformó Hollywood, una industria marcada por los estereotipos raciales.
+· País: Francia
+· Dirección: Marc Ball.</desc>
+	</programme>
+  <programme start="20260327170400 +0100" stop="20260327184500 +0100" channel="M+ Acción HD">
+    <title>Redada asesina</title>
+    <desc>Cine,Acción | 2011 | +18 | *7.0/10
+· Un joven policía llamado Rama colabora con un escuadrón de fuerzas especiales para capturar a un temido criminal que protege a asesinos.
+· País: Estados Unidos, Francia e Indonesia
+· Dirección: Gareth Evans.
+· Reparto: Iko Uwais, Joe Taslim, Donny Alamsyah, Yayan Ruhian, Pierre Gruno, Ray Sahetapy, Tegar Satrya, Iang Darmawan.
+· Guion: Gareth Evans.
+· Música: Aria Prayogi, Fajar Yuskemal.
+· Producción: Ario Sagantoro.
+· Productora: XYZ Films, Celluloid Dreams, Pt. Merantau Films.</desc>
+	</programme>
+  <programme start="20260327184500 +0100" stop="20260327211300 +0100" channel="M+ Acción HD">
+    <title>Redada asesina 2</title>
+    <desc>Cine,Acción | 2014 | +18 | *7.0/10
+· Mientras el crimen organizado sigue imperando en Yakarta, el agente Rama recibe una oferta para perseguir la corrupción en el propio seno de la policía.
+· País: Estados Unidos e Indonesia
+· Dirección: Gareth Evans.
+· Reparto: Iko Uwais, Arifin Putra, Tio Pakusodewo, Oka Antara, Alex Abbad, Cecep Arif Rahman, Julie Estelle, Very Tri Yulisman, Ryûhei Matsuda, Ken'ichi Endô, Kazuki Kitamura, Yayan Ruhian.
+· Guion: Gareth Evans.
+· Música: Aria Prayogi, Joseph Trapanese, Fajar Yuskemal.
+· Producción: Aram Tertzakian, Nate Bolotin, Ario Sagantoro.
+· Productora: XYZ Films, Pt. Merantau Films, Merantau Films.</desc>
+	</programme>
+  <programme start="20260327211300 +0100" stop="20260327220000 +0100" channel="M+ Acción HD">
+    <title>Action E2</title>
+    <desc>Documentales,Documental cine | 2024 | TP | *6.0/10
+· David Leitch, que hizo de doble de Brad Pitt y de Jean-Claude Van Damme, deja de ser productor por un día para ayudar a entrenar a los actores. Mitra se enfrenta a un gran desafío, mientras JoJo recibe una noticia que no esperaba recibir.
+· País: Estados Unidos
+· Dirección: Bridger Nielson.
+· Producción: Kelly McCormick.</desc>
+	</programme>
+  <programme start="20260327220000 +0100" stop="20260327234200 +0100" channel="M+ Acción HD">
+    <title>Fight or Flight (Sicarios en el aire)</title>
+    <desc>Cine,Acción | 2024 | +18 | *6.6/10
+· Hace dos años que Lucas dejó de ser mercenario. Ahora, retirado en Tailandia, recibe un encargo urgente: atrapar al 'fantasma', un criminal que va a embarcar en un vuelo en el que hay más de 100 sicarios con el mismo objetivo que él.
+· País: Estados Unidos y Reino Unido
+· Dirección: James Madigan.
+· Reparto: Josh Hartnett, Charithra Chandran, Marko Zaror, Katee Sackhoff, Julian Kostov, Irén Bordán, Danny Ashok.
+· Guion: D.J. Cotrona.
+· Música: Paul Saunderson.
+· Producción: Christopher Milburn, Tai Duncan, Basil Iwanyk, Erica Lee.
+· Productora: Asbury Park Productions, MEP Capital.</desc>
+	</programme>
+  <programme start="20260327234200 +0100" stop="20260328013300 +0100" channel="M+ Acción HD">
+    <title>13 días, 13 noches</title>
+    <desc>Cine,Thriller | 2025 | +16 | *7.2/10
+· Tras décadas de guerra, Estados Unidos decide retirar sus tropas de Afganistán. En poco tiempo, los talibanes se hacen con el control de la capital, Kabul. La última misión occidental aún abierta es la embajada de Francia: deben irse, y rápido.
+· País: Bélgica y Francia
+· Dirección: Martin Bourboulon.
+· Reparto: Roschdy Zem, Lyna Khoudri, Sidse Babett Knudsen, Christophe Montenez, Nicolas Bridet, Sina Parvaneh, Yan Tual, Athena Strates, Grégoire Leprince-Ringuet, Avant Strangel.
+· Guion: Alexandre Smia, Martin Bourboulon.
+· Música: Guillaume Roussel.
+· Producción: Dimitri Rassam, Ardavan Safaee.
+· Productora: Chapter 2, Pathé, Umedia, Canal+, Disney+.</desc>
+	</programme>
+  <programme start="20260328013300 +0100" stop="20260328032600 +0100" channel="M+ Acción HD">
+    <title>Scream</title>
+    <desc>Cine,Terror | 2022 | +16 | *6.6/10
+· La pesadilla ha regresado. Veinticinco años después de que tuvieran lugar aquellos brutales asesinatos en el pueblo de Woodsboro, California, y conmocionaran a sus habitantes, un nuevo asesino ha regresado.
+· País: Estados Unidos
+· Dirección: Matt Bettinelli-Olpin, Tyler Gillett.
+· Reparto: Neve Campbell, Courteney Cox, David Arquette, Melissa Barrera, Jack Quaid, Jenna Ortega.
+· Guion: James Vanderbilt, Guy Busick, Kevin Williamson.
+· Música: Brian Tyler.
+· Producción: Paul Neinstein, William Sherak.
+· Productora: Paramount Pictures, Lantern Entertainment.</desc>
+	</programme>
+  <programme start="20260328032600 +0100" stop="20260328051100 +0100" channel="M+ Acción HD">
+    <title>Asesinato en la Casa Blanca</title>
+    <desc>Cine,Acción | 1997 | +12 | *6.6/10
+· Ha ocurrido un asesinato en la Casa Blanca. Encargan el caso al detective Harlan Regis pero una vez dentro se da cuenta del peligro que corre. Regis descubre que tras esta muerte se esconde todo un entramado que implica a las más altas esferas.
+· País: Estados Unidos
+· Dirección: Dwight H. Little.
+· Reparto: Wesley Snipes, Diane Lane, Daniel Benzali, Dennis Miller, Alan Alda, Ronny Cox, Tate Donovan, Diane Baker.
+· Guion: Wayne Beach, David Hodgin, Linden Ashby.
+· Música: Christopher Young.
+· Producción: Arnold Kopelson, Arnon Milchan.
+· Productora: New Regency, Warner Bros, Regency Enterprises, Regency Entertaintment.</desc>
+	</programme>
+  <programme start="20260328051100 +0100" stop="20260328052200 +0100" channel="M+ Acción HD">
+    <title>Jugando a ser dios</title>
+    <desc>Cortometrajes,Corto animación | 2024 | +12 | *6.0/10
+· Cortometraje preseleccionado para los Oscar 2026 en la categoría de mejor cortometraje de animación. Una escultura de arcilla cobra vida a través de la búsqueda obsesiva de la perfección de un escultor.
+· País: Francia e Italia
+· Dirección: Matteo Burani, Arianna Gheller.</desc>
+	</programme>
+  <programme start="20260328052200 +0100" stop="20260328070400 +0100" channel="M+ Acción HD">
+    <title>Until Dawn</title>
+    <desc>Cine,Terror | 2025 | +16 | *6.4/10
+· Unos jóvenes se ven envueltos en una pesadilla enloquecedora que revivirán una y otra vez... a no ser que consigan llegar vivos al amanecer.
+· País: Estados Unidos y Hungría
+· Dirección: David F. Sandberg.
+· Reparto: Ella Rubin, Michael Cimino, Odessa A'zion, Ji-young Yoo, Belmont Cameli.
+· Guion: Blair Butler.
+· Música: Benjamin Wallfisch.
+· Productora: Vertigo Entertainment.</desc>
+	</programme>
+  <programme start="20260328070400 +0100" stop="20260328080000 +0100" channel="M+ Acción HD">
+    <title>Tom Cruise, de oficio estrella</title>
+    <desc>Documentales,Biografía | 2020 | +12 | *6.2/10
+· Tom Cruise es una metáfora viviente, el más puro ejemplo del hombre americano hecho a sí mismo: un chico pobre y disléxico que pasó por más de quince escuelas en catorce años y ha logrado convertirse en el actor más importante de su generación.
+· País: Francia
+· Dirección: Régis Brochier.
+· Productora: Arte France.</desc>
+	</programme>
+  <programme start="20260328080000 +0100" stop="20260328110500 +0100" channel="M+ Acción HD">
+    <title>King Kong</title>
+    <desc>Cine,Acción | 2005 | +16 | *7.0/10
+· El director Peter Jackson, ganador de un Premio de la Academia, aporta su arrolladora visión cinematográfica a King Kong. Naomi Watts, Adrien Brody y Jack Black protagonizan esta espectacular película rebosante de trepidante acción, terroríficas...
+· País: Alemania, Estados Unidos y Nueva Zelanda
+· Dirección: Peter Jackson.
+· Reparto: Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann, Colin Hanks, Andy Serkis, Evan Parke, Jamie Bell, Lobo Chan, Kyle Chandler, Ray Woolf.
+· Guion: Peter Jackson, Fran Walsh, Philippa Boyens.
+· Música: James Newton Howard.
+· Producción: Peter Jackson, Fran Walsh, Carolynne Cunningham, Jan Blenkin.
+· Productora: Universal Pictures, WingNut Films, Big Primate Pictures.</desc>
+	</programme>
+  <programme start="20260328110500 +0100" stop="20260328113500 +0100" channel="M+ Acción HD">
+    <title>Al encuentro de T1 · Alauda Ruiz de Azúa</title>
+    <desc>Cine,Programa de cine | 2025 | +7 | *6.2/10
+· Cris Teva charla con Alauda Ruiz de Azúa sobre la buena estrella de “Los domingos” y de algunos temas comunes en sus trabajos: la familia o la necesidad de entender las razones del otro y respetarlas. También habla de su último proyecto, “OnlyFans”.
+· País: España
+· Presenta: Cristina Teva.</desc>
+	</programme>
+  <programme start="20260328113500 +0100" stop="20260328133600 +0100" channel="M+ Acción HD">
+    <title>Alita: Ángel de combate</title>
+    <desc>Cine,Ciencia ficción | 2019 | +12 | *8.6/10
+· En el 2563, trescientos años después de la Caída, el doctor Dyson Ido encuentra entre la chatarra la cabeza de una cíborg. Aunque la mayor parte de su cibercuerpo ya no existe, su cerebro, completamente humano, está milagrosamente intacto.
+· País: Estados Unidos
+· Dirección: Robert Rodríguez.
+· Reparto: Rosa Salazar Arenas, Christoph Waltz, Jennifer Connelly, Mahershala Ali, Ed Skrein, Jackie Earle Haley, Keean Johnson.
+· Guion: James Cameron, Laeta Kalogridis.
+· Música: Junkie XL.
+· Producción: James Cameron, Jon Landau.
+· Productora: Twentieth Century Fox, Lightstorm Entertainment, Troublemaker Studios, TSG Entertainment, Caffeination, Madhouse Entertainment, Stereo D.</desc>
+	</programme>
+  <programme start="20260328133600 +0100" stop="20260328153000 +0100" channel="M+ Acción HD">
+    <title>Restore Point</title>
+    <desc>Cine,Ciencia ficción | 2023 | +16 | *6.0/10
+· Año 2041. La desigualdad social y económica ha dejado al mundo al borde del abismo, aunque un avance científico ha dado a la humanidad la capacidad de revivir a las víctimas de un crimen violento mediante una copia de seguridad de su cerebro.
+· País: Eslovaquia, Polonia, República Checa y Serbia
+· Dirección: Robert Hloz.
+· Reparto: Andrea Mohylová, Matej Hádek, Václav Neuzil, Karel Dobrý, Milan Ondrík.
+· Guion: Tomislav Cecka, Robert Hloz, Zdenek Jecelin.
+· Música: Jan Sléska.
+· Producción: Jan Kallista.
+· Productora: Film Kolektiv.</desc>
+	</programme>
+  <programme start="20260328153000 +0100" stop="20260328170300 +0100" channel="M+ Acción HD">
+    <title>La astronauta</title>
+    <desc>Cine,Ciencia ficción | 2025 | +12 | *6.0/10
+· Tras regresar de su primera misión espacial, la astronauta Sam Walker queda bajo el cuidado de la NASA en una residencia de alta seguridad. Sin embargo, pronto comienzan a ocurrir sucesos inquietantes en la propiedad.
+· País: Estados Unidos
+· Dirección: Jess Varley.
+· Reparto: Kate Mara, Laurence Fishburne, Gabriel Luna, Ivana Milicevic, Macy Gray.
+· Música: Jacques Brautbar.
+· Producción: Eric B. Fleischman, Brad Fuller.
+· Productora: Fifth Season, Wild Atlantic Pictures.</desc>
+	</programme>
+  <programme start="20260328170300 +0100" stop="20260328170800 +0100" channel="M+ Acción HD">
+    <title>Boyero recomienda T2 · El puente sobre el rio Kwai</title>
+    <desc>Cine,Programa de cine | 2026 | +7 | *6.2/10
+· El crítico de cine Carlos Boyero analiza uno de los títulos destacados en la Historia del cine bélico, en una nueva entrega de la serie "Boyero recomienda…".
+· País: España
+· Presenta: Carlos Boyero, Cristina Teva.</desc>
+	</programme>
+  <programme start="20260328170800 +0100" stop="20260328184000 +0100" channel="M+ Acción HD">
+    <title>Gravity</title>
+    <desc>Cine,Ciencia ficción | 2013 | +12 | *7.0/10
+· La doctora Ryan Stone, una brillante ingeniera especializada en medicina, realiza su primera misión en un transbordador acompañada por el veterano astronauta Matt Kowalsky, al mando de su último vuelo antes de retirarse.
+· País: Estados Unidos y Reino Unido
+· Dirección: Alfonso Cuarón.
+· Reparto: Sandra Bullock, George Clooney, Ed Harris.
+· Guion: Alfonso Cuarón, Jonás Cuarón.
+· Música: Steven Price.
+· Producción: Alfonso Cuarón, David Heyman.
+· Productora: Warner Bros. Pictures, Esperanto Filmoj, Heyday Films, Warner Bros.</desc>
+	</programme>
+  <programme start="20260328184000 +0100" stop="20260328210500 +0100" channel="M+ Acción HD">
+    <title>Minority Report</title>
+    <desc>Cine,Acción | 2002 | +16 | *7.0/10
+· En un futuro cercano, una unidad de élite se dedica a predecir crímenes y a detener a los culpables antes de que los cometan. Todas las pruebas para condenar a alguien son vistas por tres seres psíquicos cuyas visiones sobre los asesinatos nunca fallan.
+· País: Estados Unidos
+· Dirección: Steven Spielberg.
+· Reparto: Tom Cruise, Colin Farrell, Samantha Morton, Max von Sydow, Lois Smith, Kathryn Morris.
+· Guion: Scott Frank, Jon Cohen.
+· Música: John Williams.
+· Producción: Jan de Bont, Bonnie Curtis, Walter F. Parkes, Gerald R. Molen.
+· Productora: DreamWorks SKG, Twentieth Century Fox, Cruise/Wagner Productions, Blue Tulip Productions, Amblin Entertainment.</desc>
+	</programme>
+  <programme start="20260328210500 +0100" stop="20260328220000 +0100" channel="M+ Acción HD">
+    <title>Action E4</title>
+    <desc>Documentales,Documental cine | 2024 | TP | *5.8/10
+· David Leitch se embarca en su película más ambiciosa y llena de acción hasta la fecha, "El especialista", trabajando con los mejores especialistas del mundo, para conseguir crear algunas de las acrobacias más ambiciosas y peligrosas de los últimos años.
+· País: Estados Unidos
+· Dirección: Bridger Nielson.
+· Producción: Kelly McCormick.</desc>
+	</programme>
+  <programme start="20260328220000 +0100" stop="20260329001000 +0100" channel="M+ Acción HD">
+    <title>Sherlock Holmes</title>
+    <desc>Cine,Aventuras | 2009 | +16 | *8.0/10
+· Sherlock Holmes y el Doctor Watson se enfrentan a su caso más difícil: acabar con las maquinaciones de Lord Blackwood, maestro de lo oscuro.
+· País: Alemania, Estados Unidos y Reino Unido
+· Dirección: Guy Ritchie.
+· Reparto: Robert Downey Jr., Jude Law, Rachel McAdams, Mark Strong, Eddie Marsan, James Greene, Robert Maillet.
+· Guion: Anthony Peckham, Lionel Wigram, Simon Kinberg, Michael Robert Johnson.
+· Música: Hans Zimmer.
+· Producción: Susan Downey, Dan Lin, Joel Silver, Lionel Wigram.
+· Productora: Silver Pictures, Warner Bros. Pictures, Village Roadshow Pictures.</desc>
+	</programme>
+  <programme start="20260329001000 +0100" stop="20260329031500 +0200" channel="M+ Acción HD">
+    <title>Sherlock Holmes: Juego de sombras</title>
+    <desc>Cine,Aventuras | 2011 | +16 | *7.4/10
+· Sherlock Holmes siempre ha sido el más listo... hasta ahora. Y es que hay una nueva mente criminal, el profesor Moriarty, que no sólo está a la altura intelectual de Holmes, sino que posee una capacidad para el mal que podría darle ventaja sobre Holmes.
+· País: Estados Unidos y Reino Unido
+· Dirección: Guy Ritchie.
+· Reparto: Robert Downey Jr., Jude Law, Noomi Rapace, Stephen Fry, Jared Harris, Rachel McAdams, Paul Anderson, Kelly Reilly, Eddie Marsan.
+· Guion: Michele Mulroney, Kieran Mulroney.
+· Música: Hans Zimmer.
+· Productora: Warner Bros, Silver Pictures, Village Roadshow Pictures, Warner Bros. Pictures.</desc>
+	</programme>
+  <programme start="20260329031500 +0200" stop="20260329050400 +0200" channel="M+ Acción HD">
+    <title>El contador de cartas</title>
+    <desc>Cine,Thriller | 2021 | +16 | *6.2/10
+· William Tell, un contador de cartas con un pasado traumático, dedica su existencia a sobrevivir con apuestas pequeñas al póker, hasta que un día una reclutadora de jugadores de póker se fija en él y le ofrece un trato que les puede hacer ganar mucho dine.
+· País: Estados Unidos
+· Dirección: Paul Schrader.
+· Reparto: Oscar Isaac, Tiffany Haddish, Tye Sheridan, Willem Dafoe.
+· Guion: Paul Schrader.
+· Música: Robert Levon Been, Giancarlo Vulcano.
+· Producción: Braxton Pope, Lauren Mann.
+· Productora: Focus Features.</desc>
+	</programme>
+  <programme start="20260329050400 +0200" stop="20260329051400 +0200" channel="M+ Acción HD">
+    <title>¡Qué bruja!</title>
+    <desc>Cortometrajes,Corto de comedia | 2025 | +7 | *6.2/10
+· Premio Especial del jurado de la Sección Midnight en el Festival South by Southwest (SXSW) 2025.
+· País: Estados Unidos
+· Dirección: Hoku Uchiyama.</desc>
+	</programme>
+  <programme start="20260329051400 +0200" stop="20260329070500 +0200" channel="M+ Acción HD">
+    <title>Mujer fatal</title>
+    <desc>Cine,Thriller | 2002 | +12 | *6.2/10
+· Cannes, 2001. Laure Ash es una verdadera "femme fatale" y una forajida habilidosa. Debe seducir a la modelo que acompaña al director Régis Wargnier e intercambiar joyas preciosas por falsificaciones.
+· País: Estados Unidos, Francia y Suiza
+· Dirección: Brian De Palma.
+· Reparto: Rebecca Romijn, Antonio Banderas, Peter Coyote, Gregg Henry.
+· Guion: Brian De Palma.
+· Música: Ryuichi Sakamoto.
+· Productora: Quinta Communications, Epsilon Motion Pictures, Warner Bros.</desc>
+	</programme>
+  <programme start="20260329070500 +0200" stop="20260329080000 +0200" channel="M+ Acción HD">
+    <title>Bruce Lee. Dentro del dragón</title>
+    <desc>Documentales,Biografía | 2025 | +12 | *6.2/10
+· Este documental examina cómo Bruce Lee transformó Hollywood, una industria marcada por los estereotipos raciales.
+· País: Francia
+· Dirección: Marc Ball.</desc>
+	</programme>
+  <programme start="20260329080000 +0200" stop="20260329095000 +0200" channel="M+ Acción HD">
+    <title>The Fast and the Furious (A todo gas)</title>
+    <desc>Cine,Acción | 2001 | +16 | *7.4/10
+· Un policía debe infiltrarse en el mundo de las carreras ilegales de coches para desactivar una red de blanqueo de dinero.
+· País: Alemania y Estados Unidos
+· Dirección: Rob Cohen.
+· Reparto: Paul Walker, Vin Diesel, Michelle Rodriguez, Jordana Brewster, Rick Yune, Chad Lindberg.
+· Guion: Erik Bergquist, Gary Scott Thompson, David Ayer, Ken Li.
+· Música: BT.
+· Producción: Neal H. Moritz, Doug Claybourne, Creighton Bellinger.
+· Productora: Neal H. Moritz Productions, Michel Gondry, Universal Pictures, Original Film.</desc>
+	</programme>
+  <programme start="20260327080000 +0100" stop="20260327093400 +0100" channel="M+ Comedia HD">
+    <title>Looney Tunes: el día que la Tierra explotó</title>
+    <desc>Cine,Animación | 2024 | TP | *6.6/10
+· Cuando el granjero Jim (el hombre que crió al pato Lucas y el cerdito Porky) 'se fue', les dejó dos consejos: 1) cuidad de vuestro hogar, 2) manteneos unidos y nunca os pasará nada. Ahora van a comprobar lo sabias que eran sus recomendaciones.
+· País: Canadá y Estados Unidos
+· Dirección: Peter Browngardt.</desc>
+	</programme>
+  <programme start="20260327093400 +0100" stop="20260327101700 +0100" channel="M+ Comedia HD">
+    <title>El consultorio de Berto T3 · Eva Hache y el quinto pino</title>
+    <desc>Entretenimiento,Humor | 2025 | +16 | *6.2/10
+· ¿Qué contestar cuando la familia aprieta al soltero o soltera para tener pareja? ¿Qué está más lejos 'a tomar por culo' o 'el quinto pino'? o ¿qué hacer si no se tiene un miembro normativo? Temas cruciales que sólo Berto y Eva Hache pueden resolver.
+· País: España
+· Presenta: Berto Romero.
+· Producción: Movistar Plus+.</desc>
+	</programme>
+  <programme start="20260327101700 +0100" stop="20260327121000 +0100" channel="M+ Comedia HD">
+    <title>Dos superpolicías</title>
+    <desc>Cine,Comedia | 1977 | TP | *6.2/10
+· Uno es introvertido y simpático; el otro, despreocupado y extrovertido. Ambos son algo agresivos, pero de buen corazón. Juntos deciden realizar un atraco, pero, cuando irrumpen en el local, se dan cuenta de que es la Oficina de Reclutamiento de Policías.
+· País: Italia
+· Dirección: Enzo Barboni.
+· Reparto: Terence Hill, Bud Spencer, David Huddleston, Luciano Catenacci, Ezio Marano, Luciano Rossi.
+· Guion: Enzo Barboni.
+· Música: Guido De Angelis, Maurizio De Angelis.
+· Productora: Tritone Cinematografica, T.O.T.A.</desc>
+	</programme>
+  <programme start="20260327121000 +0100" stop="20260327134600 +0100" channel="M+ Comedia HD">
+    <title>Dos superpolicías en Miami</title>
+    <desc>Cine,Comedia | 1985 | +12 | *6.6/10
+· Los peculiares agentes del FBI Doug Bennet y Steve Forest investigan la muerte en Miami de un exconvicto implicado en un robo.
+· País: Estados Unidos, Italia y Panamá
+· Dirección: Bruno Corbucci.
+· Reparto: Terence Hill, Bud Spencer, C.B. Seay, William 'Bo' Jim, Ken Ceresne, Jackie Castellano.
+· Guion: Bruno Corbucci, Luciano Vincenzoni.
+· Música: Carmelo La Bionda, Michelangelo La Bionda.
+· Producción: Josi W. Konski.
+· Productora: Trans-Cinema TV, Elpico.</desc>
+	</programme>
+  <programme start="20260327134600 +0100" stop="20260327151500 +0100" channel="M+ Comedia HD">
+    <title>Mary superchef</title>
+    <desc>Cine,Animación | 2023 | TP | *6.2/10
+· Mary es una niña aficionada a la cocina que, de la noche a la mañana, debe afrontar la inminente muerte de su abuela con la que mantiene una relación muy especial.
+· País: Alemania, Estonia, Irlanda, Italia, Letonia, Luxemburgo y Reino Unido
+· Dirección: Enzo d'Alò.</desc>
+	</programme>
+  <programme start="20260327151500 +0100" stop="20260327164200 +0100" channel="M+ Comedia HD">
+    <title>Bajo el muelle</title>
+    <desc>Cine,Animación | 2023 | +7 | *6.0/10
+· Llega el calor y los cangrejos del muelle de Nueva Jersey se disponen a disfrutar del sol y los amores de verano... igual que los cangrejos turistas que, de pronto, invaden el muelle. Entre los lugareños se encuentra Armen, un tímido y apocado crustáceo.
+· País: Estados Unidos
+· Dirección: David Soren.
+· Guion: Lorene Scafaria, David Soren.
+· Música: John Debney, Jonathan Sadoff.
+· Producción: David Dobkin.
+· Productora: Paramount Animation, Big Kid Pictures, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260327164200 +0100" stop="20260327181100 +0100" channel="M+ Comedia HD">
+    <title>Astérix: El secreto de la poción mágica</title>
+    <desc>Cine,Animación | 2018 | TP | *7.2/10
+· Tras sufrir una caída por trepar a los árboles en busca de los ingredientes para sus pociones, el druida Panorámix comienza a reflexionar: ha llegado la hora de jubilarse y buscar un sucesor apropiado.
+· País: Francia
+· Dirección: Alexandre Astier, Louis Clichy.
+· Guion: René Goscinny, Albert Uderzo.
+· Música: Philippe Rombi.
+· Productora: M6 Studio.</desc>
+	</programme>
+  <programme start="20260327181100 +0100" stop="20260327201100 +0100" channel="M+ Comedia HD">
+    <title>El chip prodigioso</title>
+    <desc>Cine,Ciencia ficción | 1987 | TP | *7.2/10
+· Por accidente, un piloto y su nave, sometidos a una miniaturización experimental, van a parar al cuerpo de un hipocondríaco.
+· País: Estados Unidos
+· Dirección: Joe Dante.
+· Reparto: Dennis Quaid, Martin Short, Meg Ryan, Kevin McCarthy, Fiona Lewis, Vernon Wells, Robert Picardo.
+· Guion: Jeffrey Boam, Chip Proser.
+· Música: Jerry Goldsmith.
+· Producción: Michael Finnell.
+· Productora: Warner Bros. Pictures, Amblin Entertainment, Warner Bros.</desc>
+	</programme>
+  <programme start="20260327201100 +0100" stop="20260327220000 +0100" channel="M+ Comedia HD">
+    <title>Paddington: aventura en la selva</title>
+    <desc>Cine,Aventuras | 2024 | TP | *6.2/10
+· Paddington y la familia Brown ponen rumbo a Perú para hacer compañía a la anciana tía Lucy, sin saber que una gran aventura les espera en lo más profundo del Amazonas. Allí, nuestro querido oso descubrirá la verdad sobre su pasado familiar.
+· País: Estados Unidos, Francia, Japón y Reino Unido
+· Dirección: Dougal Wilson.
+· Reparto: Hugh Bonneville, Emily Mortimer, Julie Walters, Olivia Colman, Antonio Banderas.</desc>
+	</programme>
+  <programme start="20260327220000 +0100" stop="20260327233200 +0100" channel="M+ Comedia HD">
+    <title>Los Muértimer</title>
+    <desc>Cine,Aventuras | 2025 | +12 | *6.8/10
+· Cuando Nico y sus padres van a recoger a su estudiante de intercambio descubren con estupor que es una chica. Pero la sorpresa de ella es aún mayor: su nueva familia es dueña de una funeraria y vive en un antiguo caserón... enfrente del cementerio.
+· País: España
+· Dirección: Álvaro Fernández Armero.
+· Reparto: Alexandra Jiménez, Víctor Clavijo, Belén Rueda, Diego Montejo, Iratxe Emparan, Fele Martínez, Pepe Lorente, Bruna González, Carmen Mayordomo, Juan Viadas.
+· Guion: Jelen Morales.
+· Música: Vanessa Garde.
+· Producción: Álex de la Iglesia, Carolina Bang, Ghislain Barrois.
+· Productora: Pokeepsietxea, Telecinco Cinema, Pokeepsie Films.</desc>
+	</programme>
+  <programme start="20260327233200 +0100" stop="20260328000500 +0100" channel="M+ Comedia HD">
+    <title>Ilustres ignorantes T19 · Escapada romántica</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *6.8/10
+· El cómico Ignatius y Raúl Pérez como la directora de cine Isabel Coixet visitan Ilustres para debatir sobre “Escapadas románticas” ¿qué tiene que tener una escapada romántica ideal? Y ¿qué la puede arruinar: la lluvia, las colas, compartir baño…?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+  <programme start="20260328000500 +0100" stop="20260328014800 +0100" channel="M+ Comedia HD">
+    <title>Superdetective en Hollywood</title>
+    <desc>Cine,Acción | 1984 | +16 | *6.8/10
+· Un policía viaja hasta Beverly Hills para esclarecer la muerte de un amigo.
+· País: Estados Unidos
+· Dirección: Martin Brest.
+· Reparto: Eddie Murphy, Judge Reinhold, John Ashton, Lisa Eilbacher.
+· Guion: Daniel Petrie Jr., Danilo Bach.
+· Música: Harold Faltermeyer.
+· Producción: Jerry Bruckheimer, Don Simpson.
+· Productora: Paramount Pictures.</desc>
+	</programme>
+  <programme start="20260328014800 +0100" stop="20260328033100 +0100" channel="M+ Comedia HD">
+    <title>Superdetective en Hollywood II</title>
+    <desc>Cine,Acción | 1987 | +18 | *6.8/10
+· Foley ve en las noticias que han disparado al teniente Andrew Bogomil y acude a Beverly Hills para intentar ayudar.
+· País: Estados Unidos
+· Dirección: Tony Scott.
+· Reparto: Eddie Murphy, Judge Reinhold, Jürgen Prochnow, Ronny Cox, Dean Stockwell, Brigitte Nielsen, John Ashton, Allen Garfiled.
+· Guion: Larry Ferguson, Warren Skaaren.
+· Música: Keith Forsey, Harold Faltermeyer.
+· Producción: Don Simpson, Jerry Bruckheimer.
+· Productora: Eddie Murphy Productions, Paramount Pictures.</desc>
+	</programme>
+  <programme start="20260328033100 +0100" stop="20260328051400 +0100" channel="M+ Comedia HD">
+    <title>Superdetective en Hollywood III</title>
+    <desc>Cine,Comedia | 1994 | +18 | *6.6/10
+· El detective de Detroit Axel Foley regresa con sus compañeros Serge y Billy Rosewood para atrapar a un grupo de despiadados asesinos. Las pistas le conducen al parque temático 'WonderWorld' de Los Ángeles.
+· País: Estados Unidos
+· Dirección: John Landis.
+· Reparto: Eddie Murphy, Stephen McHattie, Judge Reinhold, Timothy Carhart, Theresa Randle, Alan Young, Bronson Pinchot, Joey Travolta, Al Green, Tim Gilbert.
+· Guion: Steven E. De Souza, Daniel Petrie Jr., Danilo Bach.
+· Música: Nile Rodgers.
+· Producción: Robert Rehme, Mace Neufeld.
+· Productora: Paramount Pictures, Eddie Murphy Productions.</desc>
+	</programme>
+  <programme start="20260328051400 +0100" stop="20260328060200 +0100" channel="M+ Comedia HD">
+    <title>Saturday Night Live: detrás de cámaras · El sketch más recordado</title>
+    <desc>Documentales,Sociedad | 2025 | TP | *5.8/10
+· “More Cowbell” fue emitido en el año 2000, escrito por Will Ferrell y Donnell Campbell. Fue un éxito instantáneo y pasó a formar parte de la cultura popular americana de manera irremediable. Este episodio muestra el proceso de creación del mítico sketch.
+· País: Estados Unidos
+· Dirección: Robert Alexander, Neil Berkeley, Marshall Curry, Jason Zeldes.
+· Productora: Broadway Video.</desc>
+	</programme>
+  <programme start="20260328060200 +0100" stop="20260328080000 +0100" channel="M+ Comedia HD">
+    <title>Pride/Orgullo</title>
+    <desc>Cine,Comedia dramática | 2014 | +7 | *7.4/10
+· Verano de 1984. Margaret Thatcher gobierna el Reino Unido y el Sindicato Nacional de Mineros ha convocado una huelga. Durante la manifestación del Orgullo Gay en Londres, un grupo de lesbianas y gais recauda fondos para ayudar a los huelguistas.
+· País: Francia y Reino Unido
+· Dirección: Matthew Warchus.
+· Reparto: Bill Nighy, Imelda Staunton, Dominic West, Paddy Considine, George MacKay, Joseph Gilgun, Andrew Scott.
+· Guion: Stephen Beresford.
+· Música: Christopher Nightingale.
+· Producción: David Livingstone.
+· Productora: BBC Films, Pathé, Calamity.</desc>
+	</programme>
+  <programme start="20260328080000 +0100" stop="20260328100700 +0100" channel="M+ Comedia HD">
+    <title>La mujer del predicador</title>
+    <desc>Cine,Drama | 1996 | TP | *6.2/10
+· El reverendo de un pequeño pueblo sufre una profunda crisis existencial que afecta a su matrimonio.
+· País: Estados Unidos
+· Dirección: Penny Marshall.
+· Reparto: Denzel Washington, Gregory Hines, Whitney Houston, Courtney B. Vance, Jenifer Lewis, Lionel Richie, Justin Pierre Edmund.
+· Guion: Allan Scott, Nat Nauldin.
+· Música: Hans Zimmer.
+· Producción: Samuel Goldwyn Jr.
+· Productora: Touchstone Pictures, Buena Vista Pictures, Samuel Goldwyn Company.</desc>
+	</programme>
+  <programme start="20260328100700 +0100" stop="20260328113900 +0100" channel="M+ Comedia HD">
+    <title>La reunión</title>
+    <desc>Cine,Comedia | 2023 | +16 | *6.0/10
+· 20 años después de su graduación, un grupo de antiguos compañeros se vuelven a juntar en una lujosa mansión propiedad de Mathew, uno de ellos. Una noche de locuras y reproches que pronto se convierte en una pesadilla cuando Mathew aparece asesinado.
+· País: Estados Unidos
+· Dirección: Chris Nelson.
+· Reparto: Lil Rel Howery, Billy Magnussen, Jamie Chung, Chace Crawford, Jillian Bell, Michael Hitchcock.
+· Producción: Jillian Bell.</desc>
+	</programme>
+  <programme start="20260328113900 +0100" stop="20260328130200 +0100" channel="M+ Comedia HD">
+    <title>Teen Titans Go! La película</title>
+    <desc>Cine,Animación | 2018 | +7 | *7.8/10
+· El sueño de Robin es protagonizar su propia película, pero ni las productoras ni los miembros de la Liga de la Justicia lo considera a él y al resto de los Teen Titans merecedores de tal honor: no son 'héroes de verdad', sólo unos patanes chistosos.
+· País: Estados Unidos
+· Dirección: Aaron Horvath, Peter Rida Michail.
+· Guion: Michael Jelenic, Aaron Horvath.
+· Música: Jared Faber.
+· Producción: Will Arnett, Aaron Horvath, Michael Jelenic, Peter Rida Michail, Peggy Regan.
+· Productora: Warner Bros. Animation, DC Entertainment, Cartoon Network.</desc>
+	</programme>
+  <programme start="20260328130200 +0100" stop="20260328142700 +0100" channel="M+ Comedia HD">
+    <title>El Grinch</title>
+    <desc>Cine,Animación | 2018 | +7 | *8.0/10
+· Cada año, en Navidad, los lugareños perturban la soledad del Grinch con celebraciones cada vez más desmesuradas. Cuando los Quién declaran que ese año van a preparar una Navidad el triple de grande, el Grinch decide robar la Navidad.
+· País: Estados Unidos
+· Dirección: Yarrow Cheney, Scott Mosier.
+· Guion: Michael LeSieur.
+· Música: Danny Elfman.
+· Productora: Universal Pictures, Illumination Entertainment, Perfect World Pictures.</desc>
+	</programme>
+  <programme start="20260328142700 +0100" stop="20260328150700 +0100" channel="M+ Comedia HD">
+    <title>El consultorio de Berto T3 · Eva Hache y el quinto pino</title>
+    <desc>Entretenimiento,Humor | 2025 | +16 | *6.2/10
+· ¿Qué contestar cuando la familia aprieta al soltero o soltera para tener pareja? ¿Qué está más lejos 'a tomar por culo' o 'el quinto pino'? o ¿qué hacer si no se tiene un miembro normativo? Temas cruciales que sólo Berto y Eva Hache pueden resolver.
+· País: España
+· Presenta: Berto Romero.
+· Producción: Movistar Plus+.</desc>
+	</programme>
+  <programme start="20260328150700 +0100" stop="20260328163500 +0100" channel="M+ Comedia HD">
+    <title>La fiesta de las salchichas</title>
+    <desc>Cine,Animación para adultos | 2016 | +16 | *6.2/10
+· Los alimentos del supermercado esperan ansiosos a que llegue el día en que los dioses -es decir, los humanos- los recojan y los lleven con ellos. Sin embargo, el mundo más allá de la puerta del centro comercial no es, ni mucho menos, lo que ellos creían.
+· País: Camboya y Estados Unidos
+· Dirección: Greg Tiernan, Conrad Vernon.
+· Reparto: Kristen Wiig, Michael Cera, James Franco, Salma Hayek, Jonah Hill, Paul Rudd, Danny McBride, Edward Norton, Seth Rogen.
+· Guion: Seth Rogen, Evan Goldberg, Ariel Shaffir, Kyle Hunter, Jonah Hill.
+· Música: Alan Menken, Christopher Lennertz.
+· Producción: Evan Goldberg, Seth Rogen, Conrad Vernon, Megan Ellison.
+· Productora: Annapurna Pictures, Columbia Pictures, Point Grey Pictures Inc..</desc>
+	</programme>
+  <programme start="20260328163500 +0100" stop="20260328180900 +0100" channel="M+ Comedia HD">
+    <title>Ojalá fuera cierto</title>
+    <desc>Cine,Comedia romántica | 2005 | TP | *6.8/10
+· Tras alquilar un piso para él solo, David se encuentra con una joven que aparece y desaparece misteriosamente.
+· País: Estados Unidos
+· Dirección: Mark Waters.
+· Reparto: Reese Witherspoon, Mark Ruffalo, Donal Logue, Dina Waters, Ben Shenkman, Jon Heder, Ivana Milicevic, Dina Spybey-Waters.
+· Guion: Peter Tolan, Leslie Dixon.
+· Música: Rolfe Kent.
+· Producción: Walter F. Parkes, Laurie MacDonald.
+· Productora: DreamWorks SKG, MacDonald/Parkes Productions.</desc>
+	</programme>
+  <programme start="20260328180900 +0100" stop="20260328193600 +0100" channel="M+ Comedia HD">
+    <title>A toda máquina</title>
+    <desc>Cine,Comedia romántica | 2024 | +12 | *6.0/10
+· Marco, un intrépido camarero, y Marianne, una oficial de submarino con una fuerte personalidad, se encuentran durante una escala. Lo que comienza como una aventura puntual se convierte rápidamente en una trepidante aventura romántica.
+· País: Bélgica y Francia
+· Dirección: Lucas Bernard.
+· Reparto: Pio Marmaï, Eye Haidara, José García, Victor Pontecorvo, Anne Loiret, Arthur Choisnet, Pauline Huruguen, Frédéric Maranber, Calixte Broisin-Doutaz.
+· Guion: Lucas Bernard.
+· Música: Christophe Danvin.
+· Producción: Sidonie Dumas, Florian Mole.
+· Productora: Gaumont, Les grands espaces.</desc>
+	</programme>
+  <programme start="20260328193600 +0100" stop="20260328212600 +0100" channel="M+ Comedia HD">
+    <title>O Brother!</title>
+    <desc>Cine,Comedia | 2000 | +12 | *6.4/10
+· "La Odisea" trasladada a la América sureña de los años 30 es el punto de partida de esta obra maestra de los Coen.
+· País: Estados Unidos, Francia y Reino Unido
+· Dirección: Joel Coen, Ethan Coen.
+· Reparto: George Clooney, John Turturro, Tim Blake Nelson, John Goodman, Holly Hunter.
+· Guion: Ethan Coen.
+· Música: Carter Burwell.
+· Productora: Touchstone Pictures.</desc>
+	</programme>
+  <programme start="20260328212600 +0100" stop="20260328220000 +0100" channel="M+ Comedia HD">
+    <title>Ilustres ignorantes T19 · Invasiones</title>
+    <desc>Entretenimiento,Humor | 2026 | +16 | *6.6/10
+· La actriz Adriana Torrebejano y el cantante Pablo Alborán son los invitados de este Ilustres en el que debaten sobre “Invasiones” ¿Qué país les gustaría que nos invadiera para adaptarnos a su cultura? ¿Qué harían ante una invasión alienígena?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+	</programme>
+  <programme start="20260328220000 +0100" stop="20260329001500 +0100" channel="M+ Comedia HD">
+    <title>Granujas a todo ritmo</title>
+    <desc>Cine,Comedia | 1980 | TP | *7.4/10
+· Un expresidiario decide volver a formar su vieja banda de blues para sacar de la bancarrota el orfanato donde se crió.
+· País: Estados Unidos
+· Dirección: John Landis.
+· Reparto: John Belushi, Dan Aykroyd, James Brown, Ray Charles, Cab Calloway, Aretha Franklin, Carrie Fisher, Kathleen Freeman, Murphy Dunne, Steve Cropper, Donald Dunn.
+· Guion: John Landis, Dan Aykroyd.
+· Música: Elmer Bernstein.
+· Producción: Robert K. Weiss.
+· Productora: Universal Pictures.</desc>
+	</programme>
+  <programme start="20260329001500 +0100" stop="20260329033200 +0100" channel="M+ Comedia HD">
+    <title>Atrápame si puedes</title>
+    <desc>Cine,Comedia | 2002 | +7 | *7.0/10
+· Verdadero maestro del engaño, Frank Abagnale Jr. es un timador brillante cuyas habilidades a la hora de falsificar talones le permiten hacerse con millones de dólares. Carl Hanratty, agente del FBI, se dedica en cuerpo y alma a la captura de Frank.
+· País: Canadá y Estados Unidos
+· Dirección: Steven Spielberg.
+· Reparto: Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen, Nathalie Baye, Amy Adams, James Brolin.
+· Guion: Jeff Nathanson.
+· Música: John Williams.
+· Producción: Steven Spielberg, Walter F. Parkes.
+· Productora: DreamWorks SKG, Amblin Entertainment.</desc>
+	</programme>
+  <programme start="20260329033200 +0100" stop="20260329045700 +0100" channel="M+ Comedia HD">
+    <title>Idiocracia</title>
+    <desc>Cine,Comedia | 2006 | +16 | *6.2/10
+· El tipo más tonto del mundo es congelado para un experimento militar, junto con una prostituta. Cuando se despierta, 500 años después, se percata de que es el hombre más inteligente del planeta.
+· País: Estados Unidos
+· Dirección: Mike Judge.
+· Reparto: Luke Wilson, Dax Shepard, Terry Alan Crews.</desc>
+	</programme>
+  <programme start="20260329045700 +0100" stop="20260329061000 +0100" channel="M+ Comedia HD">
+    <title>Saturday Night Live T51 · Ariana Grande / Cher</title>
+    <desc>Entretenimiento,Humor | 2025 | +7 | *5.8/10
+· Tercera ocasión en la que Ariana Grande presenta SNL. Nominada al Oscar, vuelve al último programa de este año en plena promoción de su última película “Wicked: Parte II”. Por su parte, la actuación musical correrá a cargo de la veterana Cher.
+· País: Estados Unidos</desc>
+	</programme>
+  <programme start="20260329061000 +0100" stop="20260329074500 +0100" channel="M+ Comedia HD">
+    <title>Un pequeño contratiempo</title>
+    <desc>Cine,Comedia romántica | 2021 | +7 | *6.2/10
+· Teddy, un treintañero que adora posponer las cosas, sufre una maldición a manos de una desconocida: cada día que despierta ha pasado un año.
+· País: Australia
+· Dirección: Josh Lawson.
+· Reparto: Rafe Spall, Zahra Newman, Ronny Chieng, Dena Kaplan, Noni Hazlehurst.
+· Guion: Josh Lawson.
+· Música: Chiara Costanza.
+· Producción: Michael Pontin, Isabel Stanfield, Jamie Hilton.
+· Productora: Create NSW.</desc>
+	</programme>
+  <programme start="20260329074500 +0100" stop="20260329080000 +0100" channel="M+ Comedia HD">
+    <title>Better Man. El precio de la fama</title>
+    <desc>Cine,Programa de cine | 2025 | +7 | *6.0/10
+· Famoso por sus altibajos anímicos y sus excesos (además de por sus canciones), Robbie Williams se transfigura en chimpancé desenfrenado en el biopic musical “Better Man”. El primate representa la fealdad física y anímica que siente el artista inglés.
 · País: España</desc>
 	</programme>
-  <programme start="20260327072500 +0100" stop="20260327080000 +0100" channel="Caza y Pesca HD">
-    <title>Hermanos cazadores: Berrea y ronca en abierto</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2022 | +12 | *5.8/10
-· Los hermanos cazadores vuelven a su cazadero habitual de montaña para intentar cazar ciervos y gamos en época de celo: la berrea y la ronca. En espacios abiertos el reto de cazar con arco se magnifica y el éxito es celebrado por todo el equipo.
-· País: España</desc>
-	</programme>
-  <programme start="20260327080000 +0100" stop="20260327083000 +0100" channel="Caza y Pesca HD">
-    <title>Cocina salvaje con Daniel Ochoa T1 · Recolección</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2023 | TP | *5.8/10
-· Acompañamos a Daniel en una de sus típicas jornadas de monte donde recolecta una buena parte de vegetales que luego utiliza en muchos de sus platos. En el restaurante, nos muestra algunos de sus platos más conocidos y la gran versatilidad.
-· País: España</desc>
+  <programme start="20260329080000 +0100" stop="20260329094700 +0100" channel="M+ Comedia HD">
+    <title>Wolfgang</title>
+    <desc>Cine,Drama | 2025 | +7 | *7.0/10
+· Wolfgang tiene 10 años, un extraordinario cociente intelectual, un trastorno del espectro autista y una vida que acaba de ponerse patas arriba: su madre ha muerto y su última voluntad ha sido que Wolfgang vaya a vivir con su padre, al que no conoce.
+· País: España
+· Dirección: Javier Ruiz Caldera.
+· Reparto: Jordi Catalán, Miki Esparbé, Àngels Gonyalons, Berto Romero, Anna Castillo.
+· Guion: Laia Aguilar, Carmen Marfà, Yago Alonso, Valentina Viso.
+· Música: Clara Peya.
+· Producción: Marta Sánchez de Miguel, Gerard Verdaguer.
+· Productora: Nostromo Pictures, Lo vi Films.</desc>
 	</programme>
   <programme start="20260327083000 +0100" stop="20260327090500 +0100" channel="Caza y Pesca HD">
     <title>Tras los grandes jabalíes de La Ribera</title>
@@ -3122,18 +3773,29 @@
 · Sargos. Caña. Boya, espuma y cebo. Ingredientes perfectos para pasar unas buenas horas de pesca. Si a la mezcla le añadimos quinientos metros de natación y una isla con buenos sargos, el resultado promete excelente.
 · País: España</desc>
 	</programme>
-  <programme start="20260327065600 +0100" stop="20260327070000 +0100" channel="TVG Europa HD">
-    <title>Información estado do mar mañá</title>
-    <desc>Información,Meteorología | 2023 | *5.8/10
-· Microespacio que ofrece la información meteorológica marítima. "Estado do mar" está dedicado fundamentalmente a la gente de mar y a los aficionados de los deportes náuticos.
+  <programme start="20260329080000 +0200" stop="20260329083000 +0200" channel="Caza y Pesca HD">
+    <title>Perdices en mano en el Bonillo</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2024 | +12 | *6.2/10
+· El Bonillo es un municipio albaceteño donde la caza menor es uno de los recursos mas importante. Visitamos una reconocida finca donde se realizan ojeos para cazar la perdiz en mano con perros de muestra.
 · País: España</desc>
 	</programme>
-  <programme start="20260327070000 +0100" stop="20260327080000 +0100" channel="TVG Europa HD">
-    <title>Galicia por diante</title>
-    <desc>Información,Informativo | 2025 | *6.6/10
-· Las claves informativas de la jornada, con especial atención a la actualidad gallega.
-· País: España
-· Presenta: Celia Rúa, Luis Ojea.</desc>
+  <programme start="20260329083000 +0200" stop="20260329090000 +0200" channel="Caza y Pesca HD">
+    <title>Artesanía truchera en Granada</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2025 | TP | *6.2/10
+· Nos vamos hasta Granada en pleno corazón de Sierra Nevada. En sus ríos de alta montaña conoceremos a Manuel Romero. Artesano y truchero, nos enseñara sus moscas más efectivas y típicas de la zona para unas truchas que viven en aguas muy bravas y rápidas.
+· País: España</desc>
+	</programme>
+  <programme start="20260329090000 +0200" stop="20260329093000 +0200" channel="Caza y Pesca HD">
+    <title>El otro León con Pablo Castro Río Porma</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2022 | TP | *6.2/10
+· El Porma nos recibe con mucho caudal donde las truchas se mueven a su antojo. Aprenderemos a pescarlo y nos mostrará las mejores épocas para poder pescar las grandes truchas que posee.
+· País: España</desc>
+	</programme>
+  <programme start="20260329093000 +0200" stop="20260329100000 +0200" channel="Caza y Pesca HD">
+    <title>Jabalineros T7 · Con los cazadores de Castro de Parada</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2025 | +12 | *6.2/10
+· Hoy en jabalineros cazamos con la Sociedad Castro de Parada, una montería jabalinera con más de 30 puestos. En una mañana con bastante niebla y orvallando, pero con la salida del sol quedando una jornada perfecta para la caza del jabalí y los perros de.
+· País: España</desc>
 	</programme>
   <programme start="20260327080000 +0100" stop="20260327105000 +0100" channel="TVG Europa HD">
     <title>Bos Días</title>
@@ -3465,31 +4127,20 @@
 · Dirección: Mariana Carballal.
 · Reparto: Diana Nogueira, Mara Sánchez, Gonzalo Uriarte, Monti Castiñeiras, Manuel San Martín, Mayka Braña, Abelardo Pérez.</desc>
 	</programme>
-  <programme start="20260327062000 +0100" stop="20260327070000 +0100" channel="Aragón TV">
-    <title>Aragón Noticias 2</title>
-    <desc>Información,Informativo | 2014 | *6.0/10
-· Informativo vespertino de Aragón TV que ofrece las noticias más destacadas de la actualidad aragonesa, nacional e internacional, así como la información del tiempo y del mundo del deporte.
+  <programme start="20260329070000 +0100" stop="20260329073000 +0100" channel="TVG Europa HD">
+    <title>Pulso activo</title>
+    <desc>Ocio y Aficiones,Salud y bienestar | 2025 | TP | *6.6/10
+· Eddy Insua propone una rutina diaria de ejercicio adaptado para mejorar la salud, combatir el sedentarismo y llenar las mañanas de energía positiva.
 · País: España
-· Presenta: Miriam Sánchez, Sergio Melendo, Noemí Núñez, Javier Gastón, Eduardo Lolumo, Mirtha Orallo, Jacobo Fernández, Jacobo Fernández Cabo.</desc>
+· Presenta: Eddy Insua.
+· Productora: TVG, Televisión de Galicia (TVG).</desc>
 	</programme>
-  <programme start="20260327070000 +0100" stop="20260327072000 +0100" channel="Aragón TV">
-    <title>Aragón deportes 2</title>
-    <desc>Deportes,Programa deportes | 2022 | *6.0/10
-· Toda la información deportiva de Aragón, sin perder de vista lo que ocurre en España y en el mundo.
+  <programme start="20260329073000 +0100" stop="20260329090000 +0100" channel="TVG Europa HD">
+    <title>O termómetro</title>
+    <desc>Información,Informativo | 2025 | TP | *6.2/10
+· A TVG tómalle a temperatura ao día a día dos galegos. O magazine ofrecerá unha ampla cobertura en directo da actualidade e, da man de expertos, tratará os temas que máis preocupan os espectadores.
 · País: España
-· Presenta: Jorge San Martín.</desc>
-	</programme>
-  <programme start="20260327072000 +0100" stop="20260327073000 +0100" channel="Aragón TV">
-    <title>El tiempo 2</title>
-    <desc>Información,Meteorología | 2022 | *6.0/10
-· Segunda edición del informativo meteorológico de Aragón TV.
-· País: España</desc>
-	</programme>
-  <programme start="20260327073000 +0100" stop="20260327080000 +0100" channel="Aragón TV">
-    <title>El campo es nuestro T6 E1158</title>
-    <desc>Ocio y Aficiones,Naturaleza | 2026 | TP | *6.2/10
-· Programa que muestra el pasado, el presente y el futuro de las tierras de Aragón dando voz a gente con experiencia en el mundo de la agricultura y la ganadería y recogiendo las mejores imágenes de la naturaleza de Aragón.
-· País: España</desc>
+· Presenta: Rocío Delgado, Bernardo Montaña.</desc>
 	</programme>
   <programme start="20260327080000 +0100" stop="20260327100000 +0100" channel="Aragón TV">
     <title>Buenos días Aragón T25/26 E3996</title>
@@ -3908,17 +4559,41 @@
 · País: España
 · Presenta: Miriam Sánchez, Sergio Melendo, Noemí Núñez, Mirtha Orallo, Jacobo Fernández, Jorge San Martín, Nuria Seró, Víctor Hugo Arroyo.</desc>
 	</programme>
-  <programme start="20260327055500 +0100" stop="20260327080000 +0100" channel="Real Madrid TV">
-    <title>UEFA Champions League T21/22 · Final: Liverpool-Real Madrid</title>
-    <desc>Deportes,Fútbol | 2022 | *6.4/10
-· El Real Madrid, tras superar a PSG, Chelsea y Manchester City con remontadas increíbles, busca el que sería su 14º título en esta competición. Enfrente tendrá un Liverpool con ganas de revancha tras la derrota en la final de Kiev de 2018.</desc>
-	</programme>
-  <programme start="20260327080000 +0100" stop="20260327081500 +0100" channel="Real Madrid TV">
-    <title>Aprende inglés con Vaughan en Realmadrid TV</title>
-    <desc>Cultural/Educativo,Programa cultural | 2018 | TP | *6.0/10
-· Programa que ofrece a los espectadores la oportunidad de aprender inglés de la mano del profesor Richard Vaughan. El espacio pretende introducir al público de lleno en el idioma, tanto desde el punto de vista gramatical como desde el analítico.
+  <programme start="20260329070500 +0100" stop="20260329072000 +0100" channel="Aragón TV">
+    <title>Aragón deportes 2</title>
+    <desc>Deportes,Programa deportes | 2022 | *6.0/10
+· Toda la información deportiva de Aragón, sin perder de vista lo que ocurre en España y en el mundo.
 · País: España
-· Presenta: Richard Vaughan.</desc>
+· Presenta: Jorge San Martín.</desc>
+	</programme>
+  <programme start="20260329072000 +0100" stop="20260329073000 +0100" channel="Aragón TV">
+    <title>El tiempo 2</title>
+    <desc>Información,Meteorología | 2022 | *6.0/10
+· Segunda edición del informativo meteorológico de Aragón TV.
+· País: España</desc>
+	</programme>
+  <programme start="20260329073000 +0100" stop="20260329075500 +0100" channel="Aragón TV">
+    <title>Charrín Charrán T1 E72</title>
+    <desc>Ocio y Aficiones,Espectáculo | 2019 | TP
+· Magazín de actualidad presentado por Silvia Cebolla destinado a difundir la cultura y la lengua aragonesas. El programa, el primero en emitirse en lengua aragonesa, ofrece reportajes y entrevistas sobre asuntos sociales y culturales.
+· País: España
+· Presenta: Silvia Cebolla.</desc>
+	</programme>
+  <programme start="20260329075500 +0100" stop="20260329081900 +0100" channel="Aragón TV">
+    <title>Grandes viajes en Tren: Kenia (parte 3)</title>
+    <desc>Documentales,Viajes | 2021 | +7 | *6.0/10
+· El reportero Philippe Gougle realiza un viaje por todo el mundo en tren.
+· País: Francia
+· Presenta: Philippe Gougler.
+· Productora: Step by Step Productions.</desc>
+	</programme>
+  <programme start="20260329081900 +0100" stop="20260329085000 +0100" channel="Aragón TV">
+    <title>Grandes viajes en Tren: Kenia (parte 4)</title>
+    <desc>Documentales,Viajes | 2021 | +7 | *6.0/10
+· El reportero Philippe Gougle realiza un viaje por todo el mundo en tren.
+· País: Francia
+· Presenta: Philippe Gougler.
+· Productora: Step by Step Productions.</desc>
 	</programme>
   <programme start="20260327081500 +0100" stop="20260327120000 +0100" channel="Real Madrid TV">
     <title>Ciudad Real Madrid</title>
@@ -4068,19 +4743,10 @@
     <desc>Deportes,Programa deportes | 2025 | *6.4/10
 · Programa deportivo que incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.</desc>
 	</programme>
-  <programme start="20260327064100 +0100" stop="20260327072300 +0100" channel="Movistar Plus+ HD">
-    <title>Historia de las sitcoms: Escapando de la realidad</title>
-    <desc>Documentales,Sociedad | 2021 | +7 | *6.2/10
-· En cada cambio social o cultural, las comedias de situación han ofrecido un escape a las presiones de nuestro día a día a través del humor y la nostalgia. Son un antídoto a este mundo que cambia continuamente.
-· País: Estados Unidos
-· Dirección: Marshall Jay Kaplan.</desc>
-	</programme>
-  <programme start="20260327072300 +0100" stop="20260327080500 +0100" channel="Movistar Plus+ HD">
-    <title>Historia de las sitcoms: Lucha de clases</title>
-    <desc>Documentales,Sociedad | 2021 | +7 | *5.6/10
-· Series como “Frasier” han mostrado la lucha de clases, mostrando a un padre de clase obrera y a sus intelectuales hijos. Las ‘sitcoms’ han ayudado a generaciones de estadounidenses a entender su lugar en una supuesta sociedad "sin clases".
-· País: Estados Unidos
-· Dirección: Marshall Jay Kaplan.</desc>
+  <programme start="20260329080000 +0100" stop="20260329130000 +0100" channel="Real Madrid TV">
+    <title>Real Madrid TV</title>
+    <desc>Deportes,Programa deportes | 2019 | *6.0/10
+· Real Madrid TV -.</desc>
 	</programme>
   <programme start="20260327080500 +0100" stop="20260327090400 +0100" channel="Movistar Plus+ HD">
     <title>Otros Mundos: Señales: Señales. Los mártires de la carrera espacial</title>
@@ -4439,9 +5105,20 @@
 · Dirección: Oscar Chan.
 · Productora: BBC Studios.</desc>
 	</programme>
-  <programme start="20260327064400 +0100" stop="20260327080000 +0100" channel="Primera Federación">
-    <title>Primera Federación</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260329084000 +0200" stop="20260329093200 +0200" channel="Movistar Plus+ HD">
+    <title>La cara oculta de Pompeya E2</title>
+    <desc>Documentales,Historia | 2024 | +7 | *6.0/10
+· Hoy, los expertos descubren cada vez más pruebas en una ciudad de extremos. Mientras las élites se rodean de lujos, los esclavos dedican sus vidas al servicio de los poderosos. Los hallazgos arqueológicos nos revelan cómo era vivir y morir en Pompeya.
+· País: Reino Unido
+· Dirección: Oscar Chan.
+· Productora: BBC Studios.</desc>
+	</programme>
+  <programme start="20260329093200 +0200" stop="20260329103500 +0200" channel="Movistar Plus+ HD">
+    <title>Pompeya: nuevas excavaciones · La casa de los tesoros</title>
+    <desc>Documentales,Historia | 2024 | TP | *5.8/10
+· Después del éxito de la primera temporada, este documental regresa al yacimiento arqueológico más famoso del mundo para grabar en exclusiva a los arqueólogos trabajando mientras salen a la luz nuevos hallazgos extraordinarios.
+· País: Reino Unido
+· Dirección: Elena Mortelliti.</desc>
 	</programme>
   <programme start="20260327080000 +0100" stop="20260327100800 +0100" channel="Primera Federación">
     <title>Primera Federación T25/26 · Jornada 29: Tenerife - Osasuna Promesas</title>
@@ -4558,12 +5235,6 @@
   <programme start="20260329061500 +0100" stop="20260329092000 +0100" channel="Primera Federación">
     <title>Primera Federación</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260327051400 +0100" stop="20260327071000 +0100" channel="M+ Vamos HD">
-    <title>Euroliga de baloncesto T25/26 · Jornada 33: Valencia - Olympiacos</title>
-    <desc>Deportes,Baloncesto | 2026 | TP | *6.4/10
-· Valencia Basket y Olympiacos se enfrentan en la jornada 33 de la Euroliga. Duelo fundamental para ambos equipos en su objetivo por entrar entre los cuatro primeros. Valencia es quinto, con 20 victorias y Olympiacos es segundo con 22.
-· País: España</desc>
 	</programme>
   <programme start="20260327071000 +0100" stop="20260327090500 +0100" channel="M+ Vamos HD">
     <title>Brasileirao T2026 · Jornada 8: Corinthians - Flamengo</title>
@@ -4763,29 +5434,11 @@
 · Jornada 34 de la mejor competición de baloncesto de Europa, con más equipos que nunca y con más jornadas que nunca. 20 equipos, 38 jornadas de competición, los play offs, la Final Four... 8 meses por delante para conocer al campeón del basket europeo.
 · País: España</desc>
 	</programme>
-  <programme start="20260327061000 +0100" stop="20260327080000 +0100" channel="M+ LaLiga HD">
-    <title>LALIGA EA SPORTS T25/26 · Jornada 29: Sevilla - Valencia</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.6/10
-· Dos grandes de la historia del fútbol español en apuros. Temporada difícil para los de Almeyda y para los de Corberán. La salvación es el objetivo pero aún quedan muchos puntos en disputa y cada resultado cuenta. La presión crece para los dos equipos.
-· País: España</desc>
-	</programme>
-  <programme start="20260327080000 +0100" stop="20260327081100 +0100" channel="M+ LaLiga HD">
-    <title>Resúmenes LALIGA EA Sports T25/26 · Jornada 29: Villarreal - Real Sociedad</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
-· El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-	</programme>
-  <programme start="20260327081100 +0100" stop="20260327082300 +0100" channel="M+ LaLiga HD">
-    <title>Resúmenes LALIGA EA Sports T25/26 · Jornada 29: Osasuna - Girona</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
-· El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
-	</programme>
-  <programme start="20260327082300 +0100" stop="20260327083500 +0100" channel="M+ LaLiga HD">
-    <title>Resúmenes LALIGA EA Sports T25/26 · Jornada 29: Celta - Alavés</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
-· El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-· País: España</desc>
+  <programme start="20260329080000 +0200" stop="20260329100000 +0200" channel="M+ Vamos HD">
+    <title>Semifinales: Semifinal 2 T2026 · Torneo de Miami</title>
+    <desc>Deportes,Tenis | 2026 | TP | *6.0/10
+· Miami acoge el segundo Masters 1000 de la temporada, que pone fin a la gira de pista dura americana de febrero y marzo. El checo Jakub Mensik fue el campeón de 2025.
+· País: Estados Unidos</desc>
 	</programme>
   <programme start="20260327083500 +0100" stop="20260327084800 +0100" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA EA Sports T25/26 · Jornada 29: Real Madrid - At. Madrid</title>
@@ -5097,6 +5750,12 @@
 · País: España
 · Presenta: Jorge Valdano.
 · Productora: Mediapro.</desc>
+	</programme>
+  <programme start="20260329080000 +0100" stop="20260329095000 +0100" channel="M+ LaLiga HD">
+    <title>LALIGA EA SPORTS T25/26 · Jornada 29: Real Madrid - At. Madrid</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *7.0/10
+· El Real Madrid recibe al Atlético de Madrid en el Santiago Bernabéu buscando redimirse del 5-2 sufrido en la ida. Ambos equipos llegan en dinámica positiva a este derbi clave para LALIGA tras certificar su pase a cuartos de final en Champions.
+· País: España</desc>
 	</programme>
   <programme start="20260327060000 +0100" stop="20260327103000 +0100" channel="DAZN LaLiga HD">
     <title>DAZN LALIGA</title>
@@ -5639,6 +6298,12 @@
     <title>LALIGA TV HYPERMOTION</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
+  <programme start="20260329070000 +0100" stop="20260329090000 +0100" channel="LaLiga TV Hypermotion HD">
+    <title>Jornada 32: Valladolid - Burgos T25/26 · LALIGA HYPERMOTION</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· Zorrilla invita a mandar desde banda y centros tensos; el Valladolid buscará continuidad con balón y profundidad. El Burgos se siente cómodo en marcadores cortos: orden, rechaces y estrategia. Si el partido se atasca, el primer detalle será decisivo.
+· País: España</desc>
+	</programme>
   <programme start="20260327000000 +0100" stop="20260327120000 +0100" channel="M+ LaLiga 2 HD">
     <title>M+ LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
@@ -5707,79 +6372,9 @@
     <title>DAZN LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260327040000 +0100" stop="20260327080000 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>Próximo partido: Granada-Huesca</title>
+  <programme start="20260329070000 +0100" stop="20260329110000 +0100" channel="DAZN LaLiga 2 HD">
+    <title>DAZN LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260327080000 +0100" stop="20260327120000 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>Próximo partido: Granada-Huesca</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260327120000 +0100" stop="20260327160000 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>Próximo partido: Granada-Huesca</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260327160000 +0100" stop="20260327200000 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>Próximo partido: Granada-Huesca</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260327200000 +0100" stop="20260328000000 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>Próximo partido: Granada-Huesca</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260328000000 +0100" stop="20260328040000 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>Próximo partido: Granada-Huesca</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260328040000 +0100" stop="20260328080000 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>Próximo partido: Granada-Huesca</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260328080000 +0100" stop="20260328120000 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>Próximo partido: Granada-Huesca</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260328120000 +0100" stop="20260328161500 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>Próximo partido: Granada-Huesca</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260328161500 +0100" stop="20260328181500 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>DIRECTO Jornada 32: Granada - Huesca T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Los Cármenes pide pegada: Granada vertical para pisar área con frecuencia y cargar segundas jugadas. El Huesca intentará un guion sobrio en bloque medio-bajo; si sostiene el área y ajusta el balón parado, puede rascar en un duelo de mínimos.
-· País: España</desc>
-	</programme>
-  <programme start="20260328181500 +0100" stop="20260328210000 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>Próximo partido: Albacete-Castellón</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260328210000 +0100" stop="20260328230000 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>DIRECTO Jornada 32: Albacete - Castellón T25/26 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· El Belmonte exige ritmo: el Alba buscará pausa y claridad entre líneas para habilitar remate frontal. El Castellón amenaza por fuera y llega con varios al remate; la gestión de pérdidas y la estrategia pueden inclinar un duelo equilibrado.
-· País: España</desc>
-	</programme>
-  <programme start="20260328230000 +0100" stop="20260329000000 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>LALIGA TV HYPERMOTION 2</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260329000000 +0100" stop="20260329040000 +0200" channel="LaLiga TV Hypermotion 2">
-    <title>LALIGA TV HYPERMOTION 2</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260329040000 +0200" stop="20260329050000 +0200" channel="LaLiga TV Hypermotion 2">
-    <title>LALIGA TV HYPERMOTION 2</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260329050000 +0200" stop="20260329090000 +0200" channel="LaLiga TV Hypermotion 2">
-    <title>LALIGA TV HYPERMOTION 2</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260327063000 +0100" stop="20260327083000 +0100" channel="M+ Liga de Campeones HD">
-    <title>UEFA Conference League T25/26 · Octavos de final: AEK Atenas - Celje</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Poco a poco, la Conference League se va consolidando como una competición a seguir. El tercer torneo de la UEFA aglutina a 36 equipos en su fase liga, al igual que el resto de competiciones UEFA. El Chelsea es el actual campeón.
-· País: Grecia</desc>
 	</programme>
   <programme start="20260327083000 +0100" stop="20260327090000 +0100" channel="M+ Liga de Campeones HD">
     <title>Resumen liga brasileña T2026 E8</title>
@@ -5982,6 +6577,12 @@
 · Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
 · País: Portugal</desc>
 	</programme>
+  <programme start="20260329083000 +0100" stop="20260329103000 +0100" channel="M+ Liga de Campeones HD">
+    <title>UEFA Europa League T25/26 · Octavos de final: Friburgo - Genk</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
+· País: Alemania</desc>
+	</programme>
   <programme start="20260327000000 +0100" stop="20260327120000 +0100" channel="M+ Liga de Campeones 2 HD">
     <title>M+ Liga de Campeones 2</title>
     <desc>· Programa por determinar...</desc>
@@ -6021,25 +6622,6 @@
   <programme start="20260329000000 +0100" stop="20260329120000 +0100" channel="M+ Liga de Campeones 3 HD">
     <title>M+ Liga de Campeones 3</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260327053000 +0100" stop="20260327073000 +0100" channel="M+ Deportes HD">
-    <title>Jornada 34: Milán - Virtus T25/26 · Euroliga de baloncesto</title>
-    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
-· Duelo italiano en el que Armani Milán apura sus últimas opciones de meterse en el play in ante la Virtus de Ivanovic ya sin opciones.
-· País: España</desc>
-	</programme>
-  <programme start="20260327073000 +0100" stop="20260327080000 +0100" channel="M+ Deportes HD">
-    <title>Planeta Tenis T2026 E7</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
-· Magazine semanal en el que repasamos toda la actualidad del mundo del tenis, escuchamos a sus protagonistas y echamos una mirada a la historia.
-· País: España
-· Presenta: Lidia Blanco, Roberto Carretero.</desc>
-	</programme>
-  <programme start="20260327080000 +0100" stop="20260327081500 +0100" channel="M+ Deportes HD">
-    <title>Extras WOW T2026 · WOW28: destino Barcelona</title>
-    <desc>Deportes,Programa deportes | 2026 | +18 | *6.0/10
-· WOW llega a la tercera cita de la temporada, Barcelona. La previa de las artes marciales donde conoceremos la otra cara de los gladiadores. Como es su vida diaria, sus entrenamientos, sus trabajos más sorprendentes y como llegan a las veladas de WOW.
-· País: España</desc>
 	</programme>
   <programme start="20260327081500 +0100" stop="20260327102500 +0100" channel="M+ Deportes HD">
     <title>NHL T25/26 · Temporada Regular: Tampa Bay Lightning - Minnesota Wild</title>
@@ -6234,10 +6816,11 @@
 · El "Estu" busca recuperar sensaciones tras la derrota en Cantabria de cara a los playoffs. Alicante sin margen error para jugar la postemporada.
 · País: España</desc>
 	</programme>
-  <programme start="20260327023000 +0100" stop="20260327080000 +0100" channel="M+ Deportes 2 HD">
-    <title>M+ Deportes 2</title>
-    <desc>Deportes,Otros deportes | TP | *5.8/10
-· M+ Deportes 2 -.</desc>
+  <programme start="20260329091500 +0200" stop="20260329114500 +0200" channel="M+ Deportes HD">
+    <title>Semifinales Regionales: Alabama - Michigan T25/26 · NCAA</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.2/10
+· El pívot español Aday Mara y sus Michigan Wolverines se enfrentan a Alabama en una de las semifinales regionales con el objetivo de convertirse en uno de los ultimos ocho equipos con posibilidades de alcanzar el título de la NCAA.
+· País: Estados Unidos</desc>
 	</programme>
   <programme start="20260327080000 +0100" stop="20260327200000 +0100" channel="M+ Deportes 2 HD">
     <title>M+ Deportes 2</title>
@@ -6306,10 +6889,15 @@
     <desc>Deportes,Otros deportes | 2019 | TP | *5.8/10
 · M+ Deportes 2 -.</desc>
 	</programme>
-  <programme start="20260327053000 +0100" stop="20260327080000 +0100" channel="M+ Deportes 3">
-    <title>M+ Deportes 3</title>
-    <desc>Deportes,Otros deportes | 2019 | TP | *6.0/10
-· M+ Deportes 3 -.</desc>
+  <programme start="20260329070000 +0100" stop="20260329080000 +0100" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>Deportes
+· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260329080000 +0100" stop="20260329200000 +0100" channel="M+ Deportes 2 HD">
+    <title>M+ Deportes 2</title>
+    <desc>Deportes,Otros deportes | 2019 | TP | *5.8/10
+· M+ Deportes 2 -.</desc>
 	</programme>
   <programme start="20260327080000 +0100" stop="20260327150000 +0100" channel="M+ Deportes 3">
     <title>M+ Deportes 3</title>
@@ -6397,10 +6985,10 @@
     <desc>Deportes,Otros deportes | 2019 | TP | *6.0/10
 · M+ Deportes 3 -.</desc>
 	</programme>
-  <programme start="20260327053000 +0100" stop="20260327083000 +0100" channel="M+ Golf HD">
-    <title>M+ Golf</title>
-    <desc>Sin clasificar,SIN CLASIFICAR | *6.0/10
-· M+ Golf.</desc>
+  <programme start="20260329080000 +0200" stop="20260329150000 +0200" channel="M+ Deportes 3">
+    <title>M+ Deportes 3</title>
+    <desc>Deportes,Otros deportes | 2019 | TP | *6.0/10
+· M+ Deportes 3 -.</desc>
 	</programme>
   <programme start="20260327083000 +0100" stop="20260327093000 +0100" channel="M+ Golf HD">
     <title>DIRECTO Hero Indian Open (World Feed VO) Jornada 2. Parte 1 T25/26 · DP World Tour</title>
@@ -6616,15 +7204,23 @@
 · Dura, larga, tensa, exigente...cualquiera de estos calificativos definen lo que es la fase final de la Escuela de la LPGA, donde rookies y veteranas luchan por esa ansiada tarjeta del LPGA. 3 españolas fueron este año a Alabama a pasar "El último examen".
 · País: España</desc>
 	</programme>
-  <programme start="20260327065500 +0100" stop="20260327081000 +0100" channel="DAZN F1 HD">
-    <title>DIRECTO Libres 2 T2026 · Mundial F1 - GP de Japón</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+  <programme start="20260329073000 +0100" stop="20260329080000 +0100" channel="M+ Golf HD">
+    <title>Locos por el golf T2026 E11</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+· Jon Rahm se quedó a las puertas de lograr su segunda victoria del año en el LIV en su primera visita a Sudáfrica. El torneo fue una absoluta locura. También brillaron Jorge Campillo, 2º en China, y Carla Tejedo, 5ª en su debut en el LPGA.
+· País: España
+· Presenta: Lidia Blanco, Carlos Palomo.</desc>
 	</programme>
-  <programme start="20260327081000 +0100" stop="20260327083000 +0100" channel="DAZN F1 HD">
-    <title>DIRECTO Post Libres 2 T2026 · Mundial F1 - GP de Japón</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+  <programme start="20260329080000 +0100" stop="20260329083000 +0100" channel="M+ Golf HD">
+    <title>Sueños de Golf T2018 · Nick Price</title>
+    <desc>Deportes,Programa deportes | 2018 | TP | *5.8/10
+· Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.
+· País: España</desc>
+	</programme>
+  <programme start="20260329083000 +0100" stop="20260329090000 +0100" channel="M+ Golf HD">
+    <title>DIRECTO Hero Indian Open (World Feed VO) Jornada 4. Parte 1 T25/26 · DP World Tour</title>
+    <desc>Deportes,Golf | 2026 | TP | *6.0/10
+· El DP World Tour para en la India y lo jugadores se enfrentarán, posiblemente, al campo más duro del año. El año pasado solo 3 jugadores terminaron bajo par y Eugenio Chacarra ganó con -4. 13 españoles lucharán por la victoria.</desc>
 	</programme>
   <programme start="20260327083000 +0100" stop="20260327103000 +0100" channel="DAZN F1 HD">
     <title>Mundial F1 - GP de Japón T2025 · Carrera</title>
@@ -7067,18 +7663,6 @@
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260327064500 +0100" stop="20260327073000 +0100" channel="Eurosport 1 HD">
-    <title>Copa del mundo de biatlón - Oslo T25/26 · Salida en masa M</title>
-    <desc>Deportes,Deporte invierno | 2026 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
-· País: Noruega</desc>
-	</programme>
-  <programme start="20260327073000 +0100" stop="20260327083000 +0100" channel="Eurosport 1 HD">
-    <title>Etapa 4 - Mataró - Vallter T2026 · Volta ciclista a Catalunya</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
-· Un nutrido grupo del mejor pelotón internacional se cita en el asfalto catalán del 23 al 29 de marzo. Englobada en el UCI WorldTour, la tradicional carrera llega a su 105ª edición. El esloveno Primoz Roglic se impuso en 2025.
-· País: España</desc>
-	</programme>
   <programme start="20260327083000 +0100" stop="20260327093000 +0100" channel="Eurosport 1 HD">
     <title>World Open de snooker T25/26 · Final: Un-Nooh - O'Sullivan</title>
     <desc>Deportes,Snooker | 2026 | TP | *6.4/10
@@ -7258,17 +7842,17 @@
 · La Copa del mundo de saltos llega a Planica con espectaculares pruebas masculinas de ski flying en el colosal HS240. Entre el 26 y el 29 de marzo, los mejores saltadores del mundo disputan las finales de la temporada en un escenario icónico.
 · País: Noruega</desc>
 	</programme>
-  <programme start="20260327060000 +0100" stop="20260327073000 +0100" channel="Eurosport 2">
-    <title>World Grand Prix de snooker T25/26 · Final: Anda - Xintong - Sesión 2</title>
-    <desc>Deportes,Snooker | 2026 | TP | *5.8/10
-· El World Grand Prix, uno de los torneos más importantes del circuito, se disputa por segunda vez consecutiva fuera del Reino Unido. Hong Kong alberga una cita reservada solo para los 32 mejores jugadores del mundo. Neil Robertson defiende título.
-· País: Hong Kong</desc>
-	</programme>
-  <programme start="20260327073000 +0100" stop="20260327083000 +0100" channel="Eurosport 2">
-    <title>Fórmula E - ePrix de Madrid T25/26 · Resumen</title>
-    <desc>Deportes,Fórmula E | 2026 | TP | *6.2/10
-· Madrid vive su histórico debut en la Fórmula E en el Circuito del Jarama: una jornada con entrenamientos, clasificación y carrera donde los monoplazas eléctricos alcanzarán hasta 320 km/h en un evento que fusiona tecnología, velocidad y espectáculo.
+  <programme start="20260329073000 +0100" stop="20260329083000 +0100" channel="Eurosport 1 HD">
+    <title>Etapa 6 - Berga - Queralt T2026 · Volta ciclista a Catalunya</title>
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
+· Un nutrido grupo del mejor pelotón internacional se cita en el asfalto catalán del 23 al 29 de marzo. Englobada en el UCI WorldTour, la tradicional carrera llega a su 105ª edición. El esloveno Primoz Roglic se impuso en 2025.
 · País: España</desc>
+	</programme>
+  <programme start="20260329083000 +0100" stop="20260329094500 +0100" channel="Eurosport 1 HD">
+    <title>Campo a través - Día 1 T25/26 · Copa del mundo de snowboard - Mt. St. Anne</title>
+    <desc>Deportes,Deporte invierno | 2026 | TP | *6.2/10
+· Mt. St. Anne reúne a los mejores riders de snowboard campo a través en una doble cita clave. Velocidad, adelantamientos y emoción en un trazado exigente que decidirá puntos clave en la recta final de la temporada.
+· País: Canadá</desc>
 	</programme>
   <programme start="20260327083000 +0100" stop="20260327100000 +0100" channel="Eurosport 2">
     <title>Etapa 4 - Mataró - Vallter T2026 · Volta ciclista a Catalunya</title>
@@ -7473,6 +8057,12 @@
     <desc>Deportes,Saltos de esquí | 2026 | TP | *6.0/10
 · La Copa del mundo de saltos llega a Planica con espectaculares pruebas masculinas de ski flying en el colosal HS240. Entre el 26 y el 29 de marzo, los mejores saltadores del mundo disputan las finales de la temporada en un escenario icónico.
 · País: Noruega</desc>
+	</programme>
+  <programme start="20260329083000 +0200" stop="20260329103000 +0200" channel="Eurosport 2">
+    <title>Abierto de Gales de snooker T25/26 · Final: Hawkins - Lisowski</title>
+    <desc>Deportes,Otros deportes | 2026 | TP | *5.8/10
+· El Venue Cymru de Llandudno alberga la disputa del Abierto de Gales del 23 de febrero al 1 de marzo, un torneo englobado en las Home Nations Series. El inglés Mark Selby es el defensor del título. El snooker es la modalidad del billar más profesional.
+· País: Reino Unido</desc>
 	</programme>
   <programme start="20260327023000 +0100" stop="20260327100000 +0100" channel="GOL">
     <title>Teletienda</title>
@@ -7768,12 +8358,6 @@
 · Programa en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
 · País: España</desc>
 	</programme>
-  <programme start="20260327054000 +0100" stop="20260327071500 +0100" channel="Teledeporte">
-    <title>Cuartos de final: Valencia Basket - Ensino Lugo T2026 · Copa de la Reina de baloncesto</title>
-    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
-· Los ocho primeros equipos clasificados en la primera vuelta de la LF Endesa pelean por la Copa de la Reina en el Palau d'Esports Catalunya, Tarragona, del 26 al 29 de marzo.
-· País: España</desc>
-	</programme>
   <programme start="20260327071500 +0100" stop="20260327100000 +0100" channel="Teledeporte">
     <title>Teledeporte</title>
     <desc>Información,Deportes | TP | *6.0/10
@@ -7939,11 +8523,6 @@
     <title>M+ LALIGA 4</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260327053000 +0100" stop="20260327080000 +0100" channel="M+ Deportes 4">
-    <title>M+ Deportes 4</title>
-    <desc>Deportes,Otros deportes | 2019 | TP | *6.2/10
-· M+ Deportes 4 -.</desc>
-	</programme>
   <programme start="20260327080000 +0100" stop="20260327150000 +0100" channel="M+ Deportes 4">
     <title>M+ Deportes 4</title>
     <desc>Deportes,Otros deportes | 2019 | TP | *6.2/10
@@ -8004,10 +8583,10 @@
     <desc>Deportes,Otros deportes | 2019 | TP | *6.2/10
 · M+ Deportes 4 -.</desc>
 	</programme>
-  <programme start="20260327033500 +0100" stop="20260327080000 +0100" channel="M+ Deportes 5">
-    <title>M+ Deportes 5</title>
-    <desc>Deportes,Otros deportes | 2019 | TP | *5.6/10
-· M+ Deportes 5 -.</desc>
+  <programme start="20260329080000 +0100" stop="20260329150000 +0100" channel="M+ Deportes 4">
+    <title>M+ Deportes 4</title>
+    <desc>Deportes,Otros deportes | 2019 | TP | *6.2/10
+· M+ Deportes 4 -.</desc>
 	</programme>
   <programme start="20260327080000 +0100" stop="20260327150000 +0100" channel="M+ Deportes 5">
     <title>M+ Deportes 5</title>
@@ -8077,8 +8656,8 @@
     <desc>Deportes,Otros deportes | 2019 | TP | *5.6/10
 · M+ Deportes 5 -.</desc>
 	</programme>
-  <programme start="20260327000000 +0100" stop="20260327080000 +0100" channel="M+ Deportes 6">
-    <title>M+ Deportes 6</title>
+  <programme start="20260329080000 +0200" stop="20260329200000 +0200" channel="M+ Deportes 5">
+    <title>M+ Deportes 5</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260327080000 +0100" stop="20260327150000 +0100" channel="M+ Deportes 6">
@@ -8117,10 +8696,6 @@
 	</programme>
   <programme start="20260329000000 +0100" stop="20260329120000 +0100" channel="M+ Deportes 6">
     <title>M+ Deportes 6</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260327000000 +0100" stop="20260327080000 +0100" channel="M+ Deportes 7">
-    <title>M+ Deportes 7</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260327080000 +0100" stop="20260327150000 +0100" channel="M+ Deportes 7">
@@ -8278,14 +8853,6 @@
   <programme start="20260329060000 +0100" stop="20260329100000 +0100" channel="DAZN 4 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260327054800 +0100" stop="20260327071900 +0100" channel="AMC HD">
-    <title>Asesinato en Tours</title>
-    <desc>Cine,Policíaco,Suspense | 2018 | +16
-· En colaboración con su hijo Sylvain, que es un joven sacerdote, la comandante de policía Louise Chaland investiga el asesinato de un controvertido escultor.
-· País: Francia
-· Dirección: François Guérin.
-· Reparto: Isabel Otero, Marwan Berreni, Laurent Olmédo, Sara Mortensen, Adèle Simphal.</desc>
 	</programme>
   <programme start="20260327071900 +0100" stop="20260327085500 +0100" channel="AMC HD">
     <title>Barbarella</title>
@@ -8612,13 +9179,13 @@
 · Dirección: Christian Sesma.
 · Reparto: Louis Mandylor, Bokeem Woodbine, Luke Goss, RZA, Heather Roop, Brooke Newton, Marco Khan, Leif Gantvoort, RZA RZA.</desc>
 	</programme>
-  <programme start="20260327062000 +0100" stop="20260327073800 +0100" channel="DARK">
-    <title>Candy Corn</title>
-    <desc>Cine,Suspense,Terror | 2019 | +18 | *4.1/10
-· Es Halloween y un grupo de matones planea su novatada anual contra el marginado Jacob Atkins. Cuando llevan las cosas demasiado lejos, él resucita para vengarse de los que le hicieron daño.
-· País: Estados Unidos
-· Dirección: Josh Hasty.
-· Reparto: Courtney Gains, Tony Todd, P.J. Soles, Sky Elobar, Caleb Thomas, Nate Chaney, Matt O'Neill, Jaime Gallagher, Pancho Moler, Jimothy Beckholt, Madison Russ, Cy Creamer.</desc>
+  <programme start="20260329084000 +0200" stop="20260329100800 +0200" channel="AMC HD">
+    <title>Drones</title>
+    <desc>Cine,Suspense,Drama | 2017 | +16 | *5.4/10
+· Un piloto de drones que ha pasado toda su carrera llevando a cabo operaciones encubiertas desde la comodidad de su hogar a espaldas de su familia, finalmente se ve forzado a confrontar las consecuencias de sus acciones.
+· País: Canadá
+· Dirección: Jason Bourque.
+· Reparto: Sean Bean, Mary McCormack, Maxwell Haynes, Joel David Moore, Patrick Sabongui, Viv Leacock, Sharon Taylor, Kevin O'Grady, Bradley Stryker, Kirby Morrow Morrow, Tommy Europe, Kirby Morrow.</desc>
 	</programme>
   <programme start="20260327073800 +0100" stop="20260327092000 +0100" channel="DARK">
     <title>Bad Candy</title>
@@ -8928,31 +9495,21 @@
 · Dirección: Michel Hazanavicius.
 · Reparto: Matilda Anna Ingrid Lutz, Bérénice Bejo, Grégory Gadebois, Romain Duris, Sébastien Chassagne, Finnegan Oldfield, Lyès Salem, Raphaël Quenard, Jean-Pascal Zadi, Simone Hazanavicius.</desc>
 	</programme>
-  <programme start="20260327064900 +0100" stop="20260327070200 +0100" channel="Canal Cocina">
-    <title>Canal Cocina Love Tacos T1 E2</title>
-    <desc>Programa,Cocina | 2023 | TP
-· Cuatro recetas con tacos: Tacos dorados de tinga de pollo, Taco de lomo con pimientos y quinoa con verduras, Tacos dulces de manzana y crema de arroz y Tacos baja California con salmón marinado.
-· País: España</desc>
+  <programme start="20260329080600 +0200" stop="20260329092500 +0200" channel="DARK">
+    <title>Winnie the Pooh: Miel y sangre</title>
+    <desc>Cine,Terror,Suspense | 2023 | +18 | *2.9/10
+· Christopher Robin va a la universidad y se aleja de Pooh y Piglet, poniéndoles la existencia muy difícil. Como han tenido que valerse tanto por sí mismos, se han vuelto salvajes, recobrando sus raíces animales.
+· País: Reino Unido
+· Dirección: Rhys Frake-Waterfield.
+· Reparto: Nikolai Leon, Maria Taylor, Natasha Rose Mills, Amber Doig-Thorne, Danielle Ronald.</desc>
 	</programme>
-  <programme start="20260327070200 +0100" stop="20260327073100 +0100" channel="Canal Cocina">
-    <title>Productos artesanos T3 E19</title>
-    <desc>Documental,Viajes y aventuras,Otros | 2022 | TP
-· Desvelamos todos los secretos de la elaboración tradicional de los Dulces tradicionales ochíos (Martos, Jaén), los Quesos premiados (Oncala, Soria) y la Pantxineta (San Sebastián).
-· País: España</desc>
-	</programme>
-  <programme start="20260327073100 +0100" stop="20260327080000 +0100" channel="Canal Cocina">
-    <title>Quique al cubo T2 E19</title>
-    <desc>Programa,Cocina | 2022 | TP
-· En este episodio de Quique al cubo, el cocinero presentador Quique Barella elabora estas tres recetas: Lenguado Meunière, Langostinos crujientes con salsa sweet chili y Sopa de cebolla con yema curada y queso Comte.
-· País: España
-· Reparto: Quique Barella.</desc>
-	</programme>
-  <programme start="20260327080000 +0100" stop="20260327083000 +0100" channel="Canal Cocina">
-    <title>El Camino de Santiago by Julius T2 E20 · Ferrol/Puentedeume/Betanzos</title>
-    <desc>Documental,Viajes y aventuras | 2022 | TP
-· En Ferrol, Julius encuentra el Fish and patacas y la Tarta A Castiñeira; en Pontedeumele preparan Costrada y en Betanzos comparan cuál es la mejor Tortilla.
-· País: España
-· Reparto: Julio Bienert, Julius Bienert.</desc>
+  <programme start="20260329092500 +0200" stop="20260329105100 +0200" channel="DARK">
+    <title>Peter Pan: Pesadilla en Nunca Jamás</title>
+    <desc>Cine,Terror,Suspense | 2025 | +18 | *4.8/10
+· El mágico País de Nunca Jamás se convierte en un escalofriante escenario de horror, donde Wendy Darling deberá enfrentarse al perturbador Peter Pan para salvar a su hermano Michael.
+· País: Australia, Reino Unido, Estados Unidos
+· Dirección: Scott Chambers.
+· Reparto: Nicholas Woodeson, Peter DeSouza-Feighoney, Campbell Wallace, Teresa Banham, Martin Portlock, Megan Placito, Olumide Olorunfemi, Kat Green, Kit Green, Charity Kase.</desc>
 	</programme>
   <programme start="20260327083000 +0100" stop="20260327090000 +0100" channel="Canal Cocina">
     <title>Canal Cocina te pasa el delantal T1 E20</title>
@@ -9606,11 +10163,32 @@
 · País: España
 · Reparto: Varios int, Ángel Vázquez.</desc>
 	</programme>
-  <programme start="20260327060000 +0100" stop="20260327080000 +0100" channel="Tennis Channel">
-    <title>Miami Open T2025 E15 · Semifinals</title>
-    <desc>Deportes,Tenis | 2026 | TP
-· Torneo de Miami.
-· País: Estados Unidos</desc>
+  <programme start="20260329080000 +0200" stop="20260329083000 +0200" channel="Canal Cocina">
+    <title>La Cocina Mágica de las Setas T1 E17 · El paraíso de las setas</title>
+    <desc>Programa,Cocina | 2024 | TP
+· En el Pirineo aragonés, Joaquín Moreno Mur nos enseñará a hacer un delicioso Arroz con pata de perdiz y Alberto Sánchez cocinará una Olla jacetana con rúsula y un postre con trompeta negra.
+· País: España
+· Reparto: Joaquín Moreno Mur, Alberto Sánchez.</desc>
+	</programme>
+  <programme start="20260329083000 +0200" stop="20260329090000 +0200" channel="Canal Cocina">
+    <title>Escuela Canal Cocina T5 E21 · Los dulces + humildes</title>
+    <desc>Programa,Estilo de vida,Cocina | 2023 | TP
+· En la clase de hoy elaboramos dulces resultones con pocos ingredientes. Además, Sergio Fernández elabora dos recetas para ejemplificar lo aprendido: Churros y Galletas de mantequilla.
+· País: España
+· Reparto: Sergio Fernández.</desc>
+	</programme>
+  <programme start="20260329090000 +0200" stop="20260329093000 +0200" channel="Canal Cocina">
+    <title>Canal Cocina te pasa el delantal T1 E9</title>
+    <desc>Programa,Cocina | 2022 | TP
+· Hoy en Canal Cocina te pasa el delantal aterrizamos en Madrid donde Mamen nos prepara unos deliciosos Ñoquis con bechamel trufado y setas. La siguiente parada es La Rioja, allí Teresa nos muestra su receta de Bacalao al piparrón.
+· País: España</desc>
+	</programme>
+  <programme start="20260329093000 +0200" stop="20260329100100 +0200" channel="Canal Cocina">
+    <title>Canal Cocina recomienda T2 E3</title>
+    <desc>Documental,Viajes y aventuras,Otros | 2026 | TP
+· En Canal Cocina recomienda os contamos todas las novedades gastronómicas, los restaurantes que no te puedes perder, las tiendas más curiosas y los productos únicos desde su origen hasta el plato.
+· País: España
+· Reparto: Varios int.</desc>
 	</programme>
   <programme start="20260327080000 +0100" stop="20260327100000 +0100" channel="Tennis Channel">
     <title>Miami Open T2025 E16 · Semifinals</title>
@@ -9748,14 +10326,11 @@
 · Torneo de Miami.
 · País: Estados Unidos</desc>
 	</programme>
-  <programme start="20260327060000 +0100" stop="20260327073100 +0100" channel="Onetoro">
-    <title>El Espontáneo</title>
-    <desc>Toros | +16
-· Paco es el joven botones de un hotel de lujo. Suele hacer pequeños negocios con la reventa de entradas de corridas de toros a los turistas. Por un equívoco es despedido del trabajo. No encuentra ningún empleo de su gusto y deambula por las tabernas de la calle Victoria. Finalmente descubre su única oportunidad en los toros, oficio que considera fácil y le gusta. La realidad es muy distinta y tiene que aceptar la verdad que se manifiesta de forma muy dramática.</desc>
-	</programme>
-  <programme start="20260327073100 +0100" stop="20260327080500 +0100" channel="Onetoro">
-    <title>Previa Feria de Vic-Fezensac (9/6/2025)</title>
-    <desc>+16</desc>
+  <programme start="20260329070000 +0100" stop="20260329090000 +0100" channel="Tennis Channel">
+    <title>Miami Open T2025 E17 · Singles Final</title>
+    <desc>Deportes,Tenis | 2026 | TP
+· Torneo de Miami.
+· País: Estados Unidos</desc>
 	</programme>
   <programme start="20260327080500 +0100" stop="20260327110700 +0100" channel="Onetoro">
     <title>Directo Feria de Vic-Fezensac (9/6/2025)</title>
@@ -10128,173 +10703,57 @@
     <desc>+16
 · Inside Victorino Martín Cobradiezmos. Las cámaras de Onetoro de adentran dentro del lote de vacas del legendario toro indultado por el matador Manuel Escribano en la Real Maestranza de Caballería de Sevilla.</desc>
 	</programme>
-  <programme start="20260327053000 +0000" stop="20260327060000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Tour Mundial de Baloncesto 3x3 de la FIBA</title>
-    <desc>Sports event,3x3 basketball
-· Baréin: Ub vs. Raudondvaris Hoptrans.</desc>
+  <programme start="20260329080600 +0200" stop="20260329084800 +0200" channel="Onetoro">
+    <title>¡VA POR USTDES!-05</title>
+    <desc>Toros | +16
+· En este emocionante capítulo de “¡Va por ustedes!”, te llevaremos a descubrir los secretos del toreo de salón de la mano de Toni Blanco, un maestro en Sanlúcar de Barrameda, donde el arte y la técnica se fusionan en cada paso. Desde Antequera, conoceremos a Juana Vegas, parte esencial del restaurante de su plaza de toros, donde cada cliente se convierte en testigo privilegiado de la emoción y la pasión que rodea a las corridas. Nos trasladaremos a Badajoz para adentrarnos en el fascinante mundo del recorte de la mano de Jesús González y su equipo, quienes nos mostrarán la destreza y valentía necesarias para enfrentarse a los toros de manera única. Finalmente, en Albacete, Alberto Nevado, director de la Unión Musical Ciudad de Albacete, nos revelará cómo la música realza la grandeza y la intensidad de las corridas, transportándonos a un universo de emociones y sensaciones inolvidables. ¡Prepárate para vivir una experiencia única en el mundo del toro! ¡Esto es ¡Va por ustedes!, nuestro apasionante viaje por la cultura taurina.</desc>
 	</programme>
-  <programme start="20260327060000 +0000" stop="20260327080000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Premier Padel</title>
-    <desc>Sports event,Racquet
-· Cancún P2, Final femenina.</desc>
+  <programme start="20260329084800 +0200" stop="20260329085000 +0200" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Triana</title>
+    <desc>Toros | +16</desc>
 	</programme>
-  <programme start="20260327080000 +0000" stop="20260327100000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>BKB Extreme Fighting Series</title>
-    <desc>Boxing,Sports related
-· BKB 43: Bolton Brawl.</desc>
+  <programme start="20260329085000 +0200" stop="20260329090000 +0200" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 7-La Verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la suerte de la verónica.</desc>
 	</programme>
-  <programme start="20260327100000 +0000" stop="20260327103000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 30</title>
-    <desc>Sports related,Soccer
-· Ligue 1 2025-26: Marseille vs. Lille.</desc>
+  <programme start="20260329090000 +0200" stop="20260329090400 +0200" channel="Onetoro">
+    <title>Aprendiz 7. El regatón. Aprende con Daiki</title>
+    <desc>+16
+· El Sensei Domingo le encarga a Daiki averiguar un nuevo concepto taurino.</desc>
 	</programme>
-  <programme start="20260327103000 +0000" stop="20260327110000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 30</title>
-    <desc>Sports related,Soccer
-· Ligue 1 2025-26: Nantes vs. Strasbourg.</desc>
+  <programme start="20260329090400 +0200" stop="20260329090600 +0200" channel="Onetoro">
+    <title>7. Erika y Morante. Estar al Quite</title>
+    <desc>+16
+· La elegancia y santander, Erika nos enseña cómo se va a la feria del Norte, Santander.</desc>
 	</programme>
-  <programme start="20260327110000 +0000" stop="20260327130000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Premier Padel Tennis</title>
-    <desc>Sports event,Racquet
-· Cancun P2: Mens Finals.</desc>
+  <programme start="20260329090600 +0200" stop="20260329090800 +0200" channel="Onetoro">
+    <title>El indulto de Cobradiezmo. Historias del Toreo</title>
+    <desc>+16
+· Alvaro Acevedo nos cuenta cómo se llegó a un acuerdo entre la ganadería de Victorino y la Maestranza, y cómo eso llevó al indulto de Cobradiezmos.</desc>
 	</programme>
-  <programme start="20260327130000 +0000" stop="20260327140000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>The Xtra</title>
-    <desc>Sports related,Soccer
-· Sin detalles...</desc>
+  <programme start="20260329090800 +0200" stop="20260329091100 +0200" channel="Onetoro">
+    <title>La pierna del Tato. Historias del Toreo</title>
+    <desc>+16
+· "Historia del Toreo" descubre los orígenes y secretos del toreo, resaltando a sus figuras más icónicas y su influencia en la cultura a lo largo del tiempo.</desc>
 	</programme>
-  <programme start="20260327140000 +0000" stop="20260327150000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 60</title>
-    <desc>Sports related,Soccer
-· Copa Libertadores 2012: Corinthians vs. Vasco da Gama.</desc>
+  <programme start="20260329091100 +0200" stop="20260329091400 +0200" channel="Onetoro">
+    <title>El Chofre. Historia de la Tauromaquia</title>
+    <desc>+16
+· Analizamos con Domingo Delgado de la Cámara anécdotas e hechos sobre la historia de la Tauromaquia.</desc>
 	</programme>
-  <programme start="20260327150000 +0000" stop="20260327170000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Fútbol Ligue 1</title>
-    <desc>Sports event,Soccer
-· Olympique de Marsella vs. Lille OSC.</desc>
+  <programme start="20260329091400 +0200" stop="20260329091600 +0200" channel="Onetoro">
+    <title>Historia de la Tauromaquia: Calle Pureza.</title>
+    <desc>Toros | +16</desc>
 	</programme>
-  <programme start="20260327170000 +0000" stop="20260327173000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>This is Paris</title>
-    <desc>Sports talk,Soccer
-· Sin detalles...</desc>
+  <programme start="20260329091600 +0200" stop="20260329092500 +0200" channel="Onetoro">
+    <title>Curso Práctico de Toreo. 8-La media verónica.</title>
+    <desc>Toros | +16
+· En este episodio el maestro Eduardo Dávila Miura nos enseña como ejecutar la media verónica.</desc>
 	</programme>
-  <programme start="20260327173000 +0000" stop="20260327180000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Ligue 1 Highlights</title>
-    <desc>Sports related,Sports talk
-· Match Day 27.</desc>
-	</programme>
-  <programme start="20260327180000 +0000" stop="20260327190000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Pro Footvolley Tour</title>
-    <desc>Sports related,Footvolley
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260327190000 +0000" stop="20260328010000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Premier Padel Tennis</title>
-    <desc>Sports event,Racquet
-· Miami P1: Cuartos de final.</desc>
-	</programme>
-  <programme start="20260328010000 +0000" stop="20260328013000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 30</title>
-    <desc>Sports related,Soccer
-· Ligue 1 2025-26: Marseille vs. Lille.</desc>
-	</programme>
-  <programme start="20260328013000 +0000" stop="20260328020000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 30</title>
-    <desc>Sports related,Soccer
-· Ligue 1 2025-26: Nantes vs. Strasbourg.</desc>
-	</programme>
-  <programme start="20260328020000 +0000" stop="20260328040000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>BYB Xtreme Fighting Series</title>
-    <desc>Boxing
-· BKB 44: Denver Brawl V.</desc>
-	</programme>
-  <programme start="20260328040000 +0000" stop="20260328050000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>The Xtra</title>
-    <desc>Sports related,Soccer
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260328050000 +0000" stop="20260328053000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>This is Paris</title>
-    <desc>Sports talk,Soccer
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260328053000 +0000" stop="20260328060000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Ligue 1 Highlights</title>
-    <desc>Sports related,Sports talk
-· Match Day 27.</desc>
-	</programme>
-  <programme start="20260328060000 +0000" stop="20260328080000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Premier Padel Tennis</title>
-    <desc>Sports event,Racquet
-· Cancun P2: Mens Finals.</desc>
-	</programme>
-  <programme start="20260328080000 +0000" stop="20260328100000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Maratón</title>
-    <desc>Sports event,Marathon
-· Barcelona.</desc>
-	</programme>
-  <programme start="20260328100000 +0000" stop="20260328110000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>The Xtra</title>
-    <desc>Sports related,Soccer
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260328110000 +0000" stop="20260328130000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Premier Padel</title>
-    <desc>Sports event,Racquet
-· Cancún P2, Final femenina.</desc>
-	</programme>
-  <programme start="20260328130000 +0000" stop="20260328150000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Fútbol Ligue 1</title>
-    <desc>Soccer,Sports related
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260328150000 +0000" stop="20260328153000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>The Knockout Room</title>
-    <desc>Soccer,Sports related
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260328153000 +0000" stop="20260328160000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Ligue 1 - Highlight Show</title>
-    <desc>Sports related,Sports talk
-· Jornada 20.</desc>
-	</programme>
-  <programme start="20260328160000 +0000" stop="20260328230000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Premier Padel</title>
-    <desc>Sports event,Racquet
-· Miami, Semifinal.</desc>
-	</programme>
-  <programme start="20260328230000 +0000" stop="20260328233000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Los mejores goles</title>
-    <desc>Soccer,Sports related
-· Historia.</desc>
-	</programme>
-  <programme start="20260328233000 +0000" stop="20260329000000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Los mejores goles</title>
-    <desc>Soccer,Sports related
-· Historia.</desc>
-	</programme>
-  <programme start="20260329000000 +0000" stop="20260329020000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Fútbol Ligue 1</title>
-    <desc>Soccer,Sports related
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260329020000 +0000" stop="20260329040000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Copa Intercontinental de la FIFA</title>
-    <desc>Sports event,Soccer
-· Flamengo CR vs. Pyramids FC.</desc>
-	</programme>
-  <programme start="20260329040000 +0000" stop="20260329060000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>CAF Liga de Campeones</title>
-    <desc>Sports event,Soccer
-· FAR Rabat vs. Pyramids FC.</desc>
-	</programme>
-  <programme start="20260327060000 +0100" stop="20260327070000 +0100" channel="ESPN">
-    <title>ESPN FC</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-  <programme start="20260327070000 +0100" stop="20260327080000 +0100" channel="ESPN">
-    <title>SportsCenter</title>
-    <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
+  <programme start="20260329092500 +0200" stop="20260329100000 +0200" channel="Onetoro">
+    <title>Previa Kilometro cero.(01/03/2026)</title>
+    <desc>+16</desc>
 	</programme>
   <programme start="20260327080000 +0100" stop="20260327090000 +0100" channel="ESPN">
     <title>SportsCenter</title>
@@ -10440,10 +10899,6 @@
     <title>ABC NBA Basketball · Detroit Pistons vs. Minnesota Timberwolves, Temporada regular, Target Center</title>
     <desc>· Sin detalles...</desc>
 	</programme>
-  <programme start="20260327065500 +0100" stop="20260327080500 +0100" channel="ESPN 2">
-    <title>Práctica - Fórmula 1 · Gran Premio de Japón, Práctica 2, Circuito de Suzuka</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
   <programme start="20260327080500 +0100" stop="20260327090000 +0100" channel="ESPN 2">
     <title>Futbol Picante</title>
     <desc>· Sin detalles...</desc>
@@ -10572,14 +11027,6 @@
     <title>ESPN Knockout · Bryan Acosta vs. Ronny Ríos</title>
     <desc>· Sin detalles...</desc>
 	</programme>
-  <programme start="20260327060000 +0100" stop="20260327070000 +0100" channel="ESPN 4">
-    <title>Goles de la Eredivisie</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
-  <programme start="20260327070000 +0100" stop="20260327080000 +0100" channel="ESPN 4">
-    <title>Equipo F Centroamérica</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
   <programme start="20260327080000 +0100" stop="20260327090000 +0100" channel="ESPN 4">
     <title>ESPN FC</title>
     <desc>· Sin detalles...</desc>
@@ -10699,11 +11146,6 @@
   <programme start="20260329003000 +0100" stop="20260329033000 +0200" channel="ESPN 4">
     <title>NCAA Women's Basketball Championship</title>
     <desc>· Sin detalles...</desc>
-	</programme>
-  <programme start="20260327050000 +0000" stop="20260327070000 +0000" channel="PT | DAZN 1">
-    <title>Villarreal x PSG T1 · Villarreal x PSG - Quartos-De-Final</title>
-    <desc>Futebol,Desporto | 2026 | +12
-· Assiste aos jogos da UEFA Youth League.</desc>
 	</programme>
   <programme start="20260327070000 +0000" stop="20260327090000 +0000" channel="PT | DAZN 1">
     <title>Villarreal x Real Sociedad: LaLiga EA Sports T1 · Villarreal x Real Sociedad</title>
@@ -10880,11 +11322,17 @@
 · Competitiva e emocionante, a LaLiga Hypermotion surpreende a cada a jornada. Acompanha o melhor da segunda liga espanhola em exclusivo na DAZN.
 · País: España</desc>
 	</programme>
-  <programme start="20260327050000 +0000" stop="20260327070000 +0000" channel="PT | DAZN 2">
-    <title>Castellón x Leonesa: LaLiga Hypermotion T1 · Castellón x Leonesa</title>
+  <programme start="20260329060000 +0000" stop="20260329070000 +0000" channel="PT | DAZN 1">
+    <title>Bundesliga T1 E27 · RD27</title>
+    <desc>Futebol,Desporto | +12
+· Golos, reações e resumos. Tudo sobre a jornada da Bundesliga.
+· País: Alemania</desc>
+	</programme>
+  <programme start="20260329070000 +0000" stop="20260329090000 +0000" channel="PT | DAZN 1">
+    <title>Augsburg x Stuttgart: Bundesliga T1 · Augsburg x Stuttgart</title>
     <desc>Futebol,Desporto | 2026 | +12
-· Competitiva e emocionante, a LaLiga Hypermotion surpreende a cada a jornada. Acompanha o melhor da segunda liga espanhola em exclusivo na DAZN.
-· País: España</desc>
+· Assista ao jogo da Bundesliga Augsburg x Stuttgart.
+· País: Alemania</desc>
 	</programme>
   <programme start="20260327070000 +0000" stop="20260327090000 +0000" channel="PT | DAZN 2">
     <title>Atl.Madrid x Club Brugge T1 · Atl.Madrid x Club Brugge - Quartos-De-Final</title>
@@ -11039,6 +11487,12 @@
     <desc>Futebol,Desporto | 2025 | +12
 · A emoção segunda liga alemã para acompanhares em exclusivo na DAZN.
 · País: Alemania</desc>
+	</programme>
+  <programme start="20260329060000 +0000" stop="20260329080000 +0000" channel="PT | DAZN 2">
+    <title>Málaga x Leganés: LaLiga Hypermotion T1 · Málaga x Leganés</title>
+    <desc>Futebol,Desporto | 2026 | +12
+· Competitiva e emocionante, a LaLiga Hypermotion surpreende a cada a jornada. Acompanha o melhor da segunda liga espanhola em exclusivo na DAZN.
+· País: España</desc>
 	</programme>
   <programme start="20260327050000 +0000" stop="20260327100000 +0000" channel="PT | DAZN 3">
     <title>Sem Emissão T1 · sex 27-mar, 05:00</title>
@@ -11218,11 +11672,6 @@
     <title>Sem Emissão T1 · dom 29-mar, 05:00</title>
     <desc>Estilo de vida | +12
 · O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a DAZN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.</desc>
-	</programme>
-  <programme start="20260327054500 +0000" stop="20260327071500 +0000" channel="PT | DAZN 5">
-    <title>Aramco Japanese Grand Prix 2026 T1 · Aramco Japanese Grand Prix 2026 - Treinos Livres 2</title>
-    <desc>Desportos motorizados,Desporto | 2026 | +12
-· Simulações de ritmo de Qualificação e de Corrida definem esta sessão.</desc>
 	</programme>
   <programme start="20260327071500 +0000" stop="20260327080000 +0000" channel="PT | DAZN 5">
     <title>DAZN F1 T1 E20</title>
@@ -11594,15 +12043,10 @@
     <desc>Desportos motorizados,Desporto | 2026 | +12
 · Assiste, em direto do Japão, ao Formula 1 Aramco Japanese Grand Prix 2026.</desc>
 	</programme>
-  <programme start="20260327052654 +0000" stop="20260327062543 +0000" channel="DE | Rally TV">
-    <title>Rally CER 2024 Stage 14</title>
-    <desc>Sports
-· Aaron Johnston\nVincent Landais \nEnni Mälkönen\nMartijn Wydaeghe\nLouis Louka\nElliott Edmondson\nKonstantin Aleksandrov\nFilip Mareš\nRadovan Bucha\nFlorian Barral\nFrédéric Miclotte\nElla Kremer\nMaciej Szczepaniak\nJames Fulton\nJosh McErlean\nToksport WRT 2\nDG Sport Comptetition\nMarijan Griebel\nTobias Braun.</desc>
-	</programme>
-  <programme start="20260327062543 +0000" stop="20260327071803 +0000" channel="DE | Rally TV">
-    <title>Rally CER 2024 Stage 15</title>
-    <desc>Sports
-· Aaron Johnston\nVincent Landais \nEnni Mälkönen\nMartijn Wydaeghe\nLouis Louka\nElliott Edmondson\nRadovan Bucha\nFilip Mareš\nKonstantin Aleksandrov\nToksport WRT\n\nFrédéric Miclotte\n.</desc>
+  <programme start="20260329070000 +0000" stop="20260329080000 +0000" channel="PT | DAZN 5">
+    <title>Race Day T1 E6</title>
+    <desc>Desportos motorizados,Desporto | 2026 | +12
+· Assiste ao DAZN Race Day.</desc>
 	</programme>
   <programme start="20260327071803 +0000" stop="20260327081646 +0000" channel="DE | Rally TV">
     <title>Rally CER 2024 Stage 16</title>
@@ -11823,20 +12267,9 @@
     <title>SS6 Full Stage Replay - Rallye Monte-Carlo 2025</title>
     <desc>Sports</desc>
 	</programme>
-  <programme start="20260327053000 +0000" stop="20260327060000 +0000" channel="UK | TNT Sports 1">
-    <title>Premier League Legends T2014 E20 · PL Legends: David Seaman</title>
-    <desc>Football - Club,Sports
-· A look at the career of David Seaman, who was Arsenal's number one goalkeeper for the first 11 seasons of the Premier League, registering over 400 caps for the Gunners.</desc>
-	</programme>
-  <programme start="20260327060000 +0000" stop="20260327063000 +0000" channel="UK | TNT Sports 1">
-    <title>Serie A - Full Impact T2025 E30 · Matchday 30</title>
-    <desc>Football - Club,Sports
-· All the best moments from matchday 30 of the Italian top flight, including Juventus v Sassuolo, AS Roma v Lecce, Fiorentina v Inter Milan, and Bologna v Lazio.</desc>
-	</programme>
-  <programme start="20260327063000 +0000" stop="20260327070000 +0000" channel="UK | TNT Sports 1">
-    <title>Premier League Netbusters T2025 E31</title>
-    <desc>Football - Club,Sports
-· A unique and fast-paced look at all the best action from the top flight, including Brighton \u0026 Hove Albion v Liverpool, Everton v Chelsea, and Newcastle United v Sunderland.</desc>
+  <programme start="20260329065545 +0000" stop="20260329075253 +0000" channel="DE | Rally TV">
+    <title>SS7 Full Stage Replay - Rallye Monte-Carlo 2025</title>
+    <desc>Sports</desc>
 	</programme>
   <programme start="20260327070000 +0000" stop="20260327083000 +0000" channel="UK | TNT Sports 1">
     <title>AFL T2026 E23 · Geelong Cats v Adelaide Crows</title>
@@ -11998,25 +12431,15 @@
     <desc>Australian Rules Football,Sports
 · Carlton Blues v Melbourne Demons (Bounce-up 5.15am). Coverage of the match from Melbourne Cricket Ground.</desc>
 	</programme>
-  <programme start="20260327050000 +0000" stop="20260327060000 +0000" channel="UK | TNT Sports 2">
-    <title>Women's T20 International Cricket T2026 E8 · New Zealand v South Africa-5th T20</title>
-    <desc>Cricket - International,Sports
-· New Zealand v South Africa. Action from the fifth and final T20 in the series from Hagley Oval in Christchurch.</desc>
-	</programme>
-  <programme start="20260327060000 +0000" stop="20260327063000 +0000" channel="UK | TNT Sports 2">
-    <title>Training Day T2024 E13 · Best of</title>
+  <programme start="20260329070000 +0000" stop="20260329071500 +0000" channel="UK | TNT Sports 1">
+    <title>UEFA Champions League Goals Reload T2025 E8</title>
     <desc>Football - Club,Sports
-· A look back at the best of the series that sees former sporting stars spend the day training with modern day pros.</desc>
+· The pick of the goals from the latest round of fixtures.</desc>
 	</programme>
-  <programme start="20260327063000 +0000" stop="20260327070000 +0000" channel="UK | TNT Sports 2">
-    <title>Kenny Allstar's Number 1's T2024 E12 · Best Of</title>
-    <desc>Football - Club,Sports
-· Highlights of the series.</desc>
-	</programme>
-  <programme start="20260327070000 +0000" stop="20260327073000 +0000" channel="UK | TNT Sports 2">
-    <title>The Breakdown T2025 E20 · World Cup Memories</title>
-    <desc>Football - Club,Sports
-· TNT Sports pundits breakdown the latest ongoing in the world of sports.</desc>
+  <programme start="20260329071500 +0000" stop="20260329074500 +0000" channel="UK | TNT Sports 1">
+    <title>Ski Jumping World Cup T2025 E97 · Planica-HS240 Ski Flying-Team-Men</title>
+    <desc>Skiing,Sports
+· Action from the men's team ski flying in Planica, Slovenia.</desc>
 	</programme>
   <programme start="20260327073000 +0000" stop="20260327080000 +0000" channel="UK | TNT Sports 2">
     <title>Isuzu UTE A-League Highlights T2025 E22 · Round 22</title>
@@ -12232,16 +12655,6 @@
     <title>Live: Women's One-Day International Cricket T2026 E4 · New Zealand v South Africa-1st ODI</title>
     <desc>Cricket - International,Sports
 · New Zealand v South Africa. Coverage of the first ODI in the three-match series from Hagley Oval in Christchurch, as the visitors' tour continues following a five-match T20 series. South Africa won the last ODI series against their hosts back in October 2023, when they came away with a 2-1 victory at home. The Proteas won the first two games by four and seven wickets respectively, before New Zealand claimed a six-wicket consolation victory in the final game.</desc>
-	</programme>
-  <programme start="20260327043000 +0000" stop="20260327060000 +0000" channel="UK | TNT Sports 3">
-    <title>Ultimate Pool T2026 E12 · Group 1 Pairs Cup</title>
-    <desc>Pool,Sports
-· Action from Group 1 of the Pairs Cup.</desc>
-	</programme>
-  <programme start="20260327060000 +0000" stop="20260327070000 +0000" channel="UK | TNT Sports 3">
-    <title>Men's Cycling World Tour T2026 E40 · Tour of Catalunya-Stage 4</title>
-    <desc>Cycling,Sports
-· Action from the fourth stage of the 2026 Tour of Catalunya.</desc>
 	</programme>
   <programme start="20260327070000 +0000" stop="20260327080000 +0000" channel="UK | TNT Sports 3">
     <title>Women's Cycling World Tour T2026 E15 · Tour of Bruges</title>
@@ -12518,20 +12931,20 @@
     <desc>Football - Club,Sports
 · Wellington Phoenix Women v Western Sydney Wanderers Women (Kick-off 4.00am). Coverage of the match from Porirua Park.</desc>
 	</programme>
-  <programme start="20260327053000 +0000" stop="20260327060000 +0000" channel="UK | Premier Sports 1">
-    <title>Sporting Greats T2022 E8 · Sporting Greats 8</title>
-    <desc>Sports
-· Legendary sporting figures discuss their careers.</desc>
+  <programme start="20260329060000 +0000" stop="20260329061500 +0000" channel="UK | TNT Sports 3">
+    <title>Kenny Allstar's Number 1's T2024 E15 · Danny Welbeck</title>
+    <desc>Football - Club,Sports
+· The hosts talks all things firsts and favourites with Danny Welbeck.</desc>
 	</programme>
-  <programme start="20260327060000 +0000" stop="20260327063000 +0000" channel="UK | Premier Sports 1">
-    <title>Downhill Skateboarding T2025 E11 · Costa Rica</title>
-    <desc>Extreme,Sports
-· Action from Costa Rica.</desc>
+  <programme start="20260329061500 +0000" stop="20260329071500 +0000" channel="UK | TNT Sports 3">
+    <title>The Gallagher PREM T2025 E56 · Newcastle Red Bulls v Exeter Chiefs</title>
+    <desc>Rugby Union - Domestic,Sports
+· Newcastle Red Bulls v Exeter Chiefs.</desc>
 	</programme>
-  <programme start="20260327063000 +0000" stop="20260327070000 +0000" channel="UK | Premier Sports 1">
-    <title>Downhill Skateboarding T2025 E12 · Costa Rica 2</title>
-    <desc>Extreme,Sports
-· Further action from Costa Rica.</desc>
+  <programme start="20260329071500 +0000" stop="20260329081500 +0000" channel="UK | TNT Sports 3">
+    <title>The Gallagher PREM T2025 E57 · Gloucester Rugby v Leicester Tigers</title>
+    <desc>Rugby Union - Domestic,Sports
+· Gloucester Rugby v Leicester Tigers.</desc>
 	</programme>
   <programme start="20260327070000 +0000" stop="20260327090000 +0000" channel="UK | Premier Sports 1">
     <title>Swedish Hockey League T2025 E24 · Quarter-Final Game 2</title>
@@ -12693,15 +13106,10 @@
     <desc>Football - Club,Sports
 · Action from the Dutch top flight.</desc>
 	</programme>
-  <programme start="20260327050000 +0000" stop="20260327060000 +0000" channel="UK | Premier Sports 2">
-    <title>NHL Tonight T2025 E14 · Top 50 Players-30-21</title>
+  <programme start="20260329063000 +0000" stop="20260329083000 +0000" channel="UK | Premier Sports 1">
+    <title>NHL Ice Hockey T2026 E329 · Washington at Vegas</title>
     <desc>Ice Hockey,Sports
-· A look at the top 50 players, focusing on those ranked 21-30.</desc>
-	</programme>
-  <programme start="20260327060000 +0000" stop="20260327070000 +0000" channel="UK | Premier Sports 2">
-    <title>MotorSport T2025 E1 · Drew Gibson in Focus</title>
-    <desc>Motor Sport,Sports
-· ).</desc>
+· Vegas Golden Knights v Washington Capitals.</desc>
 	</programme>
   <programme start="20260327070000 +0000" stop="20260327090000 +0000" channel="UK | Premier Sports 2">
     <title>Top 14 Rugby Union T2025 E75 · La Rochelle v Pau</title>
@@ -12887,5 +13295,10 @@
     <title>United Rugby Championship T2025 E105 · Sharks v Cardiff</title>
     <desc>Rugby Union - Domestic,Sports
 · Sharks v Cardiff.</desc>
+	</programme>
+  <programme start="20260329070000 +0000" stop="20260329090000 +0000" channel="UK | Premier Sports 2">
+    <title>Top 14 Rugby Union T2025 E77 · Toulouse v Montpellier</title>
+    <desc>Rugby Union - Domestic,Sports
+· Toulouse v Montpellier.</desc>
 	</programme>
 </tv>
