@@ -22,7 +22,7 @@ jobs:
       - name: Build
         env:
           EPG_SRC: https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
-          PLAYLIST_SRC: https://ipfs.io/ipns/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes.m3u
+          PLAYLIST_SRC: ${{ secrets.PLAYLIST_SRC }}
           EPG_HOURS: "48"
         run: |
           php scripts/build.php
