@@ -99,17 +99,6 @@
 		<display-name>M+ Acción 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png"/>
 	</channel>
-  <channel id="M+ Comedia HD">
-		<display-name>M+ Comedia</display-name>
-		<display-name>M+ Comedia.TV</display-name>
-		<display-name>M+ Comedia SD</display-name>
-		<display-name>M+ Comedia HD</display-name>
-		<display-name>M+ Comedia FHD</display-name>
-		<display-name>M+ Comedia UHD</display-name>
-		<display-name>M+ Comedia 720</display-name>
-		<display-name>M+ Comedia 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png"/>
-	</channel>
   <channel id="M+ Cine Español">
 		<display-name>M+ Cine Español</display-name>
 		<display-name>M+ Cine Español.TV</display-name>
@@ -121,6 +110,17 @@
 		<display-name>M+ Cine Español 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png"/>
 	</channel>
+  <channel id="Calle 13 HD">
+		<display-name>Calle 13</display-name>
+		<display-name>Calle 13.TV</display-name>
+		<display-name>Calle 13 SD</display-name>
+		<display-name>Calle 13 HD</display-name>
+		<display-name>Calle 13 FHD</display-name>
+		<display-name>Calle 13 UHD</display-name>
+		<display-name>Calle 13 720</display-name>
+		<display-name>Calle 13 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png"/>
+	</channel>
   <channel id="Caza y Pesca HD">
 		<display-name>Caza y Pesca</display-name>
 		<display-name>Caza y Pesca.TV</display-name>
@@ -131,6 +131,17 @@
 		<display-name>Caza y Pesca 720</display-name>
 		<display-name>Caza y Pesca 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png"/>
+	</channel>
+  <channel id="Nickelodeon HD">
+		<display-name>Nickelodeon</display-name>
+		<display-name>Nickelodeon.TV</display-name>
+		<display-name>Nickelodeon SD</display-name>
+		<display-name>Nickelodeon HD</display-name>
+		<display-name>Nickelodeon FHD</display-name>
+		<display-name>Nickelodeon UHD</display-name>
+		<display-name>Nickelodeon 720</display-name>
+		<display-name>Nickelodeon 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png"/>
 	</channel>
   <channel id="TVG Europa HD">
 		<display-name>TVG Europa</display-name>
@@ -605,17 +616,6 @@
 		<display-name>Onetoro 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png"/>
 	</channel>
-  <channel id="beIN SPORTS XTRA ñ">
-		<display-name>beIN SPORTS XTRA ñ</display-name>
-		<display-name>beIN SPORTS XTRA ñ.TV</display-name>
-		<display-name>beIN SPORTS XTRA ñ SD</display-name>
-		<display-name>beIN SPORTS XTRA ñ HD</display-name>
-		<display-name>beIN SPORTS XTRA ñ FHD</display-name>
-		<display-name>beIN SPORTS XTRA ñ UHD</display-name>
-		<display-name>beIN SPORTS XTRA ñ 720</display-name>
-		<display-name>beIN SPORTS XTRA ñ 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png"/>
-	</channel>
   <channel id="ESPN">
 		<display-name>ESPN</display-name>
 		<display-name>ESPN.TV</display-name>
@@ -770,13 +770,6 @@
 		<display-name>UK | Premier Sports 2 1080</display-name>
 		<icon src="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png"/>
 	</channel>
-  <programme start="20260430231500 +0200" stop="20260501002000 +0200" channel="La 1 HD">
-    <title>Se nos ha ido de las manos T1 · Se nos ha ido la luz</title>
-    <desc>Información,Reportaje | 2026 | +12 | *6.0/10
-· Carles Tamayo investiga las causas del apagón del 28 de abril de 2025: qué sucedió ese día, qué nos llevó al cero eléctrico y por qué, en situaciones de emergencia, somos más vulnerables a la desinformación.
-· País: España
-· Presenta: Carles Tamayo.</desc>
-	</programme>
   <programme start="20260501002000 +0200" stop="20260501015000 +0200" channel="La 1 HD">
     <title>Se nos ha ido de las manos T1 · Un activo seguro</title>
     <desc>Información,Reportaje | 2026 | +12 | *6.8/10
@@ -1043,13 +1036,9 @@
     <title>Cine</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260430231500 +0200" stop="20260501003000 +0200" channel="La 2">
-    <title>Documentos TV T25/26 · 40 años contando el mundo</title>
-    <desc>Información,Reportaje | 2026 | +12 | *5.8/10
-· El especial de este aniversario ha sido elaborado por el equipo del programa, a partir de fragmentos de más de 80 documentales emitidos y declaraciones de expertos, con guiños a la historia de ‘Documentos TV’.
-· País: España
-· Dirección: Pilar Requena.
-· Productora: Televisión Española (TVE).</desc>
+  <programme start="20260503002000 +0200" stop="20260503022000 +0200" channel="La 1 HD">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260501003000 +0200" stop="20260501023500 +0200" channel="La 2">
     <title>Día de patriotas</title>
@@ -1546,6 +1535,10 @@
     <title>Cine</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
+  <programme start="20260503003000 +0200" stop="20260503003500 +0200" channel="La 2">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
   <programme start="20260430214000 +0200" stop="20260501015000 +0200" channel="Cuatro HD">
     <title>Horizonte T7 E31</title>
     <desc>Información,Informativo | 2026 | +16 | *6.0/10
@@ -1843,6 +1836,10 @@
 · Espacio que organiza citas entre solteros en un restaurante único y especial.</desc>
 	</programme>
   <programme start="20260502220000 +0200" stop="20260503001000 +0200" channel="Cuatro HD">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260503001000 +0200" stop="20260503022500 +0200" channel="Cuatro HD">
     <title>Cine</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -2438,24 +2435,6 @@
 · Producción: Peter Spears, Daniel Minahan.
 · Productora: Ley Line Entertainment, FirstGen Content.</desc>
 	</programme>
-  <programme start="20260430220000 +0200" stop="20260501001500 +0200" channel="M+ Hits HD">
-    <title>Mujercitas</title>
-    <desc>Cine,Drama | 2019 | TP | *8.2/10
-· La joven Josephine March vive en Nueva York. Mientras intenta que publiquen sus relatos, se gana la vida impartiendo clase a unas niñas. Ella es ahora el principal sustento de su familia, sobre todo mientras su hermana Amy siga en París con la tía March.
-· País: Estados Unidos
-· Dirección: Greta Gerwig.
-· Reparto: Saoirse Ronan, Emma Watson, Meryl Streep, Laura Dern, Florence Pugh, Eliza Scanlen, Timothée Chalamet, Louis Garrel.
-· Guion: Greta Gerwig.
-· Música: Alexandre Desplat.
-· Producción: Amy Pascal, Denise Di Novi, Robin Swicord.
-· Productora: Columbia Pictures, New Regency Pictures, Pascal Pictures, Regency Enterprises, Sony Pictures Entertainment (SPE).</desc>
-	</programme>
-  <programme start="20260501001500 +0200" stop="20260501002100 +0200" channel="M+ Hits HD">
-    <title>Sirat (Extras) T1 · El trabajo del actor</title>
-    <desc>Cine,Making of | 2025 | +16 | *6.0/10
-· Los actores no profesionales de 'Sirat' cuentan cómo se han podido enfrentar a sus personajes para conseguir imprimirles realismo y emoción.
-· País: España</desc>
-	</programme>
   <programme start="20260501002100 +0200" stop="20260501023100 +0200" channel="M+ Hits HD">
     <title>12 años de esclavitud</title>
     <desc>Cine,Drama | 2013 | +16 | *7.6/10
@@ -2760,19 +2739,22 @@
 · Producción: Gillian Gorfil, Marshall Herskovitz, Graham King, Paula Weinstein, Edward Zwick.
 · Productora: Warner Bros. Pictures, Virtual Studios, Spring Creek Productions.</desc>
 	</programme>
-  <programme start="20260430230500 +0200" stop="20260501000200 +0200" channel="M+ Originales HD">
-    <title>La Chaparra E3</title>
-    <desc>Documentales,Sociedad | 2025 | +18 | *6.0/10
-· Gabriel parecía que iba a ser el nuevo gurú, pero el cierre de La Chaparra lo salvó. Tras la muerte de Tío Toni, el caso queda en pausa. Pero las víctimas siguen buscando justicia mientras intentan rehacer sus vidas y hallar su identidad fuera del miedo.
-· País: España
-· Dirección: Elena Molina.</desc>
+  <programme start="20260503002300 +0200" stop="20260503003000 +0200" channel="M+ Hits HD">
+    <title>Por cien millones (Extras) T1 E7 · ¿Quién era Quini?</title>
+    <desc>Series,Making of | +12 | *5.8/10
+· El talento principal y el director de la serie cuentan qué sabían de Quini y el suceso real de su secuestro antes de trabajar en "Por cien millones".</desc>
 	</programme>
-  <programme start="20260501000200 +0200" stop="20260501003000 +0200" channel="M+ Originales HD">
-    <title>Bakalá T25/26 E34</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
-· Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
-· País: España
-· Presenta: Raúl Pérez.</desc>
+  <programme start="20260503003000 +0200" stop="20260503030800 +0200" channel="M+ Hits HD">
+    <title>El paciente inglés</title>
+    <desc>Cine,Drama romántico | 1996 | +16 | *7.0/10
+· La única tregua en medio de la guerra es encontrar una historia de amor. Hana vive dos historias, la suya propia y otra ajena.
+· País: Estados Unidos y Reino Unido
+· Dirección: Anthony Minghella.
+· Reparto: Ralph Fiennes, Willem Dafoe, Juliette Binoche, Kristin Scott Thomas, Naveen Andrews, Colin Firth, Jürgen Prochnow, Julian Wadham, Kevin Whately, Clive Merrison, Nino Castelnuovo.
+· Guion: Anthony Minghella.
+· Música: Gabriel Yared.
+· Producción: Saul Zaentz.
+· Productora: Miramax International, Saul Zaentz Productions, Miramax Films.</desc>
 	</programme>
   <programme start="20260501003000 +0200" stop="20260501010200 +0200" channel="M+ Originales HD">
     <title>Locos por el golf T2026 E16</title>
@@ -3310,12 +3292,16 @@
 · Presenta: Jorge Valdano.
 · Productora: Mediapro.</desc>
 	</programme>
-  <programme start="20260430230900 +0200" stop="20260501000500 +0200" channel="M+ Documentales HD">
-    <title>La Guerra de Vietnam: Fratricidio</title>
-    <desc>Documentales,Historia | 2017 | +12 | *6.6/10
-· Mayo 1970-marzo 1973. Vietnam del Sur sufre una devastadora derrota en Laos. Nixon, reelegido presidente, anuncia un acuerdo de paz con Hanói y los prisioneros de guerra americanos consiguen volver a su país, un hogar dividido.
-· País: Estados Unidos
-· Dirección: Lynn Novick, Ken Burns.</desc>
+  <programme start="20260502235800 +0200" stop="20260503004800 +0200" channel="M+ Originales HD">
+    <title>Velvet Colección T2 E1 · Un encargo singular</title>
+    <desc>Series,Drama | 2018 | +12 | *6.6/10
+· El equipo de Velvet regresa con más energía que nunca, especialmente ahora que acaban de recibir un encargo excepcional: la realización del vestido de coronación como emperatriz de la reina Farah Diba.
+· País: España
+· Dirección: Gustavo Ron, Jorge Torregrossa.
+· Reparto: Marta Hazas, Asier Exteandia, Adrián Lastra, Diego Martín, Fernando Guallar, Llorenç González.
+· Guion: Carlos Portela, Verónica Fernández.
+· Música: Lucio Godoy.
+· Productora: Bambú Producciones, Movistar+.</desc>
 	</programme>
   <programme start="20260501000500 +0200" stop="20260501010300 +0200" channel="M+ Documentales HD">
     <title>La Guerra de Vietnam: Secuelas de la guerra</title>
@@ -3663,27 +3649,12 @@
 · País: España
 · Dirección: Elena Molina.</desc>
 	</programme>
-  <programme start="20260430220000 +0200" stop="20260430234800 +0200" channel="M+ Acción HD">
-    <title>Asalto al distrito 13</title>
-    <desc>Cine,Acción | 2005 | +18 | *6.6/10
-· Algo sale muy mal durante una operación encubierta en la que el sargento Jake Roenick está al mando. Ocho meses después, el día de Nochevieja, Roenick está al mando de una comisaría que dejará de prestar servicio a medianoche.
-· País: Estados Unidos y Francia
-· Dirección: Jean-François Richet.
-· Reparto: Ethan Hawke, Laurence Fishburne, Gabriel Byrne, Maria Bello, Drea de Matteo, John Leguizamo, Brian Dennehy, Ja Rule, Currie Graham.
-· Guion: James DeMonaco, Adán Martín.
-· Música: Graeme Revell.
-· Producción: Jeffrey Silver, Pascal Caucheteux, Stephane Sperry.
-· Productora: Focus Features, Why Not Productions, Rogue Pictures, Biscayne Pictures, Liaisons Films.</desc>
-	</programme>
-  <programme start="20260430234800 +0200" stop="20260501000800 +0200" channel="M+ Acción HD">
-    <title>No me da la vida</title>
-    <desc>Cortometrajes,Corto de comedia | 2021 | +7 | *6.2/10
-· Un jueves al mes Lucas, Río y Marcos consiguen jugar al mus en casa de Xabi, el perfecto anfitrión.
+  <programme start="20260502234600 +0200" stop="20260503004300 +0200" channel="M+ Documentales HD">
+    <title>La Chaparra E3</title>
+    <desc>Documentales,Sociedad | 2025 | +18 | *5.8/10
+· Gabriel parecía que iba a ser el nuevo gurú, pero el cierre de La Chaparra lo salvó. Tras la muerte de Tío Toni, el caso queda en pausa. Pero las víctimas siguen buscando justicia mientras intentan rehacer sus vidas y hallar su identidad fuera del miedo.
 · País: España
-· Dirección: Alauda Ruiz de Azúa.
-· Reparto: Iñaki Ardanaz, Andrés Gertrúdix, Luis Callejo, Chani Martín.
-· Guion: Virginia Mosquera.
-· Productora: Encanta Films.</desc>
+· Dirección: Elena Molina.</desc>
 	</programme>
   <programme start="20260501000800 +0200" stop="20260501020900 +0200" channel="M+ Acción HD">
     <title>Black Rain</title>
@@ -3997,391 +3968,17 @@
 · Producción: Joel Silver, Michael Levy, Howard G. Kazanjian.
 · Productora: Silver Pictures, Warner Bros.</desc>
 	</programme>
-  <programme start="20260430232500 +0200" stop="20260501010500 +0200" channel="M+ Comedia HD">
-    <title>Un niño grande</title>
-    <desc>Cine,Comedia dramática | 2002 | TP | *6.4/10
-· Will sólo pretende evitar toda responsabilidad y salir con chicas. Acaba de salir de una relación fugaz con una madre soltera, lo que le ha permitido descubrir el filón para ligar que representan los grupo de ayuda a padres y madres sin pareja.
-· País: Alemania, Estados Unidos, Francia y Reino Unido
-· Dirección: Paul Weitz, Chris Weitz.
-· Reparto: Hugh Grant, Toni Collette, Rachel Weisz, Natalia Tena, Victoria Smurfit, Sharon Small, Nicholas Hoult, Nicholas Hutchison.
-· Guion: Paul Weitz, Peter Hedges, Chris Weitz.
-· Música: Damon Gough.
-· Producción: Jordi Royo, Eric Fellner, Jane Rosenthal, Robert De Niro, Brad Epstein, Tim Bevan.
-· Productora: Working Title Films, Universal Pictures, StudioCanal, Tribeca Productions.</desc>
-	</programme>
-  <programme start="20260501010500 +0200" stop="20260501025500 +0200" channel="M+ Comedia HD">
-    <title>French Kiss</title>
-    <desc>Cine,Comedia | 1995 | +16 | *6.6/10
-· Kate está comprometida con un hombre que se ha enamorado de una bella francesa. Para recuperarlo viaja a París pero en el avión su vida cambia.
-· País: Estados Unidos y Reino Unido
-· Dirección: Lawrence Kasdan.
-· Reparto: Meg Ryan, Kevin Kline, Timothy Hutton, Jean Reno, François Cluzet, Renée Humphrey, Michael Riley, Susan Anbeh, Laurent Spielvogel.
-· Guion: Adam Brooks.
-· Música: James Newton Howard.
-· Producción: Eric Fellner, Meg Ryan, Tim Bevan, Kathryn F. Galan.
-· Productora: Prufrock Pictures, Twentieth Century Fox, Working Title Films, PolyGram Filmed Entertainment.</desc>
-	</programme>
-  <programme start="20260501025500 +0200" stop="20260501042200 +0200" channel="M+ Comedia HD">
-    <title>La leyenda de Cocodrilo Dundee</title>
-    <desc>Documentales,Documental cine | 2025 | TP | *6.2/10
-· "Cocodrilo Dundee" fue un éxito mundial. Este documental revisita su historia, los desafíos de su producción y el fenómeno cultural en el que se convirtió la mítica película australiana.
-· País: Australia
-· Dirección: Delvene Delaney, Victoria Baldock.</desc>
-	</programme>
-  <programme start="20260501042200 +0200" stop="20260501055000 +0200" channel="M+ Comedia HD">
-    <title>Los amantes pasajeros</title>
-    <desc>Cine,Comedia | 2013 | +16 | *5.2/10
-· Un fallo técnico pone en peligro la vida de los pasajeros de un avión con destino a México. Los pilotos y el Centro de Control se esfuerzan por conseguir una solución, mientras los azafatos se entregan en cuerpo y alma al bienestar de los pasajeros.
-· País: España
-· Dirección: Pedro Almodóvar.
-· Reparto: Javier Cámara, Raúl Arévalo, Carlos Areces, Lola Dueñas, Cecilia Roth, Antonio de la Torre, Hugo Silva, Miguel Ángel Silvestre, Willy Toledo, Laya Martí, Penélope Cruz, Antonio Banderas.
-· Guion: Pedro Almodóvar.
-· Música: Alberto Iglesias.
-· Productora: El Deseo.</desc>
-	</programme>
-  <programme start="20260501055000 +0200" stop="20260501074300 +0200" channel="M+ Comedia HD">
-    <title>Dos superpolicías</title>
-    <desc>Cine,Comedia | 1977 | TP | *6.2/10
-· Uno es introvertido y simpático; el otro, despreocupado y extrovertido. Ambos son algo agresivos, pero de buen corazón. Juntos deciden realizar un atraco, pero, cuando irrumpen en el local, se dan cuenta de que es la Oficina de Reclutamiento de Policías.
-· País: Italia
-· Dirección: Enzo Barboni.
-· Reparto: Terence Hill, Bud Spencer, David Huddleston, Luciano Catenacci, Ezio Marano, Luciano Rossi.
-· Guion: Enzo Barboni.
-· Música: Guido De Angelis, Maurizio De Angelis.
-· Productora: Tritone Cinematografica, T.O.T.A.</desc>
-	</programme>
-  <programme start="20260501074300 +0200" stop="20260501080000 +0200" channel="M+ Comedia HD">
-    <title>La muerte de un héroe</title>
-    <desc>Cortometrajes,Corto de comedia | 2024 | +16 | *6.0/10
-· Para atraer a nuevos miembros a la iglesia, se organiza un extraño acontecimiento en el que un joven va a caer desde la torre de la iglesia.
-· País: Suecia
-· Dirección: Karin Franz Körlof.</desc>
-	</programme>
-  <programme start="20260501080000 +0200" stop="20260501093700 +0200" channel="M+ Comedia HD">
-    <title>El origen de los guardianes</title>
-    <desc>Cine,Animación | 2012 | TP | *6.6/10
-· Una oscura amenaza pretende robarles a los niños sus esperanzas y sueños: es el perverso Sombra, que quiere conquistar el mundo sembrando el miedo. Cuatro personajes legendarios, los Guardianes, buscarán la ayuda de Jack Escarcha para vencer a Sombra.
+  <programme start="20260502235600 +0200" stop="20260503013900 +0200" channel="M+ Acción HD">
+    <title>Asesinato en la Casa Blanca</title>
+    <desc>Cine,Acción | 1997 | +12 | *6.6/10
+· Ha ocurrido un asesinato en la Casa Blanca. Encargan el caso al detective Harlan Regis pero una vez dentro se da cuenta del peligro que corre. Regis descubre que tras esta muerte se esconde todo un entramado que implica a las más altas esferas.
 · País: Estados Unidos
-· Dirección: Peter Ramsey.
-· Reparto: Alec Baldwin, Jude Law, Hugh Jackman, Chris Pine, Isla Fisher.
-· Guion: William Joyce, David Lindsay-Abaire.
-· Música: Alexandre Desplat.
-· Productora: DreamWorks Animation.</desc>
-	</programme>
-  <programme start="20260501093700 +0200" stop="20260501111100 +0200" channel="M+ Comedia HD">
-    <title>La canción del mar</title>
-    <desc>Cine,Animación | 2014 | TP | *7.4/10
-· Ben, Saoirse y su padre viven en un faro, en la parte alta de una pequeña isla. Para protegerlos de los peligros del mar, su padre los envía a vivir con su abuela a la ciudad. Allí, Ben descubre que su hermana pequeña es una 'selkie', un hada del mar.
-· País: Bélgica, Dinamarca, Francia, Irlanda y Luxemburgo
-· Dirección: Tomm Moore.
-· Guion: William Collins, Tomm Moore.
-· Música: Bruno Coulais.
-· Producción: Tomm Moore, Paul Young, Claus Toksvig Kjaer, Ross Murray, Frederik Villumsen.
-· Productora: Big Farm, Digital Graphics, Backup Media, Cartoon Saloon, Irish Film Board, Magellan Films, Mélusine Productions, Noerlum Studios, Studio 352, Super Productions.</desc>
-	</programme>
-  <programme start="20260501111100 +0200" stop="20260501112200 +0200" channel="M+ Comedia HD">
-    <title>Cabeza hueca</title>
-    <desc>Cortometrajes,Corto animación | 2024 | +7 | *6.0/10
-· Colin, un alumno despistado, se evade en sus pensamientos durante una clase de matemáticas, rodeado de divertidos personajes que le reconfortan.
-· País: Francia
-· Dirección: Paul Charff.</desc>
-	</programme>
-  <programme start="20260501112200 +0200" stop="20260501125500 +0200" channel="M+ Comedia HD">
-    <title>Trolls</title>
-    <desc>Cine,Animación | 2016 | +7 | *7.6/10
-· Hace 20 años, los simpáticos y tiernos trolls, los seres más felices del mundo, consiguieron escapar de los tristes y miserables bergen, quienes, una vez al año, se reunían alrededor del árbol de los trolls para robarles la felicidad ¡comiéndoselos!
-· País: Estados Unidos
-· Dirección: Mike Mitchell, Walt Dohrn.
-· Guion: Jonathan Aibel, Glenn Berger.
-· Música: Christophe Beck.
-· Producción: Gina Shay.
-· Productora: DreamWorks Animation.</desc>
-	</programme>
-  <programme start="20260501125500 +0200" stop="20260501142700 +0200" channel="M+ Comedia HD">
-    <title>Trolls 2: Gira mundial</title>
-    <desc>Cine,Animación | 2020 | TP | *7.6/10
-· La ahora reina Poppy, su amigo Branch y el resto de trolls del bosque no saben que hay muchos más como ellos... y que los amenaza un serio peligro: la reina de los trolls rockeros pretende unir a todas las razas troll en una única nación ¡bajo el rock!
-· País: Estados Unidos
-· Dirección: Walt Dohrn, David P. Smith.
-· Guion: Jonathan Aibel, Glenn Berger, Maya Forbes, Wallace Wolodarsky, Elizabeth Tippet, Thomas Dam.
-· Música: Theodore Shapiro.
-· Producción: Gina Shay.
-· Productora: DreamWorks Animation, Dentsu.</desc>
-	</programme>
-  <programme start="20260501142700 +0200" stop="20260501150000 +0200" channel="M+ Comedia HD">
-    <title>Ilustres ignorantes T19 · Supervivencia</title>
-    <desc>Entretenimiento,Humor | 2026 | +16 | *6.6/10
-· La actriz Juana Acosta y Raúl Pérez como Fito Cabrales visitan Ilustres para hablar de “Supervivencia” ¿cuál sería su mejor habilidad si tuvieran que sobrevivir: pesca, orientación, robo…? ¿serían capaces de hacer fuego sin cerillas ni mechero?
-· País: España
-· Presenta: Javier Coronas.
-· Dirección: Javier Coronas.
-· Productora: Movistar+.</desc>
-	</programme>
-  <programme start="20260501150000 +0200" stop="20260501163200 +0200" channel="M+ Comedia HD">
-    <title>Los Muértimer</title>
-    <desc>Cine,Aventuras | 2025 | +12 | *6.6/10
-· Cuando Nico y sus padres van a recoger a su estudiante de intercambio descubren con estupor que es una chica. Pero la sorpresa de ella es aún mayor: su nueva familia es dueña de una funeraria y vive en un antiguo caserón... enfrente del cementerio.
-· País: España
-· Dirección: Álvaro Fernández Armero.
-· Reparto: Alexandra Jiménez, Víctor Clavijo, Belén Rueda, Diego Montejo, Iratxe Emparan, Fele Martínez, Pepe Lorente, Bruna González, Carmen Mayordomo, Juan Viadas.
-· Guion: Jelen Morales.
-· Música: Vanessa Garde.
-· Producción: Álex de la Iglesia, Carolina Bang, Ghislain Barrois.
-· Productora: Pokeepsietxea, Telecinco Cinema, Pokeepsie Films.</desc>
-	</programme>
-  <programme start="20260501163200 +0200" stop="20260501181700 +0200" channel="M+ Comedia HD">
-    <title>Bookworm. El misterio de la pantera</title>
-    <desc>Cine,Aventuras | 2024 | TP | *6.0/10
-· El mundo de la pequeña y precoz Mildred, se pone patas arriba cuando retoma el contacto con su padre ausente, un ilusionista en horas bajas, que la convence de ir a un campamento para encontrar una bestia mitológica.
-· País: Estados Unidos y Nueva Zelanda
-· Dirección: Ant Timpson.
-· Reparto: Elijah Wood, Nell Fisher, Michael Smiley, Morgana O'Reilly.
-· Guion: Toby Harvard.
-· Música: Karl Sölve Steven.
-· Producción: Emma Slade.
-· Productora: Firefly Films%.</desc>
-	</programme>
-  <programme start="20260501181700 +0200" stop="20260501200400 +0200" channel="M+ Comedia HD">
-    <title>Paddington: aventura en la selva</title>
-    <desc>Cine,Aventuras | 2024 | TP | *6.2/10
-· Paddington y la familia Brown ponen rumbo a Perú para hacer compañía a la anciana tía Lucy, sin saber que una gran aventura les espera en lo más profundo del Amazonas. Allí, nuestro querido oso descubrirá la verdad sobre su pasado familiar.
-· País: Estados Unidos, Francia, Japón y Reino Unido
-· Dirección: Dougal Wilson.
-· Reparto: Hugh Bonneville, Emily Mortimer, Julie Walters, Olivia Colman, Antonio Banderas.</desc>
-	</programme>
-  <programme start="20260501200400 +0200" stop="20260501215000 +0200" channel="M+ Comedia HD">
-    <title>El banquete de boda</title>
-    <desc>Cine,Comedia romántica | 2025 | +12 | *6.0/10
-· Cuando Chris rechaza su propuesta de matrimonio, Min convence a su mejor amiga lesbiana para que se case con él y así obtener la residencia. Ahora, sus planes para una boda tranquila se ven trastocados cuando la abuela de Min viaja a la ciudad.
-· País: Estados Unidos
-· Dirección: Andrew Ahn.
-· Reparto: Bowen Yang, Lily Gladstone, Kelly Marie Tran, Han Gi-Chan, Joan Chen, Françoise Yip, Youn Yuh-jung, Marlee Walchuk.
-· Guion: Andrew Ahn, Ang Lee, James Schamus, Neil Peng.
-· Música: Jay Wadley.
-· Producción: Joe Pirro, Anita Gou, James Schamus.
-· Productora: Kindred Spirit, Symbolic Exchange.</desc>
-	</programme>
-  <programme start="20260501215000 +0200" stop="20260501220000 +0200" channel="M+ Comedia HD">
-    <title>Los Domingos (Extras) T1 · Tras los muros del convento</title>
-    <desc>Cine,Making of | 2025 | +12 | *5.6/10
-· 'Los Domingos' se ha rodado en un convento real de Guernica, con un enfoque muy riguroso de trasladar cómo es su día a día, su manera de pensar y su forma de entender el mundo.</desc>
-	</programme>
-  <programme start="20260501220000 +0200" stop="20260501233000 +0200" channel="M+ Comedia HD">
-    <title>Mentiroso compulsivo</title>
-    <desc>Cine,Comedia | 1997 | +7 | *6.6/10
-· Un abogado sin escrúpulos es incapaz de mentir durante 24 horas gracias al deseo de su hijo.
-· País: Estados Unidos
-· Dirección: Tom Shadyac.
-· Reparto: Jim Carrey, Maura Tierney, Justin Cooper, Cary Elwes, Anne Haney, Jennifer Tilly, Amanda Donohoe, Jason Bernard, Swoosie Kurtz.
-· Guion: Paul Guay, Stephen Mazur.
-· Música: John Debney, James Newton Howard.
-· Producción: Brian Grazer.
-· Productora: Universal Pictures, Imagine Entertainment.</desc>
-	</programme>
-  <programme start="20260501233000 +0200" stop="20260502001800 +0200" channel="M+ Comedia HD">
-    <title>El consultorio de Berto T3 · Tomàs Fuentes, Ignasi Taltavull y las puertas automáticas</title>
-    <desc>Entretenimiento,Humor | 2025 | +16 | *6.0/10
-· Ignasi Taltavull y Tomàs Fuentes, conductores del podcast “La ruina” se enfrentan junto con Berto Romero a consultas de espectadores cuyas dudas e inquietudes son dignas de gente que podría tener una ruina de vida. Todo bien.
-· País: España
-· Presenta: Berto Romero.
-· Producción: Movistar Plus+.</desc>
-	</programme>
-  <programme start="20260502001800 +0200" stop="20260502022800 +0200" channel="M+ Comedia HD">
-    <title>Granujas a todo ritmo</title>
-    <desc>Cine,Comedia | 1980 | TP | *7.4/10
-· Un expresidiario decide volver a formar su vieja banda de blues para sacar de la bancarrota el orfanato donde se crió.
-· País: Estados Unidos
-· Dirección: John Landis.
-· Reparto: John Belushi, Dan Aykroyd, James Brown, Ray Charles, Cab Calloway, Aretha Franklin, Carrie Fisher, Kathleen Freeman, Murphy Dunne, Steve Cropper, Donald Dunn.
-· Guion: John Landis, Dan Aykroyd.
-· Música: Elmer Bernstein.
-· Producción: Robert K. Weiss.
-· Productora: Universal Pictures.</desc>
-	</programme>
-  <programme start="20260502022800 +0200" stop="20260502041200 +0200" channel="M+ Comedia HD">
-    <title>Escondidos en Brujas</title>
-    <desc>Cine,Comedia | 2008 | +18 | *6.8/10
-· Harry Waters, un gánster londinense, envía a dos de sus asesinos a suelo a Brujas tras un trabajo fallido. Allí pasan el día esperando órdenes. Mientras que Ken se dedica a hacer turismo cultural, Ray se aburre muchísimo y no para de quejarse.
-· País: Estados Unidos y Reino Unido
-· Dirección: Martin McDonagh.
-· Reparto: Colin Farrell, Brendan Gleeson, Ralph Fiennes, Elizabeth Berrington, Clémence Poésy, Jérémie Renier, Jordan Prentice, Mark Donovan, Thekla Reuten.
-· Guion: Martin McDonagh.
-· Música: Carter Burwell.
-· Producción: Graham Broadbent, Peter Czernin.
-· Productora: Focus Features.</desc>
-	</programme>
-  <programme start="20260502041200 +0200" stop="20260502055800 +0200" channel="M+ Comedia HD">
-    <title>Pasado de vueltas</title>
-    <desc>Cine,Comedia | 2006 | +18 | *6.4/10
-· Ricky Bobby es un joven que siempre ha soñado con dedicarse profesionalmente a las carreras de coches. Su gran oportunidad le llega cuando consigue un puesto como 'jackman', el encargado de levantar el coche durante el cambio de neumáticos.
-· País: Estados Unidos
-· Dirección: Adam McKay.
-· Reparto: Will Ferrell, John C. Reilly, Sacha Baron Cohen, Gary Cole, Michael Clarke Duncan, Leslie Bibb, Jane Lynch, Amy Adams, Ian Roberts.
-· Guion: Adam McKay, Will Ferrell.
-· Música: Alex Wurman.
-· Producción: Jimmy Miller, Judd Apatow.
-· Productora: Columbia Pictures.</desc>
-	</programme>
-  <programme start="20260502055800 +0200" stop="20260502080000 +0200" channel="M+ Comedia HD">
-    <title>Campeonex</title>
-    <desc>Cine,Comedia | 2023 | TP | *6.4/10
-· Con la llegada de una entrenadora novata a quien la suerte no le acompaña, el equipo de campeones se adentra por error en el complejo mundo del atletismo. Ha llegado la hora de volver a darlo todo demostrando que la amistad puede con todo.
-· País: España
-· Dirección: Javier Fesser.
-· Reparto: Elisa Hipólito, Sergio Olmos, Brianeitor, Jesús Lago Solís, Juan Margallo, Jelen García, Roberto Chinchilla, Alberto Berzal, Gloria Ramos, Fran Fuentes, Alberto Nieto Ferrández, José de Luna, Jesús Vidal, Carolina Rubio, Carmen Mayordomo, Claudia Fesser.
-· Guion: David Marqués, Javier Fesser, Athenea Mata.
-· Música: Rafael Arnau.
-· Producción: Javier Fesser, Álvaro Longoria, Luis Manso.
-· Productora: Películas Pendelton, Rey de Babia, A.I.E., Morena Films S.L.</desc>
-	</programme>
-  <programme start="20260502080000 +0200" stop="20260502092700 +0200" channel="M+ Comedia HD">
-    <title>La oveja Shaun. La película: Granjaguedón</title>
-    <desc>Cine,Animación | 2019 | TP | *7.6/10
-· La oveja Shaun intenta hacer más divertida la vida en la granja ideando mil travesuras junto a sus compañeras de rebaño. Sin embargo, las prohibiciones del perro Bitzer cada vez se lo ponen más difícil hasta la llegada de un visitante de muuuuy lejos.
-· País: Estados Unidos, Francia y Reino Unido
-· Dirección: Will Becher, Richard Phelan.
-· Guion: Jon Brown, Mark Burton, Nick Park.
-· Música: Tom Howe.
-· Producción: Paul Kewley.
-· Productora: Aardman Animations Productions, Amazon Prime Video.</desc>
-	</programme>
-  <programme start="20260502092700 +0200" stop="20260502105800 +0200" channel="M+ Comedia HD">
-    <title>Harold y el lápiz mágico</title>
-    <desc>Cine,Fantástico | 2024 | TP | *6.2/10
-· En el mundo animado de Harold, todo lo que dibuja con su lápiz morado se convierte en realidad. De hecho, cuando un día se dibuja a sí mismo, es el propio Harold el que cobra vida fuera de las páginas de su libro y aparece en el mundo real.
-· País: Estados Unidos
-· Dirección: Carlos Saldanha.
-· Reparto: Zachary Levi, Benjamin Bottani, Lil Rel Howery, Tanya Reynolds, Zooey Deschanel, Jemaine Clement.
-· Guion: David Guion, Michael Handelman.
-· Música: Batu Sener.
-· Producción: John Davis.
-· Productora: Davis Entertainment, TSG Entertainment.</desc>
-	</programme>
-  <programme start="20260502105800 +0200" stop="20260502111500 +0200" channel="M+ Comedia HD">
-    <title>Gilbert</title>
-    <desc>Cortometrajes,Corto animación | 2024 | TP | *6.8/10
-· Gilbert y Sullivan son habitantes de un pequeño archipiélago en medio del océano, donde Sullivan es trompetista y Gilbert reparte paquetes con su góndola. Pero un día, Gilbert decide quedarse con un paquete que iba destinado a su vecino Sullivan.
-· País: España
-· Dirección: Alex Salu, Arturo Lacal, Jordi Jiménez.
-· Guion: Arturo Lacal.
-· Música: Zinkman, Jordi Jiménez.
-· Producción: Mónica Gallego.
-· Productora: Agencia audiovisual Freak.</desc>
-	</programme>
-  <programme start="20260502111500 +0200" stop="20260502125700 +0200" channel="M+ Comedia HD">
-    <title>Donde viven los monstruos</title>
-    <desc>Cine,Fantástico | 2009 | TP | *6.4/10
-· Max es un niño travieso y sensible que se siente incomprendido y huye a una isla habitada por unos monstruos tan emotivos e imprevisibles como él.
-· País: Estados Unidos
-· Dirección: Spike Jonze.
-· Reparto: Max Records, Pepita Emmerichs, Max Pfeifer, Catherine Keener.
-· Guion: Spike Jonze.
-· Música: Carter Burwell, Karen O.
-· Productora: Warner Bros.</desc>
-	</programme>
-  <programme start="20260502125700 +0200" stop="20260502143900 +0200" channel="M+ Comedia HD">
-    <title>Cómo entrenar a tu dragón 2</title>
-    <desc>Cine,Animación | 2014 | TP | *7.8/10
-· Cinco años después de que Hipo y Desdentao consiguieran unir a dragones y vikingos, la pareja surca los cielos explorando nuevos territorios. Un día descubren una isla de hielo, hogar de cientos de dragones salvajes y del misterioso Jinete de Dragones.
-· País: Estados Unidos
-· Dirección: Dean DeBlois.
-· Guion: Dean DeBlois.
-· Música: John Powell.
-· Producción: Bonnie Arnold.
-· Productora: DreamWorks Animation, Mad Hatter Entertainment.</desc>
-	</programme>
-  <programme start="20260502143900 +0200" stop="20260502152500 +0200" channel="M+ Comedia HD">
-    <title>El consultorio de Berto T3 · Tomàs Fuentes, Ignasi Taltavull y las puertas automáticas</title>
-    <desc>Entretenimiento,Humor | 2025 | +16 | *6.0/10
-· Ignasi Taltavull y Tomàs Fuentes, conductores del podcast “La ruina” se enfrentan junto con Berto Romero a consultas de espectadores cuyas dudas e inquietudes son dignas de gente que podría tener una ruina de vida. Todo bien.
-· País: España
-· Presenta: Berto Romero.
-· Producción: Movistar Plus+.</desc>
-	</programme>
-  <programme start="20260502152500 +0200" stop="20260502172300 +0200" channel="M+ Comedia HD">
-    <title>Mis dobles, mi mujer y yo</title>
-    <desc>Cine,Comedia | 1996 | TP | *6.8/10
-· La vida de Doug es demasiado estresante y él está a punto de sucumbir. Hasta que un doctor le ofrece una solución: la clonación. A partir de entonces los problemas no hacen más que crecer.
-· País: Estados Unidos
-· Dirección: Harold Ramis.
-· Reparto: Michael Keaton, Andie MacDowell, Harris Yulin, Ann Cusack, Eugene Levy, Zack Duhame, Richard Masur.
-· Guion: Chris Miller (Guionista), Mary Hale, Lowell Ganz, Babaloo Mandel, Chris Miller.
-· Música: George Fenton.
-· Producción: Trevor Albert, Harold Ramis.
-· Productora: Columbia Pictures, Columbia Pictures Corporation.</desc>
-	</programme>
-  <programme start="20260502172300 +0200" stop="20260502191000 +0200" channel="M+ Comedia HD">
-    <title>Juerga hasta el fin</title>
-    <desc>Cine,Comedia | 2013 | +16 | *6.4/10
-· James Franco celebra una fiesta en su casa. A ella acuden amigos como Seth Rogen, Jonah Hill, Danny McBride o Craig Robinson. De pronto, se ven atrapados por los extraños y catastróficos acontecimientos que han devastado Los Ángeles. Es el Apocalipsis.
-· País: Estados Unidos
-· Dirección: Evan Goldberg.
-· Reparto: James Franco, Jonah Hill, Seth Rogen, Jay Baruchel, Danny McBride, Craig Robinson, Michael Cera, Emma Watson, Christopher Mintz-Plasse, Rihanna, Paul Rudd, Channing Tatum.
-· Guion: Evan Goldberg, Seth Rogen.
-· Música: Henry Jackman.
-· Productora: Mandate Pictures.</desc>
-	</programme>
-  <programme start="20260502191000 +0200" stop="20260502192800 +0200" channel="M+ Comedia HD">
-    <title>La mort</title>
-    <desc>Cortometrajes,Corto de comedia | 2024 | +7 | *9.0/10
-· Cuando morirse es una forma de vida.
-· País: España
-· Dirección: Jesús Martínez Nota.
-· Reparto: Pepa Aniorte, Luisa Gavasa.
-· Guion: Santiago Pajares.
-· Productora: Producciones 13, Jesús Soria Productions, Filamento Audiovisual.</desc>
-	</programme>
-  <programme start="20260502192800 +0200" stop="20260502212400 +0200" channel="M+ Comedia HD">
-    <title>Misterioso asesinato en la montaña</title>
-    <desc>Cine,Thriller | 2024 | +12 | *6.4/10
-· Michel y Cathy son un matrimonio común que lleva una vida monótona en las montañas hasta que un oso aparece delante del coche de Michel y produce un accidente de tráfico que mata a dos traficantes de droga y revela un botín de dos millones de euros.
-· País: Bélgica y Francia
-· Dirección: Franck Dubosc.
-· Reparto: Franck Dubosc, Laure Calamy, Benoît Poelvoorde, Joséphine de Meaux, Kim Higelin.
-· Guion: Franck Dubosc, Sarah Kaminsky.
-· Música: Sylvain Goldberg.
-· Producción: Sidonie Dumas.
-· Productora: Gaumont, Pour Toi Public Productions.</desc>
-	</programme>
-  <programme start="20260502212400 +0200" stop="20260502220000 +0200" channel="M+ Comedia HD">
-    <title>Ilustres ignorantes T19 · Childrenfree</title>
-    <desc>Entretenimiento,Humor | 2026 | +16 | *6.0/10
-· La actriz Llum Barrera y el cantante Blas Cantó son los invitados de este programa en el que debaten sobre el fenómeno “Childrenfree” ¿Qué es lo que más envidian de la gente con hijos (o sin ellos)? ¿Están a favor de los sitios childrenfree?
-· País: España
-· Presenta: Javier Coronas.
-· Dirección: Javier Coronas.
-· Productora: Movistar+.</desc>
-	</programme>
-  <programme start="20260502220000 +0200" stop="20260502234400 +0200" channel="M+ Comedia HD">
-    <title>Te puede pasar a ti</title>
-    <desc>Cine,Comedia | 1994 | TP | *7.2/10
-· A Charlie, un policía de Nueva York, le toca un premio de la lotería. El problema es que el día anterior le prometió a una amiga darle la mitad del dinero en caso de ser agraciado. Ahora debe cumplir su promesa.
-· País: Estados Unidos
-· Dirección: Andrew Bergman.
-· Reparto: Nicolas Cage, Bridget Fonda, Rosie Perez, Wendell Pierce, Isaac Hayes, Stanley Tucci, Seymour Cassel, Víctor Rojas.
-· Guion: Jane Anderson.
-· Música: Carter Burwell, Joe Mulherin.
-· Producción: Mike Lobell.
-· Productora: Columbia Pictures, TriStar Pictures.</desc>
-	</programme>
-  <programme start="20260430220000 +0200" stop="20260501000500 +0200" channel="M+ Cine Español">
-    <title>El amor perjudica seriamente la salud</title>
-    <desc>Cine,Comedia romántica | 1996 | TP | *6.6/10
-· En una cena de gala ofrecida en París por los reyes de España coinciden Santi, miembro de la escolta real, y Diana, habitual de las revistas del corazón. Diana sufre un desmayo al reconocer a Santi, su primer amor, a quien no veía desde hacía años.
-· País: España y Francia
-· Dirección: Manuel Gómez Pereira.
-· Reparto: Ana Belén, Juanjo Puigcorbé, Penélope Cruz, Gabino Diego, Carles Sans, Lola Herrera.
-· Guion: Joaquim Oristrell, Yolanda García Serrano, Juan Luis Iborra, Manuel Gómez Pereira.
-· Música: Bernardo Bonezzi.
-· Producción: César Benítez, Joaquim Oristrell, Manuel Gómez Pereira.
-· Productora: Sociedad General de Televisión S.A. (Sogetel), Bocaboca Producciones S.A, Le Studio Canal+, D.M.V.B. Films.</desc>
-	</programme>
-  <programme start="20260501000500 +0200" stop="20260501002900 +0200" channel="M+ Cine Español">
-    <title>Al encuentro de T1 · Javier Cámara</title>
-    <desc>Cine,Programa de cine | 2026 | +7 | *6.0/10
-· Javier Cámara y Cristina Teva se encuentran para tener una charla distendida sobre la carrera del actor, que eventualmente dirige algún capítulo de las series que protagoniza. Repasan con simpáticas anécdotas los recuerdos de sus vivencias.
-· País: España
-· Presenta: Cristina Teva.</desc>
+· Dirección: Dwight H. Little.
+· Reparto: Wesley Snipes, Diane Lane, Daniel Benzali, Dennis Miller, Alan Alda, Ronny Cox, Tate Donovan, Diane Baker.
+· Guion: Wayne Beach, David Hodgin, Linden Ashby.
+· Música: Christopher Young.
+· Producción: Arnold Kopelson, Arnon Milchan.
+· Productora: New Regency, Warner Bros, Regency Enterprises, Regency Entertaintment.</desc>
 	</programme>
   <programme start="20260501002900 +0200" stop="20260501023000 +0200" channel="M+ Cine Español">
     <title>Daniela Forever</title>
@@ -4719,17 +4316,441 @@
 · Producción: Cristóbal García, Lina Badenes.
 · Productora: La Terraza Films, S.L., Turanga Films.</desc>
 	</programme>
-  <programme start="20260430230200 +0200" stop="20260430233700 +0200" channel="Caza y Pesca HD">
-    <title>Titanes de montería</title>
-    <desc>Documentales,Caza y pesca | 2018 | +12 | *5.8/10
-· Los grandes jabalíes son sin duda los grandes animadores de la tradicional montería. En este reportaje disfrutaremos de espectaculares imágenes grabadas a ¿vista de pájaro¿ y seremos testigos de excepción del trabajo de las rehalas.
-· País: España</desc>
+  <programme start="20260502235000 +0200" stop="20260503013500 +0200" channel="M+ Cine Español">
+    <title>Muy lejos</title>
+    <desc>Cine,Drama | 2025 | +12 | *6.8/10
+· Sergio viaja a Utrecht para asistir a un partido de fútbol. Antes de coger el vuelo de regreso, sufre un ataque de ansiedad y decide quedarse en Holanda. Incapaz de dar una explicación a los suyos, corta el contacto y comienza una nueva vida.
+· País: España y Países Bajos
+· Dirección: Gerard Oms.
+· Reparto: Mario Casas, David Verdaguer, Ilyass El Ouahdani, Jetty Mathurin, Hanneke van der Paardt, Raúl Prieto, Nausicaa Bonnín, Albert Baró, Achraf Koutet, Daniel Medrán.
+· Guion: Gerard Oms.
+· Música: Sílvia Pérez Cruz.
+· Producción: Carles Torras, Sergio Adrià.
+· Productora: Zabriskie Films, Revolver Amsterdam, Radio Televisión Española (RTVE), Crea SGR, 3Cat.</desc>
 	</programme>
-  <programme start="20260430233700 +0200" stop="20260501000700 +0200" channel="Caza y Pesca HD">
-    <title>Truchas a la leonesa: Órbigo, el río</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2022 | TP | *5.4/10
-· Volvemos a las aguas del río Órbigo para pescar con dos veteranos pescadores, que actualmente compiten en las modalidades de pesca a la leonesa. Nos contarán los secretos del montaje de mosca con pluma de gallo de León.
-· País: España</desc>
+  <programme start="20260430235300 +0200" stop="20260501004900 +0200" channel="Calle 13 HD">
+    <title>Blue Ridge T1 E3 · Viles y caras</title>
+    <desc>Series,Policíaca | 2024 | +16 | *6.0/10
+· El turbio promotor de lucha libre profesional es encontrado muerto bajo el ring.
+· País: Estados Unidos
+· Reparto: Johnathon Schaech, Sarah Lancaster, Taegen Burns, A. Martínez, Avianna Mynhier.</desc>
+	</programme>
+  <programme start="20260501004900 +0200" stop="20260501014000 +0200" channel="Calle 13 HD">
+    <title>Blue Ridge T1 E4 · El vals de los Apalaches</title>
+    <desc>Series,Acción | 2024 | +16 | *5.6/10
+· Justin se arruina cuando el autobús de gira de una banda de country se avería. Just debe gestionar tanto el interés romántico de su bella violinista como los estragos que el matón de su guardaespaldas está causando por toda la ciudad.
+· País: Estados Unidos
+· Reparto: Johnathon Schaech, Sarah Lancaster, Taegen Burns, A. Martínez, Avianna Mynhier.</desc>
+	</programme>
+  <programme start="20260501014000 +0200" stop="20260501022800 +0200" channel="Calle 13 HD">
+    <title>Blue Ridge T1 E5 · Apropiación de tierras</title>
+    <desc>Series,Acción | 2024 | +16 | *6.0/10
+· Una querida entrenadora de caballos local muere en vísperas de su jubilación. Cuando el equipo de Justin descubre su testamento, contiene un cambio de último momento que puede ser el motivo de su muerte y la clave para resolver su asesinato.
+· País: Estados Unidos
+· Reparto: Johnathon Schaech, Sarah Lancaster, Taegen Burns, A. Martínez, Avianna Mynhier.</desc>
+	</programme>
+  <programme start="20260501022800 +0200" stop="20260501031700 +0200" channel="Calle 13 HD">
+    <title>Blue Ridge T1 E6 · Encerrados</title>
+    <desc>Series,Acción | 2024 | +16 | *5.8/10
+· El mundo de Justin se sacude cuando su ex esposa y su hija son rehenes.
+· País: Estados Unidos
+· Reparto: Johnathon Schaech, Sarah Lancaster, Taegen Burns, A. Martínez, Avianna Mynhier.</desc>
+	</programme>
+  <programme start="20260501031700 +0200" stop="20260501040100 +0200" channel="Calle 13 HD">
+    <title>Magnum T5 E3</title>
+    <desc>Series,Acción | 2023 | +16 | *6.0/10
+· Katsumoto acepta un trabajo brindando seguridad a una estrella del K-pop que encabeza las listas de éxitos. Higgins y Rick se encuentran en peligro al intentar ayudar al amigo de Rick. Magnum alberga sospechas sobre la muerte del capitán Greene.
+· País: Estados Unidos
+· Reparto: Jay Hernandez, Perdita Weeks, Zachary Knighton, Stephen Hill, Amy Hill, Tim Kang.
+· Productora: CBS Television Studios.</desc>
+	</programme>
+  <programme start="20260501040100 +0200" stop="20260501050000 +0200" channel="Calle 13 HD">
+    <title>Magnum T5 E4</title>
+    <desc>Series,Acción | 2023 | +16 | *6.0/10
+· Magnum y Higgins buscan a un director ejecutivo que ha desaparecido misteriosamente. Rick se prepara para la visita de Ruthie, su hermana pequeña.
+· País: Estados Unidos
+· Reparto: Jay Hernandez, Perdita Weeks, Zachary Knighton, Stephen Hill, Amy Hill, Tim Kang.
+· Productora: CBS Television Studios.</desc>
+	</programme>
+  <programme start="20260501050000 +0200" stop="20260501054400 +0200" channel="Calle 13 HD">
+    <title>CSI: Miami T8 E22 · Madre muertísima</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.4/10
+· Una madre futbolista que vive en las afueras con un oscuro pasado es asesinada.
+· País: Estados Unidos
+· Reparto: David Caruso, Emily Procter, Adam Rodriguez, Jonathan Togo, Eva La Rue, Eddie Cibrian, Rex Linn.
+· Productora: Jerry Bruckheimer Films, CBS Productions.</desc>
+	</programme>
+  <programme start="20260501054400 +0200" stop="20260501062900 +0200" channel="Calle 13 HD">
+    <title>CSI: Miami T8 E23 · Bomba de relojería</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.0/10
+· Una ex novia de Horatio es asesinada en una manifestación. Todo apunta a que el asesino es alguien de su propio departamento.
+· País: Estados Unidos
+· Reparto: David Caruso, Emily Procter, Adam Rodriguez, Jonathan Togo, Eva La Rue, Eddie Cibrian, Rex Linn.
+· Productora: Jerry Bruckheimer Films, CBS Productions.</desc>
+	</programme>
+  <programme start="20260501062900 +0200" stop="20260501071300 +0200" channel="Calle 13 HD">
+    <title>CSI: Miami T8 E24 · Todos caen</title>
+    <desc>Series,Policíaca | 2009 | +12 | *6.6/10
+· Ambientado en Florida, CSI Miami sigue el ritmo y el trabajo de un equipo de investigadores de primera línea, que utilizan para esclarecer los crímenes y asesinatos innovadoras técnicas forenses junto a métodos policiales tradicionales.
+· País: Estados Unidos
+· Reparto: David Caruso, Emily Procter, Adam Rodriguez, Jonathan Togo, Eva La Rue, Eddie Cibrian, Rex Linn.
+· Productora: Jerry Bruckheimer Films, CBS Productions.</desc>
+	</programme>
+  <programme start="20260501071300 +0200" stop="20260501080000 +0200" channel="Calle 13 HD">
+    <title>Harry Wild T1 E6 · Los mejores planes</title>
+    <desc>Series,Comedia | 2022 | +16 | *6.2/10
+· Una violenta tormenta atrapa a Harry, Fergus y Lola en el pub local. Aislados del mundo exterior, el trío corre un peligro aún mayor cuando descubren a una víctima de secuestro en un automóvil.
+· País: Irlanda
+· Reparto: Jane Seymour, Rohan Nedd, Kevin Ryan, Rose O'Neill, Paul Tylak.
+· Productora: Acorn TV.</desc>
+	</programme>
+  <programme start="20260501080000 +0200" stop="20260501084800 +0200" channel="Calle 13 HD">
+    <title>Harry Wild T1 E7 · El misterio de la peluca de la abuela Susan</title>
+    <desc>Series,Comedia | 2022 | +16 | *6.2/10
+· Cuando una matriarca adinerada muere estrangulada durante una videollamada con sus familiares, la hija de la mujer contrata los servicios de la Agencia de Detectives Wild/Reid.
+· País: Irlanda
+· Reparto: Jane Seymour, Rohan Nedd, Kevin Ryan, Rose O'Neill, Paul Tylak.
+· Productora: Acorn TV.</desc>
+	</programme>
+  <programme start="20260501084800 +0200" stop="20260501093900 +0200" channel="Calle 13 HD">
+    <title>Harry Wild T1 E8 · De aquí nadie sale vivo</title>
+    <desc>Series,Comedia | 2022 | +16 | *6.0/10
+· Zoe McCann es una adicta en recuperación que lucha cada día para matar a sus demonios; cuando la secuestran y se despierta en un bosque con un vestido vintage, su cordura y determinación se llevan al límite.
+· País: Irlanda
+· Reparto: Jane Seymour, Rohan Nedd, Kevin Ryan, Rose O'Neill, Paul Tylak.
+· Productora: Acorn TV.</desc>
+	</programme>
+  <programme start="20260501093900 +0200" stop="20260501102800 +0200" channel="Calle 13 HD">
+    <title>Harry Wild T2 E1 · El silencio de dogood hizo mal</title>
+    <desc>Series,Comedia | 2022 | +16 | *5.6/10
+· Después de que Ray Tiernan, el ex de Harry y mentor de Charlie, es asesinado mientras dirige una investigación secreta, Harry y Fergus no se detendrán ante nada para encontrar a su asesino.
+· País: Irlanda
+· Dirección: Rob Burke, Robert Quinn.
+· Reparto: Jane Seymour, Rohan Nedd, Stuart Graham, Kevin Ryan, Rose O'Neill, Amy Huberman, Paul Tylak.
+· Productora: Acorn TV, Ardvella Entertainment, Dynamic Television, Metropolitan Films International.</desc>
+	</programme>
+  <programme start="20260501102800 +0200" stop="20260501111500 +0200" channel="Calle 13 HD">
+    <title>Harry Wild T2 E2 · El pueblo tiene ojos</title>
+    <desc>Series,Comedia | 2022 | +16 | *6.0/10
+· La desaparición de Alice, una joven escritora que escribía sobre el culto al diablo en Wicklow Way, llama la atención de Harry y Fergus.
+· País: Irlanda
+· Dirección: Rob Burke, Robert Quinn.
+· Reparto: Jane Seymour, Rohan Nedd, Stuart Graham, Kevin Ryan, Rose O'Neill, Amy Huberman, Paul Tylak.
+· Productora: Acorn TV, Ardvella Entertainment, Dynamic Television, Metropolitan Films International.</desc>
+	</programme>
+  <programme start="20260501111500 +0200" stop="20260501120000 +0200" channel="Calle 13 HD">
+    <title>Harry Wild T2 E3 · Una inyección de botox al día permite al funerario cobrar</title>
+    <desc>Series,Comedia | 2023 | +16 | *5.8/10
+· Durante una despedida de soltera, una de las damas de honor muere envenenada después de beber una copa de champán. Harry y Fergus se esfuerzan por averiguar cómo pudieron envenenarla cuando todas las chicas de la fiesta bebieron de la misma botella.
+· País: Irlanda
+· Dirección: Rob Burke, Robert Quinn.
+· Reparto: Jane Seymour, Rohan Nedd, Stuart Graham, Kevin Ryan, Rose O'Neill, Amy Huberman, Paul Tylak.
+· Productora: Acorn TV, Ardvella Entertainment, Dynamic Television, Metropolitan Films International.</desc>
+	</programme>
+  <programme start="20260501120000 +0200" stop="20260501124500 +0200" channel="Calle 13 HD">
+    <title>Chicago P.D. T12 E17 · Transferencia</title>
+    <desc>Series,Policíaca | 2025 | +16 | *6.4/10
+· En el Distrito 21 del Departamento de Policía de Chicago conviven dos tipos de profesionales: los agentes uniformados y la Unidad de Inteligencia. Todos ellos deben enfrentarse a diario a crimen organizado, tráfico de drogas o asesinos en serie.
+· País: Estados Unidos
+· Dirección: Chad Saxton.
+· Reparto: Sophia Bush, Jason Beghe, Jesse Lee Soffer, Marina Squerciati, Patrick John Flueger, Jon Seda, LaRoyce Hawkins, Amy Morton.
+· Productora: Wolf Films, Universal Television.</desc>
+	</programme>
+  <programme start="20260501124500 +0200" stop="20260501133200 +0200" channel="Calle 13 HD">
+    <title>Chicago P.D. T12 E18 · Demonios</title>
+    <desc>Series,Policíaca | 2025 | +16 | *6.2/10
+· En el Distrito 21 del Departamento de Policía de Chicago conviven dos tipos de profesionales: los agentes uniformados y la Unidad de Inteligencia. Todos ellos deben enfrentarse a diario a crimen organizado, tráfico de drogas o asesinos en serie.
+· País: Estados Unidos
+· Dirección: Chad Saxton.
+· Reparto: Sophia Bush, Jason Beghe, Jesse Lee Soffer, Marina Squerciati, Patrick John Flueger, Jon Seda, LaRoyce Hawkins, Amy Morton.
+· Productora: Wolf Films, Universal Television.</desc>
+	</programme>
+  <programme start="20260501133200 +0200" stop="20260501142800 +0200" channel="Calle 13 HD">
+    <title>Chicago P.D. T12 E19 · Derechos de imagen y publicidad</title>
+    <desc>Series,Policíaca | 2025 | +16 | *5.8/10
+· En el Distrito 21 del Departamento de Policía de Chicago conviven dos tipos de profesionales: los agentes uniformados y la Unidad de Inteligencia. Todos ellos deben enfrentarse a diario a crimen organizado, tráfico de drogas o asesinos en serie.
+· País: Estados Unidos
+· Dirección: Chad Saxton.
+· Reparto: Sophia Bush, Jason Beghe, Jesse Lee Soffer, Marina Squerciati, Patrick John Flueger, Jon Seda, LaRoyce Hawkins, Amy Morton.
+· Productora: Wolf Films, Universal Television.</desc>
+	</programme>
+  <programme start="20260501142800 +0200" stop="20260501163500 +0200" channel="Calle 13 HD">
+    <title>Need for Speed</title>
+    <desc>Cine,Acción | 2014 | +16 | *6.4/10
+· Tobey Marshall es un mecánico que pilota "muscle cars" (coches clásicos de gran cilindrada) en un circuito callejero de carreras ilegales.Necesitado de medios para mantenerse, se asocia con Dino Brewster. Juntos viven historias de traición y venganza.
+· País: Estados Unidos, Francia e India
+· Dirección: Scott Waugh.
+· Reparto: Aaron Paul, Dominic Cooper, Kid Cudi, Imogen Poots, Michael Keaton, Nick Chinlund, Ramón Rodríguez, Dakota Johnson, Rami Malek, Carmela Zumbado, Brian Keaulana, Tony Brakohiapa, Logan Holladay, Han Soto.
+· Guion: George Gatins.
+· Música: Nathan Furst.
+· Productora: DreamWorks SKG, Reliance Big Entertainment, Electronic Arts, Bandito Brothers.</desc>
+	</programme>
+  <programme start="20260501163500 +0200" stop="20260501182900 +0200" channel="Calle 13 HD">
+    <title>Caza al asesino</title>
+    <desc>Cine,Thriller | 2015 | +12 | *6.2/10
+· Una bala sale del arma de un francotirador, quien abandona el rifle y sale de la habitación de hotel desde la que ha disparado. Al poco, las imágenes del asesinato del ministro de Minas de la República Democrática del Congo inundan los informativos.
+· País: Estados Unidos, España, Francia y Reino Unido
+· Dirección: Pierre Morel.
+· Reparto: Sean Penn, Idris Elba, Javier Bardem, Mark Rylance, Ray Winstone, Jasmine Trinca.
+· Guion: Sean Penn, Pete Travis, Don MacPherson.
+· Música: Marco Beltrami.
+· Producción: Ron Halpern, Sean Penn, Andrew Rona.
+· Productora: StudioCanal, Silver Pictures, Prone Gunman, Nostromo Pictures, Anton Capital Entertainment, Anton Capital Entertainment (ACE).</desc>
+	</programme>
+  <programme start="20260501182900 +0200" stop="20260501201500 +0200" channel="Calle 13 HD">
+    <title>Una noche para sobrevivir</title>
+    <desc>Cine,Acción | 2015 | +18 | *7.4/10
+· El sicario de la mafia de Brooklyn Jimmy Conlon, ya con 55 años, se siente perseguido por los pecados de su pasado, pero, cuando su hijo se convierte en el objetivo de su jefe, Jimmy debe elegir entre sus dos 'familias': la biológica o la mafiosa.
+· País: Estados Unidos
+· Dirección: Jaume Collet-Serra.
+· Reparto: Liam Neeson, Ed Harris, Joel Kinnaman, Common, Vincent D'Onofrio, Boyd Holbrook, Génesis Rodríguez, Bruce McGill, Natalie Martínez.
+· Guion: Brad Ingelsby.
+· Música: Junkie XL.
+· Producción: Roy Lee, Michael Tadross, Brooklyn Weaver.
+· Productora: Energy Entertainment, RatPac-Dune Entertainment, Vertigo Entertainment.</desc>
+	</programme>
+  <programme start="20260501201500 +0200" stop="20260501220000 +0200" channel="Calle 13 HD">
+    <title>Focus</title>
+    <desc>Cine,Comedia romántica | 2015 | +16 | *7.2/10
+· Nicky, un consumado maestro de la estafa conoce a Jess, una atractiva y joven ladrona que está dando sus primeros pasos en el oficio. Tras el intenso encuentro entre ambos, Nicky decide compartir sus trucos con ella.
+· País: Argentina y Estados Unidos
+· Dirección: Glenn Ficarra, John Requa.
+· Reparto: Will Smith, Margot Robbie, Adrian Martinez, Gerald McRaney, Rodrigo Santoro, B.D. Wong, Brennan Brown, Robert Taylor, Dotan Bonen, Stephanie Honoré.
+· Guion: Glenn Ficarra, John Requa.
+· Música: Nick Urata.
+· Producción: Denise Di Novi.
+· Productora: RatPac-Dune Entertainment, Kramer &amp; Sigman Films, Zaftig Films.</desc>
+	</programme>
+  <programme start="20260501220000 +0200" stop="20260501225400 +0200" channel="Calle 13 HD">
+    <title>Ley y Orden: Unidad de víctimas especiales T27 E4 · Ciberanzuelo</title>
+    <desc>Series,Policíaca | 2025 | +16 | *6.2/10
+· Tras el aborto casi fatal de una adolescente, la SVU investiga engaños en línea para hallar al culpable, mientras Rollins considera su futuro profesional.
+· País: Estados Unidos
+· Reparto: Mariska Hargitay, Ice-T, Dann Florek, Richard Belzer, Christopher Meloni, Kelli Giddish.
+· Productora: NBC Universal Television, Wolf Films, Studios USA Television, Universal Network Television.</desc>
+	</programme>
+  <programme start="20260501225400 +0200" stop="20260501235300 +0200" channel="Calle 13 HD">
+    <title>Ley y Orden: Unidad de víctimas especiales T27 E9 · Pureza</title>
+    <desc>Series,Policíaca | 2026 | +16 | *6.2/10
+· La búsqueda de un sospechoso de asesinato descubre un crimen con implicaciones legales y éticas impactantes; Bruno debe proteger a su equipo durante una redada en la casa de un sospechoso.
+· País: Estados Unidos
+· Reparto: Mariska Hargitay, Ice-T, Dann Florek, Richard Belzer, Christopher Meloni, Kelli Giddish.
+· Productora: NBC Universal Television, Wolf Films, Studios USA Television, Universal Network Television.</desc>
+	</programme>
+  <programme start="20260501235300 +0200" stop="20260502014300 +0200" channel="Calle 13 HD">
+    <title>Lágrimas del sol</title>
+    <desc>Cine,Drama | 2003 | +16 | *7.4/10
+· Cuando el gobierno democrático de Nigeria es derrocado y el país cae en manos de un cruel dictador militar, el teniente Waters y su equipo de especialistas tácticos son asignados a una misión de rutina para rescatar a la doctora Lena Kendricks.
+· País: Estados Unidos
+· Dirección: Antoine Fuqua.
+· Reparto: Bruce Willis, Monica Bellucci, Cole Hauser, Tom Skerritt, Johnny Messner, Eamonn Walker, Fionnula Flanagan, Nick Chinlund.
+· Guion: Alex Lasker, Patrick Cirillo.
+· Música: Hans Zimmer, Lisa Gerrard.
+· Producción: Ian Bryce, Mike Lobell, Arnold Rifkin.
+· Productora: Revolution Studios, Cheyenne Enterprises, Michael Lobell Productions.</desc>
+	</programme>
+  <programme start="20260502014300 +0200" stop="20260502030300 +0200" channel="Calle 13 HD">
+    <title>Chicago P.D. T12 E20 · Hielo en la carretera</title>
+    <desc>Series,Policíaca | 2024 | +16 | *6.2/10
+· En el Distrito 21 del Departamento de Policía de Chicago conviven dos tipos de profesionales: los agentes uniformados y la Unidad de Inteligencia. Todos ellos deben enfrentarse a diario a crimen organizado, tráfico de drogas o asesinos en serie.
+· País: Estados Unidos
+· Dirección: Chad Saxton.
+· Reparto: Sophia Bush, Jason Beghe, Jesse Lee Soffer, Marina Squerciati, Patrick John Flueger, Jon Seda, LaRoyce Hawkins, Amy Morton.
+· Productora: Wolf Films, Universal Television.</desc>
+	</programme>
+  <programme start="20260502030300 +0200" stop="20260502031000 +0200" channel="Calle 13 HD">
+    <title>Chicago P.D. T12 E21 · Ataúd abierto</title>
+    <desc>Series,Policíaca | 2024 | +16 | *6.2/10
+· En el Distrito 21 del Departamento de Policía de Chicago conviven dos tipos de profesionales: los agentes uniformados y la Unidad de Inteligencia. Todos ellos deben enfrentarse a diario a crimen organizado, tráfico de drogas o asesinos en serie.
+· País: Estados Unidos
+· Dirección: Chad Saxton.
+· Reparto: Sophia Bush, Jason Beghe, Jesse Lee Soffer, Marina Squerciati, Patrick John Flueger, Jon Seda, LaRoyce Hawkins, Amy Morton.
+· Productora: Wolf Films, Universal Television.</desc>
+	</programme>
+  <programme start="20260502031000 +0200" stop="20260502040800 +0200" channel="Calle 13 HD">
+    <title>Chicago P.D. T12 E22</title>
+    <desc>Series,Policíaca | 2024 | +16 | *6.2/10
+· En el Distrito 21 del Departamento de Policía de Chicago conviven dos tipos de profesionales: los agentes uniformados y la Unidad de Inteligencia. Todos ellos deben enfrentarse a diario a crimen organizado, tráfico de drogas o asesinos en serie.
+· País: Estados Unidos
+· Dirección: Chad Saxton.
+· Reparto: Sophia Bush, Jason Beghe, Jesse Lee Soffer, Marina Squerciati, Patrick John Flueger, Jon Seda, LaRoyce Hawkins, Amy Morton.
+· Productora: Wolf Films, Universal Television.</desc>
+	</programme>
+  <programme start="20260502040800 +0200" stop="20260502045100 +0200" channel="Calle 13 HD">
+    <title>Ley y Orden: Crimen organizado T4 E1</title>
+    <desc>Series,Policíaca | 2024 | +16 | *6.0/10
+· El detective Stabler regresa a la policía de Nueva York para luchar contra el crimen organizado. No le será nada fácil, deberá adaptarse al nuevo sistema jurídico penal que cambió durante el tiempo que estuvo ausente.
+· País: Estados Unidos
+· Dirección: Fred Berner.
+· Reparto: Christopher Meloni, Danielle Moné Truitt, Ainsley Seiger, Rick Gonzalez, Nicky Torchia, Dash Mihok, Tamara Taylor.
+· Productora: Universal Television, Wolf Entertainment.</desc>
+	</programme>
+  <programme start="20260502045100 +0200" stop="20260502053500 +0200" channel="Calle 13 HD">
+    <title>Ley y Orden: Crimen organizado T4 E2</title>
+    <desc>Series,Policíaca | 2024 | +16 | *6.0/10
+· El detective Stabler regresa a la policía de Nueva York para luchar contra el crimen organizado. No le será nada fácil, deberá adaptarse al nuevo sistema jurídico penal que cambió durante el tiempo que estuvo ausente.
+· País: Estados Unidos
+· Dirección: Fred Berner.
+· Reparto: Christopher Meloni, Danielle Moné Truitt, Ainsley Seiger, Rick Gonzalez, Nicky Torchia, Dash Mihok, Tamara Taylor.
+· Productora: Universal Television, Wolf Entertainment.</desc>
+	</programme>
+  <programme start="20260502053500 +0200" stop="20260502062000 +0200" channel="Calle 13 HD">
+    <title>Ley y Orden: Crimen organizado T4 E3</title>
+    <desc>Series,Policíaca | 2024 | +16 | *6.0/10
+· El detective Stabler regresa a la policía de Nueva York para luchar contra el crimen organizado. No le será nada fácil, deberá adaptarse al nuevo sistema jurídico penal que cambió durante el tiempo que estuvo ausente.
+· País: Estados Unidos
+· Dirección: Fred Berner.
+· Reparto: Christopher Meloni, Danielle Moné Truitt, Ainsley Seiger, Rick Gonzalez, Nicky Torchia, Dash Mihok, Tamara Taylor.
+· Productora: Universal Television, Wolf Entertainment.</desc>
+	</programme>
+  <programme start="20260502062000 +0200" stop="20260502070300 +0200" channel="Calle 13 HD">
+    <title>Ley y orden: unidad de Víctimas Especiales T20 E4 · Venganza</title>
+    <desc>Series,Policíaca | 2018 | +18 | *6.2/10
+· Los agentes investigan a un grupo de Internet con el fin de identificar al responsable de una serie de violentas agresiones.
+· País: Estados Unidos
+· Reparto: Mariska Hargitay, Ice-T, Kelli Giddish, Peter Scanavino, Philip Winchester, Tamara Tunie, B.D. Wong, Dann Florek, Richard Belzer, Christopher Meloni.
+· Productora: Wolf Films, Universal Television, Studios USA Television.</desc>
+	</programme>
+  <programme start="20260502070300 +0200" stop="20260502080000 +0200" channel="Calle 13 HD">
+    <title>Harry Wild T1 E8 · De aquí nadie sale vivo</title>
+    <desc>Series,Comedia | 2022 | +16 | *6.0/10
+· Zoe McCann es una adicta en recuperación que lucha cada día para matar a sus demonios; cuando la secuestran y se despierta en un bosque con un vestido vintage, su cordura y determinación se llevan al límite.
+· País: Irlanda
+· Reparto: Jane Seymour, Rohan Nedd, Kevin Ryan, Rose O'Neill, Paul Tylak.
+· Productora: Acorn TV.</desc>
+	</programme>
+  <programme start="20260502080000 +0200" stop="20260502084200 +0200" channel="Calle 13 HD">
+    <title>Ley y orden: unidad de Víctimas Especiales T20 E1 · Pórtate como un hombre</title>
+    <desc>Series,Policíaca | 2018 | +18 | *6.2/10
+· Un adolescente se niega a revelar el nombre de la persona que le agredió.
+· País: Estados Unidos
+· Reparto: Mariska Hargitay, Ice-T, Kelli Giddish, Peter Scanavino, Philip Winchester, Tamara Tunie, B.D. Wong, Dann Florek, Richard Belzer, Christopher Meloni.
+· Productora: Wolf Films, Universal Television, Studios USA Television.</desc>
+	</programme>
+  <programme start="20260502084200 +0200" stop="20260502092500 +0200" channel="Calle 13 HD">
+    <title>Ley y orden: unidad de Víctimas Especiales T20 E2 · Hombre abatido</title>
+    <desc>Series,Policíaca | 2018 | +18 | *4.6/10
+· Stone, el ayudante del fiscal del distrito, se culpa a sí mismo del sorprendente e inesperado veredicto en el caso de Sam.
+· País: Estados Unidos
+· Reparto: Mariska Hargitay, Ice-T, Kelli Giddish, Peter Scanavino, Philip Winchester, Tamara Tunie, B.D. Wong, Dann Florek, Richard Belzer, Christopher Meloni.
+· Productora: Wolf Films, Universal Television, Studios USA Television.</desc>
+	</programme>
+  <programme start="20260502092500 +0200" stop="20260502101100 +0200" channel="Calle 13 HD">
+    <title>Ley y orden: unidad de Víctimas Especiales T20 E3 · Tolerancia cero</title>
+    <desc>Series,Policíaca | 2018 | +18 | *6.2/10
+· Tras rescatar a una joven de un explotador sexual, Benson y Stone toman medidas drásticas con el fin de lograr que la chica se reúna con su madre.
+· País: Estados Unidos
+· Reparto: Mariska Hargitay, Ice-T, Kelli Giddish, Peter Scanavino, Philip Winchester, Tamara Tunie, B.D. Wong, Dann Florek, Richard Belzer, Christopher Meloni.
+· Productora: Wolf Films, Universal Television, Studios USA Television.</desc>
+	</programme>
+  <programme start="20260502101100 +0200" stop="20260502110800 +0200" channel="Calle 13 HD">
+    <title>Magnum T4 E19 · El largo sueño</title>
+    <desc>Series,Acción | 2021 | +16 | *6.2/10
+· Un hombre desorientado contrata a Magnum y Higgins para investigar un crimen que no recuerda después de despertar en la playa cubierto de sangre. Además, T. C. se sorprende cuando la abuela biológica de Cade hace una visita sorpresa.
+· País: Estados Unidos
+· Dirección: Geoffrey Wing Shotz.
+· Reparto: Jay Hernandez, Perdita Weeks, Tim Kang, Zachary Knighton, Stephen Hill, Amy Hill.
+· Productora: Davis Entertainment, CBS Television Studios, Perfect Storm Entertainment.</desc>
+	</programme>
+  <programme start="20260502110800 +0200" stop="20260502120300 +0200" channel="Calle 13 HD">
+    <title>Magnum T4 E20 · Demasiado cerca</title>
+    <desc>Series,Acción | 2021 | +16 | *6.2/10
+· Magnum y Higgins son enviados a una misión mortal dentro de un correccional de alta seguridad mientras que un criminal despiadado secuestra a Katsumoto y su ex esposa, Beth.
+· País: Estados Unidos
+· Dirección: Geoffrey Wing Shotz.
+· Reparto: Jay Hernandez, Perdita Weeks, Tim Kang, Zachary Knighton, Stephen Hill, Amy Hill.
+· Productora: Davis Entertainment, CBS Television Studios, Perfect Storm Entertainment.</desc>
+	</programme>
+  <programme start="20260502120300 +0200" stop="20260502125700 +0200" channel="Calle 13 HD">
+    <title>Magnum T5 E1</title>
+    <desc>Series,Acción | 2018 | +16 | *6.0/10
+· Magnum y Higgins barajan los riesgos de entablar una relación. Rick hace malabares con ser padre primerizo y dirigir La Mariana. Katsumoto intenta descubrir su próximo movimiento.
+· País: Estados Unidos
+· Reparto: Jay Hernandez, Perdita Weeks, Zachary Knighton, Stephen Hill, Amy Hill, Tim Kang.
+· Productora: CBS Television Studios.</desc>
+	</programme>
+  <programme start="20260502125700 +0200" stop="20260502135300 +0200" channel="Calle 13 HD">
+    <title>Magnum T5 E2</title>
+    <desc>Series,Acción | 2018 | +16 | *6.2/10
+· Magnum y Higgins se hacen pasar por socorristas para resolver un asesinato. Jin Jeong gana una subasta de unidades de almacenamiento y solicita la ayuda de Rick y TC al encontrar una medalla militar robada.
+· País: Estados Unidos
+· Reparto: Jay Hernandez, Perdita Weeks, Zachary Knighton, Stephen Hill, Amy Hill, Tim Kang.
+· Productora: CBS Television Studios.</desc>
+	</programme>
+  <programme start="20260502135300 +0200" stop="20260502144700 +0200" channel="Calle 13 HD">
+    <title>Magnum T5 E3</title>
+    <desc>Series,Acción | 2023 | +16 | *6.0/10
+· Katsumoto acepta un trabajo brindando seguridad a una estrella del K-pop que encabeza las listas de éxitos. Higgins y Rick se encuentran en peligro al intentar ayudar al amigo de Rick. Magnum alberga sospechas sobre la muerte del capitán Greene.
+· País: Estados Unidos
+· Reparto: Jay Hernandez, Perdita Weeks, Zachary Knighton, Stephen Hill, Amy Hill, Tim Kang.
+· Productora: CBS Television Studios.</desc>
+	</programme>
+  <programme start="20260502144700 +0200" stop="20260502154400 +0200" channel="Calle 13 HD">
+    <title>Magnum T5 E4</title>
+    <desc>Series,Acción | 2023 | +16 | *6.0/10
+· Magnum y Higgins buscan a un director ejecutivo que ha desaparecido misteriosamente. Rick se prepara para la visita de Ruthie, su hermana pequeña.
+· País: Estados Unidos
+· Reparto: Jay Hernandez, Perdita Weeks, Zachary Knighton, Stephen Hill, Amy Hill, Tim Kang.
+· Productora: CBS Television Studios.</desc>
+	</programme>
+  <programme start="20260502154400 +0200" stop="20260502171900 +0200" channel="Calle 13 HD">
+    <title>Sniper: Narcotráfico</title>
+    <desc>Cine,Acción | 2017 | +16 | *6.2/10
+· Un francotirador de élite, una agente especial y una misión: liquidar a un asesino y atrapar a un narcotraficante.
+· País: Estados Unidos
+· Dirección: Claudio Fäh.
+· Reparto: Chad Michael Collins, Danay García, Billy Zane, Tom Berenger, Joe Lando.
+· Guion: Chris Hauty.
+· Música: Frederik Wiedmann.
+· Productora: Destination Films.</desc>
+	</programme>
+  <programme start="20260502171900 +0200" stop="20260502185600 +0200" channel="Calle 13 HD">
+    <title>Sniper: El fin del asesino</title>
+    <desc>Cine para televisión,Cine TV acción | 2020 | +16 | *6.0/10
+· El francotirador Brandon Beckett es sospechoso de un asesinato y, junto con su padre Thomas Beckett, huyen de la CIA. Ambos intentarán encontrar el verdadero asesino y hacer justicia.
+· País: Estados Unidos
+· Dirección: Kaare Andrews.
+· Reparto: Tom Berenger, Chad Michael Collins.</desc>
+	</programme>
+  <programme start="20260502185600 +0200" stop="20260502202700 +0200" channel="Calle 13 HD">
+    <title>Sniper: Misión secreta</title>
+    <desc>Cine,Acción | 2022 | +16 | *6.0/10
+· Un novato de la CIA, un curtido veterano y un asesino emprenden una misión por su cuenta para acabar con un agente federal corrupto que dirige una red de tráfico de personas.
+· País: Estados Unidos
+· Dirección: Oliver Thompson.
+· Reparto: Chad Michael Collins, Sayaka Akimoto.</desc>
+	</programme>
+  <programme start="20260502202700 +0200" stop="20260502220000 +0200" channel="Calle 13 HD">
+    <title>Sniper: G.R.I.T.</title>
+    <desc>Cine para televisión,Cine TV acción | 2023 | +16 | *6.2/10
+· Brandon Beckett y el Equipo de Inteligencia y Respuesta Global deben eliminar una amenaza terrorista internacional y rescatar a la agente Lady Death.
+· País: Estados Unidos
+· Dirección: Oliver Thompson.
+· Reparto: Ryan Robbins, Chad Michael Collins.</desc>
+	</programme>
+  <programme start="20260502220000 +0200" stop="20260502235600 +0200" channel="Calle 13 HD">
+    <title>Marea roja</title>
+    <desc>Cine,Acción | 1995 | +12 | *7.4/10
+· La tripulación de un submarino nuclear se divide en dos facciones a causa del enfrentamiento entre sus dos mandos superiores.
+· País: Estados Unidos
+· Dirección: Tony Scott.
+· Reparto: Gene Hackman, Denzel Washington, Matt Craven, Viggo Mortensen, James Gandolfini, Jason Robards, Ryan Phillippe, Michael Milhoan, Kai Lennox, Eric Bruskotter, Robin Faraday, Warren Olney, Gerorge Dzundza.
+· Guion: Michael Schiffer.
+· Música: Hans Zimmer.
+· Producción: Don Simpson, Jerry Bruckheimer.
+· Productora: Hollywood Pictures, Don Simpson/Jerry Bruckheimer Films.</desc>
+	</programme>
+  <programme start="20260502235600 +0200" stop="20260503021000 +0200" channel="Calle 13 HD">
+    <title>Cadena perpetua</title>
+    <desc>Cine,Drama | 1994 | +12 | *7.6/10
+· Acusado del asesinato de su mujer y del amante de ésta, Andrew Dufresne -un joven empleado de banco con brillante porvenir que se declaró inocente en el juicio- es condenado a cadena perpetua.
+· País: Estados Unidos
+· Dirección: Frank Darabont.
+· Reparto: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler, Gil Bellows, Clancy Brown, James Whitmore, Mark Rolston.
+· Guion: Frank Darabont, Stephen King.
+· Música: Thomas Newman.
+· Producción: Niki Marvin.
+· Productora: Castle Rock Entertainment.</desc>
 	</programme>
   <programme start="20260501000700 +0200" stop="20260501003700 +0200" channel="Caza y Pesca HD">
     <title>Subsistencia T1 · La redención</title>
@@ -5263,6 +5284,1023 @@
 · Afluente del Tajo, el río Almonte, transcurre por la extremeña provincia de Cáceres, regando con sus aguas fantásticas manchas monteras. En esta ocasión, los monteros se enfrentarán en una finca abierta a guarros y venados.
 · País: España</desc>
 	</programme>
+  <programme start="20260502234500 +0200" stop="20260503001500 +0200" channel="Caza y Pesca HD">
+    <title>Jabalineros T7 · En Tokat al jabalí. Parte 2</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2025 | +12 | *6.4/10
+· En esta seguna entrega, los cazadores españoles siguen disfrutando de espectaculares lances con los grandes Attilas en las montañas turcas de Tokat.
+· País: España</desc>
+	</programme>
+  <programme start="20260503001500 +0200" stop="20260503004500 +0200" channel="Caza y Pesca HD">
+    <title>Los barbos del Ibor</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2022 | TP | *6.2/10
+· Todos los años en primavera los barbos autóctonos emprenden su remonte para desovar aguas arriba en los cristalinos ríos que desembocan en el Tajo. Ángel Delgado nos muestra los secretos de la pesca a ninfa de este luchador ciprínido.
+· País: España</desc>
+	</programme>
+  <programme start="20260501001900 +0200" stop="20260501004700 +0200" channel="Nickelodeon HD">
+    <title>Henry Danger T5 E2 · Cosas peligrosas</title>
+    <desc>Series,Comedia | 2018 | +7 | *7.4/10
+· El capitán Man y Kid Danger tienen que rescatar a Piper de las Ciencias del Mal.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman.
+· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
+· Productora: Nickelodeon, Nickelodeon Network.</desc>
+	</programme>
+  <programme start="20260501004700 +0200" stop="20260501010900 +0200" channel="Nickelodeon HD">
+    <title>Equipo Danger T1 E23 · Mentiras familiares</title>
+    <desc>Series,Serie juvenil | 2020 | TP | *6.2/10
+· Hay reunión de padres en la Academia y Ray debe conseguir una foto del Equipo Danger con sus respectivos padres en la escuela o le cerrarán el centro. Pero las cosas se complican cuando Chapa contrata a Jake Hart para que finja ser su padre.
+· País: Estados Unidos
+· Reparto: Cooper Barnes, Michael D. Cohen, Havan Flores, Terrence Little Gardenhigh, Dana Heath, Luca Luhan.
+· Productora: Nickelodeon Productions.</desc>
+	</programme>
+  <programme start="20260501010900 +0200" stop="20260501013100 +0200" channel="Nickelodeon HD">
+    <title>Los Thunderman: Infiltrados T1 E9 · Cero amigos</title>
+    <desc>Series,Serie juvenil | 2025 | TP | *6.0/10
+· Chloe tiene ganas de pasar un rato tranquila en casa, pero Max y Phoebe no dejan de atosigarla. Chloe les recomienda buscar nuevas amistades en Secret Shores, lo que lleva a Max al gimnasio de la ciudad a buscar un compañero de ejercicios.
+· País: Estados Unidos
+· Dirección: Trevor Kirschner.
+· Guion: Samantha Martín.</desc>
+	</programme>
+  <programme start="20260501013100 +0200" stop="20260501015300 +0200" channel="Nickelodeon HD">
+    <title>Los Thunderman: Infiltrados T1 E10 · Todo sobre Steve</title>
+    <desc>Series,Serie juvenil | 2025 | TP | *6.0/10
+· Billy vuelve a pasarse por Secret Shores junto con su nuevo ayudante, Steve. Billy espera que Max y Phoebe admitan a Steve en la Fuerza T porque Nora está en el extranjero, así que está entusiasmado por su nuevo compañero.
+· País: Estados Unidos
+· Dirección: Trevor Kirschner, Phill Lewis.
+· Guion: Dan Serafin.</desc>
+	</programme>
+  <programme start="20260501015300 +0200" stop="20260501021500 +0200" channel="Nickelodeon HD">
+    <title>Historias De Las Tortugas Ninja T2 E4 · La isla</title>
+    <desc>Infantil,Dibujos animados | 2025 | +7 | *5.6/10
+· Los animales mutantes se vuelven contra las Tortugas Ninja después de que Ray Fillet las acuse de haberle atacado.
+· País: Estados Unidos
+· Dirección: JJ Conway.
+· Guion: Kevin Burke, Wyatt Chris \.</desc>
+	</programme>
+  <programme start="20260501021500 +0200" stop="20260501023700 +0200" channel="Nickelodeon HD">
+    <title>Historias De Las Tortugas Ninja T2 E5 · Los otros animales mutantes</title>
+    <desc>Infantil,Dibujos animados | 2025 | +7 | *6.0/10
+· Los hermanos de Donnie siguen a otro Tokka hasta el laboratorio, pero las cosas dan un giro desastroso.
+· País: Estados Unidos
+· Dirección: Kevin Molina-Ortiz, Laura Gille.
+· Guion: Felicia Ho.</desc>
+	</programme>
+  <programme start="20260501023700 +0200" stop="20260501025900 +0200" channel="Nickelodeon HD">
+    <title>Historias De Las Tortugas Ninja T2 E6 · Los rechazados</title>
+    <desc>Infantil,Dibujos animados | 2025 | +7 | *6.4/10
+· Donnie debe detener una invasión mutante en Staten Island y salvar a todos de Mutante Omega.
+· País: Estados Unidos
+· Dirección: Rie Koga, Kevin Molina-Ortiz, Laura Gille.
+· Guion: Matthew Bass.</desc>
+	</programme>
+  <programme start="20260501025900 +0200" stop="20260501032100 +0200" channel="Nickelodeon HD">
+    <title>Best y Bester (dobles) T1 E15</title>
+    <desc>Infantil,Dibujos animados | 2021 | TP | *6.4/10
+· Best y Bester son un par de gemelos que viven en una extraña y maravillosa realidad alternativa en la que tu vecino podría ser un par de pantalones descontentos o tu mejor amigo una nube flotante.
+· País: Reino Unido
+· Dirección: Kitty Taylor.
+· Reparto: Bill Bailey, Kathryn Drysdale, Joseph Balderrama, Rupert Simonian.
+· Guion: Alex Collier, Ciaran Murtagh, Andrew Barnett-Jones.</desc>
+	</programme>
+  <programme start="20260501032100 +0200" stop="20260501034200 +0200" channel="Nickelodeon HD">
+    <title>Best y Bester (dobles) T1 E16</title>
+    <desc>Infantil,Dibujos animados | 2021 | TP | *6.0/10
+· Best y Bester son un par de gemelos que viven en una extraña y maravillosa realidad alternativa en la que tu vecino podría ser un par de pantalones descontentos o tu mejor amigo una nube flotante.
+· País: Reino Unido
+· Dirección: Kitty Taylor.
+· Reparto: Bill Bailey, Kathryn Drysdale, Joseph Balderrama, Rupert Simonian.
+· Guion: Alex Collier, Ciaran Murtagh, Andrew Barnett-Jones.</desc>
+	</programme>
+  <programme start="20260501034200 +0200" stop="20260501040500 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T11 E8 · Saneamiento insano; La cacería del conejito</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.2/10
+· El señor Cangrejo se mete en problemas por tirar basura; un conejo de mar arrasa el jardín de Calamardo.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
+· Guion: Tim Hill.
+· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	</programme>
+  <programme start="20260501040500 +0200" stop="20260501042600 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T11 E9 · Detective Calamardo; Un tesoro muy esponjoso</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.2/10
+· El clarinete de Calamardo desaparece. Bob Esponja y Patricio van en busca del tesoro.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
+· Guion: Tim Hill.
+· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	</programme>
+  <programme start="20260501042600 +0200" stop="20260501044800 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T11 E26 · Gary el parlanchín / No den de comer a los payasos</title>
+    <desc>Infantil,Dibujos animados | 2017 | TP | *6.0/10
+· Gary tiene un collar de traducción de lenguas de mascotas, y no para de hablar. Todos etán encantados salvo Calamardo. Cuando un pequeño payaso es abandonado por su circo, Bob Esponja toma al arlequín desamparado bajo su protección.
+· País: Estados Unidos
+· Dirección: Dave Cunningham.
+· Guion: Tim Hill.</desc>
+	</programme>
+  <programme start="20260501044800 +0200" stop="20260501062300 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja Single Story T15 E36 · Capitán Quasar: la próxima reiteración</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | *5.8/10
+· Bob Esponja y Lubina Burbujas chocan por sus respectivas versiones de Capitán Quasar favoritas.
+· País: Estados Unidos
+· Dirección: Sherm Cohen, Dave Cunningham, Michelle Bryan, Eric Bryan.
+· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.</desc>
+	</programme>
+  <programme start="20260501062300 +0200" stop="20260501065200 +0200" channel="Nickelodeon HD">
+    <title>Patricio es la estrella T4 E11 · Seguridad inempeorable / Grandes Patri Almacenes</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | *6.2/10
+· Tras otro desastre en el hogar de los Estrella, los bomberos obligan a Patricio ver un vídeo de seguridad. Patricio no logra ascender en su trabajo en los grandes almacenes Remilgados.
+· País: Estados Unidos
+· Dirección: Sean Dempsey, Alex S. Conaway, Brett Varon, Juli Murphy.
+· Guion: Luke Brookshier, Andrew Goodman, Mr. Lawrence, Danny Giovannini, Jacob Fleisher, Stephen Herczeg, Charlie Jackson, Dave Tennant, Andy Gonsalves, Miggs Perez.</desc>
+	</programme>
+  <programme start="20260501065200 +0200" stop="20260501072000 +0200" channel="Nickelodeon HD">
+    <title>Patricio es la estrella (dobles) T4 E12 · Visitando a los vikingos / Es demasiado tarde... con Plankton</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | *6.0/10
+· Bob Esponja y Patricio viajan a la época de los vikingos para celebrar el día de Leif Erikson // Cuando los Estrella se van a las montañas , Calamarina contrata a Plankton para que entretenga al público.
+· País: Estados Unidos
+· Dirección: Julian Murphy, Sean Dempsey, Brett Varon, Bob Camp.
+· Guion: Jacob Fleisher, Stephen Herczeg, Charlie Jackson, Dave Tennant, Andy Gonsalves, Miggs Perez.
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260501072000 +0200" stop="20260501073800 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja (Single Story) T14 E1 · Defensa unicelular</title>
+    <desc>Infantil,Dibujos animados | 2023 | TP | *6.0/10
+· Harto de que lo traten a pisotones, Plankton aprende autodefensa de Arenita.
+· País: Estados Unidos
+· Dirección: Sherm Cohen, Michelle Bryan.</desc>
+	</programme>
+  <programme start="20260501073800 +0200" stop="20260501080700 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T9 E84 · Fuga de la Prisión; La Espátula Malvada</title>
+    <desc>Infantil,Dibujos animados | 2013 | +7 | *6.2/10
+· Plancton y sus compañeros se escapan de la cárcel; Bob Esponja sistituye su espátula.
+· País: Estados Unidos
+· Dirección: Alan Smart, Tom Yasumi, Vincent Waller, Dave Cunningham.
+· Guion: Doug Lawrence, Luke Brookshier, Marc Ceccarelli, Zeus Cervas, Casey Alexander, Blake Lemons, Andrew Goodman.
+· Productora: United Plankton Pictures, Nicktoons Productions.</desc>
+	</programme>
+  <programme start="20260501080700 +0200" stop="20260501083600 +0200" channel="Nickelodeon HD">
+    <title>Marsupilamis (dobles) T1 E5 · Un marsupi para Bibi / Carnicería en la cantina</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | *6.0/10
+· En su intento de conseguir su propio marsupilami, Bibi se encuentra un jaguar que la asusta tanto como para abandonar la caza. Marcel se pone a trabajar de cocinero en el colegio después de que jade provoque que la antigüa cocinera dimita.
+· País: Bélgica y Francia
+· Dirección: Célestine Plays, Celestine Play.
+· Guion: Myles McLeod.
+· Productora: Belvision.</desc>
+	</programme>
+  <programme start="20260501083600 +0200" stop="20260501085800 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T3 E9 · La Científica Loca; Conexión Perdida</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.2/10
+· Lisa recibe una propuesta para trabajar en un instituto; Lori y Bobby se preocupan por su relación a distancia.
+· País: Estados Unidos
+· Dirección: Chris Savino, Chris Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260501085800 +0200" stop="20260501092700 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T3 E10 · Repartiendo Aficiones; Co-loco-legas</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.4/10
+· Lincoln y Clyde creen que son demasiado mayores para jugar a los superhéroes.
+· País: Estados Unidos
+· Dirección: Chris Savino, Chris Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260501092700 +0200" stop="20260501095500 +0200" channel="Nickelodeon HD">
+    <title>Wylde Pak T1 E2 · Triste, soltero y abandonado / Un perfecto día de verano desperdiciado</title>
+    <desc>Infantil,Dibujos animados | 2024 | TP | *6.0/10
+· Will y Min le muestran a Jack los alrededores. Lily derrama té en la maleta de Jack y trata de ocultarlo. Lily y Jack exploran Canyon Valley, mientras él intenta conseguir una idea general de la zona.
+· País: Estados Unidos
+· Dirección: Kyle Marshall, Paul Watling.
+· Guion: Adam Colá, Brandon Hoang.</desc>
+	</programme>
+  <programme start="20260501095500 +0200" stop="20260501102300 +0200" channel="Nickelodeon HD">
+    <title>Los Thunderman: Infiltrados T2 E1 · Un verano de secretos</title>
+    <desc>Series,Serie juvenil | 2025 | TP | *6.2/10
+· Chloe se ha ausentado del cole al ir a misiones con sus hermanos, así que tiene que ir a clases de verano. A Max le hace gracia que ella vaya a perder el verano en el cole... hasta que le informan de que le tocará dar las clases a él.
+· País: Estados Unidos
+· Dirección: Víctor González.
+· Guion: Hannah Suria.</desc>
+	</programme>
+  <programme start="20260501102300 +0200" stop="20260501105200 +0200" channel="Nickelodeon HD">
+    <title>Henry Danger T2 E1 · Los Golpes Continúan</title>
+    <desc>Series,Comedia | 2016 | +7 | *6.8/10
+· Henry está en peligro cuando el Dr. Minyak transforma a Charlotte en un ser superfuerte.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman.
+· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
+· Guion: Dana Olsen, Dan Schneider.
+· Productora: Nickelodeon, Nickelodeon Network.</desc>
+	</programme>
+  <programme start="20260501105200 +0200" stop="20260501112100 +0200" channel="Nickelodeon HD">
+    <title>Henry Danger T2 E4 · Henry y los Woodpeckers</title>
+    <desc>Series,Comedia | 2016 | +7 | *6.8/10
+· El Consejo Supervisor cuestiona a Henry cuando comienza a entrenar al equipo de baloncesto de Piper.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman, Mike Caron.
+· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
+· Guion: Dana Olsen, Dan Schneider.
+· Productora: Nickelodeon, Nickelodeon Network.</desc>
+	</programme>
+  <programme start="20260501112100 +0200" stop="20260501114900 +0200" channel="Nickelodeon HD">
+    <title>That Girl Lay Lay T2 E13 · Cómo Zelda recuperó el encanto</title>
+    <desc>Infantil,Serie infantil | 2022 | TP | *5.8/10
+· La directora Willingham cancela el baile del instituto porque no tiene pareja. Sadie y Lay Lay intentan conseguirle una cita.
+· País: Estados Unidos
+· Dirección: Wendy Faraone.
+· Reparto: Andrea Barber, Thomas Hobson, Ishmel Sahid, Gabrielle Nevaeh Green, Tiffany Daniels, That Girl Lay Lay, Graydon Yosowitz, Peyton Perrine III, Archer Vattano, Elijah M. Cooper.
+· Guion: Freddie Gutierrez.</desc>
+	</programme>
+  <programme start="20260501114900 +0200" stop="20260501121800 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T3 E2 · Dando Loud por liebre; Insta-abuela</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.2/10
+· Lincoln quiere impresionar a una nueva chica; Pop Pop presenta a su novia a la familia.
+· País: Estados Unidos
+· Dirección: Chris Savino, Chris Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260501121800 +0200" stop="20260501124600 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T3 E3 · Carretera y manta; Una nevera lejana</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.4/10
+· A Luna le preocupa que convertirse en una estrella del rock sea poco realista; a Lincoln le quitan comida de la nevera.
+· País: Estados Unidos
+· Dirección: Chris Savino, Chris Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260501124600 +0200" stop="20260501125800 +0200" channel="Nickelodeon HD">
+    <title>Una Casa de Locos Single Story T2 E35 · Lynn se Lleva el Botín</title>
+    <desc>Infantil,Dibujos animados | 2016 | TP | *6.2/10
+· Los chicos están hartos de la poca deportividad de Lynn en los juegos de mesa y se unen contra ella.
+· País: Estados Unidos
+· Dirección: Chris Savino, Kyle Marshall.
+· Reparto: Brian Stepanek, Liliana Mumy, Jill Talley, Grey Griffin, Nika Futterman, Catherine Taber, Cristina Pucelli, Jessica DiCicco, Lara Jill Miller, Collin Dean.</desc>
+	</programme>
+  <programme start="20260501125800 +0200" stop="20260501132700 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T15 E7 · Sammy Rémora / en primera división</title>
+    <desc>Infantil,Dibujos animados | 2024 | TP | *5.8/10
+· El Krustáceo Krujiente está hecho una porquería y un pez mágico enseña a Bob Esponja a mantener las superficies impolutas en un periquete. Bob Esponja es contratado en la Gran Liga, pero antes debe probar su valía en la cocina de pruebas.
+· País: Estados Unidos
+· Dirección: Sherm Cohen, Andrew Overtoom, Dave Cunningham, Michelle Bryan.
+· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.</desc>
+	</programme>
+  <programme start="20260501132700 +0200" stop="20260501135600 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T15 E8 · Calamardo triunfa / Pulpo agitado no identificado</title>
+    <desc>Infantil,Dibujos animados | 2024 | TP | *6.0/10
+· Lady Remilgada presenta a Calamardo y a sus "talentos musicales" a sus amigos de la alta sociedad y se convierte en su mecenas. Calamardo se propone demostrar que los alienígenas no existen hasta que se encuentra cara a cara con uno.
+· País: Estados Unidos
+· Dirección: Andrew Overtoom, Dave Cunningham, Michelle Bryan, Ian Vazquez, Eric Bryan.
+· Guion: Luke Brookshier, Danny Giovannini, Kaz Mr. Lawrence.</desc>
+	</programme>
+  <programme start="20260501135600 +0200" stop="20260501142400 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T15 E9 · Bob da mala suerte; El cometa Sandman</title>
+    <desc>Infantil,Dibujos animados | 2024 | +7 | *6.0/10
+· Bob Esponja experimenta una racha de mala suerte. Patricio busca la ayuda de Sandman.
+· País: Estados Unidos
+· Dirección: Sherm Cohen, Michelle Bryan, Ian Vazquez.
+· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.</desc>
+	</programme>
+  <programme start="20260501142400 +0200" stop="20260501145300 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T7 E14 · Adiós, Tanya; Lo que la tumba esconde</title>
+    <desc>Infantil,Dibujos animados | 2022 | +7 | *6.2/10
+· Leni debe proteger a su amiga maniquí. Dante entierra un secreto en el cementerio de The Royal Woods.
+· País: Estados Unidos
+· Dirección: Jessica Borutski, Patrick Pakula.
+· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
+· Guion: Andrew Brooks, Byron Dockins.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260501145300 +0200" stop="20260501152100 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T7 E15 · Ha caído un inspector; uno entre un millón</title>
+    <desc>Infantil,Dibujos animados | 2022 | +7 | *5.8/10
+· Luan debe resolver un caso de detectives en la escuela. Lincoln y Clyde quieren una gran recompensa de Flip.
+· País: Estados Unidos
+· Dirección: Jessica Borutski, Patrick Pakula.
+· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
+· Guion: Kevin Sullivan, Adeline Colangelo.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260501152100 +0200" stop="20260501155100 +0200" channel="Nickelodeon HD">
+    <title>Los Pitufos T1 E2 · Una cuestión de narices / Torpe pero no tan torpe</title>
+    <desc>Infantil,Dibujos animados | 2021 | TP | *6.0/10
+· Pitufo Fortachón lanza un hechizo que lo convierte accidentalmente en una nariz colosal que succiona todo lo que encuentra a su paso. / Tras atrapar a Pitufo Torpe, Gargamel lo tienta con un amuleto mágico que hace desaparecer su torpeza.
+· País: Bélgica, Estados Unidos y Francia
+· Dirección: William Renaud.
+· Guion: Peter Saisselin, Amy Serafin.
+· Productora: Dargaud Média, Ketnet, Kinderkanal.</desc>
+	</programme>
+  <programme start="20260501155100 +0200" stop="20260501161900 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T16 E5 · El embrollo temporal de y Patricio. Segunda parte</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | *5.6/10
+· El armario del tiempo de Patricio se escacharra y la vida de Bob Esponja es reescrita por viajeros del tiempo entrometidos.
+· País: Estados Unidos
+· Dirección: Sherm Cohen, Luke Brookshier, Andrew Goodman, Michelle Bryan, Danny Giovannini, Ian Vazquez.
+· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini.</desc>
+	</programme>
+  <programme start="20260501161900 +0200" stop="20260501163800 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja Single Story T12 E30 · La mala costumbre de Bob Esponja</title>
+    <desc>Infantil,Dibujos animados | 2018 | TP | *5.8/10
+· Bob Esponja no puede dejar de morderse las uñas y tampoco sabe por qué.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.</desc>
+	</programme>
+  <programme start="20260501163800 +0200" stop="20260501170000 +0200" channel="Nickelodeon HD">
+    <title>Patricio es la estrella T2 E7 · Lista de cubos de cebos; Pat, el bebé grande</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | *5.8/10
+· Patricio come un cebo que pone en peligro su vida. Patricio vuelve a convertirse en un bebé.
+· País: Estados Unidos
+· Dirección: Sean Dempsey.
+· Guion: Luke Brookshier, Andrew Goodman, Mr. Lawrence, Jacob Fleisher, Stephen Herczeg, Charlie Jackson, Nora Meek, Zoë Moss, Dave Tennant.
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260501170000 +0200" stop="20260501172900 +0200" channel="Nickelodeon HD">
+    <title>Marsupilamis (dobles) T1 E5 · Un marsupi para Bibi / Carnicería en la cantina</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | *6.0/10
+· En su intento de conseguir su propio marsupilami, Bibi se encuentra un jaguar que la asusta tanto como para abandonar la caza. Marcel se pone a trabajar de cocinero en el colegio después de que jade provoque que la antigüa cocinera dimita.
+· País: Bélgica y Francia
+· Dirección: Célestine Plays, Celestine Play.
+· Guion: Myles McLeod.
+· Productora: Belvision.</desc>
+	</programme>
+  <programme start="20260501172900 +0200" stop="20260501175700 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T2 E4 · Una habitación con vistas</title>
+    <desc>Infantil,Dibujos animados | 2016 | +7 | *6.2/10
+· La familia gana un viaje a un complejo turístico y se lleva a los niños; las hermanas le hacen un cambio de look a Lucy.
+· País: Estados Unidos
+· Dirección: Chris Savino, Kyle Marshall.
+· Reparto: Jessica DiCicco, Brian Stepanek, Liliana Mumy, Jill Talley, Grey Griffin, Nika Futterman, Catherine Taber, Cristina Pucelli, Lara Jill Miller, Collin Dean.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260501175700 +0200" stop="20260501182500 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T2 E5 · Cambio de clase</title>
+    <desc>Infantil,Dibujos animados | 2016 | +7 | *6.2/10
+· Lisa entra en la clase de Lincoln; los niños intentan que su padre compre una furgoneta nueva.
+· País: Estados Unidos
+· Dirección: Chris Savino, Kyle Marshall.
+· Reparto: Jessica DiCicco, Brian Stepanek, Liliana Mumy, Jill Talley, Grey Griffin, Nika Futterman, Catherine Taber, Cristina Pucelli, Lara Jill Miller, Collin Dean.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260501182500 +0200" stop="20260501184300 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos Single Story T4 E8 · La guerra de las tiendas (con los Casagrande)</title>
+    <desc>Infantil,Dibujos animados | 2019 | TP | *6.0/10
+· Cuando abre un nuevo supermercado, Bobby reúne a todos para competir contra la nueva tienda.
+· País: Estados Unidos
+· Dirección: Chris Savino, Kyle Marshall.
+· Reparto: Brian Stepanek, Liliana Mumy, Jill Talley, Grey Griffin, Nika Futterman, Catherine Taber, Cristina Pucelli, Jessica DiCicco, Lara Jill Miller, Collin Dean.
+· Productora: Nickelodeon Animation Studios, Chris Savino Productions.</desc>
+	</programme>
+  <programme start="20260501184300 +0200" stop="20260501191200 +0200" channel="Nickelodeon HD">
+    <title>Wylde Pak T1 E9 · Guerreros contra el reino / Momentos</title>
+    <desc>Infantil,Dibujos animados | 2024 | TP | *6.2/10
+· Lily le enseña a Jack su videojuego favorito, pero pierde todo el rato y se convierte en un troll tóxico. Viñetas de la vida real que ilustran la dinámica familiar actual.
+· País: Estados Unidos
+· Dirección: Kyle Marshall, Paul Watling.
+· Guion: Kyle Marshall, Adam Colás, John McKinnon.</desc>
+	</programme>
+  <programme start="20260501191200 +0200" stop="20260501194000 +0200" channel="Nickelodeon HD">
+    <title>Los Thunderman: Infiltrados T1 E5 · Una cita importante</title>
+    <desc>Series,Serie juvenil | 2025 | TP | *5.8/10
+· Max se mete con Phoebe diciéndole que es incapaz de cambiar el chip de ser superheroína en Secret Shores y vivir como una persona normal durante una noche.
+· País: Estados Unidos
+· Dirección: Jon Rosenbaum.
+· Guion: Hannah Suria.</desc>
+	</programme>
+  <programme start="20260501194000 +0200" stop="20260501200200 +0200" channel="Nickelodeon HD">
+    <title>Los Thunderman: Infiltrados T1 E6 · Lo malo de Cherry</title>
+    <desc>Series,Serie juvenil | 2025 | TP | *5.8/10
+· Cuando Cherry visita Secret Shores por primera vez, a Max y a Phoebe les sorprende encontrarse que Cherry todavía conserva sus poderes de chispas.
+· País: Estados Unidos
+· Dirección: Jon Rosenbaum.
+· Guion: Nora Sullivan.</desc>
+	</programme>
+  <programme start="20260501200200 +0200" stop="20260501203000 +0200" channel="Nickelodeon HD">
+    <title>Henry Danger T5 E32 · La Bota de Theranos</title>
+    <desc>Series,Comedia | 2018 | +7 | *7.2/10
+· Henry y Jasper viajan a un universo alternativo para recuperar el preciado accesorio cinematográfico de Ray.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman.
+· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson.
+· Productora: Nickelodeon Network.</desc>
+	</programme>
+  <programme start="20260501203000 +0200" stop="20260501205800 +0200" channel="Nickelodeon HD">
+    <title>That Girl Lay Lay T2 E14 · Beastie Pie</title>
+    <desc>Infantil,Serie infantil | 2022 | TP | *5.6/10
+· El influencer favorito de Marky, Beastie Pie, organiza un concurso de comer guarradas en el BoomBox Burger. Cuando Sadie y Lay Lay oyen los planes de Beastie para amañar el concurso, deben convencer a Marky de que Beastie es un fraude.
+· País: Estados Unidos
+· Dirección: Wendy Faraone.
+· Reparto: Andrea Barber, Jack Griffo, Thomas Hobson, Ishmel Sahid, Gabrielle Nevaeh Green, Tiffany Daniels, That Girl Lay Lay, Caleb Brown, Anna-Grace Arnold, Peyton Perrine III, Archer Vattano, Elijah M. Cooper.
+· Guion: Emily Winter, William Luke Schreiber.</desc>
+	</programme>
+  <programme start="20260501205800 +0200" stop="20260501212800 +0200" channel="Nickelodeon HD">
+    <title>iCarly T1 E11 · Incuba pollitos</title>
+    <desc>Series,Serie juvenil | 2007 | TP | *7.0/10
+· Carly y Sam tienen que incubar a unos pollitos para un proyecto de ciencias. Los pollitos rompen el cascarón antes de lo previsto y escapan de la incubadora. Carly, Sam, Freddie y Spencer tienen que encontrar a todos los pollitos.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman, David Kendall.
+· Reparto: Miranda Cosgrove, Nathan Kress, Jennette McCurdy, Jerry Trainor, Noah Munck.
+· Guion: Matt Fleckenstein, Steven Molaro, Jake Farrow, Andrew Hill Newman.
+· Productora: Nickelodeon Network.</desc>
+	</programme>
+  <programme start="20260501212800 +0200" stop="20260501215600 +0200" channel="Nickelodeon HD">
+    <title>Sam &amp; Cat T1 E22 · Lumposo'</title>
+    <desc>Series,Comedia | 2013 | TP | *6.6/10
+· Las chicas apuestan porque "lumposo" es una palabra real y deben conseguir que se añada al diccionario.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman, Russ Reinsel.
+· Reparto: Jennette McCurdy, Ariana Grande, Cameron Ocasio, Maree Cheatham, Brandon Weaver, Zoran Korach.
+· Guion: Dan Schneider, Jake Farrow, David Malkoff.</desc>
+	</programme>
+  <programme start="20260501215600 +0200" stop="20260501222500 +0200" channel="Nickelodeon HD">
+    <title>Victorious T1 E4 · La Canción De La Semana-Cumple</title>
+    <desc>Series,Comedia | 2010 | TP | *6.2/10
+· Tori intenta encontrar el regalo perfecto para el cumpleaños de Trina y decide escribirle una canción.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman.
+· Reparto: Victoria Justice, Matt Bennett, Daniella Monet, Leon Thomas, Elizabeth Gillies, Ariana Grande, Avan Jogia, Jake Farrow, Michael Eric Reid.
+· Guion: Dan Schneider.
+· Productora: Nickelodeon, Nickelodeon Productions, Sony Music Entertainment.</desc>
+	</programme>
+  <programme start="20260501222500 +0200" stop="20260501225400 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T11 E13 · Los pequeamigos; Palabra de nieto</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.2/10
+· Bob Esponja y Patricio intercambian pequeñas copias vivas de sí mismos. Plankton miente a su abuela.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
+· Guion: Tim Hill.
+· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	</programme>
+  <programme start="20260501225400 +0200" stop="20260501232200 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T3 E12 · Miss Miedo a perder; Papi roto</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *5.6/10
+· Lola se clasifica para un concurso regional; papá consigue que el señor Grouse cuide de Lily mientras él está fuera.
+· País: Estados Unidos
+· Dirección: Chris Savino, Chris Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260501232200 +0200" stop="20260501235100 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T3 E13 · Por favor, aléjenme de mi pariente; Con las manos en la madera</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.0/10
+· La casa se infesta de termitas; Lincoln realiza un trabajo de carpintería.
+· País: Estados Unidos
+· Dirección: Chris Savino, Chris Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260501235100 +0200" stop="20260502001900 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T3 E14 · Justos por Pescadores; Moda Criminal</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.2/10
+· Los peces favoritos de Lana están en peligro de perder su hogar; despiden a Leni del trabajo.
+· País: Estados Unidos
+· Dirección: Chris Savino, Chris Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502001900 +0200" stop="20260502004800 +0200" channel="Nickelodeon HD">
+    <title>Henry Danger T5 E3 · El cumpleaños de Henry</title>
+    <desc>Series,Comedia | 2018 | +7 | *7.2/10
+· Henry intenta celebrar su cumpleaños y se interrumpe por unos crímenes en Swellview.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman.
+· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
+· Productora: Nickelodeon, Nickelodeon Network.</desc>
+	</programme>
+  <programme start="20260502004800 +0200" stop="20260502011000 +0200" channel="Nickelodeon HD">
+    <title>Equipo Danger T1 E24 · Tierra a Bose</title>
+    <desc>Series,Serie juvenil | 2020 | TP | *6.0/10
+· Cuando Bose se enamora de una alienígena empiezan a pasarle cosas extrañas.
+· País: Estados Unidos
+· Dirección: Mike Caron, Evelyn Belasco.
+· Reparto: Cooper Barnes, Michael D. Cohen, Havan Flores, Terrence Little Gardenhigh, Dana Heath, Luca Luhan, Michaël Cohen.
+· Guion: Nathan Knetchel, Sam Becker.
+· Productora: Nickelodeon Productions.</desc>
+	</programme>
+  <programme start="20260502011000 +0200" stop="20260502013200 +0200" channel="Nickelodeon HD">
+    <title>Los Thunderman: Infiltrados T1 E11 · Marea y prejuicio</title>
+    <desc>Series,Serie juvenil | 2025 | +7 | *6.4/10
+· Un antiguo protector de Secret Shores regresa, lo que podría poner en peligro a Jinx y Booch.
+· País: Estados Unidos
+· Dirección: Trevor Kirschner.
+· Guion: Sean William Cunningham, Marc Dworkin.</desc>
+	</programme>
+  <programme start="20260502013200 +0200" stop="20260502015400 +0200" channel="Nickelodeon HD">
+    <title>Los Thunderman: Infiltrados T1 E12 · Sucedió en broma</title>
+    <desc>Series,Serie juvenil | 2025 | TP | *5.8/10
+· Cuando Max usa el dinero de los clubes escolares para comprarse un carrito de golf, Chloe y sus amigos corren el peligro de perder sus respectivos clubes. Un bromista misterioso se venga haciendo gamberradas a Max, que declara que no se rendirá ante s...
+· País: Estados Unidos
+· Dirección: Kira Kosarin.
+· Guion: Chris Tallman.</desc>
+	</programme>
+  <programme start="20260502015400 +0200" stop="20260502021600 +0200" channel="Nickelodeon HD">
+    <title>Historias De Las Tortugas Ninja T2 E7 · El despertar del Ninja Nocturno</title>
+    <desc>Infantil,Dibujos animados | 2025 | +7 | *6.0/10
+· Leo lleva una vida dedicada a la lucha contra el crimen tras salvar una estación de metro llena de personas inocentes.
+· País: Estados Unidos
+· Dirección: JJ Conway, Kevin Molina-Ortiz, Laura Gille.
+· Guion: Ellie Guzman.</desc>
+	</programme>
+  <programme start="20260502021600 +0200" stop="20260502023800 +0200" channel="Nickelodeon HD">
+    <title>Historias De Las Tortugas Ninja T2 E8 · El regreso del Ninja Nocturno</title>
+    <desc>Infantil,Dibujos animados | 2025 | +7 | *6.0/10
+· El villano, un lunático que odia a los perros y es conocido como Scratch, tiene secuestrados a los perros de la ciudad.
+· País: Estados Unidos
+· Dirección: Kevin Molina-Ortiz, Laura Gille.
+· Guion: Aliza Berger, Talia Berger.</desc>
+	</programme>
+  <programme start="20260502023800 +0200" stop="20260502025900 +0200" channel="Nickelodeon HD">
+    <title>Historias De Las Tortugas Ninja T2 E9 · El inquieto Scratch</title>
+    <desc>Infantil,Dibujos animados | 2025 | +7 | *5.6/10
+· Leo se pone el traje de Ninja Nocturno por última vez para enfrentarse a Scratch, el gato malvado.
+· País: Estados Unidos
+· Dirección: Rie Koga, Kevin Molina-Ortiz, Laura Gille.
+· Guion: Ellie Guzman.</desc>
+	</programme>
+  <programme start="20260502025900 +0200" stop="20260502032100 +0200" channel="Nickelodeon HD">
+    <title>Best y Bester (dobles) T1 E17</title>
+    <desc>Infantil,Dibujos animados | 2021 | TP | *5.8/10
+· Best y Bester son un par de gemelos que viven en una extraña y maravillosa realidad alternativa en la que tu vecino podría ser un par de pantalones descontentos o tu mejor amigo una nube flotante.
+· País: Reino Unido
+· Dirección: Kitty Taylor.
+· Reparto: Bill Bailey, Kathryn Drysdale, Joseph Balderrama, Rupert Simonian.
+· Guion: Alex Collier, Ciaran Murtagh, Andrew Barnett-Jones.</desc>
+	</programme>
+  <programme start="20260502032100 +0200" stop="20260502034300 +0200" channel="Nickelodeon HD">
+    <title>Best y Bester (dobles) T1 E18</title>
+    <desc>Infantil,Dibujos animados | 2021 | TP | *6.2/10
+· Best y Bester son un par de gemelos que viven en una extraña y maravillosa realidad alternativa en la que tu vecino podría ser un par de pantalones descontentos o tu mejor amigo una nube flotante.
+· País: Reino Unido
+· Dirección: Kitty Taylor.
+· Reparto: Bill Bailey, Kathryn Drysdale, Joseph Balderrama, Rupert Simonian.
+· Guion: Alex Collier, Ciaran Murtagh, Andrew Barnett-Jones.</desc>
+	</programme>
+  <programme start="20260502034300 +0200" stop="20260502040500 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T11 E12 · Conduce feliz y contento; El anciano Patricio</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.2/10
+· Bob Esponja no tiene el carnet de conducir, así que se compra un coche sin volante. Patricio piensa que es un anciano.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
+· Guion: Tim Hill.
+· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	</programme>
+  <programme start="20260502040500 +0200" stop="20260502042700 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T11 E13 · Los pequeamigos; Palabra de nieto</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.2/10
+· Bob Esponja y Patricio intercambian pequeñas copias vivas de sí mismos. Plankton miente a su abuela.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
+· Guion: Tim Hill.
+· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	</programme>
+  <programme start="20260502042700 +0200" stop="20260502044800 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T11 E15 · Salto a la superficie; Ladrones de botellas</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.0/10
+· Bob Esponja ve la superficie; Bob Esponja y Calamardo dejan que Plancton tome la fórmula secreta.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
+· Guion: Tim Hill.
+· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	</programme>
+  <programme start="20260502044800 +0200" stop="20260502050000 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja (Single Story) T14 E1 · Defensa unicelular</title>
+    <desc>Infantil,Dibujos animados | 2023 | TP | *6.0/10
+· Harto de que lo traten a pisotones, Plankton aprende autodefensa de Arenita.
+· País: Estados Unidos
+· Dirección: Sherm Cohen, Michelle Bryan.</desc>
+	</programme>
+  <programme start="20260502050000 +0200" stop="20260502052200 +0200" channel="Nickelodeon HD">
+    <title>Historias de las Tortugas Ninja T1 E7 · Raph contra el agua</title>
+    <desc>Infantil,Dibujos animados | 2024 | +7 | *5.8/10
+· Las Tortugas se ven atrapadas en la tormenta del siglo. Los mutantes marinos amenazan la ciudad.
+· País: Estados Unidos
+· Dirección: Kalvin Lee.
+· Guion: Matthew Bass.</desc>
+	</programme>
+  <programme start="20260502052200 +0200" stop="20260502054300 +0200" channel="Nickelodeon HD">
+    <title>Historias de las Tortugas Ninja T1 E8 · Mikey se hace cargo</title>
+    <desc>Infantil,Dibujos animados | 2024 | +7 | *5.8/10
+· Cuando Mikey y la Rana Gengis son enviados a una misión de aprovisionamiento, se encuentran con Lee la Anguila.
+· País: Estados Unidos
+· Dirección: Jennifer Bennett.
+· Guion: Christopher Yost, Alex Hanson.</desc>
+	</programme>
+  <programme start="20260502054300 +0200" stop="20260502055600 +0200" channel="Nickelodeon HD">
+    <title>Los Wylde Pak T1 E6 · El Boba Get</title>
+    <desc>Infantil,Dibujos animados | 2024 | TP | *6.0/10
+· La tienda de té de burbujas favorita de Lil va a cerrar. Al intentar salvarla, al final se ven obligados a salvar Canyon Valley entero.
+· País: Estados Unidos
+· Dirección: Kyle Marshall, Paul Watling.</desc>
+	</programme>
+  <programme start="20260502055600 +0200" stop="20260502062300 +0200" channel="Nickelodeon HD">
+    <title>Los Wylde Pak T2 E2 · Mensaje equivocado / Tribunal familiar de emergencia</title>
+    <desc>Infantil,Dibujos animados | 2023 | TP | *6.2/10
+· Jack recibe su primer teléfono y le envía un mensaje equivocado a Will, obligando a los niños a hacer lo que sea para borrarlo. // Cuando desaparece la última hallasand, las pistas apuntan a Halmoni y solo un tribunal familiar aclarará las cosas.
+· País: Estados Unidos
+· Dirección: Nick Edwards, Ari Castleton, Bert Youn.
+· Guion: Jordan Gershowitz, Brittney Jo Flores, Brandon Hoang, Adam Colás, Todd McClintock.</desc>
+	</programme>
+  <programme start="20260502062300 +0200" stop="20260502065300 +0200" channel="Nickelodeon HD">
+    <title>Los Pitufos T2 E1 · Pitufa a la cámara / Los modales importan</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | *6.2/10
+· Carpintero inventa una cámara para que Pintor pueda haver retratos de todos los habitantes de la aldea. / Papá Pitufo está nervioso por la visita de la Nueva Hada de la Naturaleza, así que le pide a Sauce que le enseñe modales pitufos.
+· País: Bélgica, Estados Unidos y Francia
+· Dirección: William Renaud.
+· Guion: Peter Saisselin, Amy Serafin.
+· Productora: Dargaud Média.</desc>
+	</programme>
+  <programme start="20260502065300 +0200" stop="20260502072300 +0200" channel="Nickelodeon HD">
+    <title>Los Pitufos T2 E2 · El invitado que no quería irse / ¿Dónde está mi Pitumóvil?</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | *6.2/10
+· Salvaje se tuerce el tobillo y se queda en casa de Papá Pitufo para recuperarse mientras Papá Pitufo está de viaje. / Flor pierde el querido Pitumóvil de Filósofo y tiene que encontrarlo antes de que se dé cuenta.
+· País: Bélgica, Estados Unidos y Francia
+· Dirección: William Renaud.
+· Guion: Peter Saisselin, Amy Serafin.
+· Productora: Dargaud Média.</desc>
+	</programme>
+  <programme start="20260502072300 +0200" stop="20260502074100 +0200" channel="Nickelodeon HD">
+    <title>Patricio es la estrella T3 E18</title>
+    <desc>Infantil,Dibujos animados | 2024 | TP | *6.0/10
+· Aunque vive en casa con su excéntrica familia, Patrick presenta este espacio basado en sus caprichos en constante cambio.
+· País: Estados Unidos
+· Dirección: Dave Cunningham, Sean Dempsey, Alex S. Conaway.
+· Guion: Andrew Goodman, Luke Brookshier, Kaz Mr. Lawrence, Jacob Fleisher, Stephen Herczeg, Charlie Jackson, Nora Meek, Zoë Moss, Dave Tennant.
+· Música: Nick Carr.
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502074100 +0200" stop="20260502080900 +0200" channel="Nickelodeon HD">
+    <title>Patricio es la estrella T2 E13 · Hora de comer; limpiando la casa</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | *6.0/10
+· Patricio presenta un show de comida itinerante en el tiempo. Con Bunny fuera, la casa de los Estrella se desordena.
+· País: Estados Unidos
+· Dirección: Julian Murphy, Sean Dempsey.
+· Guion: Luke Brookshier, Andrew Goodman, Mr. Lawrence, Jacob Fleisher, Nora Meek, Zoë Moss, Dave Tennant, Gabe Del Valle.
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502080900 +0200" stop="20260502083700 +0200" channel="Nickelodeon HD">
+    <title>Patricio es la estrella (dobles) T3 E1 · El cubo risueño / Patricio es la estrella: edición nocturna</title>
+    <desc>Infantil,Dibujos animados | 2024 | TP | *6.2/10
+· La familia Estrella celebra el cumpleaños de Patricio en el Cubo de Cebo. Patricio y Calamarina exploran Fondo de Bikini en plena noche.
+· País: Estados Unidos
+· Dirección: Sean Dempsey, Alex S. Conaway.
+· Guion: Luke Brookshier, Andrew Goodman, Kaz Mr. Lawrence, Jacob Fleisher, Stephen Herczeg, Charlie Jackson, Dave Tennant, Andy Gonsalves, Miggs Perez.
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502083700 +0200" stop="20260502090600 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T10 E1 · El helicerebro; Tritonesponja</title>
+    <desc>Infantil,Dibujos animados | 2016 | +7 | *5.6/10
+· Bob Esponja y Patricio hacen volar sus cerebros; Bob Esponja y Patricio fingen ser superhéroes.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham, Sherm Cohen, Mark Caballero.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
+· Guion: Tim Hill, Nick Jennings, Derek Drymon.
+· Productora: United Plankton Pictures, Nicktoons Productions.</desc>
+	</programme>
+  <programme start="20260502090600 +0200" stop="20260502093500 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T10 E2 · Una mudanza accidentada; Código amarillo</title>
+    <desc>Infantil,Dibujos animados | 2016 | +7 | *6.2/10
+· Calamardo ayuda a Bob Esponja a encontrar una casa nueva. Calamardo se somete a una operación estética de nariz.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham, Sherm Cohen, Mark Caballero.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
+· Guion: Tim Hill, Nick Jennings, Derek Drymon.
+· Productora: United Plankton Pictures, Nicktoons Productions.</desc>
+	</programme>
+  <programme start="20260502093500 +0200" stop="20260502095800 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T10 E3 · Loco por las imitaciones; Fiesta gusanesca</title>
+    <desc>Infantil,Dibujos animados | 2016 | +7 | *5.6/10
+· Bob Esponja no puede parar de imitar a los demás. Los gusanos se meten en los agujeros de Bob Esponja.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham, Sherm Cohen, Mark Caballero.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
+· Guion: Tim Hill, Nick Jennings, Derek Drymon.
+· Productora: United Plankton Pictures, Nicktoons Productions.</desc>
+	</programme>
+  <programme start="20260502095800 +0200" stop="20260502102600 +0200" channel="Nickelodeon HD">
+    <title>Marsupilamis (dobles) T1 E3 · Duelo de baile / El espectáculo debe continuar</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | *6.0/10
+· Jade es una gran bailarina y debe enfrentarse a Míster Best en un duelo de baile en persona. Mica y Jade montan una función para ganar un premio para el colegio, pero se les olvida un decorado fundamentel y los marsupis les ayudan.
+· País: Bélgica y Francia
+· Dirección: Célestine Plays, Celestine Play.
+· Guion: Myles McLeod.
+· Productora: Belvision.</desc>
+	</programme>
+  <programme start="20260502102600 +0200" stop="20260502105400 +0200" channel="Nickelodeon HD">
+    <title>Marsupilamis (dobles) T1 E4 · Atraco Houbi-Houba / La cabaña de Twister</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | *6.0/10
+· El diario de Mica acaba en la mochila de Acu, por lo que tiene que recuperarlo antes de que lo encuentre su amigo. Además, Twister está harto de las bromas de Hope y Punch, así que se construye una cabaña de cartón que encuentra Stan.
+· País: Bélgica y Francia
+· Dirección: Célestine Plays, Celestine Play.
+· Guion: Myles McLeod.
+· Productora: Belvision.</desc>
+	</programme>
+  <programme start="20260502105400 +0200" stop="20260502112300 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T3 E18 · Una Casa de Mentirosos; Cuidado con el juego</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.2/10
+· Lisa inventa unas gafas para detectar mentiras; Lincoln le pide a Clyde que le preste su nueva videoconsola.
+· País: Estados Unidos
+· Dirección: Chris Savino, Chris Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502112300 +0200" stop="20260502115100 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T3 E19 · Todo el mundo quiere a Leni; Efectos secundarios</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.2/10
+· Leni intenta reunir a todos; Lynn da a Lincoln y Clyde consejos algo dudosos.
+· País: Estados Unidos
+· Dirección: Chris Savino, Chris Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502115100 +0200" stop="20260502121900 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T3 E20 · ¿Quién dijo miedo?; La muñeca delatora</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.2/10
+· Lincoln y Clyde tienen que enfrentarse a sus miedos; Lola descubre que Lucy tiene una muñeca vieja y frágil.
+· País: Estados Unidos
+· Dirección: Chris Savino, Chris Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502121900 +0200" stop="20260502124800 +0200" channel="Nickelodeon HD">
+    <title>Los Thunderman: Infiltrados T1 E7 · De a todo gas, nada</title>
+    <desc>Series,Serie juvenil | 2025 | TP | *5.8/10
+· Los Thunderman descubren que una nueva villana superrápida llamada Garragatuna está delinquiendo en Secret Shores, y que Billy, su hermano superrápido, es su mejor esperanza para atraparla.
+· País: Estados Unidos
+· Dirección: Wendy Faraone.
+· Guion: Scott Taylor, Wesley Jermaine Johnson.</desc>
+	</programme>
+  <programme start="20260502124800 +0200" stop="20260502131800 +0200" channel="Nickelodeon HD">
+    <title>Los Thunderman: Infiltrados T1 E8 · Solo para sus espías</title>
+    <desc>Series,Serie juvenil | 2025 | TP | *6.0/10
+· Cuando Max y Phoebe deben asistir a la reunión de padres del colegio, Chloe les pregunta si puede pasar la tarde en casa, sola con sus amigos. A pesar de que le dicen que no, Chloe invita en secreto a Jinx y a Bucha mientras sus tutores están fuera.
+· País: Estados Unidos
+· Dirección: Wendy Faraone.
+· Guion: Angela Yarbrough.</desc>
+	</programme>
+  <programme start="20260502131800 +0200" stop="20260502134600 +0200" channel="Nickelodeon HD">
+    <title>Henry Danger T1 E9 · Cumpleañera al Agua</title>
+    <desc>Series,Comedia | 2014 | +7 | *6.2/10
+· Después de que acusen a Henry de lanzar a una chica desde un techo, cancelan su invitación a una fiesta.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman.
+· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
+· Productora: Nickelodeon, Nickelodeon Network.</desc>
+	</programme>
+  <programme start="20260502134600 +0200" stop="20260502141400 +0200" channel="Nickelodeon HD">
+    <title>Henry Danger T1 E10 · Demasiado en juego</title>
+    <desc>Series,Comedia | 2014 | +7 | *6.6/10
+· Un nuevo estudiante sustituye a Henry en el equipo de baloncesto; el capitán Man necesita la ayuda de un amigo.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman.
+· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
+· Productora: Nickelodeon, Nickelodeon Network.</desc>
+	</programme>
+  <programme start="20260502141400 +0200" stop="20260502144300 +0200" channel="Nickelodeon HD">
+    <title>That Girl Lay Lay T2 E5 · Lay Lay adopta una mascota</title>
+    <desc>Infantil,Serie infantil | 2022 | TP | *5.8/10
+· Lay Lay quiere una mascota, pero termina llevando a casa un animal que desata el caos. Marky y su mejor amigo Scoot se dan un festín que no pueden pagar.
+· País: Estados Unidos
+· Dirección: Kim Fields.
+· Reparto: Andrea Barber, Thomas Hobson, Ishmel Sahid, Gabrielle Nevaeh Green, Tiffany Daniels, That Girl Lay Lay, Anna-Grace Arnold, Peyton Perrine III, Archer Vattano.
+· Guion: Emily Winter, William Luke Schreiber.</desc>
+	</programme>
+  <programme start="20260502144300 +0200" stop="20260502151100 +0200" channel="Nickelodeon HD">
+    <title>That Girl Lay Lay T2 E6 · Barras</title>
+    <desc>Infantil,Serie infantil | 2022 | TP | *6.2/10
+· Sadie es la encargada del concurso de talentos del instituto y se siente obligada a organizar algo espectacular. Lay Lay recibe consejos musicales de un icono del hiphop.
+· País: Estados Unidos
+· Dirección: Jody Margolin Hahn.
+· Reparto: Andrea Barber, Thomas Hobson, Kensington Tallman, Gabrielle Nevaeh Green, Tiffany Daniels, That Girl Lay Lay, Sean Philip Glasgow, Graydon Yosowitz, Peyton Perrine III, Darryl McDaniels, Elijah M. Cooper.
+· Guion: Freddie Gutierrez.</desc>
+	</programme>
+  <programme start="20260502151100 +0200" stop="20260502153900 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T7 E12 · Animal de malas costumbres; Algo para adormilar</title>
+    <desc>Infantil,Dibujos animados | 2022 | +7 | *6.0/10
+· Sergio no quiere quedarse con las mascotas de los Loud. Lily y mamá son testigos de un robo.
+· País: Estados Unidos
+· Dirección: Jessica Borutski, Patrick Pakula.
+· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
+· Guion: Kevin Sullivan, Whitney Wetta, Andrew Brooks.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502153900 +0200" stop="20260502160200 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T7 E13 · Un potencial por cultivar; Ganar no lo es todo</title>
+    <desc>Infantil,Dibujos animados | 2022 | +7 | *6.0/10
+· Liam se desempeña como reportero. Gracias a su destreza atlética, Lynn se convierte en luchadora.
+· País: Estados Unidos
+· Dirección: Jessica Borutski, Patrick Pakula.
+· Reparto: Liliana Mumy, Nika Futterman, Catherine Taber, Bentley Griffin.
+· Guion: Jeff Sayers, Andrew Brooks, Michelle Hantman.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502160200 +0200" stop="20260502163000 +0200" channel="Nickelodeon HD">
+    <title>Los Wylde Pak T2 E5 · Un problemilla de tuberías / Campamento Chuck</title>
+    <desc>Infantil,Dibujos animados | 2023 | TP | *5.8/10
+· La tubería rota que Jack y Lil que no arreglaron podría arruinarlos a todos.
+· País: Estados Unidos
+· Dirección: Victor Courtright, Nick Edwards, Bert Youn, Bosook Coburn.
+· Guion: Brandon Hoang, Adam Colás, Todd McClintock, Eden Rousso.</desc>
+	</programme>
+  <programme start="20260502163000 +0200" stop="20260502164700 +0200" channel="Nickelodeon HD">
+    <title>Los Wylde Pak T1 E10 · La albóndiga de Canyon Valley</title>
+    <desc>Infantil,Dibujos animados | 2024 | TP | *6.0/10
+· Halmoni elige a Jack como compañero de baile y Lil, celosa, busca venganza.
+· País: Estados Unidos
+· Dirección: Kyle Marshall, Paul Watling.</desc>
+	</programme>
+  <programme start="20260502164700 +0200" stop="20260502171600 +0200" channel="Nickelodeon HD">
+    <title>Marsupilamis (dobles) T1 E4 · Atraco Houbi-Houba / La cabaña de Twister</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | *6.0/10
+· El diario de Mica acaba en la mochila de Acu, por lo que tiene que recuperarlo antes de que lo encuentre su amigo. Además, Twister está harto de las bromas de Hope y Punch, así que se construye una cabaña de cartón que encuentra Stan.
+· País: Bélgica y Francia
+· Dirección: Célestine Plays, Celestine Play.
+· Guion: Myles McLeod.
+· Productora: Belvision.</desc>
+	</programme>
+  <programme start="20260502171600 +0200" stop="20260502172800 +0200" channel="Nickelodeon HD">
+    <title>Marsupilamis (single story) T1 E5 · Un marsupi para Bibi</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | *5.8/10
+· En su intento de conseguir su propio marsupilami, Bibi se encuentra un jaguar que la asusta tanto como para abandonar la caza.
+· País: Bélgica y Francia
+· Dirección: Célestine Plays.
+· Guion: Myles McLeod.
+· Productora: Belvision.</desc>
+	</programme>
+  <programme start="20260502172800 +0200" stop="20260502174500 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja Single Story T15 E37 · Jeffy T's Prankwell Emporium</title>
+    <desc>Infantil,Dibujos animados | 2024 | TP | *5.8/10
+· El padre guasón de Calamardo le visita y trae consigo todo tipo de artículos de bromas que molestan a su hijo.
+· País: Estados Unidos
+· Dirección: Dave Cunningham, Michelle Bryan, Ian Vazquez, Eric Bryan.
+· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.</desc>
+	</programme>
+  <programme start="20260502174500 +0200" stop="20260502181400 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T13 E9 · ¡Qué ricura!; Patricio, cartero</title>
+    <desc>Infantil,Dibujos animados | 2020 | +7 | *5.8/10
+· Plankton fabrica un robot para castigar a quien le llame ricura; Patricio debe repartir el correo.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
+· Guion: Tim Hill, Stephen Hillenburg.
+· Productora: United Plankton Pictures, Nicktoons Productions.</desc>
+	</programme>
+  <programme start="20260502181400 +0200" stop="20260502184200 +0200" channel="Nickelodeon HD">
+    <title>Los Thunderman: Infiltrados T1 E11 · Marea y prejuicio</title>
+    <desc>Series,Serie juvenil | 2025 | +7 | *6.4/10
+· Un antiguo protector de Secret Shores regresa, lo que podría poner en peligro a Jinx y Booch.
+· País: Estados Unidos
+· Dirección: Trevor Kirschner.
+· Guion: Sean William Cunningham, Marc Dworkin.</desc>
+	</programme>
+  <programme start="20260502184200 +0200" stop="20260502191100 +0200" channel="Nickelodeon HD">
+    <title>Los Thunderman: Infiltrados T1 E12 · Sucedió en broma</title>
+    <desc>Series,Serie juvenil | 2025 | TP | *5.8/10
+· Cuando Max usa el dinero de los clubes escolares para comprarse un carrito de golf, Chloe y sus amigos corren el peligro de perder sus respectivos clubes. Un bromista misterioso se venga haciendo gamberradas a Max, que declara que no se rendirá ante s...
+· País: Estados Unidos
+· Dirección: Kira Kosarin.
+· Guion: Chris Tallman.</desc>
+	</programme>
+  <programme start="20260502191100 +0200" stop="20260502193900 +0200" channel="Nickelodeon HD">
+    <title>That Girl Lay Lay T2 E17 · El Packer-Packer Bowl</title>
+    <desc>Infantil,Serie infantil | 2022 | TP | *6.2/10
+· Bacon se convierte en la mascota de East Packer, pero cuando el instituto rival lo roba como jugarreta, Lay Lay hará lo que sea por recuperar a su adorado cerdito.
+· País: Estados Unidos
+· Dirección: Wendy Faraone.
+· Reparto: Andrea Barber, Allison Scagliotti, Thomas Hobson, Brandon Severs, Isaiah Crews, Gabrielle Nevaeh Green, Tiffany Daniels, Dane DiLiegro, That Girl Lay Lay, Caleb Brown, Sean Philip Glasgow, Anna-Grace Arnold, Peyton Perrine III, Archer Vattano.
+· Guion: Ron Hart, John D. Beck.</desc>
+	</programme>
+  <programme start="20260502193900 +0200" stop="20260502200100 +0200" channel="Nickelodeon HD">
+    <title>That Girl Lay Lay T2 E18 · Ponte las pilas</title>
+    <desc>Infantil,Serie infantil | 2022 | TP | *6.0/10
+· En las pruebas para el equipo de animadoras, Lay Lay y Sadie añaden su propio toque a la rutina, pero descubren que destacar no siempre es bueno cuando intentas encajar en un equipo.
+· País: Estados Unidos
+· Dirección: Evelyn Belasco.
+· Reparto: Andrea Barber, Thomas Hobson, Gabrielle Nevaeh Green, Tiffany Daniels, That Girl Lay Lay, Peyton Perrine III, Elijah M. Cooper.
+· Guion: Desia Gore.</desc>
+	</programme>
+  <programme start="20260502200100 +0200" stop="20260502202900 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T3 E8 · Unión escolar; El club de los poetas ansiosos</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.4/10
+· Lincoln y Clyde le tienden una trampa al entrenador Pacowski y a la señora Johnson; Luan aconseja a Lucy.
+· País: Estados Unidos
+· Dirección: Chris Savino, Chris Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502202900 +0200" stop="20260502205800 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T3 E9 · La Científica Loca; Conexión Perdida</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.2/10
+· Lisa recibe una propuesta para trabajar en un instituto; Lori y Bobby se preocupan por su relación a distancia.
+· País: Estados Unidos
+· Dirección: Chris Savino, Chris Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502205800 +0200" stop="20260502212600 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T3 E10 · Repartiendo Aficiones; Co-loco-legas</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.4/10
+· Lincoln y Clyde creen que son demasiado mayores para jugar a los superhéroes.
+· País: Estados Unidos
+· Dirección: Chris Savino, Chris Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502212600 +0200" stop="20260502214400 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos Single Story T5 E23 · Papilla interrumpida</title>
+    <desc>Infantil,Dibujos animados | 2020 | TP | *6.4/10
+· Lincoln vive dentro de la familia más alocada del vecindario, tiene nada más y nada menos que 10 hermanos. A este joven adolescente le encanta leer comics, ver programas de fantasmas y ciencia ficción en la televisión y jugar a los videojuegos.
+· País: Estados Unidos
+· Dirección: Chris Savino, Kyle Marshall.
+· Reparto: Grey Griffin, Catherine Taber, Jessica DiCicco, Lara Jill Miller.
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502214400 +0200" stop="20260502221300 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T11 E17 · La mina de mostaza; La lista de la compra</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.2/10
+· El señor Cangrejo se queda sin mostaza. Bob Esponja y Arenita deben conseguir ingredientes para las cangreburguers.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
+· Guion: Tim Hill.
+· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	</programme>
+  <programme start="20260502221300 +0200" stop="20260502224200 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T11 E19 · Patrinocho; Chef Esponja</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.4/10
+· Plankton convence a Patricio de que es la voz de su conciencia. Bob Esponja se inventa un nuevo personaje.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
+· Guion: Tim Hill.
+· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	</programme>
+  <programme start="20260502224200 +0200" stop="20260502231100 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T11 E20 · Paranoia-Plankton; Tarjetas de biblioteca</title>
+    <desc>Infantil,Dibujos animados | 2017 | +7 | *6.0/10
+· El señor Cangrejo está nervioso porque hace tiempo que Plankton no planea robarle. Patricio se inicia en la lectura.
+· País: Estados Unidos
+· Dirección: Vincent Waller, Dave Cunningham.
+· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
+· Guion: Tim Hill.
+· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+	</programme>
+  <programme start="20260502231100 +0200" stop="20260502233900 +0200" channel="Nickelodeon HD">
+    <title>Patricio es la estrella T2 E4 · La ira de Shmandor; Adiós al vecindario</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | *5.8/10
+· La ciudad en miniatura de Shmandor busca venganza. Patricio y Calamarina entrevistan a sus vecinos.
+· País: Estados Unidos
+· Dirección: Sean Dempsey, Alex S. Conaway.
+· Guion: Marc Ceccarelli, Jacob Fleisher, Dave Tennant, Gabe Del Valle, Andy Gonsalves, Mike Pelensky, Miggs Perez.
+· Música: Nick Carr.
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260502233900 +0200" stop="20260503000100 +0200" channel="Nickelodeon HD">
+    <title>Patricio es la estrella T2 E5 · Estrellas de cine; El Dr. ciencia con cabeza</title>
+    <desc>Infantil,Dibujos animados | 2022 | TP | *6.0/10
+· Patricio y Bob Esponja trabajan en un cine. Arenita ayuda a Patricio a presentar un programa de ciencias.
+· País: Estados Unidos
+· Dirección: Sean Dempsey.
+· Guion: Marc Ceccarelli, Jacob Fleisher, Stephen Herczeg, Charlie Jackson, Nora Meek, Zoë Moss, Dave Tennant.
+· Música: Nick Carr.
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260503000100 +0200" stop="20260503003000 +0200" channel="Nickelodeon HD">
+    <title>Henry Danger T5 E4 · Susie sibilante</title>
+    <desc>Series,Comedia | 2018 | +7 | *7.0/10
+· Tras activar una bomba atomica por error, Ray y Henry la llevan al desierto.
+· País: Estados Unidos
+· Dirección: Steve Hoefer, Adam Weissman.
+· Reparto: Jace Norman, Cooper Barnes, Riele Downs, Sean Ryan Fox, Ella Anderson, Michael D. Cohen.
+· Productora: Nickelodeon, Nickelodeon Network.</desc>
+	</programme>
+  <programme start="20260503003000 +0200" stop="20260503005800 +0200" channel="Nickelodeon HD">
+    <title>Equipo Danger T1 E25 · Los hombres de Manlee</title>
+    <desc>Series,Serie juvenil | 2020 | TP | *6.0/10
+· CaptainMan despliega todo su divismo en el centenario del certamen de Moda de Buenavista. Con la ayuda de dos gemelos forofos de la moda, Danger Force descubre el peligroso misterio detrás del regreso a las pasarelas de CapitanMan.
+· País: Estados Unidos
+· Reparto: Cooper Barnes, Michael D. Cohen, Havan Flores, Terrence Little Gardenhigh, Dana Heath, Luca Luhan.
+· Productora: Nickelodeon Productions.</desc>
+	</programme>
   <programme start="20260430224200 +0200" stop="20260501010800 +0200" channel="TVG Europa HD">
     <title>A Liga dos Cantantes Extraordinarios</title>
     <desc>Entretenimiento,Concurso | 2025 | TP | *5.6/10
@@ -5629,17 +6667,12 @@
 · "Bailamos" da el pistoletazo de salida a la competición. Los doce participantes forman seis parejas diferentes para saltar a la pista y presentar sus números.
 · País: España</desc>
 	</programme>
-  <programme start="20260430225000 +0200" stop="20260501003000 +0200" channel="Aragón TV">
-    <title>Al borde del abismo</title>
-    <desc>Cine,Thriller | 2012 | +7 | *6.4/10
-· Un ex policía fugado, Nick Cassidy, amenaza con quitarse la vida lanzándose desde una azotea de un rascacielos de Manhattan. Mientras Lydia, una psicóloga negociadora, intenta evitarlo, se irán descubriendo muchas cosas.
-· País: Estados Unidos
-· Dirección: Asger Leth.
-· Reparto: Sam Worthington, Elizabeth Banks, Jamie Bell, Patrick Collins, William Sadler, Anthony Mackie, Ed Harris, Edward Burns, Kyra Sedgwick, Génesis Rodríguez.
-· Guion: Pablo F. Fenjves.
-· Música: Henry Jackman.
-· Producción: Lorenzo di Bonaventura, Mark Vahradian.
-· Productora: Di Bonaventura Pictures.</desc>
+  <programme start="20260503000000 +0200" stop="20260503015300 +0200" channel="TVG Europa HD">
+    <title>Cos pés na terra</title>
+    <desc>Entretenimiento | 2011 | TP | *6.0/10
+· Programa dedicado a profesionales que apuestan por una vida lejos de la ciudad, trabajando en el campo con proyectos que abarcan diversos ámbitos.
+· País: España
+· Productora: A Fonsagrada Producións.</desc>
 	</programme>
   <programme start="20260501003000 +0200" stop="20260501013000 +0200" channel="Aragón TV">
     <title>600 años sin descanso. El Papa Luna</title>
@@ -6046,11 +7079,17 @@
 · Música: Laura Karpman.
 · Productora: American Zoetrope, Corner Piece Capital, Lifetime Films.</desc>
 	</programme>
-  <programme start="20260430230000 +0200" stop="20260501001700 +0200" channel="Movistar Plus+ HD">
-    <title>Noche de Europa League T25/26 · 30/04/2026</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Revive los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
-· País: España</desc>
+  <programme start="20260502235500 +0200" stop="20260503014000 +0200" channel="Aragón TV">
+    <title>Mi primo</title>
+    <desc>Cine,Comedia | 2020 | +7 | *6.4/10
+· Pierre, un ambicioso y estresado hombre de negocios, necesita que su primo Adrien firme un importante acuerdo económico. El problema es que dicho familiar, al que no ve desde hace años, es un hombre especialmente inestable y sensible.
+· País: Bélgica y Francia
+· Dirección: Jan Kounen.
+· Reparto: Vincent Lindon, François Damiens, Pascale Arbillot, Alix Poisson, Arièle Semenoff, Olivia Gotanègre.
+· Guion: Fabrice Roger-Lacan, Jan Kounen, Vincent Lindon.
+· Música: Anne-Sophie Versnaeyen.
+· Producción: Richard Grandpierre.
+· Productora: Eskwad.</desc>
 	</programme>
   <programme start="20260501001700 +0200" stop="20260501004600 +0200" channel="Movistar Plus+ HD">
     <title>Ilustres ignorantes T19 · Childrenfree</title>
@@ -6420,17 +7459,12 @@
 · El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
 	</programme>
-  <programme start="20260430212000 +0200" stop="20260430234000 +0200" channel="Primera Federación">
-    <title>Primera Federación T25/26 · Jornada 34: Atlético de Madrid B - Betis Deportivo</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· La Primera Federación es la categoría de bronce del fútbol español. Esta es la cuarta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
-· País: España</desc>
-	</programme>
-  <programme start="20260430234000 +0200" stop="20260501001400 +0200" channel="Primera Federación">
-    <title>El fútbol de Primera T25/26 · Jornada 35</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
-· Programa que repasa todo lo acontecido en la jornada de Primera Federación.
-· País: España</desc>
+  <programme start="20260503002400 +0200" stop="20260503011100 +0200" channel="Movistar Plus+ HD">
+    <title>La Chaparra E1</title>
+    <desc>Documentales,Sociedad | 2025 | +18 | *6.0/10
+· Para los niños Sara y Gabriel, criados en la secta La Chaparra, todo resulta mágico. Pero su comunidad ocultaba una red de control, silencio y abusos que fue desmoronándose hasta revelar una verdad estremecedora disfrazada de espiritualidad y armonía.
+· País: España
+· Dirección: Elena Molina.</desc>
 	</programme>
   <programme start="20260501001400 +0200" stop="20260501021000 +0200" channel="Primera Federación">
     <title>Resúmenes Primera Federación T25/26 · Jornada 34</title>
@@ -6534,12 +7568,6 @@
     <title>Jornada 35: Racing Ferrol - Pontevedra T25/26 · Primera Federación</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · La Primera Federación es la categoría de bronce del fútbol español. Esta es la cuarta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
-· País: España</desc>
-	</programme>
-  <programme start="20260430221900 +0200" stop="20260501002000 +0200" channel="M+ Vamos HD">
-    <title>Ronda Masculina: Ruud - Blockx T2026 · Mutua Madrid Open</title>
-    <desc>Deportes,Tenis | 2026 | TP | *6.0/10
-· Los circuitos WTA y ATP vuelven a la Caja Mágica en Madrid para el Mutua Madrid Open. El Masters 1000 masculino y el WTA 1000 femenino contarán con casi todas las grandes estrellas del tenis mundial.
 · País: España</desc>
 	</programme>
   <programme start="20260501002000 +0200" stop="20260501013000 +0200" channel="M+ Vamos HD">
@@ -6987,11 +8015,13 @@
 · El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
 	</programme>
-  <programme start="20260430221500 +0200" stop="20260501001500 +0200" channel="DAZN LaLiga HD">
-    <title>LALIGA EA SPORTS T25/26 · Jornada 32: Osasuna - Sevilla</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
-· Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
-· País: España</desc>
+  <programme start="20260503001500 +0200" stop="20260503011500 +0200" channel="M+ LaLiga HD">
+    <title>Universo Valdano T3 · David Villa</title>
+    <desc>Deportes,Programa deportes | 2019 | TP | *6.0/10
+· Una mirada futbolística con los ojos de Jorge Valdano. El argentino es una de las voces más autorizadas y respetadas del mundo del balompié. En este espacio, conversa con personajes que ya son historia de este deporte.
+· País: España
+· Presenta: Jorge Valdano.
+· Productora: Mediapro.</desc>
 	</programme>
   <programme start="20260501001500 +0200" stop="20260501004500 +0200" channel="DAZN LaLiga HD">
     <title>Masterclass T1 · Nico Williams</title>
@@ -7205,6 +8235,12 @@
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
+  <programme start="20260503003000 +0200" stop="20260503004500 +0200" channel="DAZN LaLiga HD">
+    <title>Resúmenes DAZN LaLiga EA Sports T25/26 · Jornada 34: Valencia - Atlético de Madrid</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
+· Resumen con lo más destacado de cada uno de los partidos de Primera División.
+· País: España</desc>
+	</programme>
   <programme start="20260430220000 +0200" stop="20260501020000 +0200" channel="LaLiga TV Hypermotion HD">
     <title>LALIGA TV HYPERMOTION</title>
     <desc>· Programa por determinar...</desc>
@@ -7342,10 +8378,6 @@
 · Cultural y Deportiva Leonesa buscará imponer ritmo y ganar metros con amplitud, atacando el área con paciencia y control del tempo. Duelo con puntos que mueven la aguja en la categoría: Cádiz CF intentará sostenerse con orden y castigar en transición.
 · País: España</desc>
 	</programme>
-  <programme start="20260430120000 +0200" stop="20260501000000 +0200" channel="M+ LaLiga 2 HD">
-    <title>M+ LALIGA 2</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
   <programme start="20260501000000 +0200" stop="20260501120000 +0200" channel="M+ LaLiga 2 HD">
     <title>M+ LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
@@ -7448,12 +8480,6 @@
   <programme start="20260502230000 +0200" stop="20260503030000 +0200" channel="DAZN LaLiga 2 HD">
     <title>DAZN LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260430230000 +0200" stop="20260501000000 +0200" channel="M+ Liga de Campeones HD">
-    <title>Noche de Europa League T25/26 · 30/04/2026</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
-· Programa que incluye resúmenes de los partidos de la UEFA Europa League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
-· País: España</desc>
 	</programme>
   <programme start="20260501000000 +0200" stop="20260501022500 +0200" channel="M+ Liga de Campeones HD">
     <title>Semifinales: Nottingham Forest - Aston Villa T25/26 · UEFA Europa League</title>
@@ -7694,6 +8720,12 @@
     <desc>Deportes,Fútbol | TP | *6.2/10
 · M+ Liga de Campeones 2 -.</desc>
 	</programme>
+  <programme start="20260502233500 +0200" stop="20260503014500 +0200" channel="M+ Liga de Campeones 2 HD">
+    <title>DIRECTO Jornada 9: San Lorenzo - Independiente T2026 · Liga Argentina. Torneo Apertura</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Liga Argentina. Torneo Apertura.
+· País: Argentina</desc>
+	</programme>
   <programme start="20260430230000 +0200" stop="20260501080000 +0200" channel="M+ Liga de Campeones 3 HD">
     <title>M+ Liga de Campeones 3</title>
     <desc>Deportes,Fútbol | TP | *6.0/10
@@ -7715,10 +8747,9 @@
     <title>M+ Liga de Campeones 3</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260430233000 +0200" stop="20260501000000 +0200" channel="M+ Deportes HD">
-    <title>World of free sports T2026 E16</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
-· El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
+  <programme start="20260503000000 +0200" stop="20260503080000 +0200" channel="M+ Liga de Campeones 3 HD">
+    <title>M+ Liga de Campeones 3</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260501000000 +0200" stop="20260501020000 +0200" channel="M+ Deportes HD">
     <title>Ronda Masculina: Cobolli - Zverev T2026 · Mutua Madrid Open</title>
@@ -7916,6 +8947,11 @@
     <desc>Deportes,Tenis | 2026 | TP | *5.8/10
 · Los circuitos WTA y ATP vuelven a la Caja Mágica en Madrid para el Mutua Madrid Open. El Masters 1000 masculino y el WTA 1000 femenino contarán con casi todas las grandes estrellas del tenis mundial.
 · País: España</desc>
+	</programme>
+  <programme start="20260503003000 +0200" stop="20260503010000 +0200" channel="M+ Deportes HD">
+    <title>ATP Tour This Week T2026 E16</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· ATP Tour This Week.</desc>
 	</programme>
   <programme start="20260430232500 +0200" stop="20260501063000 +0200" channel="M+ Deportes 2 HD">
     <title>M+ Deportes 2</title>
@@ -8483,18 +9519,15 @@
     <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-  <programme start="20260430222700 +0200" stop="20260430234600 +0200" channel="DAZN 1 HD">
-    <title>MotoGP - GP de España T2026 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
-· El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
-· País: España</desc>
+  <programme start="20260503000000 +0200" stop="20260503001500 +0200" channel="DAZN F1 HD">
+    <title>Código F1 T2026 · Japón</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-  <programme start="20260430234600 +0200" stop="20260501001600 +0200" channel="DAZN 1 HD">
-    <title>Código MotoGP T2026 · España</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
+  <programme start="20260503001500 +0200" stop="20260503020000 +0200" channel="DAZN F1 HD">
+    <title>Mundial F1 - GP de Miami T2026 · Box, Box</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
   <programme start="20260501001600 +0200" stop="20260501010300 +0200" channel="DAZN 1 HD">
     <title>Titan World Series 2025: El propósito</title>
@@ -8654,6 +9687,13 @@
 · El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
 · País: España</desc>
 	</programme>
+  <programme start="20260503001500 +0200" stop="20260503003500 +0200" channel="DAZN 1 HD">
+    <title>Código MotoGP T2026 · España</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+	</programme>
   <programme start="20260430220000 +0200" stop="20260501020000 +0200" channel="DAZN 2 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
@@ -8737,12 +9777,6 @@
   <programme start="20260502220000 +0200" stop="20260503020000 +0200" channel="DAZN 2 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260430200900 +0200" stop="20260430233900 +0200" channel="Eurosport 1 HD">
-    <title>DIRECTO Semifinales - Sesión 2 T25/26 · Mundial de snooker</title>
-    <desc>Deportes,Snooker | 2026 | TP | *6.0/10
-· El Mundial, el torneo profesional más importante en términos de puntos y de ranking, pone el colofón a la temporada de snooker. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2025, el vencedor fue Zhao Xintong.
-· País: Reino Unido</desc>
 	</programme>
   <programme start="20260430233900 +0200" stop="20260501004000 +0200" channel="Eurosport 1 HD">
     <title>Semifinales - Sesión 1 T25/26 · Mundial de snooker</title>
@@ -8923,12 +9957,6 @@
     <desc>Deportes,Escalada deportiva | 2026 | TP | *5.6/10
 · Una competición en la que participan los mejores escaladores del planeta.
 · País: China</desc>
-	</programme>
-  <programme start="20260430230000 +0200" stop="20260501003000 +0200" channel="Eurosport 2">
-    <title>UFC Fight Night: Sterling vs Zalal T2026 · Main Card</title>
-    <desc>Deportes,Artes marciales mixtas | 2026 | +18 | *6.2/10
-· Una velada que eleva la intensidad con Sterling vs. Zalal al frente. Presión constante, velocidad explosiva y ambición pura chocan en una cartelera diseñada para el caos, donde cada asalto puede romper planes.
-· País: Estados Unidos</desc>
 	</programme>
   <programme start="20260501003000 +0200" stop="20260501023000 +0200" channel="Eurosport 2">
     <title>Maratón de Boston T2026</title>
@@ -9155,6 +10183,12 @@
     <desc>Deportes,Ciclismo | 2026 | TP | *6.8/10
 · El Tour de Romandía celebra su 79ª edición entre el 28 de abril y el 3 de mayo.
 · País: Suiza</desc>
+	</programme>
+  <programme start="20260503000000 +0200" stop="20260503010000 +0200" channel="Eurosport 2">
+    <title>Open de Australia T2026 · Femenino: Sabalenka - Rybakina</title>
+    <desc>Deportes,Tenis | 2026 | TP | *6.6/10
+· Tal y como ocurrió en 2023, Aryna Sabalenka y Elena Rybakina protagonizan la final del Open de Australia. En aquella ocasión, la de Minsk se impuso en un partido muy ajustado que se decidió en el tercer set. La representante kazaja busca revancha.
+· País: Australia</desc>
 	</programme>
   <programme start="20260430224500 +0200" stop="20260501010000 +0200" channel="GOL">
     <title>Gol T25/26 E244</title>
@@ -9613,6 +10647,11 @@
     <desc>Deportes,Programa deportes | 2026 | TP
 · El emblemático espacio futbolístico de Televisión Española muestra los goles de la jornada con los resúmenes de los partidos.</desc>
 	</programme>
+  <programme start="20260503000000 +0200" stop="20260503010000 +0200" channel="Teledeporte">
+    <title>Estudio Estadio Tiempo Extra T25/26 · Sábado 2 mayo</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Tras las jornadas de LaLiga, el espacio ofrece toda la información que deparen los partidos.</desc>
+	</programme>
   <programme start="20260430230000 +0200" stop="20260501080000 +0200" channel="M+ Liga de Campeones 4">
     <title>M+ Liga de Campeones 4</title>
     <desc>Deportes,Fútbol | *6.2/10
@@ -9631,6 +10670,10 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260502120000 +0200" stop="20260503000000 +0200" channel="M+ Liga de Campeones 4">
+    <title>M+ Liga de Campeones 4</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260503000000 +0200" stop="20260503120000 +0200" channel="M+ Liga de Campeones 4">
     <title>M+ Liga de Campeones 4</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -9655,8 +10698,8 @@
     <title>M+ Liga de Campeones 5</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260430120000 +0200" stop="20260501000000 +0200" channel="M+ Liga de Campeones 6">
-    <title>M+ Liga de Campeones 6</title>
+  <programme start="20260503000000 +0200" stop="20260503120000 +0200" channel="M+ Liga de Campeones 5">
+    <title>M+ Liga de Campeones 5</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260501000000 +0200" stop="20260501120000 +0200" channel="M+ Liga de Campeones 6">
@@ -9675,8 +10718,8 @@
     <title>M+ Liga de Campeones 6</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260430120000 +0200" stop="20260501000000 +0200" channel="M+ Liga de Campeones 7">
-    <title>M+ Liga de Campeones 7</title>
+  <programme start="20260503000000 +0200" stop="20260503120000 +0200" channel="M+ Liga de Campeones 6">
+    <title>M+ Liga de Campeones 6</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260501000000 +0200" stop="20260501120000 +0200" channel="M+ Liga de Campeones 7">
@@ -9695,8 +10738,8 @@
     <title>M+ Liga de Campeones 7</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260430120000 +0200" stop="20260501000000 +0200" channel="M+ Liga de Campeones 9">
-    <title>M+ Liga de Campeones 9</title>
+  <programme start="20260503000000 +0200" stop="20260503120000 +0200" channel="M+ Liga de Campeones 7">
+    <title>M+ Liga de Campeones 7</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260501000000 +0200" stop="20260501120000 +0200" channel="M+ Liga de Campeones 9">
@@ -9715,8 +10758,8 @@
     <title>M+ Liga de Campeones 9</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260430120000 +0200" stop="20260501000000 +0200" channel="M+ Liga de Campeones 10">
-    <title>M+ Liga de Campeones 10</title>
+  <programme start="20260503000000 +0200" stop="20260503120000 +0200" channel="M+ Liga de Campeones 9">
+    <title>M+ Liga de Campeones 9</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260501000000 +0200" stop="20260501120000 +0200" channel="M+ Liga de Campeones 10">
@@ -9735,8 +10778,8 @@
     <title>M+ Liga de Campeones 10</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260430120000 +0200" stop="20260501000000 +0200" channel="M+ Liga de Campeones 11">
-    <title>M+ Liga de Campeones 11</title>
+  <programme start="20260503000000 +0200" stop="20260503120000 +0200" channel="M+ Liga de Campeones 10">
+    <title>M+ Liga de Campeones 10</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260501000000 +0200" stop="20260501120000 +0200" channel="M+ Liga de Campeones 11">
@@ -9755,8 +10798,8 @@
     <title>M+ Liga de Campeones 11</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260430120000 +0200" stop="20260501000000 +0200" channel="M+ LaLiga 3 HD">
-    <title>M+ LALIGA 3</title>
+  <programme start="20260503000000 +0200" stop="20260503120000 +0200" channel="M+ Liga de Campeones 11">
+    <title>M+ Liga de Campeones 11</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260501000000 +0200" stop="20260501120000 +0200" channel="M+ LaLiga 3 HD">
@@ -9786,10 +10829,6 @@
     <desc>Deportes,Fútbol | TP | *5.8/10
 · M+ LALIGA 3 -.</desc>
 	</programme>
-  <programme start="20260430120000 +0200" stop="20260501000000 +0200" channel="M+ LaLiga 4">
-    <title>M+ LALIGA 4</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
   <programme start="20260501000000 +0200" stop="20260501120000 +0200" channel="M+ LaLiga 4">
     <title>M+ LALIGA 4</title>
     <desc>· Programa por determinar...</desc>
@@ -9803,6 +10842,10 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260502120000 +0200" stop="20260503000000 +0200" channel="M+ LaLiga 4">
+    <title>M+ LALIGA 4</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260503000000 +0200" stop="20260503120000 +0200" channel="M+ LaLiga 4">
     <title>M+ LALIGA 4</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -9832,8 +10875,8 @@
     <title>M+ Deportes 4</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260430120000 +0200" stop="20260501000000 +0200" channel="M+ Deportes 5">
-    <title>M+ Deportes 5</title>
+  <programme start="20260503000000 +0200" stop="20260503120000 +0200" channel="M+ Deportes 4">
+    <title>M+ Deportes 4</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260501000000 +0200" stop="20260501120000 +0200" channel="M+ Deportes 5">
@@ -9852,8 +10895,8 @@
     <title>M+ Deportes 5</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260430120000 +0200" stop="20260501000000 +0200" channel="M+ Deportes 6">
-    <title>M+ Deportes 6</title>
+  <programme start="20260503000000 +0200" stop="20260503120000 +0200" channel="M+ Deportes 5">
+    <title>M+ Deportes 5</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260501000000 +0200" stop="20260501120000 +0200" channel="M+ Deportes 6">
@@ -9869,6 +10912,10 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260502120000 +0200" stop="20260503000000 +0200" channel="M+ Deportes 6">
+    <title>M+ Deportes 6</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260503000000 +0200" stop="20260503120000 +0200" channel="M+ Deportes 6">
     <title>M+ Deportes 6</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -9931,6 +10978,10 @@
     <desc>Deportes,Boxeo | 2026 | +18 | *6.0/10
 · Conah Walker y Sam Eggington se enfrentan en The Halls, Wolverhampton, Inglaterra.
 · País: Reino Unido</desc>
+	</programme>
+  <programme start="20260503003000 +0200" stop="20260503020000 +0200" channel="DAZN 3 HD">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260430220000 +0200" stop="20260501020000 +0200" channel="DAZN 4 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
@@ -9995,16 +11046,6 @@
   <programme start="20260502220000 +0200" stop="20260503020000 +0200" channel="DAZN 4 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260430222200 +0200" stop="20260501000000 +0200" channel="DARK">
-    <title>Holocausto caníbal</title>
-    <desc>Cine,Terror,Aventuras | 1980 | +18 | *5.7/10
-· Un equipo de reporteros formado por tres chicos y una chica ha desaparecido en la selva mientras filmaban un reportaje sobre tribus caníbales.
-· País: Italia
-· Dirección: Ruggero Deodato, Rugero Deodato.
-· Reparto: Robert Kerman, Francesca Ciardi, Perry Pirkanen, Luca Barbareschi, Salvatore Basile, Ricardo Fuentes, Gabriel Yorke, Paolo Paolini, Carl Gabriel Yorke, Paolo Paoloni, Perry Pirkamen, de Savoia.
-· Música: Riz Ortolani.
-· Producción: Franco Di Nunzio, Franco Palaggi.</desc>
 	</programme>
   <programme start="20260501000000 +0200" stop="20260501011300 +0200" channel="DARK">
     <title>Aberrance</title>
@@ -10312,18 +11353,15 @@
 · Dirección: Peter Webber.
 · Reparto: Gaspard Ulliel, Li Yong, Rhys Ifans, Richard Brake, Richard Leaf, Kevin McKidd, Dominic West, Aaran Thomas, Helena-Lia Tachovská, Li Gong, Ingeborga Dapkunaite, Brian Caspe, Stephen Walters, Charles Maquignon, Ivan Makarevich, Martin Hub, Joerg Stadler Stadler, Dominique Bettenfeld, Michèle Kaye, Gong Li.</desc>
 	</programme>
-  <programme start="20260430230400 +0200" stop="20260430233700 +0200" channel="Canal Cocina">
-    <title>Productos españoles T1 E3 · Jamón ibérico</title>
-    <desc>Documental,Otros | 2026 | TP
-· Un viaje al corazón del jamón ibérico español, desde la dehesa, un ecosistema único en Europa, hasta la mesa.
-· País: España
-· Reparto: Varios int.</desc>
-	</programme>
-  <programme start="20260430233700 +0200" stop="20260501001000 +0200" channel="Canal Cocina">
-    <title>Pueblos para comérselos T1 E20</title>
-    <desc>Documental,Viajes y aventuras | 2023 | TP
-· Divisamos buena parte de Castellón desde Morella, un pueblo cruce de caminos, cuyo producto gastronómico más preciado es el queso, pero posee una rica tradición culinaria como flaons, embutidos...
-· País: España</desc>
+  <programme start="20260503000000 +0200" stop="20260503020400 +0200" channel="DARK">
+    <title>Pandorum</title>
+    <desc>Cine,Terror,Acción,Suspense | 2009 | +18 | *6.7/10
+· Dos miembros de la tripulación de una nave espacial se despiertan en sus cámaras de hibernación sin recordar nada de lo que ha sucedido. Conforme se adentren en las zonas más profundas de la nave, descubrirán que no están solos.
+· País: Alemania, Reino Unido
+· Dirección: Christian Alvart.
+· Reparto: Dennis Quaid, Ben Foster, Cam Gigandet, Antje Traue, Cung Le, Eddie Rouse, Norman Reedus.
+· Música: Michl Britsch.
+· Producción: Paul W.S. Anderson, Jeremy Bolt, Robert Kulzer.</desc>
 	</programme>
   <programme start="20260501001000 +0200" stop="20260501010700 +0200" channel="Canal Cocina">
     <title>Me voy a comer el mundo T2 E23 · Marrakech</title>
@@ -10915,6 +11953,21 @@
 · País: España
 · Reparto: Verónica Zumalacárregui.</desc>
 	</programme>
+  <programme start="20260503000000 +0200" stop="20260503003000 +0200" channel="Canal Cocina">
+    <title>Productos españoles T1 E1 · Azafrán</title>
+    <desc>Documental,Otros | 2025 | TP
+· El programa propone un viaje al origen y a las características únicas del azafrán español, una de las especias más valiosas del mundo, conocida como el oro rojo.
+· País: España
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260503003000 +0200" stop="20260503010100 +0200" channel="Canal Cocina">
+    <title>Unidos por la comida T1 E1</title>
+    <desc>Programa,Estilo de vida,Cocina | 2024 | TP
+· Visitamos Colindres, Valdepeñas de Jaén y Asturias, descubriendo recetas únicas como la "pipirrana" y el Queso Gamoneu en sus lugares tradicionales.
+· País: España
+· Dirección: Pepe Marín.
+· Reparto: Varios int.</desc>
+	</programme>
   <programme start="20260430200000 +0200" stop="20260501010000 +0200" channel="Tennis Channel">
     <title>ATP Challenger Aix En Provence T2026 E3 · Primeras rondas</title>
     <desc>Deportes,Tenis | 2026 | TP
@@ -11005,6 +12058,12 @@
 · País: Francia</desc>
 	</programme>
   <programme start="20260502230000 +0200" stop="20260503000000 +0200" channel="Tennis Channel">
+    <title>ATP Challenger Aix En Provence T2026 E5 · Semifinal individual y dobles</title>
+    <desc>Deportes,Tenis | 2026 | TP
+· Acción del ATP Challenger de Aix En Provence.
+· País: Francia</desc>
+	</programme>
+  <programme start="20260503000000 +0200" stop="20260503050000 +0200" channel="Tennis Channel">
     <title>ATP Challenger Aix En Provence T2026 E5 · Semifinal individual y dobles</title>
     <desc>Deportes,Tenis | 2026 | TP
 · Acción del ATP Challenger de Aix En Provence.
@@ -11338,270 +12397,6 @@
     <desc>Toros | +16
 · Toros de Juan Luis Fraile y Valdellán Paco Ramos, Damián Castaño y Luis Gerpe.</desc>
 	</programme>
-  <programme start="20260430210000 +0000" stop="20260430215000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>The Xtra</title>
-    <desc>Sports related,Soccer
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260430215000 +0000" stop="20260430235500 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Copa Sudamericana Soccer</title>
-    <desc>Sports event,Soccer
-· Carabobo FC vs. Blooming.</desc>
-	</programme>
-  <programme start="20260430235500 +0000" stop="20260501015500 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Fútbol CONMEBOL Copa Libertadores</title>
-    <desc>Sports event,Soccer
-· Corinthians vs. Peñarol.</desc>
-	</programme>
-  <programme start="20260501015500 +0000" stop="20260501040000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Copa Sudamericana Soccer</title>
-    <desc>Sports event,Soccer
-· Alianza Atlético vs. Macará.</desc>
-	</programme>
-  <programme start="20260501040000 +0000" stop="20260501045000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>The Xtra</title>
-    <desc>Sports related,Soccer
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260501045000 +0000" stop="20260501050000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Best of beIN</title>
-    <desc>Sports related
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260501050000 +0000" stop="20260501053000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>FIBA 3x3 Basketball World Tour</title>
-    <desc>Sports event,3x3 basketball
-· Debrecen, Semifinal.</desc>
-	</programme>
-  <programme start="20260501053000 +0000" stop="20260501060000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>FIBA 3x3 Basketball World Tour</title>
-    <desc>Sports event,3x3 basketball
-· Debrecen, Semifinal.</desc>
-	</programme>
-  <programme start="20260501060000 +0000" stop="20260501080000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Premier Padel</title>
-    <desc>Sports event,Racquet
-· Bruselas P2: Final femenina.</desc>
-	</programme>
-  <programme start="20260501080000 +0000" stop="20260501090000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 60</title>
-    <desc>Sports related,Soccer
-· Copa Libertadores 1998: River vs. Vasco da Gama.</desc>
-	</programme>
-  <programme start="20260501090000 +0000" stop="20260501100000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Pro Footvolley Tour</title>
-    <desc>Sports related,Footvolley
-· Episodio 17: Miami Beach World Open 2025.</desc>
-	</programme>
-  <programme start="20260501100000 +0000" stop="20260501103000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 30</title>
-    <desc>Sports related,Soccer
-· Ligue 1 2025-26: Lorient vs. Strasbourg.</desc>
-	</programme>
-  <programme start="20260501103000 +0000" stop="20260501110000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 30</title>
-    <desc>Sports related,Soccer
-· Ligue 1 2025-26: Paris FC vs. Lille.</desc>
-	</programme>
-  <programme start="20260501110000 +0000" stop="20260501130000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Premier Padel</title>
-    <desc>Sports event,Racquet
-· Bruselas P2: Final masculina.</desc>
-	</programme>
-  <programme start="20260501130000 +0000" stop="20260501135000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>The Xtra</title>
-    <desc>Sports related,Soccer
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260501135000 +0000" stop="20260501140000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Best of beIN</title>
-    <desc>Sports related
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260501140000 +0000" stop="20260501150000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 60</title>
-    <desc>Sports related,Soccer
-· Copa Libertadores 2000: Boca vs. River.</desc>
-	</programme>
-  <programme start="20260501150000 +0000" stop="20260501152500 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>This is Paris</title>
-    <desc>Sports talk,Soccer
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260501152500 +0000" stop="20260501173000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Fútbol Polaco Primera División</title>
-    <desc>Sports event,Soccer
-· Korona Kielce vs. Piast Gliwice.</desc>
-	</programme>
-  <programme start="20260501173000 +0000" stop="20260501180000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Ligue 1 - Highlight Show</title>
-    <desc>Sports related,Sports talk
-· Match Day 31.</desc>
-	</programme>
-  <programme start="20260501180000 +0000" stop="20260501182500 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>This is Paris</title>
-    <desc>Sports talk,Soccer
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260501182500 +0000" stop="20260501203000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Fútbol Polaco Primera División</title>
-    <desc>Sports event,Soccer
-· Legia de Varsovia vs. Widzew Lódz.</desc>
-	</programme>
-  <programme start="20260501203000 +0000" stop="20260501204500 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Best of beIN</title>
-    <desc>Sports related
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260501204500 +0000" stop="20260501214500 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>The Xtra</title>
-    <desc>Sports related,Soccer
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260501214500 +0000" stop="20260501220000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Best of beIN</title>
-    <desc>Sports related
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260501220000 +0000" stop="20260501223000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 30</title>
-    <desc>Sports related,Soccer
-· Ligue 1 2025-26: Marseille vs. Nice.</desc>
-	</programme>
-  <programme start="20260501223000 +0000" stop="20260501230000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 30</title>
-    <desc>Sports related,Soccer
-· Ligue 1 2025-26: Paris FC vs. Lille.</desc>
-	</programme>
-  <programme start="20260501230000 +0000" stop="20260502010000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Fútbol CONMEBOL Copa Libertadores</title>
-    <desc>Sports event,Soccer
-· Lanús vs. LDU de Quito.</desc>
-	</programme>
-  <programme start="20260502010000 +0000" stop="20260502013000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>The Knockout Room</title>
-    <desc>Boxing,Martial arts
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260502013000 +0000" stop="20260502020000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Los mejores goles</title>
-    <desc>Soccer,Sports related
-· Historia.</desc>
-	</programme>
-  <programme start="20260502020000 +0000" stop="20260502023000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Ligue 1 - Highlight Show</title>
-    <desc>Sports related,Sports talk
-· Match Day 31.</desc>
-	</programme>
-  <programme start="20260502023000 +0000" stop="20260502030000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>This is Paris</title>
-    <desc>Sports talk,Soccer
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260502030000 +0000" stop="20260502033000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 30</title>
-    <desc>Sports related,Soccer
-· Ligue 1 2025-26: Lorient vs. Strasbourg.</desc>
-	</programme>
-  <programme start="20260502033000 +0000" stop="20260502040000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 30</title>
-    <desc>Sports related,Soccer
-· Ligue 1 2025-26: Marseille vs. Nice.</desc>
-	</programme>
-  <programme start="20260502040000 +0000" stop="20260502050000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>The Xtra</title>
-    <desc>Sports related,Soccer
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260502050000 +0000" stop="20260502053000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>FIBA 3x3 Basketball World Tour</title>
-    <desc>Sports event,3x3 basketball
-· Debrecen, Semifinal.</desc>
-	</programme>
-  <programme start="20260502053000 +0000" stop="20260502060000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>FIBA 3x3 Basketball World Tour</title>
-    <desc>Sports event,3x3 basketball
-· Debrecen, Final.</desc>
-	</programme>
-  <programme start="20260502060000 +0000" stop="20260502080000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Premier Padel</title>
-    <desc>Sports event,Racquet
-· Bruselas P2: Final masculina.</desc>
-	</programme>
-  <programme start="20260502080000 +0000" stop="20260502090000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>90 in 60</title>
-    <desc>Sports related,Soccer
-· Copa Libertadores 2000: Boca vs. River.</desc>
-	</programme>
-  <programme start="20260502090000 +0000" stop="20260502100000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Pro Footvolley Tour</title>
-    <desc>Sports related,Footvolley
-· Episodio 18: Miami Beach World Open 2025.</desc>
-	</programme>
-  <programme start="20260502100000 +0000" stop="20260502110000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>The Xtra</title>
-    <desc>Sports related,Soccer
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260502110000 +0000" stop="20260502130000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Premier Padel</title>
-    <desc>Sports event,Racquet
-· Gijón, final femenina.</desc>
-	</programme>
-  <programme start="20260502130000 +0000" stop="20260502150000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Fútbol Ligue 1</title>
-    <desc>Sports event,Soccer
-· Paris Saint-Germain vs. FC Metz.</desc>
-	</programme>
-  <programme start="20260502150000 +0000" stop="20260502163000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>SailGP</title>
-    <desc>Sports event,Sailing
-· Auckland: Día 1.</desc>
-	</programme>
-  <programme start="20260502163000 +0000" stop="20260502170000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>The Knockout Room</title>
-    <desc>Boxing,Martial arts
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260502170000 +0000" stop="20260502173000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Ligue 1 - Highlight Show</title>
-    <desc>Sports related,Sports talk
-· Match Day 28.</desc>
-	</programme>
-  <programme start="20260502173000 +0000" stop="20260502180000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Ligue 1 - Highlight Show</title>
-    <desc>Sports related,Sports talk
-· Match Day 29.</desc>
-	</programme>
-  <programme start="20260502180000 +0000" stop="20260502181000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Best of beIN</title>
-    <desc>Sports related
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260502181000 +0000" stop="20260502201500 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Fútbol Polaco Primera División</title>
-    <desc>Sports event,Soccer
-· Motor Lublin vs. Lech Poznan.</desc>
-	</programme>
-  <programme start="20260502201500 +0000" stop="20260502203000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Best of beIN</title>
-    <desc>Sports related
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260502203000 +0000" stop="20260502210000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>This is Paris</title>
-    <desc>Sports talk,Soccer
-· Sin detalles...</desc>
-	</programme>
-  <programme start="20260502210000 +0000" stop="20260502230000 +0000" channel="beIN SPORTS XTRA ñ">
-    <title>Fútbol CONMEBOL Copa Libertadores</title>
-    <desc>Sports event,Soccer
-· Cruzeiro vs. Boca Juniors.</desc>
-	</programme>
-  <programme start="20260430230000 +0200" stop="20260501000000 +0200" channel="ESPN">
-    <title>Equipo F Centroamérica</title>
-    <desc>· Sin detalles...</desc>
-	</programme>
   <programme start="20260501000000 +0200" stop="20260501010000 +0200" channel="ESPN">
     <title>SportsCenter</title>
     <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
@@ -11869,16 +12664,6 @@
   <programme start="20260502000000 +0200" stop="20260502020000 +0200" channel="ESPN 4">
     <title>College Softball · Oklahoma vs. Texas A&amp;M, Regular Season, Davis Diamond, College Station, TX, USA</title>
     <desc>· Sin detalles...</desc>
-	</programme>
-  <programme start="20260430213000 +0000" stop="20260430214500 +0000" channel="PT | DAZN 1">
-    <title>Resumos DAZN T1 · UEFA Europa League - SC Braga x Freiburg</title>
-    <desc>Magazine de desporto,Desporto | 2026 | +12
-· Não percas os momentos mais importantes das competições com transmissão na DAZN.</desc>
-	</programme>
-  <programme start="20260430214500 +0000" stop="20260430220000 +0000" channel="PT | DAZN 1">
-    <title>Resumos DAZN T1 · UEFA Champions League - PSG x Bayern</title>
-    <desc>Magazine de desporto,Desporto | 2026 | +12
-· Não percas os momentos mais importantes das competições com transmissão na DAZN.</desc>
 	</programme>
   <programme start="20260430220000 +0000" stop="20260430230000 +0000" channel="PT | DAZN 1">
     <title>Bundesliga T1 E31 · RD31</title>
@@ -12265,6 +13050,12 @@
     <desc>Futebol,Desporto | 2026 | +12
 · Assista ao jogo da Premier League Arsenal x Fulham.
 · País: Reino Unido</desc>
+	</programme>
+  <programme start="20260502223000 +0000" stop="20260502230000 +0000" channel="PT | DAZN 2">
+    <title>LaLiga Talking Football T1 E2 · Raul García</title>
+    <desc>Magazine de desporto,Desporto | 2026 | +12
+· À conversa com um dos jogadores com mais jogos na LaLiga - Raul García Escudero.
+· País: España</desc>
 	</programme>
   <programme start="20260430210000 +0000" stop="20260430230000 +0000" channel="PT | DAZN 3">
     <title>PSV x Zwolle T1 · PSV x Zwolle</title>
@@ -12719,10 +13510,10 @@
     <desc>Magazine de desporto,Desporto | 2026 | +12
 · Assiste ao DAZN F1.</desc>
 	</programme>
-  <programme start="20260430212414 +0000" stop="20260430215029 +0000" channel="DE | Rally TV">
-    <title>Full Event Highlights - 43rd Andalusia Rally-Sierra Morena 2026</title>
-    <desc>Sports
-· What a first ERC event in the sunny south of Spain. Relive all the action and drama of the ERC season start now.</desc>
+  <programme start="20260502220000 +0000" stop="20260503020000 +0000" channel="PT | DAZN 5">
+    <title>Sem Emissão T1 · sáb 2-mai, 23:00</title>
+    <desc>Estilo de vida | +12
+· O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a DAZN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.</desc>
 	</programme>
   <programme start="20260430215029 +0000" stop="20260430224254 +0000" channel="DE | Rally TV">
     <title>Full Event Highlights - Croatia Rally 2026</title>
@@ -12976,20 +13767,9 @@
     <title>SS9 Full Stage Replay - Rally Islas Canarias 2026</title>
     <desc>Sports</desc>
 	</programme>
-  <programme start="20260430180000 +0000" stop="20260430214500 +0000" channel="UK | TNT Sports 1">
-    <title>Live UEFA Europa League T2025 E190 · Nottingham Forest v Aston Villa</title>
-    <desc>Football - Club,Sports
-· Nottingham Forest v Aston Villa (Kick-off 8.00pm). Coverage of the semi-final first-leg match at The City Ground.</desc>
-	</programme>
-  <programme start="20260430214500 +0000" stop="20260430221500 +0000" channel="UK | TNT Sports 1">
-    <title>UEFA Europa &amp; Conference League Highlights T2025 E17 · Semi Finals-1st Leg</title>
-    <desc>Football - Club,Sports
-· Action from the latest semi-final first-leg ties.</desc>
-	</programme>
-  <programme start="20260430221500 +0000" stop="20260430223000 +0000" channel="UK | TNT Sports 1">
-    <title>No Filter Football T2024 E24 · Atletico Madrid v Arsenal-UCL Semi Final</title>
-    <desc>Football,Sports
-· A behind-the-scenes look at Atletico Madrid v Arsenal.</desc>
+  <programme start="20260502221319 +0000" stop="20260502231208 +0000" channel="DE | Rally TV">
+    <title>SS10 Full Stage Replay - Rally Islas Canarias 2026</title>
+    <desc>Sports</desc>
 	</programme>
   <programme start="20260430223000 +0000" stop="20260430233000 +0000" channel="UK | TNT Sports 1">
     <title>MLB Highlights T2026 E34</title>
@@ -13199,10 +13979,10 @@
     <desc>Football - Club,Sports
 · Orlando Pride v Washington Spirit (Kick-off 9.00pm). Coverage of the National Women's Soccer League match from Inter\u0026Co Stadium.</desc>
 	</programme>
-  <programme start="20260430213000 +0000" stop="20260430220000 +0000" channel="UK | TNT Sports 2">
-    <title>Serie A - Full Impact T2025 E34 · Matchday 34</title>
+  <programme start="20260502221500 +0000" stop="20260502224500 +0000" channel="UK | TNT Sports 1">
+    <title>UEFA Champions League Magazine T2025 E31</title>
     <desc>Football - Club,Sports
-· All the best moments from matchday 34 of the Italian top flight, including AC Milan v Juventus, Napoli v Cremonese, Bologna v AS Roma, and Torino v Inter Milan.</desc>
+· The latest news and updates from Europe's premier club football competition.</desc>
 	</programme>
   <programme start="20260430220000 +0000" stop="20260430234500 +0000" channel="UK | TNT Sports 2">
     <title>Football Is for Everyone: With Michael Owen T2023 E30</title>
@@ -13469,11 +14249,6 @@
     <desc>Martial Sports,Sports
 · Jack Della Maddalena v Carlos Prates. Action from the welterweight bout at RAC Arena in Perth, Australia, plus the undercard for UFC Fight Night 275.</desc>
 	</programme>
-  <programme start="20260430210000 +0000" stop="20260430220000 +0000" channel="UK | TNT Sports 3">
-    <title>Men's Cycling Pro Series T2026 E92 · Tour of Turkiye-Stage 5</title>
-    <desc>Cycling,Sports
-· Action from stage five of the Tour of Turkiye.</desc>
-	</programme>
   <programme start="20260430220000 +0000" stop="20260430230000 +0000" channel="UK | TNT Sports 3">
     <title>Men's Cycling World Tour T2026 E63 · Tour of Romandie-Stage 2</title>
     <desc>Cycling,Sports
@@ -13644,15 +14419,10 @@
     <desc>Cycling,Sports
 · Action from stage seven of the Tour of Turkiye.</desc>
 	</programme>
-  <programme start="20260430200000 +0000" stop="20260430220000 +0000" channel="UK | Premier Sports 1">
-    <title>United Rugby Championship T2025 E126 · Munster v Ulster</title>
-    <desc>Rugby Union - Domestic,Sports
-· Munster v Ulster.</desc>
-	</programme>
-  <programme start="20260430220000 +0000" stop="20260430223000 +0000" channel="UK | Premier Sports 1">
-    <title>World of FreeSports T2025 E42</title>
-    <desc>Sports
-· Showcasing the world of action and outdoor sports from around the globe.</desc>
+  <programme start="20260502220000 +0000" stop="20260502230000 +0000" channel="UK | TNT Sports 3">
+    <title>Men's Cycling World Tour T2026 E65 · Tour of Romandie-Stage 4</title>
+    <desc>Cycling,Sports
+· Action from stage four of the Tour of Romandie.</desc>
 	</programme>
   <programme start="20260430223000 +0000" stop="20260430230000 +0000" channel="UK | Premier Sports 1">
     <title>Sporting Greats T2022 E8 · Sporting Greats 8</title>
@@ -13853,6 +14623,11 @@
     <title>Champions Cup T2025 E71 · Leinster v Toulon</title>
     <desc>Rugby Union - Domestic,Sports
 · Leinster v Toulon.</desc>
+	</programme>
+  <programme start="20260502223000 +0000" stop="20260502230000 +0000" channel="UK | Premier Sports 1">
+    <title>NHL: This is Hockey T2024 E4 · This is Hockey: Puerto Rico</title>
+    <desc>Ice Hockey,Sports
+· A look at the growth of ice hockey in Puerto Rico.</desc>
 	</programme>
   <programme start="20260430213000 +0000" stop="20260430233000 +0000" channel="UK | Premier Sports 2">
     <title>Coppa Italia T2025 E39 · Inter v Como</title>
