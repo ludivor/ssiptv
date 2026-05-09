@@ -495,6 +495,17 @@
 		<display-name>M+ Deportes 6 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png"/>
 	</channel>
+  <channel id="M+ Deportes 7">
+		<display-name>M+ Deportes 7</display-name>
+		<display-name>M+ Deportes 7.TV</display-name>
+		<display-name>M+ Deportes 7 SD</display-name>
+		<display-name>M+ Deportes 7 HD</display-name>
+		<display-name>M+ Deportes 7 FHD</display-name>
+		<display-name>M+ Deportes 7 UHD</display-name>
+		<display-name>M+ Deportes 7 720</display-name>
+		<display-name>M+ Deportes 7 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png"/>
+	</channel>
   <channel id="DAZN 3 HD">
 		<display-name>DAZN 3</display-name>
 		<display-name>DAZN 3.TV</display-name>
@@ -1231,6 +1242,13 @@
     <desc>Documentales,Naturaleza | 2024 | +7 | *6.0/10
 · Ser valiente y audaz en la naturaleza puede ser muy útil a la hora de aprender sobre los enemigos, las presas o nuevas formas de subsistir en un entorno cambiante y hostil.</desc>
 	</programme>
+  <programme start="20260511174000 +0200" stop="20260511194000 +0200" channel="La 2">
+    <title>Malas lenguas T2 E165</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
+· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+	</programme>
   <programme start="20260509172000 +0200" stop="20260509200000 +0200" channel="Cuatro HD">
     <title>Duplicity</title>
     <desc>Cine,Thriller | 2009 | +7 | *6.6/10
@@ -1860,18 +1878,6 @@
 · Reparto: Bjørn Sundquist, Andrea Berntzen, Håvard Bakke, Eldar Skar, Elias Holmen Sørensen, Fridtjov Såheim, Jon Øigarden, Terje Strømdahl, Axel Bøyum, Jonas Hoff Oftebro, Robert Skjærstad, Mads Ousdal, Torbjørn Aamodt.
 · Guion: Axel Hellstenius.</desc>
 	</programme>
-  <programme start="20260509154400 +0200" stop="20260509173200 +0200" channel="M+ Hits HD">
-    <title>Juegos salvajes - Wild Things</title>
-    <desc>Cine,Thriller | 1998 | +18 | *6.6/10
-· Sam, un consejero universitario, es despedido tras ser acusado de violación por una alumna. La madre de la chica contrata a una legión de abogados para que hundan a Sam, pero el letrado del joven profesor deja en evidencia a todos los testigos.
-· País: Estados Unidos
-· Dirección: John McNaughton.
-· Reparto: Kevin Bacon, Matt Dillon, Neve Campbell, Denise Richards, Daphne Rubin-Vega, Bill Murray, Theresa Russell.
-· Guion: Stephen Peters.
-· Música: George S Clinton.
-· Producción: Steven A. Jones, Rodnay Liber, Rodney M Liber.
-· Productora: Tri Pictures, Mandalay Entertainment.</desc>
-	</programme>
   <programme start="20260509173200 +0200" stop="20260509193200 +0200" channel="M+ Hits HD">
     <title>Valkiria</title>
     <desc>Cine,Histórico | 2008 | +12 | *7.2/10
@@ -2166,16 +2172,24 @@
 · Producción: Alfonso Cuarón, David Heyman.
 · Productora: Warner Bros. Pictures, Esperanto Filmoj, Heyday Films, Warner Bros.</desc>
 	</programme>
-  <programme start="20260509172200 +0200" stop="20260509181400 +0200" channel="M+ Originales HD">
-    <title>Velvet Colección T2 E5 · Cuando menos te lo esperas</title>
-    <desc>Series,Drama | 2018 | +12 | *6.6/10
-· El equipo de Velvet regresa con más energía que nunca, especialmente ahora que acaban de recibir un encargo excepcional: la realización del vestido de coronación como emperatriz de la reina Farah Diba.
+  <programme start="20260511173800 +0200" stop="20260511175900 +0200" channel="M+ Hits HD">
+    <title>Al encuentro de T1 · Javier Cámara</title>
+    <desc>Cine,Programa de cine | 2026 | +7 | *6.0/10
+· Javier Cámara y Cristina Teva se encuentran para tener una charla distendida sobre la carrera del actor, que eventualmente dirige algún capítulo de las series que protagoniza. Repasan con simpáticas anécdotas los recuerdos de sus vivencias.
 · País: España
-· Dirección: Gustavo Ron, Jorge Torregrossa.
-· Reparto: Marta Hazas, Asier Exteandia, Adrián Lastra, Diego Martín, Fernando Guallar, Llorenç González.
-· Guion: Carlos Portela, Verónica Fernández.
-· Música: Lucio Godoy.
-· Productora: Bambú Producciones, Movistar+.</desc>
+· Presenta: Cristina Teva.</desc>
+	</programme>
+  <programme start="20260511175900 +0200" stop="20260511195100 +0200" channel="M+ Hits HD">
+    <title>Baby Driver</title>
+    <desc>Cine,Acción | 2017 | +16 | *7.6/10
+· Para saldar su deuda con un mafioso, un joven con problemas de audición hace de conductor en atracos. Cuando por fin cree que se ha librado de su compromiso y pretende rehacer su vida, es obligado a retornar para un último golpe.
+· País: Estados Unidos y Reino Unido
+· Dirección: Edgar Wright.
+· Reparto: Ansel Elgort, Jon Hamm, Jamie Foxx, Kevin Spacey, Lily James, Eiza González, Jon Bernthal.
+· Guion: Edgar Wright.
+· Música: Steven Price.
+· Producción: Tim Bevan, Eric Fellner, Nira Park.
+· Productora: TriStar Pictures, Media Rights Capital, Double Negative, Big Talk Productions, Working Title Films.</desc>
 	</programme>
   <programme start="20260509181400 +0200" stop="20260509200400 +0200" channel="M+ Originales HD">
     <title>Sirat</title>
@@ -2655,12 +2669,12 @@
 · Producción: Isabel Guerrero Martínez.
 · Productora: El Terrat, Movistar+.</desc>
 	</programme>
-  <programme start="20260509170500 +0200" stop="20260509175000 +0200" channel="M+ Documentales HD">
-    <title>Todo sobre Roland-Garros E1</title>
-    <desc>Documentales,Deportes | 2026 | TP | *6.0/10
-· Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.
-· País: Francia
-· Dirección: Julien Bossenie.</desc>
+  <programme start="20260511174800 +0200" stop="20260511184000 +0200" channel="M+ Originales HD">
+    <title>La Chaparra E1</title>
+    <desc>Documentales,Sociedad | 2025 | +18 | *6.4/10
+· Para los niños Sara y Gabriel, criados en la secta La Chaparra, todo resulta mágico. Pero su comunidad ocultaba una red de control, silencio y abusos que fue desmoronándose hasta revelar una verdad estremecedora disfrazada de espiritualidad y armonía.
+· País: España
+· Dirección: Elena Molina.</desc>
 	</programme>
   <programme start="20260509175000 +0200" stop="20260509183800 +0200" channel="M+ Documentales HD">
     <title>Todo sobre Roland-Garros E2</title>
@@ -3011,17 +3025,13 @@
 · Dirección: Andy Webb.
 · Producción: Tom Adams, Dan Chambers.</desc>
 	</programme>
-  <programme start="20260509155200 +0200" stop="20260509174300 +0200" channel="M+ Acción HD">
-    <title>Mirada asesina</title>
-    <desc>Cine,Thriller | 2025 | +16 | *6.2/10
-· En 1859, una esclava recién liberada cree que su misteriosa hija caucásica está poseída debido a que todo lo que toca se muere y convence a un médico viudo para que las lleve de viaje en busca de un lejano curandero.
+  <programme start="20260511174300 +0200" stop="20260511183400 +0200" channel="M+ Documentales HD">
+    <title>Chernóbil desclasificado: Lluvia radioactiva</title>
+    <desc>Documentales,Actualidad | 2022 | +7 | *6.4/10
+· Este episodio muestra hasta dónde estaban dispuestos a llegar los líderes soviéticos para encubrir el desastre de Chernóbil. Muchos trabajadores de la planta fueron obligados a guardar silencio sobre la radiación venenosa durante casi tres días.
 · País: Estados Unidos
-· Dirección: Ned Crowley.
-· Reparto: Guy Pearce, DeWanda Wise, Bill Pullman, Raoul Max Trujillo, Jamie Neumann, Jack Alcott, Joanna Cassidy, Josh McDermitt, Charlie Talbert, Andrew J. West, Gail Cronauer, James Cady, Courtenay Taylor.
-· Guion: Ned Crowley, David Henri Martin.
-· Música: Brooke Blair, Will Blair.
-· Producción: Zori Davidkova.
-· Productora: Choice Films, Film Bridge International, BondIt Media Capital.</desc>
+· Dirección: Andy Webb.
+· Producción: Tom Adams, Dan Chambers.</desc>
 	</programme>
   <programme start="20260509174300 +0200" stop="20260509193900 +0200" channel="M+ Acción HD">
     <title>28 años después</title>
@@ -3331,18 +3341,6 @@
 · Guion: Severin Fiala.
 · Música: Danny Bensi.
 · Productora: FilmNation Entertainment.</desc>
-	</programme>
-  <programme start="20260509155600 +0200" stop="20260509173500 +0200" channel="M+ Cine Español">
-    <title>¿Quién es quién?</title>
-    <desc>Cine,Comedia | 2024 | +7 | *6.2/10
-· Los Fuentes salta por los aires el día que la benjamina del grupo, Valentina, pide un deseo por su noveno cumpleaños y al día siguiente los cuerpos de toda la familia se han intercambiado y el caos se ha apoderado de la familia. Ahora: ¿quién es quién?
-· País: España
-· Dirección: Hugo Martín Cuervo, Martín Cuervo.
-· Reparto: Kira Miró, Gracia Olayo, Sofía Otero, Salva Reina, Carlos Areces, Gonzalo de Castro, Terelu Campos, Ana Jara, Elena Irureta, Carlos Iglesias.
-· Guion: Irene Niubó.
-· Música: Iván Valdés.
-· Producción: Jaime Ortiz de Artiñano, Gonzalo Salazar-Simpson.
-· Productora: Bruja del Este Films, Atresmedia Cine, DeA Planeta Home Entertainment.</desc>
 	</programme>
   <programme start="20260509173500 +0200" stop="20260509190500 +0200" channel="M+ Cine Español">
     <title>Los Muértimer</title>
@@ -3687,6 +3685,18 @@
 · Música: Zacarías M. de la Riva, Alfred Tapscott.
 · Producción: Mercedes Gamero, Mikel Lejarza.
 · Productora: Atresmedia Cine, Álamo Producciones Audiovisuales.</desc>
+	</programme>
+  <programme start="20260511182100 +0200" stop="20260511201100 +0200" channel="M+ Cine Español">
+    <title>El otro lado de la cama</title>
+    <desc>Cine,Comedia | 2002 | +16 | *6.2/10
+· Sonia y Javier llevan varios años viviendo juntos y varios más siendo novios, pero Javier comienza una relación secreta con Paula, la novia de su mejor amigo.
+· País: España
+· Dirección: Emilio Martínez-Lázaro.
+· Reparto: Ernesto Alterio, Paz Vega, Willy Toledo, Natalia Verbeke, Alberto San Juan, María Esteve, Secun de la Rosa, Ramón Barea, Nathalie Poza.
+· Guion: David Serrano.
+· Música: Roque Baños.
+· Producción: Tomás Cimadevilla, José Antonio Sáinz de Vicuña.
+· Productora: Telespan 2000, Impala, S.A, Vía Digital, Tele 5.</desc>
 	</programme>
   <programme start="20260509172000 +0200" stop="20260509185100 +0200" channel="Comedy Central HD">
     <title>Shrek 2</title>
@@ -4364,16 +4374,21 @@
 · País: Japón
 · Productora: Shin Ei Animation.</desc>
 	</programme>
-  <programme start="20260509161000 +0200" stop="20260509181300 +0200" channel="Calle 13 HD">
-    <title>Sahara</title>
-    <desc>Cine,Aventuras | 2005 | TP | *6.4/10
-· Un aventurero mercenario descubre una legendaria moneda que lo obliga a emprender la búsqueda de un tesoro a través de África.
-· País: Alemania, Estados Unidos, España y Reino Unido
-· Dirección: Breck Eisner.
-· Reparto: Matthew McConaughey, Penélope Cruz, Steve Zahn, William H. Macy, Rainn Wilson, Lambert Wilson, Lennie James.
-· Guion: Thomas Dean Donnelly, James V. Hart.
-· Música: Clint Mansell.
-· Productora: Bristol Bay Productions.</desc>
+  <programme start="20260511174600 +0200" stop="20260511181000 +0200" channel="Comedy Central HD">
+    <title>Brooklyn Nine-Nine T5 E7 · Dos pavos</title>
+    <desc>Series,Comedia | 2017 | +12 | *6.0/10
+· Jake y Amy intentan reunir a sus padres durante Acción de Gracias.
+· País: Estados Unidos
+· Dirección: Pamela Fryman, Robert Greenberg, Linda Mendoza, Michael McDonald.
+· Reparto: Andre Braugher, Terry Crews, Joel McKinnon Miller, Andy Samberg, Stephanie Beatriz, Melissa Fumero, Joe Lo Truglio, Dirk Blocker, Chelsea Peretti.</desc>
+	</programme>
+  <programme start="20260511181000 +0200" stop="20260511183800 +0200" channel="Comedy Central HD">
+    <title>Brooklyn Nine-Nine T5 E8 · Regreso a Skyfire</title>
+    <desc>Series,Comedia | 2017 | +12 | *6.0/10
+· El equipo se infiltra en una convención de ciencia ficción para investigar el robo de un manuscrito.
+· País: Estados Unidos
+· Dirección: Pamela Fryman, Robert Greenberg, Linda Mendoza, Michael McDonald.
+· Reparto: Andre Braugher, Terry Crews, Joel McKinnon Miller, Andy Samberg, Stephanie Beatriz, Melissa Fumero, Joe Lo Truglio, Dirk Blocker, Chelsea Peretti.</desc>
 	</programme>
   <programme start="20260509181300 +0200" stop="20260509200300 +0200" channel="Calle 13 HD">
     <title>Lágrimas del sol</title>
@@ -4784,11 +4799,21 @@
 · Producción: Luc Besson, Claude Léger, Jonathan Vanger.
 · Productora: Brick Mansions Productions Inc, Europacorp, Canal+.</desc>
 	</programme>
-  <programme start="20260509172000 +0200" stop="20260509180000 +0200" channel="Caza y Pesca HD">
-    <title>Pescasub entre torres</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2025 | TP | *6.0/10
-· En el corazón de la Costa del Sol, entre las antiguas torres vigías de Fuengirola, se desarrolla una apasionante jornada de pesca submarina. Alberto Tudela, pescador experimentado, nos guía por estas aguas cristalinas.
-· País: España</desc>
+  <programme start="20260511173400 +0200" stop="20260511182800 +0200" channel="Calle 13 HD">
+    <title>CSI: Miami T9 E19 · Enjaulados</title>
+    <desc>Series,Policíaca | 2011 | +12 | *6.2/10
+· Horatio debe proteger a una persona de su propio hermano, que se ha escapado de la cárcel.
+· País: Estados Unidos
+· Reparto: David Caruso, Emily Procter, Adam Rodriguez, Rex Linn, Jonathan Togo, Eva La Rue, Eddie Cibrian, Omar Benson Miller.
+· Productora: Jerry Bruckheimer Films, CBS Productions.</desc>
+	</programme>
+  <programme start="20260511182800 +0200" stop="20260511192500 +0200" channel="Calle 13 HD">
+    <title>CSI: Miami T9 E20 · Píntalo de negro</title>
+    <desc>Series,Policíaca | 2011 | +12 | *6.2/10
+· El CSI descubre un cadáver en una bañera de hidromasaje. El equipo se verá envuelto en un caso marcado por los celos, la psicosis y una joven que no es lo que parece ser.
+· País: Estados Unidos
+· Reparto: David Caruso, Emily Procter, Adam Rodriguez, Rex Linn, Jonathan Togo, Eva La Rue, Eddie Cibrian, Omar Benson Miller.
+· Productora: Jerry Bruckheimer Films, CBS Productions.</desc>
 	</programme>
   <programme start="20260509180000 +0200" stop="20260509183000 +0200" channel="Caza y Pesca HD">
     <title>Jabalineros T7 · En Pravia al jabalí</title>
@@ -5335,17 +5360,17 @@
 · Un grupo de jóvenes aventureros españoles decide cruzar el Atlántico en su velero para integrarse con la tribu de los Kuna en las Islas de San Blas, Panamá donde la pesca sigue siendo la base principal de la subsistencia.
 · País: España</desc>
 	</programme>
-  <programme start="20260509171500 +0200" stop="20260509174000 +0200" channel="Disney Channel">
-    <title>Iron Man y su superequipo T1 E17 · Ultrón arruina el día de San Valentín / El superequipo y el problema en los pozos de brea</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP | *6.0/10
-· El superequipo impide que Ultrón arruine el Día de San Valentín. El trío debe salvar la exposición de mamuts cuando Enjambre y el Hombre Absorbente provocan el caos en el museo de los pozos de brea.
-· País: Estados Unidos</desc>
+  <programme start="20260511175000 +0200" stop="20260511182000 +0200" channel="Caza y Pesca HD">
+    <title>Niebla y basses</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2025 | TP | *6.0/10
+· Con cada amanecer, Juan Carlos Capilla se embarca en una aventura solitaria en busca de los escurridizos black bass. Capilla nos compartirá sus conocimientos, sobre la pesca en superficie con jerk bait a bajas temperaturas y con la niebla.
+· País: España</desc>
 	</programme>
-  <programme start="20260509174000 +0200" stop="20260509180500 +0200" channel="Disney Channel">
-    <title>La casa de Mickey Mouse+ T1 E11 · La casa de Minnie Mouse</title>
-    <desc>Infantil,Dibujos animados | 2025 | TP | *6.0/10
-· La casa de Mickey está llena y Minnie no puede usar la cocina ni las demás zonas. Entonces Mickey la sorprende con su propia casa rosa, gracias a un invento de Von Pato.
-· País: Estados Unidos</desc>
+  <programme start="20260511182000 +0200" stop="20260511185000 +0200" channel="Caza y Pesca HD">
+    <title>Max Predators Fishing T4 · Pescando en familia</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2026 | TP | *5.8/10
+· Ricardo Cascos e Isaac Vallejo recorrerán masas de agua míticas en busca de los predadores. El black bass será el protagonista y, además, visitarán estos escenarios acompañados de invitados que mostrarán diferentes técnicas y señuelos.
+· País: España</desc>
 	</programme>
   <programme start="20260509180500 +0200" stop="20260509183000 +0200" channel="Disney Channel">
     <title>Los Green en la Gran Ciudad T1 E11 · Las chicas gárgola/ Escándalo en el supermercado</title>
@@ -6489,23 +6514,21 @@
 · Cuando un falso superequipo siembra el caos, los chicos deberán limpiar su nombre. La visita artística de Visión se vuelve peligrosa cuando Ultron amenaza con hacer desaparecer el museo.
 · País: Estados Unidos</desc>
 	</programme>
-  <programme start="20260509172800 +0200" stop="20260509174700 +0200" channel="Nickelodeon HD">
-    <title>Bob Esponja Single Story T15 E43 · Inteligencia genial artificial</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | *5.8/10
-· Perca lucha por su empleo cuando es despedido y sustituido por un robot como presentador de noticias.
+  <programme start="20260511174000 +0200" stop="20260511180500 +0200" channel="Disney Channel">
+    <title>La casa de Mickey Mouse+ T1 E13 · El misterio del helado</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | *6.2/10
+· Es el Día del Helado, ¡pero falta el helado! Mickey y los Conseguidores usan sus dispositivos y Mouseherramientas para resolver el misterio y descubrir quién se lo ha llevado.
 · País: Estados Unidos
-· Dirección: Sherm Cohen, Michelle Bryan, Ian Vazquez.
-· Guion: Luke Brookshier, Andrew Goodman, Danny Giovannini, Kaz Mr. Lawrence.</desc>
+· Dirección: Broni Likomanov, Jeff Gordon.
+· Guion: Mark Drop.
+· Productora: Walt Disney Television Animation, Mikros Animation.</desc>
 	</programme>
-  <programme start="20260509174700 +0200" stop="20260509181600 +0200" channel="Nickelodeon HD">
-    <title>Bob Esponja T13 E13 · Abandonen el barco; Valhalla</title>
-    <desc>Infantil,Dibujos animados | 2020 | +7 | *6.2/10
-· La pandilla Crustáceo construye un barco al Señor Cangrejo; Bob Esponja descubre a alguien que vive en sus paredes.
+  <programme start="20260511180500 +0200" stop="20260511183000 +0200" channel="Disney Channel">
+    <title>Los Green en la Gran Ciudad T2 E20 · Silencio, por favor / Todo un desastre</title>
+    <desc>Infantil,Dibujos animados | 2019 | TP | *6.2/10
+· En la biblioteca, los Greens intentan encontrar un libro, pero una bibliotecaria atemorizante los amenaza para que hagan silencio. Chip debe evaluar si en realidad es el fracaso que Cricket dice que es.
 · País: Estados Unidos
-· Dirección: Vincent Waller, Dave Cunningham.
-· Reparto: Clancy Brown, Bill Fagerbakke, Tom Kenny, Rodger Bumpass.
-· Guion: Tim Hill, Stephen Hillenburg.
-· Productora: Nicktoons Productions, United Plankton Pictures.</desc>
+· Productora: Walt Disney Television Animation.</desc>
 	</programme>
   <programme start="20260509181600 +0200" stop="20260509184400 +0200" channel="Nickelodeon HD">
     <title>Los Thunderman: Infiltrados T2 E1 · Un verano de secretos</title>
@@ -7521,6 +7544,32 @@
 · Dirección: Colton Davis.
 · Guion: Kevin Sullivan.</desc>
 	</programme>
+  <programme start="20260511174100 +0200" stop="20260511175900 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T10 E9</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | *5.8/10
+· Lincoln vive dentro de la familia más alocada del vecindario, tiene nada más y nada menos que 10 hermanos. A este joven adolescente le encanta leer comics, ver programas de fantasmas y ciencia ficción en la televisión y jugar a los videojuegos.
+· País: Estados Unidos
+· Dirección: Jessica Borutski.
+· Guion: Adeline Colangelo.</desc>
+	</programme>
+  <programme start="20260511175900 +0200" stop="20260511182700 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos T2 E17 · ARGGH! La caza de la verdad; Sola en el garaje</title>
+    <desc>Infantil,Dibujos animados | 2016 | +7 | *6.0/10
+· Lincoln y Clyde asisten a la grabación de su programa de televisión favorito; Lori se muda al garaje.
+· País: Estados Unidos
+· Dirección: Chris Savino, Kyle Marshall.
+· Reparto: Jessica DiCicco, Brian Stepanek, Liliana Mumy, Jill Talley, Grey Griffin, Nika Futterman, Catherine Taber, Cristina Pucelli, Lara Jill Miller, Collin Dean.
+· Música: Doug Rockwell.
+· Productora: Chris Savino Productions, Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260511182700 +0200" stop="20260511184600 +0200" channel="Nickelodeon HD">
+    <title>Una casa de locos Single Story T4 E14 · Ya no puedo esperar</title>
+    <desc>Infantil,Dibujos animados | 2019 | TP | *6.2/10
+· Lori empieza a trabajar de camarera en el restaurante de su padre, pero la atención al cliente es más dura de lo que ella esperaba.
+· País: Estados Unidos
+· Dirección: Chris Savino, Kyle Marshall.
+· Reparto: Brian Stepanek, Liliana Mumy, Jill Talley, Grey Griffin, Nika Futterman, Catherine Taber, Cristina Pucelli, Jessica DiCicco, Lara Jill Miller, Collin Dean.</desc>
+	</programme>
   <programme start="20260509160000 +0200" stop="20260509200000 +0200" channel="TVG Europa HD">
     <title>Tarde Piaches</title>
     <desc>Entretenimiento,Magacín | 2026 | TP | *6.0/10
@@ -7833,12 +7882,6 @@
 · Programa presentado por Rocío Durán y Quique Morales, donde los grandes protagonistas serán las historias cotidianas de los gallegos.
 · País: España
 · Presenta: Quique Morales, Rocío Durán.</desc>
-	</programme>
-  <programme start="20260509173000 +0200" stop="20260509175500 +0200" channel="Movistar Plus+ HD">
-    <title>DIRECTO 09/05/2026 Tramo 1 T25/26 · DeportePlus+ Sábado</title>
-    <desc>Deportes,Programa deportes | TP | *6.0/10
-· De la mano de Iñaki Aguirregabiria, el programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
-· País: España</desc>
 	</programme>
   <programme start="20260509175500 +0200" stop="20260509200000 +0200" channel="Movistar Plus+ HD">
     <title>DIRECTO Jornada 36: Lazio - Inter T25/26 · Serie A Calcio</title>
@@ -8285,12 +8328,6 @@
 · La Primera Federación es la categoría de bronce del fútbol español. Esta es la cuarta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
 	</programme>
-  <programme start="20260509154800 +0200" stop="20260509175800 +0200" channel="M+ Vamos HD">
-    <title>Copa Saudí T25/26 · Final: Al Kholood - Al Hilal</title>
-    <desc>Deportes,Fútbol | 2026 | TP
-· La competición del KO de Arabia Saudí otorga una plaza en la Liga de Campeones de la AFC. El torneo cuenta con la participación de 32 equipos; todos buscan desbancar al Al Ittihad, defensor de la corona.
-· País: Arabia Saudí</desc>
-	</programme>
   <programme start="20260509175800 +0200" stop="20260509190000 +0200" channel="M+ Vamos HD">
     <title>Informe Plus+. Maestro Obradovic</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.4/10
@@ -8477,10 +8514,10 @@
 · País: España
 · Presenta: Juanma Castaño.</desc>
 	</programme>
-  <programme start="20260509160900 +0200" stop="20260509181500 +0200" channel="M+ LaLiga HD">
-    <title>LALIGA EA SPORTS T25/26 · Jornada 35: Sevilla - Espanyol</title>
-    <desc>Deportes,Fútbol | 2026 | TP
-· La temporada se agota y sevillanos y barceloneses aún no han conseguido la tranquilidad. El margen de error es muy pequeño algo que saben Luis García Plaza y Manolo González. Drama en Nervión.
+  <programme start="20260511180000 +0200" stop="20260511183000 +0200" channel="M+ Vamos HD">
+    <title>Magazine Champions League T25/26 E32</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 · País: España</desc>
 	</programme>
   <programme start="20260509181500 +0200" stop="20260509184500 +0200" channel="M+ LaLiga HD">
@@ -8747,12 +8784,6 @@
 · El Barcelona puede proclamarse campeón de liga ante su afición y contra su máximo rival, el Real Madrid. Solo una victoria de los blancos evitaría la visita de los culés a Canaletas.
 · País: España</desc>
 	</programme>
-  <programme start="20260509173000 +0200" stop="20260509180000 +0200" channel="DAZN LaLiga HD">
-    <title>Simeone. Revelado</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.6/10
-· El entrenador argentino del Atlético de Madrid se ha convertido en una pieza clave para plantar batalla al Real Madrid y FC Barcelona. Descubre su lado más personal en esta entrevista con DAZN.
-· País: España</desc>
-	</programme>
   <programme start="20260509180000 +0200" stop="20260509210000 +0200" channel="DAZN LaLiga HD">
     <title>DIRECTO Jornada 35: Atlético de Madrid - Celta T25/26 · LALIGA EA SPORTS</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
@@ -8981,10 +9012,10 @@
 · La jornada de LALIGA no termina con el pitido final del último partido. El Post ofrece las mejores imágenes y análisis de los partidos de la jornada. Es el programa perfecto para enterarte de todo lo que ha sucedido en cada encuentro.
 · País: España</desc>
 	</programme>
-  <programme start="20260509161500 +0200" stop="20260509181500 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>LALIGA HYPERMOTION T25/26 · Jornada 39: Burgos - Almería</title>
-    <desc>Deportes,Fútbol | 2026 | TP
-· El Plantío aprieta: Burgos fiable en marcadores cortos, con oficio para vivir de centros, segundas jugadas y estrategia. El Almería, en clave de zona alta, buscará ritmo por dentro y mucha presencia en área.
+  <programme start="20260511180000 +0200" stop="20260511200000 +0200" channel="DAZN LaLiga HD">
+    <title>Jornada 35: Atlético de Madrid - Celta T25/26 · LALIGA EA SPORTS</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
 	</programme>
   <programme start="20260509181500 +0200" stop="20260509183000 +0200" channel="LaLiga TV Hypermotion HD">
@@ -9131,6 +9162,12 @@
 · El Córdoba buscará amplitud y diagonales a la espalda del lateral para atacar con ritmo controlado y llegada desde segunda línea. El Granada intentará imponer pegada y dominio de áreas.
 · País: España</desc>
 	</programme>
+  <programme start="20260511180000 +0200" stop="20260511200000 +0200" channel="LaLiga TV Hypermotion HD">
+    <title>Jornada 39: Leganés - Racing T25/26 · LALIGA HYPERMOTION</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Butarque suele pedir partido serio: el Lega tratará de cerrar espacios, defender su área y castigar en estrategia y segundas jugadas. El Racing, referencia en la zona alta, buscará llevar el partido a campo rival con presión y ritmo.
+· País: España</desc>
+	</programme>
   <programme start="20260509120000 +0200" stop="20260510000000 +0200" channel="M+ LaLiga 2 HD">
     <title>M+ LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
@@ -9162,16 +9199,6 @@
   <programme start="20260511080000 +0200" stop="20260511200000 +0200" channel="M+ LaLiga 2 HD">
     <title>M+ LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260509144500 +0200" stop="20260509181500 +0200" channel="DAZN LaLiga 2 HD">
-    <title>DAZN LALIGA 2</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260509181500 +0200" stop="20260509182500 +0200" channel="DAZN LaLiga 2 HD">
-    <title>Iván 'Bam Bam' Zamorano</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
-· Entrevista a Iván Zamorano sobre su etapa en el Real Madrid y su mitica camiseta '1+8', la mas vendida de Italia.
-· País: España</desc>
 	</programme>
   <programme start="20260509182500 +0200" stop="20260509203000 +0200" channel="DAZN LaLiga 2 HD">
     <title>DIRECTO Jornada 35: At. Madrid - Celta T25/26 · LaLiga EA Sports (Señal Multicámara)</title>
@@ -9240,11 +9267,9 @@
     <title>DAZN LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260509161500 +0200" stop="20260509181500 +0200" channel="LaLiga TV Hypermotion 2">
-    <title>LALIGA HYPERMOTION T25/26 · Jornada 39: Albacete - Cultural</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· El Alba pretende pausa y claridad entre líneas para encontrar remate frontal y evitar que el partido se rompa. La Cultural llega obligada a sumar: orden, ayudas constantes y transiciones verticales,.
-· País: España</desc>
+  <programme start="20260511180000 +0200" stop="20260511220000 +0200" channel="DAZN LaLiga 2 HD">
+    <title>DAZN LALIGA 2</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260509181500 +0200" stop="20260509200000 +0200" channel="LaLiga TV Hypermotion 2">
     <title>Próximo partido: Mirandés-Eibar</title>
@@ -9303,12 +9328,6 @@
   <programme start="20260511160000 +0200" stop="20260511200000 +0200" channel="LaLiga TV Hypermotion 2">
     <title>Próximo partido: Córdoba-Albacete</title>
     <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260509171000 +0200" stop="20260509175500 +0200" channel="M+ Liga de Campeones HD">
-    <title>Magazine Liga Argentina. Torneo Apertura T2026 E9</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Toda la información de actualidad de la Liga Profesional de Fútbol AFA de Argentina para los amantes del mejor fútbol.
-· País: Argentina</desc>
 	</programme>
   <programme start="20260509175500 +0200" stop="20260509200000 +0200" channel="M+ Liga de Campeones HD">
     <title>DIRECTO Jornada 36: Lazio - Inter T25/26 · Serie A Calcio</title>
@@ -9513,6 +9532,12 @@
     <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 · País: España</desc>
+	</programme>
+  <programme start="20260511175500 +0200" stop="20260511195500 +0200" channel="M+ Liga de Campeones HD">
+    <title>Jornada 32: Al Ittihad - Damac T25/26 · Liga Saudí</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Damac lleva dos derrotas consecutivas y está trs puntos por encima del descenso. Al Ittihad viene de empatar y está a diez puntos del tercer puesto.
+· País: Arabia Saudí</desc>
 	</programme>
   <programme start="20260509080000 +0200" stop="20260509200000 +0200" channel="M+ Liga de Campeones 2 HD">
     <title>M+ Liga de Campeones 2</title>
@@ -9785,11 +9810,11 @@
     <desc>Deportes,Hockey hielo | 2026 | TP | *6.0/10
 · La NHL (National Hockey League), regresa con su calendario oficial de 82 partidos, que disputan sus 32 equipos, empezando en octubre, finalizando en abril la temporada.</desc>
 	</programme>
-  <programme start="20260509161500 +0200" stop="20260509182500 +0200" channel="M+ Deportes 2 HD">
-    <title>Torneo de Roma T2026 · Segunda Ronda: Nakashima - Bautista</title>
-    <desc>Deportes,Tenis | TP
-· La presencia de Jannik Sinner, número 1 del mundo, es la principal atracción del quinto Masters 1000 de la temporada. El español Rafa Jódar entra por primera vez como cabeza de serie en un torneo de esta categoría.
-· País: Italia</desc>
+  <programme start="20260511181500 +0200" stop="20260511183000 +0200" channel="M+ Deportes HD">
+    <title>Evasión TV T2026 · Marnaton Formentera I</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Programa que trata de descubrir los destinos más inhóspitos del país, los mejores spots donde realizar actividad al aire libre y disfrutar de todos los deportes outdoor.
+· País: España</desc>
 	</programme>
   <programme start="20260509182500 +0200" stop="20260510020500 +0200" channel="M+ Deportes 2 HD">
     <title>M+ Deportes 2</title>
@@ -10088,11 +10113,6 @@
     <desc>Deportes,Golf | 2025 | TP | *6.0/10
 · El DP World Tour pisa suelo europeo por primera vez esta semana y lo hace en uno de los mejores campos de España, el Real Club de Golf El Prat, de Barcelona. 23 españoles buscarán la victoria en casa.</desc>
 	</programme>
-  <programme start="20260509173000 +0200" stop="20260509174500 +0200" channel="DAZN F1 HD">
-    <title>Código F1 T2026 · Japón</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
-	</programme>
   <programme start="20260509174500 +0200" stop="20260509194000 +0200" channel="DAZN F1 HD">
     <title>Mundial de Fórmula 1 T2024 · GP de Austria: Carrera</title>
     <desc>Deportes,Motor | 2024 | TP | *6.2/10
@@ -10259,11 +10279,15 @@
     <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-  <programme start="20260509155000 +0200" stop="20260509182000 +0200" channel="DAZN 1 HD">
-    <title>Premier League T25/26 · Jornada 36: Sunderland - Manchester United</title>
-    <desc>Deportes,Fútbol | 2026 | TP
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+  <programme start="20260511174900 +0200" stop="20260511180800 +0200" channel="DAZN F1 HD">
+    <title>Bienvenido Mr. Vowles</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *6.2/10
+· Bienvenido Mr. Vowles.</desc>
+	</programme>
+  <programme start="20260511180800 +0200" stop="20260511202700 +0200" channel="DAZN F1 HD">
+    <title>Mundial F1 - GP de Australia T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
   <programme start="20260509182000 +0200" stop="20260509204000 +0200" channel="DAZN 1 HD">
     <title>DIRECTO Jornada 36: Manchester City - Brentford T25/26 · Premier League</title>
@@ -10400,11 +10424,17 @@
 · Dramático derbi londinense. Los hammers están en puestos de descenso, pero a sólo un punto de la salvación; los gunners no pueden fallar ante la presión del Man City y aún notan la adrenalina de la semifinal de UCL. Un partido para corazones fuertes.
 · País: Reino Unido</desc>
 	</programme>
-  <programme start="20260509155000 +0200" stop="20260509180800 +0200" channel="DAZN 2 HD">
-    <title>Premier League T25/26 · Jornada 36: Fulham - Bournemouth</title>
-    <desc>Deportes,Fútbol | 2026 | TP
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+  <programme start="20260511180000 +0200" stop="20260511181300 +0200" channel="DAZN 1 HD">
+    <title>Premier Corner by Guiness 0,0 · Mikel Arteta</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Entrevista a Mikel Arteta, técnico del Arsenal que ha vuelto a ilusionar a la afición 'gunner' y promete hacer grandes cosas en el conjunto del norte de Londres.
+· País: España</desc>
+	</programme>
+  <programme start="20260511181300 +0200" stop="20260511200500 +0200" channel="DAZN 1 HD">
+    <title>Jornada 28: Costa Adeje Tenerife - FC Barcelona T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
 	</programme>
   <programme start="20260509180800 +0200" stop="20260509220000 +0200" channel="DAZN 2 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
@@ -10466,16 +10496,9 @@
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260509164500 +0200" stop="20260509174500 +0200" channel="Eurosport 1 HD">
-    <title>La Vuelta F T2026 · Etapa 7 - La Pola Llaviana - L'Angliru</title>
-    <desc>Deportes,Ciclismo | 2026 | TP
-· La Vuelta a España Femenina reúne a la élite del ciclismo mundial en una carrera por etapas exigente y variada. Montaña decisiva, finales explosivos y lucha constante por la general convierten la ronda española en una cita clave.
-· País: España</desc>
-	</programme>
-  <programme start="20260509174500 +0200" stop="20260509181500 +0200" channel="Eurosport 1 HD">
-    <title>Cycling Show T2026 · 05/05/2026</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
-· El ciclismo es uno de los deportes más duros y exigentes de todos los que se practican, algo que lo convierten en todo un espectáculo. Este espacio repasa la actualidad del mundo de la bicicleta.</desc>
+  <programme start="20260511180000 +0200" stop="20260511185000 +0200" channel="DAZN 2 HD">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260509181500 +0200" stop="20260509200000 +0200" channel="Eurosport 1 HD">
     <title>Giro de Italia T2026 · Etapa 2 - Burgas - Veliko Tarnovo</title>
@@ -10693,6 +10716,12 @@
 · Tras 9 años de ausencia, el Tour de Azerbaiyán marca el regreso del ciclismo UCI al país azarí. Con 849 km entre Bakú y Khankendi, la carrera atraviesa 21 regiones y culmina con etapas de alta montaña.
 · País: Azerbayan</desc>
 	</programme>
+  <programme start="20260511180000 +0200" stop="20260511200000 +0200" channel="Eurosport 1 HD">
+    <title>Abierto de Inglaterra de snooker T25/26 · Final</title>
+    <desc>Deportes,Snooker | 2025 | TP | *5.6/10
+· La ciudad de Brentwood alberga la disputa del Abierto de Inglaterra del 11 al 21 de septiembre. Neil Robertson es el defensor del título. El snooker es la modalidad del billar más profesional.
+· País: Reino Unido</desc>
+	</programme>
   <programme start="20260509133000 +0200" stop="20260509203000 +0200" channel="Eurosport 2">
     <title>6 Horas de Spa - Mundial de resistencia de la FIA T2026 · Carrera</title>
     <desc>Deportes,Automovilismo | 2026 | TP | *6.6/10
@@ -10896,18 +10925,6 @@
 · Las calles de Londres albergan la maratón de la capital inglesa, una prueba abierta a profesionales y aficionados que se celebra desde el año 1981. Cuenta con la participación más grande de todo el mundo.
 · País: Reino Unido</desc>
 	</programme>
-  <programme start="20260509160000 +0200" stop="20260509180000 +0200" channel="GOL">
-    <title>Fútbol español 1ª División T08/09 · Real Madrid-Barcelona</title>
-    <desc>Deportes,Fútbol | 2009 | TP
-· 02/05/09, jornada 34ª. Guardiola, en su primer año como técnico del Barça, lleva al equipo líder. Pero el Madrid de Juande Ramos ha conseguido reducir a cuatro puntos una desventaja que fue de 16. Faltan cinco jornadas y el partido decide el título.
-· País: España</desc>
-	</programme>
-  <programme start="20260509180000 +0200" stop="20260509181500 +0200" channel="GOL">
-    <title>Resúmenes LALIGA HyperMotion T25/26 · Jornada 39: Cádiz - Deportivo</title>
-    <desc>Deportes,Fútbol | 2025 | TP
-· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-· País: España</desc>
-	</programme>
   <programme start="20260509181500 +0200" stop="20260509183000 +0200" channel="GOL">
     <title>Resúmenes LALIGA EA Sports T25/26 · Jornada 35: Levante - Osasuna</title>
     <desc>Deportes,Fútbol | 2025 | TP
@@ -11061,12 +11078,6 @@
     <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
 · La Eredivisie es la máxima categoría de fútbol de los Países Bajos.
 · País: Países Bajos</desc>
-	</programme>
-  <programme start="20260509161500 +0200" stop="20260509180000 +0200" channel="Teledeporte">
-    <title>Copa de la Reina de balonmano T2026 · Semifinales: Semifinal 1</title>
-    <desc>Deportes,Balonmano | 2025 | TP
-· El Donostia Arena de San Sebastián acoge la disputa de la fase final de la Copa de la Reina de balonmano. Los ocho mejores equipos del panorama nacional pelean por la corona en la competición del KO. El Bera Bera busca el cuarto título consecutivo.
-· País: España</desc>
 	</programme>
   <programme start="20260509180000 +0200" stop="20260509184500 +0200" channel="Teledeporte">
     <title>DIRECTO Final: Unicaja - La Laguna Tenerife T25/26 · Basketball Champions League</title>
@@ -11359,6 +11370,13 @@
 · Del 4 al 17 de mayo, Irlanda del Norte alberga la Eurocopa sub-17 femenina. España, con cinco entorchados, intentará volver a cosechar la corona que logró en 2024. Francia, Inglaterra y Alemania se perfilan como el rival a batir.
 · País: Irlanda</desc>
 	</programme>
+  <programme start="20260511180000 +0200" stop="20260511184000 +0200" channel="Teledeporte">
+    <title>Lunes 11 mayo T2026 · Estadio 2.0</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· TDP reinventa uno de los clásicos de TVE. Este contenedor incluye resúmenes de los acontecimientos deportivos más relevantes de la semana, retransmisiones en directo o grabadas, y entrevistas. En este espacio tienen cabida todos los deportes.
+· País: España
+· Presenta: Marc Martín.</desc>
+	</programme>
   <programme start="20260509120000 +0200" stop="20260510000000 +0200" channel="M+ Liga de Campeones 4">
     <title>M+ Liga de Campeones 4</title>
     <desc>· Programa por determinar...</desc>
@@ -11645,11 +11663,41 @@
     <title>M+ Deportes 6</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260509155000 +0200" stop="20260509180800 +0200" channel="DAZN 3 HD">
-    <title>Premier League T25/26 · Jornada 36: Brighton &amp; Hove Albion - Wolverhampton</title>
-    <desc>Deportes,Fútbol | 2026 | TP
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+  <programme start="20260509150000 +0200" stop="20260509192000 +0200" channel="M+ Deportes 7">
+    <title>M+ Deportes 7</title>
+    <desc>Deportes,Otros deportes | 2026 | TP | *6.0/10
+· M+ Deportes 7 -.</desc>
+	</programme>
+  <programme start="20260509192000 +0200" stop="20260509213000 +0200" channel="M+ Deportes 7">
+    <title>DIRECTO Jornada 4: Irlanda - Gales T2026 · Torneo 6 Naciones Femenino</title>
+    <desc>Deportes,Rugby | 2026 | TP | *6.0/10
+· Irlanda y Gales se enfrentan en la cuarta jornada del Seis Naciones femenino. Irlanda lucha por la tercera plaza, mientras las galesas quieren evitar la última plaza.</desc>
+	</programme>
+  <programme start="20260509213000 +0200" stop="20260510043000 +0200" channel="M+ Deportes 7">
+    <title>M+ Deportes 7</title>
+    <desc>Deportes,Otros deportes | 2026 | TP | *6.0/10
+· M+ Deportes 7 -.</desc>
+	</programme>
+  <programme start="20260510043000 +0200" stop="20260510080000 +0200" channel="M+ Deportes 7">
+    <title>M+ Deportes 7</title>
+    <desc>Deportes,Otros deportes | 2026 | TP | *6.0/10
+· M+ Deportes 7 -.</desc>
+	</programme>
+  <programme start="20260510080000 +0200" stop="20260510200000 +0200" channel="M+ Deportes 7">
+    <title>M+ Deportes 7</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260510200000 +0200" stop="20260511000000 +0200" channel="M+ Deportes 7">
+    <title>M+ Deportes 7</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260511000000 +0200" stop="20260511120000 +0200" channel="M+ Deportes 7">
+    <title>M+ Deportes 7</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+  <programme start="20260511120000 +0200" stop="20260512000000 +0200" channel="M+ Deportes 7">
+    <title>M+ Deportes 7</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260509180800 +0200" stop="20260509220000 +0200" channel="DAZN 3 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
@@ -11715,7 +11763,7 @@
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260509140000 +0200" stop="20260509175000 +0200" channel="DAZN 4 HD">
+  <programme start="20260511180000 +0200" stop="20260511220000 +0200" channel="DAZN 3 HD">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -11783,13 +11831,9 @@
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260509160500 +0200" stop="20260509174800 +0200" channel="DARK">
-    <title>La Invasión</title>
-    <desc>Cine,Suspense,Ciencia Ficción | 2021 | +16
-· En el lugar del impacto de un meteorito, un árbol libera esporas tóxicas y mortales para los humanos, y parece estar creando en la Tierra un entorno habitable para habitantes de otro mundo.
-· País: Australia, Estados Unidos
-· Dirección: Eddie Arya.
-· Reparto: Zahlee Moore, Izzy Bridger, Lily Brown Griffiths, Jay Kallaway, Dominic Stone.</desc>
+  <programme start="20260511180000 +0200" stop="20260511220000 +0200" channel="DAZN 4 HD">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260509174800 +0200" stop="20260509193800 +0200" channel="DARK">
     <title>Ojos de fuego</title>
@@ -12084,11 +12128,13 @@
 · Dirección: Quarxx.
 · Reparto: Hug Dillon, Manon Maindivide, Arben Bajraktaraj, Hugo Dillon, Sidwell Weber, Albin Jensen, Jean Roceau, Eowyn Personne, Carl Laforêt, Ophelia Kolb, Zoe Cazal, Ophélia Kolb Kasapoglu.</desc>
 	</programme>
-  <programme start="20260509170000 +0200" stop="20260509180000 +0200" channel="Canal Cocina">
-    <title>Me voy a comer el mundo T4 E13 · Lisboa</title>
-    <desc>Documental,Viajes y aventuras,Otros | 2022 | TP | *7.5/10
-· El viaje gastronómico de Vero a Portugal comienza en Lisboa. Allí descubrirá los bares más típicos, los restaurantes de lujo y los pasteles de nata. Después, en Setúbal, conocerá los mejores mariscos.
-· País: España</desc>
+  <programme start="20260511174300 +0200" stop="20260511191300 +0200" channel="DARK">
+    <title>La noche de los desaparecidos</title>
+    <desc>Cine,Suspense,Terror | 2015 | +18 | *5.2/10
+· Un niño de ocho años desaparece misteriosamente en Halloween. Tras un año de infructuosa búsqueda, los padres deciden buscarlo por su cuenta en la ciudad de Nueva York, pero acaban descubriendo un espíritu vengativo lleno de antiguos secretos.
+· País: Canadá, Reino Unido, Estados Unidos
+· Dirección: Uli Edel.
+· Reparto: Benjamin Wiebe, Fabio Lusvarghi, Maxwell McCabe-Lokos, Milan Carmona, Jamillah Ross, Liam Buckle, Caroline Gillis, Jack Fulton, Matteo Ghazni, Sarah Callies, Katerina Kerfoot, Erin Boyes, Darren Frost, Elizabeth leRoux, Mark Irvingsen, Kalie Hunter, Iain Becking, Aidan Wojtak, Alex Mallari Jr., Omar Khan, Susannah Hoffmann, Sofia Wells, Lauren Beatty, Rosalba Martinni, Breeanna Booth, Ho Chow, Juan Velis, Janet Lo, Leah Jung, Nicolas Cage, Veronica Ferres, Lyriq Bent, Sarah Wayne Callies, Juan Carlos Velis, le Roux.</desc>
 	</programme>
   <programme start="20260509180000 +0200" stop="20260509183100 +0200" channel="Canal Cocina">
     <title>Que no caigan en el olvido T1 E1</title>
@@ -12668,6 +12714,21 @@
 · País: España
 · Dirección: Eugenio Monesma.
 · Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260511173400 +0200" stop="20260511180600 +0200" channel="Canal Cocina">
+    <title>Devuélveme los tápers T1 E8</title>
+    <desc>Programa,Estilo de vida | 2024 | TP
+· Casi a diario, Mónica cocina para muchos familiares platos como el pollo guisado y los "los perritos de Moni". La bilbaína Eva le prepara a su hija tápers con, por ejemplo, merluza en salsa verde.
+· País: España
+· Reparto: Varios int.</desc>
+	</programme>
+  <programme start="20260511180600 +0200" stop="20260511183600 +0200" channel="Canal Cocina">
+    <title>Canal Cocina de puerto en puerto T3 E5 · En busca de los guayres</title>
+    <desc>Programa,Estilo de vida,Cocina | 2025 | TP
+· Desde el Puerto de Mogán de la bella Gran Canaria, visitamos su gastronomía en Los Guayres, Arinaga, el Perchel Beach Club, las plantaciones de mangos y Molino Quemado.
+· País: España
+· Dirección: Pepe Marín.
+· Reparto: Varios int, Arturo Miranda.</desc>
 	</programme>
   <programme start="20260509160000 +0200" stop="20260509190000 +0200" channel="Tennis Channel">
     <title>Roma</title>
@@ -13508,10 +13569,6 @@
     <desc>Sports event,Soccer
 · Carabobo FC vs. River Plate.</desc>
 	</programme>
-  <programme start="20260509170000 +0200" stop="20260509175500 +0200" channel="ESPN">
-    <title>SportsCenter</title>
-    <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
-	</programme>
   <programme start="20260509175500 +0200" stop="20260509200000 +0200" channel="ESPN">
     <title>Lazio vs. Inter · Italian Serie A Football</title>
     <desc>· Sin detalles...</desc>
@@ -13760,12 +13817,6 @@
     <title>Georgetown vs. Virginia · NCAA Lacrosse Championships</title>
     <desc>· Sin detalles...</desc>
 	</programme>
-  <programme start="20260509140000 +0000" stop="20260509161500 +0000" channel="PT | DAZN 1">
-    <title>Sunderland x Man United: Premier League T1 · Sunderland x Man United</title>
-    <desc>Futebol,Desporto | 2026 | +12
-· Assista ao jogo da Premier League Sunderland x Man United.
-· País: Reino Unido</desc>
-	</programme>
   <programme start="20260509161500 +0000" stop="20260509163000 +0000" channel="PT | DAZN 1">
     <title>Premier League T1 E17 · Pré-Jogo</title>
     <desc>Desporto,Notícias | 2026 | +12
@@ -13955,6 +14006,12 @@
     <desc>Futebol,Desporto | 2026 | +12
 · Assista ao jogo da LALIGA Atl. Madrid x Celta Vigo.
 · País: España</desc>
+	</programme>
+  <programme start="20260511160000 +0000" stop="20260511170000 +0000" channel="PT | DAZN 1">
+    <title>Bundesliga T1 E33 · RD33</title>
+    <desc>Futebol,Desporto | +12
+· Os resumos e os melhores momentos da última jornada da Bundesliga.
+· País: Alemania</desc>
 	</programme>
   <programme start="20260509141500 +0000" stop="20260509163000 +0000" channel="PT | DAZN 2">
     <title>Sevilla x Espanyol: LaLiga EA Sports T1 · Sevilla x Espanyol</title>
@@ -14146,12 +14203,6 @@
 · Assista ao jogo da LALIGA Mallorca x Villarreal.
 · País: España</desc>
 	</programme>
-  <programme start="20260509140000 +0000" stop="20260509160000 +0000" channel="PT | DAZN 3">
-    <title>Fulham x Bournemouth: Premier League T1 · Fulham x Bournemouth</title>
-    <desc>Futebol,Desporto | 2026 | +12
-· Assista ao jogo da Premier League Fulham x Bournemouth.
-· País: Reino Unido</desc>
-	</programme>
   <programme start="20260509160000 +0000" stop="20260509163000 +0000" channel="PT | DAZN 3">
     <title>Premier League T1 E38 · Tammy Abraham</title>
     <desc>Celebridades,Notícias | +12
@@ -14300,12 +14351,6 @@
 · Assista ao jogo da Bundesliga Hoffenheim x Werder Bremen.
 · País: Alemania</desc>
 	</programme>
-  <programme start="20260509153000 +0000" stop="20260509160000 +0000" channel="PT | DAZN 4">
-    <title>Bundesliga Special Report T1 E9 · De Abril</title>
-    <desc>Magazine de desporto,Desporto | 2026 | +12
-· Os golos e as melhores jogadas do último mês no principal escalão do futebol alemão.
-· País: Alemania</desc>
-	</programme>
   <programme start="20260509160000 +0000" stop="20260509180000 +0000" channel="PT | DAZN 4">
     <title>SL Benfica x SC Braga T1 · SL Benfica x SC Braga - Quartos de Final - Jogo 1</title>
     <desc>Basquetebol,Desportos de equipa,Desporto | 2026 | +12
@@ -14424,6 +14469,11 @@
 	</programme>
   <programme start="20260511120000 +0000" stop="20260511160000 +0000" channel="PT | DAZN 4">
     <title>Sem Emissão T1 · seg 11-mai, 13:00</title>
+    <desc>Estilo de vida | +12
+· O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a DAZN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.</desc>
+	</programme>
+  <programme start="20260511160000 +0000" stop="20260511200000 +0000" channel="PT | DAZN 4">
+    <title>Sem Emissão T1 · seg 11-mai, 17:00</title>
     <desc>Estilo de vida | +12
 · O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a DAZN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.</desc>
 	</programme>
@@ -14573,11 +14623,6 @@
     <title>Crypto.com Miami Grand Prix 2026 T1 · Crypto.com Miami Grand Prix 2026 - Corrida</title>
     <desc>Desportos motorizados,Desporto | 2026 | +12
 · Vê, em direto de Miami, o Formula 1 Crypto. com Miami Grand Prix 2026.</desc>
-	</programme>
-  <programme start="20260509150056 +0000" stop="20260509153556 +0000" channel="DE | Rally TV">
-    <title>LIVE: Continued Coverage of SS16 - Vodafone Rally de Portugal 2026</title>
-    <desc>Sports
-· Continued Coverage of SS16 (WRC 2, WRC 3).</desc>
 	</programme>
   <programme start="20260509153556 +0000" stop="20260509170056 +0000" channel="DE | Rally TV">
     <title>LIVE: SS17 Amarante 2 with Studio - Vodafone Rally de Portugal 2026</title>
@@ -14894,11 +14939,6 @@
     <title>SS17 Full Stage Replay - Rallye Monte-Carlo 2026</title>
     <desc>Sports</desc>
 	</programme>
-  <programme start="20260509140000 +0000" stop="20260509161500 +0000" channel="UK | TNT Sports 1">
-    <title>Live: The Gallagher PREM T2025 E72 · Leicester Tigers v Northampton Saints</title>
-    <desc>Rugby Union - Domestic,Sports
-· Leicester Tigers v Northampton Saints (Kick-off 3.05pm). Coverage of the match from Mattioli Woods Welford Road Stadium. These two sides have met three times already this season with the visitors winning two of those fixtures. The reverse fixture back in October saw the Saints win a thrilling match 32-26 thanks to two second-half tries from France's Anthony Belleau.</desc>
-	</programme>
   <programme start="20260509161500 +0000" stop="20260509184500 +0000" channel="UK | TNT Sports 1">
     <title>Live: The Gallagher PREM T2025 E73 · Bristol Bears v Saracens</title>
     <desc>Rugby Union - Domestic,Sports
@@ -15063,6 +15103,11 @@
     <title>Serie A T2025 E72 · AC Milan v Atalanta</title>
     <desc>Football - Club,Sports
 · AC Milan v Atalanta.</desc>
+	</programme>
+  <programme start="20260511160000 +0000" stop="20260511170000 +0000" channel="UK | TNT Sports 1">
+    <title>IFSC Climbing World Series Highlights T2026 E2 · Wujiang, China</title>
+    <desc>Extreme,Sports
+· All the latest action from Wujiang, China.</desc>
 	</programme>
   <programme start="20260509141500 +0000" stop="20260509164500 +0000" channel="UK | TNT Sports 2">
     <title>Live World Rally Championship T2026 E18 · Special Stages 16 &amp; 17</title>
@@ -15284,6 +15329,11 @@
     <desc>Baseball,Sports
 · Action from Major League Baseball.</desc>
 	</programme>
+  <programme start="20260511160000 +0000" stop="20260511163000 +0000" channel="UK | TNT Sports 2">
+    <title>Ninja A-League Women Highlights T2025 E25 · Semi Finals, Second Leg</title>
+    <desc>Football - Club,Sports
+· Action from the latest semi-final second-leg ties.</desc>
+	</programme>
   <programme start="20260509150000 +0000" stop="20260509163000 +0000" channel="UK | TNT Sports 3">
     <title>LIV Golf T2026 E38 · Virginia-Round 2</title>
     <desc>Golf,Sports
@@ -15479,11 +15529,6 @@
     <desc>Rugby Union - Domestic,Sports
 · Newcastle Red Bulls v Harlequins.</desc>
 	</programme>
-  <programme start="20260509151500 +0000" stop="20260509161500 +0000" channel="UK | Premier Sports 1">
-    <title>URC in 60 T2025 E56 · Round 16</title>
-    <desc>Rugby Union - Domestic,Sports
-· Action from the 16th round of fixtures.</desc>
-	</programme>
   <programme start="20260509161500 +0000" stop="20260509183000 +0000" channel="UK | Premier Sports 1">
     <title>Live United Rugby Championship T2025 E133 · Leinster v Lions</title>
     <desc>Rugby Union - "])&lt;,script&gt;&lt;script&gt;self.__next_f.push([1,"Domestic,Sports
@@ -15674,10 +15719,10 @@
     <desc>Football - Club,Sports
 · Ajax v FC Utrecht.</desc>
 	</programme>
-  <programme start="20260509134500 +0000" stop="20260509161500 +0000" channel="UK | Premier Sports 2">
-    <title>Live United Rugby Championship T2025 E132 · Sharks v Benetton</title>
-    <desc>Rugby Union - Domestic,Sports
-· Sharks v Benetton (Kick-off 3.00pm). Coverage of the match from Hollywoodbets Kings Park Stadium"])&lt;/script&gt;&lt;script&gt;self.__next_f.push([1,".</desc>
+  <programme start="20260511160000 +0000" stop="20260511175500 +0000" channel="UK | Premier Sports 1">
+    <title>LaLiga T2025 E319 · Barcelona v Real Madrid</title>
+    <desc>Football - Club,Sports
+· Barcelona v Real Madrid.</desc>
 	</programme>
   <programme start="20260509161500 +0000" stop="20260509183000 +0000" channel="UK | Premier Sports 2">
     <title>Live United Rugby Championship T2025 E135 · Ospreys v Scarlets</title>
@@ -15828,5 +15873,10 @@
     <title>Argentine Primera T2026 E36 · River Plate vs San Lorenzo</title>
     <desc>Football - Club,Sports
 · River Plate vs San Lorenzo.</desc>
+	</programme>
+  <programme start="20260511160000 +0000" stop="20260511163000 +0000" channel="UK | Premier Sports 2">
+    <title>Football's Greatest T2022 E2 · Football's Greatest 2</title>
+    <desc>Football - International,Sports
+· The finest players in history discuss their careers.</desc>
 	</programme>
 </tv>
