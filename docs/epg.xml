@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 08/08/2026 12:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 08/08/2026 16:47" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 2">
 		<display-name>La 2</display-name>
 		<display-name>La 2.TV</display-name>
@@ -175,6 +175,17 @@
 		<display-name>Nickelodeon 720</display-name>
 		<display-name>Nickelodeon 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png"/>
+	</channel>
+  <channel id="Real Madrid TV">
+		<display-name>Real Madrid TV</display-name>
+		<display-name>Real Madrid TV.TV</display-name>
+		<display-name>Real Madrid TV SD</display-name>
+		<display-name>Real Madrid TV HD</display-name>
+		<display-name>Real Madrid TV FHD</display-name>
+		<display-name>Real Madrid TV UHD</display-name>
+		<display-name>Real Madrid TV 720</display-name>
+		<display-name>Real Madrid TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png"/>
 	</channel>
   <channel id="Esport 3">
 		<display-name>Esport 3</display-name>
@@ -693,15 +704,8 @@
 		<display-name>UK | Premier Sports 2 1080</display-name>
 		<icon src="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png"/>
 	</channel>
-  <programme start="20260808153500 +0200" stop="20260808162000 +0200" channel="La 2">
-    <title>Saber y ganar fin de semana T15 E62</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
-· Edición de fin de semana del concurso más longevo de Televisión Española.
-· País: España
-· Presenta: Rodrigo Vázquez, Núria Ramírez.</desc>
-	</programme>
   <programme start="20260808162000 +0200" stop="20260808171500 +0200" channel="La 2">
-    <title>Tierra de osos</title>
+    <title>Tierra de osos · Terra d'ossos</title>
     <desc>Documentales,Naturaleza | 2023 | TP | *7.0/10
 · Los osos deben superar muchos desafíos para convertirse en los auténticos supervivientes que son. Se pasan la mitad de sus vidas en un sueño agitado y hambriento y la otra mitad agudizando el ingenio para conseguir comida.
 · País: Alemania
@@ -710,7 +714,7 @@
 	</programme>
   <programme start="20260808171500 +0200" stop="20260808181000 +0200" channel="La 2">
     <title>Muerte en el río</title>
-    <desc>Documentales,Naturaleza | 2024 | +12 | *6.2/10
+    <desc>Documentales,Naturaleza | 2024 | +7 | *6.2/10
 · Embárquese en un fascinante viaje por las indómitas aguas de África.</desc>
 	</programme>
   <programme start="20260808181000 +0200" stop="20260808183500 +0200" channel="La 2">
@@ -729,7 +733,7 @@
 	</programme>
   <programme start="20260808185700 +0200" stop="20260808193500 +0200" channel="La 2">
     <title>Esto es España: Pirineos. Un tesoro que desaparece</title>
-    <desc>Documentales,Viajes | 2023 | TP | *5.8/10
+    <desc>Documentales,Viajes | 2023 | TP | *6.0/10
 · Recorremos los Pirineos a través de varias provincias, una cadena montañosa que guarda ecosistemas únicos y el Glaciar del Aneto, una joya natural en retroceso que refleja la urgencia de la crisis climática.
 · País: España
 · Dirección: Enrique Alex.
@@ -745,7 +749,7 @@
 	</programme>
   <programme start="20260808200500 +0200" stop="20260808210500 +0200" channel="La 2">
     <title>¡Cómo nos reímos! T9 · Pequehumor</title>
-    <desc>Entretenimiento,Humor | 2021 | +7 | *5.6/10
+    <desc>Entretenimiento,Humor | 2021 | +7 | *6.0/10
 · El programa entra con una gran sonrisa en el maravilloso mundo de los cuentos y del humor infantil, y descubre a golpe de carcajada el lado más travieso y juguetón de los maestros de la risa.
 · País: España
 · Dirección: Daniel Villasante.</desc>
@@ -760,13 +764,13 @@
 	</programme>
   <programme start="20260808214000 +0200" stop="20260809014500 +0200" channel="La 2">
     <title>Malas lenguas Noche T1 E16</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
 · Jesús Cintora presenta este magacín de actualidad en su versión nocturna y de fin de semana, donde, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España</desc>
 	</programme>
   <programme start="20260809014500 +0200" stop="20260809024500 +0200" channel="La 2">
     <title>Dislexia: una nueva perspectiva</title>
-    <desc>Documentales,Ciencia tecnología | 2023 | TP | *5.0/10
+    <desc>Documentales,Ciencia tecnología | 2023 | TP | *6.0/10
 · La dislexia es una condición compleja cuyas causas aún no se conocen por completo, como tampoco existe un consenso entre los científicos sobre los métodos de tratamiento más eficientes.
 · País: Alemania
 · Dirección: Daniela Schmidt-Langels.</desc>
@@ -894,7 +898,7 @@
 	</programme>
   <programme start="20260809103000 +0200" stop="20260809113000 +0200" channel="La 2">
     <title>El día del señor T2026 · Iglesia de San Andrés Apóstol, Becerril, Madrid</title>
-    <desc>Cultural/Educativo,Religión | 2026 | TP | *6.6/10
+    <desc>Cultural/Educativo,Religión | 2026 | TP | *7.0/10
 · Programa religioso que retransmite la celebración de la eucaristía desde diferentes parroquias de toda España y un reportaje relacionado con la localidad, su patrimonio cultural, artístico, o de la festividad que se celebra en la liturgia.
 · País: España
 · Dirección: Juan Carlos Ramos.
@@ -938,7 +942,7 @@
 · Dirección: Jesús María Montes-Fernández.</desc>
 	</programme>
   <programme start="20260809134500 +0200" stop="20260809141500 +0200" channel="La 2">
-    <title>El escarabajo verde: Al borde del abismo (III)</title>
+    <title>El escarabajo verde: Al borde del abismo (III) · El escarabajo verde: A la vora de l'abisme (III)</title>
     <desc>Documentales,Naturaleza | 2026 | TP | *6.2/10
 · Un reportaje sobre las ciudades europeas que trabajan para que la fauna salvaje tanga su espacio en las zonas urbanas.
 · País: España
@@ -1020,7 +1024,7 @@
 	</programme>
   <programme start="20260809222500 +0200" stop="20260809231500 +0200" channel="La 2">
     <title>Me meto en un jardín T1 · Lucía Dominguín</title>
-    <desc>Entretenimiento,Entrevista | 2026 | TP
+    <desc>Entretenimiento,Entrevista | 2026 | TP | *6.0/10
 · Mercedes Milá viaja a Turégano para encontrarse con Lucía Dominguín. Tras una parada en La Granja, un imprevisto con Scott cambia sus planes.
 · País: España
 · Presenta: Mercedes Milá.</desc>
@@ -1176,6 +1180,11 @@
 · Dirección: Sergi Schaaff.
 · Productora: Quart.</desc>
 	</programme>
+  <programme start="20260810162000 +0200" stop="20260810172000 +0200" channel="La 2">
+    <title>El sabor de la sabana. Herbivoros y carnivoros</title>
+    <desc>Cine,Cine documental | 2022 | +7 | *4.8/10
+· Aunque parezcan los dominantes, los animales carnívoros dependen de los herbívoros para existir. En este documental se descubre qué animales están mejor adaptados para sobrevivir en la sabana.</desc>
+	</programme>
   <programme start="20260808154000 +0200" stop="20260808175000 +0200" channel="Cuatro HD">
     <title>Stargate, puerta a las estrellas</title>
     <desc>Cine,Ciencia ficción | 1994 | +7 | *7.4/10
@@ -1208,7 +1217,7 @@
 	</programme>
   <programme start="20260808204500 +0200" stop="20260808205500 +0200" channel="Cuatro HD">
     <title>ElDesmarque de Cuatro noche fin de semana T4 E213</title>
-    <desc>Deportes,Programa deportes | 2026 | *6.4/10
+    <desc>Deportes,Programa deportes | 2026 | *6.6/10
 · Espacio de actualidad futbolística.
 · País: España</desc>
 	</programme>
@@ -1259,7 +1268,7 @@
 	</programme>
   <programme start="20260809034500 +0200" stop="20260809042000 +0200" channel="Cuatro HD">
     <title>En el punto de mira: El fraude del atún T3 · Perros de caza</title>
-    <desc>Información,Reportaje | 2017 | +12 | *5.8/10
+    <desc>Información,Reportaje | 2017 | +12 | *5.6/10
 · Programa de investigación periodística.
 · País: España</desc>
 	</programme>
@@ -1587,7 +1596,7 @@
 	</programme>
   <programme start="20260809083000 +0200" stop="20260809084500 +0200" channel="Telecinco HD">
     <title>Got Talent España. Momentazos T8 E3</title>
-    <desc>Entretenimiento,Concurso | 2022 | +7 | *5.4/10
+    <desc>Entretenimiento,Concurso | 2022 | +7 | *5.6/10
 · La adaptación española del formato internacional "Got Talent" busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.
 · País: España</desc>
 	</programme>
@@ -1883,7 +1892,7 @@
 	</programme>
   <programme start="20260809040000 +0200" stop="20260809043500 +0200" channel="La Sexta HD">
     <title>Galería del coleccionista</title>
-    <desc>Ocio y Aficiones,Televenta | 2021 | TP | *6.2/10
+    <desc>Ocio y Aficiones,Televenta | 2021 | *6.2/10
 · Espacio comercial.
 · País: España</desc>
 	</programme>
@@ -2751,14 +2760,6 @@
 · Producción: Steve Carell, Denise Di Novi.
 · Productora: Carousel Productions.</desc>
 	</programme>
-  <programme start="20260808155000 +0200" stop="20260808162500 +0200" channel="M+ Originales HD">
-    <title>La vida breve T1 E1 · La marrana</title>
-    <desc>Series,Comedia | 2025 | +12 | *6.2/10
-· Felipe V ha perdido la cabeza. Su mujer, Isabel de Farnesio sabe que no puede continuar en el trono. Debe renunciar en favor de Luis, pero antes hay que buscarle esposa. La elegida, Luisa de Orleans, hija del regente de Francia, no es lo esperado.
-· País: España
-· Dirección: Diego Núñez Irigoyen, Adolfo Valor.
-· Reparto: Javier Gutiérrez, Leonor Watling, Carlos Scholz, Alicia Armenteros, Pepe Viyuela, Claudia Traisac, Carlos González, Jorge Usón, Eric Masip, Marta Hazas, César Tormo, Héctor Carballo.</desc>
-	</programme>
   <programme start="20260808162500 +0200" stop="20260808170300 +0200" channel="M+ Originales HD">
     <title>La vida breve T1 E2 · A rey muerto, rey puesto</title>
     <desc>Series,Comedia | 2025 | +12 | *6.2/10
@@ -3200,12 +3201,13 @@
 · Presenta: Berto Romero.
 · Producción: Movistar Plus+.</desc>
 	</programme>
-  <programme start="20260808152200 +0200" stop="20260808161100 +0200" channel="M+ Documentales HD">
-    <title>Tsunami: la ola que conmocionó al mundo E1</title>
-    <desc>Documentales,Sociedad | 2024 | +12 | *6.2/10
-· El 26 de diciembre de 2004 a las 7:58 a.m. se registró el tercer terremoto más grande con una magnitud de 9,1. Lo que muy pocos sabían era que lo peor estaba por llegar, con olas de hasta treinta metros que provocaron miles de muertes.
-· País: Alemania, Australia, Francia y Reino Unido
-· Productora: Arrow Media.</desc>
+  <programme start="20260810165200 +0200" stop="20260810172200 +0200" channel="M+ Originales HD">
+    <title>Leo Talks T5 · Estrés de Vida</title>
+    <desc>Entretenimiento,Humor | 2025 | +12 | *6.4/10
+· Leo Harlem analiza con humor mordaz el estrés en la vida moderna: móviles, mudanzas, spas, true crime y terapias absurdas. Un monólogo repleto de ironía y verdades incómodas que nos hace reír mientras reflexionamos sobre nuestro modo de vivir.
+· País: España
+· Presenta: Leo Harlem.
+· Producción: Isabel Guerrero Martínez.</desc>
 	</programme>
   <programme start="20260808161100 +0200" stop="20260808170500 +0200" channel="M+ Documentales HD">
     <title>Tsunami: la ola que conmocionó al mundo E2</title>
@@ -3410,7 +3412,7 @@
 	</programme>
   <programme start="20260809220000 +0200" stop="20260809230100 +0200" channel="M+ Documentales HD">
     <title>Hijos del fin del mundo: Mierda, he crecido en una secta</title>
-    <desc>Documentales,Sociedad | 2025 | +12 | *6.2/10
+    <desc>Documentales,Sociedad | 2025 | +12 | *6.4/10
 · Becky y a otros jóvenes han crecido dentro de los Testigos de Jehová. A través de sus testimonios, exploran cómo fue su infancia bajo las estrictas normas y el control que ejercía sobre ellos la organización.
 · País: España
 · Reparto: Becky Rubio, Danny Boy-Rivera, Laia Santander, Natán Verdés.</desc>
@@ -3544,17 +3546,11 @@
 · En Nimes y Narbona Alice descubre cómo Roma dejó una fuerte huella en la actual Francia, con monumentos, símbolos imperiales y rutas comerciales que conectaban todo el territorio romano.
 · País: Reino Unido</desc>
 	</programme>
-  <programme start="20260808141700 +0200" stop="20260808161000 +0200" channel="M+ Acción HD">
-    <title>Ahora me ves 3</title>
-    <desc>Cine,Thriller | 2025 | +7 | *6.4/10
-· Los Cuatro Jinetes regresan junto a una nueva generación de ilusionistas en una extraordinaria aventura que contiene giros asombrosos, sorpresas alucinantes y trucos de magia nunca vistos en la gran pantalla.
-· País: Canadá, Estados Unidos, Emiratos Árabes Unidos y Hungría
-· Dirección: Ruben Fleischer.
-· Reparto: Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Rosamund Pike.
-· Guion: Seth Grahame-Smith, Michael Lesslie, Paul Wernick, Rhett Reese, Eric Warren Singer, Boaz Yakin.
-· Música: Brian Tyler.
-· Producción: Bobby Cohen, Alex Kurtzman, Roberto Orci.
-· Productora: Lionsgate, Summit Entertainment, Media Capital Technologies.</desc>
+  <programme start="20260810164400 +0200" stop="20260810173400 +0200" channel="M+ Documentales HD">
+    <title>Imperio romano en tren: Hispania</title>
+    <desc>Documentales,Historia | 2026 | TP | *6.2/10
+· El viaje termina en España, entre Tarragona y Cartagena, donde Alice explica cómo Roma conquistó Hispania y reflexiona sobre el legado duradero del Imperio romano en el Mediterráneo.
+· País: Reino Unido</desc>
 	</programme>
   <programme start="20260808161000 +0200" stop="20260808181700 +0200" channel="M+ Acción HD">
     <title>Jurassic Park (Parque Jurásico)</title>
@@ -3881,18 +3877,6 @@
 · Música: Hans Zimmer.
 · Producción: John Calley, Brian Grazer, Ron Howard.
 · Productora: Columbia Pictures, Imagine Entertainment, Skylark Productions, Columbia Pictures Corporation.</desc>
-	</programme>
-  <programme start="20260808145800 +0200" stop="20260808163400 +0200" channel="M+ Comedia HD">
-    <title>El reportero: la leyenda de Ron Burgundy</title>
-    <desc>Cine,Comedia | 2004 | +16 | *6.8/10
-· En la década de 1970, en una cadena de televisión de San Diego, Ron Burgundy es el presentador de noticias más famoso de la ciudad. Cuando se entera de que una reportera feminista y ambiciosa va a trabajar con él, Ron acepta a regañadientes.
-· País: Estados Unidos
-· Dirección: Adam McKay.
-· Reparto: Will Ferrell, Christina Applegate, Paul Rudd, Steve Carell, David Koechner, Fred Willard, Chris Parnell, Ben Stiller.
-· Guion: Will Ferrell, Adam McKay.
-· Música: Alex Wurman.
-· Producción: Judd Apatow.
-· Productora: Dreamworks Pictures, Apatow Productions, Herzog-Cowen Entertainment.</desc>
 	</programme>
   <programme start="20260808163400 +0200" stop="20260808182800 +0200" channel="M+ Comedia HD">
     <title>Los amos de la noticia</title>
@@ -4243,17 +4227,24 @@
 · Guion: Fin Edquist.
 · Producción: Alexia Gates-Foale, Tracy Lenon, Barbara Stephen.</desc>
 	</programme>
-  <programme start="20260808145100 +0200" stop="20260808165800 +0200" channel="M+ Cine Español">
-    <title>Campeonex</title>
-    <desc>Cine,Comedia | 2023 | TP | *6.4/10
-· Con la llegada de una entrenadora novata a quien la suerte no le acompaña, el equipo de campeones se adentra por error en el complejo mundo del atletismo. Ha llegado la hora de volver a darlo todo demostrando que la amistad puede con todo.
+  <programme start="20260810163200 +0200" stop="20260810164900 +0200" channel="M+ Comedia HD">
+    <title>Está por venir (y tendrá tus ojos)</title>
+    <desc>Cortometrajes,Corto animación | 2024 | +12 | *6.0/10
+· Una pequeña comunidad que ha entrado en estado de colapso a causa de una crisis ambiental, se adapta como puede a la nueva realidad.
 · País: España
-· Dirección: Javier Fesser.
-· Reparto: Elisa Hipólito, Sergio Olmos, Brianeitor, Jesús Lago Solís, Juan Margallo, Jelen García, Roberto Chinchilla, Alberto Berzal, Gloria Ramos, Fran Fuentes, Alberto Nieto Ferrández, José de Luna, Jesús Vidal, Carolina Rubio, Carmen Mayordomo, Claudia Fesser.
-· Guion: David Marqués, Javier Fesser, Athenea Mata.
-· Música: Rafael Arnau.
-· Producción: Javier Fesser, Álvaro Longoria, Luis Manso.
-· Productora: Películas Pendelton, Rey de Babia, A.I.E., Morena Films S.L.</desc>
+· Dirección: Izibene Oñederra.</desc>
+	</programme>
+  <programme start="20260810164900 +0200" stop="20260810183000 +0200" channel="M+ Comedia HD">
+    <title>El gran hotel Budapest</title>
+    <desc>Cine,Comedia | 2014 | +12 | *7.8/10
+· Las aventuras del legendario recepcionista de un famoso hotel europeo en el período de entreguerras y de un botones. Juntos vivirán acontecimientos insólitos como el robo de una pintura renacentista o el enfrentamiento por una inmensa fortuna familiar.
+· País: Alemania, Estados Unidos y Reino Unido
+· Dirección: Wes Anderson.
+· Reparto: Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody, Willem Dafoe, Jeff Goldblum.
+· Guion: Wes Anderson, Hugo Guinness.
+· Música: Alexandre Desplat.
+· Producción: Wes Anderson, Jeremy Dawson, Steven M. Rales, Scott Rudin.
+· Productora: Fox Searchlight Pictures, Indian Paintbrush, Studio Babelsberg, American Paintbrush, Scott Rudin Productions, TSG Entertainment.</desc>
 	</programme>
   <programme start="20260808165800 +0200" stop="20260808183800 +0200" channel="M+ Cine Español">
     <title>Campamento Garra de Oso</title>
@@ -4612,16 +4603,17 @@
 · Producción: Enrique Posner.
 · Productora: El Deseo.</desc>
 	</programme>
-  <programme start="20260808152000 +0200" stop="20260808165000 +0200" channel="Comedy Central HD">
-    <title>Los Minions</title>
-    <desc>Cine,Animación | 2015 | +7 | *7.8/10
-· Los minions, ingenuos y torpes ayudantes de villano, llevan buscando, desde el principio de los tiempos, un verdadero malhechor al que servir.
-· País: Estados Unidos
-· Dirección: Kyle Balda, Pierre Coffin.
-· Guion: Brian Lynch.
-· Música: Heitor Pereira.
-· Producción: Janet Healy, Christopher Meledandri.
-· Productora: Illumination Entertainment.</desc>
+  <programme start="20260810164500 +0200" stop="20260810184300 +0200" channel="M+ Cine Español">
+    <title>Two Much</title>
+    <desc>Cine,Comedia | 1995 | TP | *6.2/10
+· Un joven galerista se enamora de dos hermanas al mismo tiempo. Para resolver el problema decide inventarse a su propio hermano gemelo.
+· País: Estados Unidos y España
+· Dirección: Fernando Trueba.
+· Reparto: Antonio Banderas, Melanie Griffith, Daryl Hannah, Danny Aiello, Joan Cusack, Eli Wallach, Gabino Diego.
+· Guion: Fernando Trueba, David Trueba.
+· Música: Michel Camilo.
+· Producción: Andrés Vicente Gómez, Cristina Huete.
+· Productora: Fernando Trueba, Producciones Cinematográficas, S.A.</desc>
 	</programme>
   <programme start="20260808165000 +0200" stop="20260808181600 +0200" channel="Comedy Central HD">
     <title>Minions: El origen de Gru</title>
@@ -5236,18 +5228,6 @@
 · Música: David Newman.
 · Productora: Universal Pictures.</desc>
 	</programme>
-  <programme start="20260808150700 +0200" stop="20260808164400 +0200" channel="Calle 13 HD">
-    <title>Showtime</title>
-    <desc>Cine,Comedia | 2001 | +7 | *6.6/10
-· La policía de Los Ángeles decide patrocinar un 'reality show' televisivo en el que se vea a dos agentes ejemplares en acción.
-· País: Australia y Estados Unidos
-· Dirección: Tom Dey.
-· Reparto: Robert De Niro, Rachael Harris, Eddie Murphy, Rene Russo, Andrew Wilson, William Shatner.
-· Guion: Jorge Saralegui, Miles Millar, Alfed Gough, Keith Sharon, Alfred Gough.
-· Música: Alan Silvestri, Shaggy.
-· Producción: Jorge Saralegui, Jane Rosenthal.
-· Productora: Warner Bros, Bruce Berman, Tribeca Productions, James Lassiter, Material, Eric McLeod.</desc>
-	</programme>
   <programme start="20260808164400 +0200" stop="20260808184200 +0200" channel="Calle 13 HD">
     <title>Lágrimas del sol</title>
     <desc>Cine,Drama | 2003 | +16 | *7.4/10
@@ -5661,11 +5641,15 @@
 · Producción: Michael De Luca, Marcus Viscidi.
 · Productora: New Line Cinema, BRON Studios, Michael De Luca Productions, Dave Neustadter, Marcus Viscidi, Elishia Holmes.</desc>
 	</programme>
-  <programme start="20260808160500 +0200" stop="20260808163500 +0200" channel="Caza y Pesca HD">
-    <title>Play Pesca T1 · Santi Díaz</title>
-    <desc>Ocio y Aficiones,Caza y pesca | 2026 | TP | *6.0/10
-· Es un pescador de raza con más de 60 años de experiencia a sus espaldas, un artesano de señuelos y todo un artista contando historias. Santi Díaz es el invitado a nuestro capítulo 5 de Play Pesca en el que charlará con Odei Jainaga sobre su pasión mutua.
-· País: España</desc>
+  <programme start="20260810165500 +0200" stop="20260810183500 +0200" channel="Calle 13 HD">
+    <title>Asesinato en Meaux</title>
+    <desc>Cine,Thriller | 2024 | +12 | *6.0/10
+· La teniente Karine Lelièvre debe investigar el asesinato de Jean Christophe Bellon junto a Isabelle Guercher, quien ha sido su enemiga.
+· País: Francia
+· Dirección: Adeline Darraux.
+· Reparto: Stéphane Brisset, Julien Girbig, Gaëlle Marie, Claudine Vigreux, Owen Nsimba Soba, Stéphane Hausauer.
+· Guion: Stéphane Brisset.
+· Productora: J.L.A., Caroline Got, A Prime Group, BE-FILMS, France Télévisions, Médicis Productions.</desc>
 	</programme>
   <programme start="20260808163500 +0200" stop="20260808170000 +0200" channel="Caza y Pesca HD">
     <title>El Tera en primavera</title>
@@ -6225,20 +6209,10 @@
 · Las históricas aguas del canal de Panamá te dan la oportunidad de vivir una gran aventura de pesca en un remoto y fascinante lugar, con el paso de los años especies de agua salada han entrado al lago Gatún y se adaptaron perfectamente.
 · País: España</desc>
 	</programme>
-  <programme start="20260808160000 +0200" stop="20260808162500 +0200" channel="Disney Channel">
-    <title>Prodigiosa: Las Aventuras De Ladybug T1 E11 · Un Cupido Sombrío</title>
-    <desc>Infantil,Dibujos animados | 2015 | TP | *6.4/10
-· En San Valentín Marianette tiene la duda de a quién va dirigido el poema que ha encontrado escrito por Adrien; cuando Tikki la convence de que es para ella, ésta decide contestarle.
-· País: Francia
-· Productora: Zagtoon, Method Animation, Toei Animation Company.</desc>
-	</programme>
-  <programme start="20260808162500 +0200" stop="20260808165000 +0200" channel="Disney Channel">
-    <title>La princesa Sofía: escuela de magia T1 E2 · ¡Abraca-asombra! / Trabajo de magia</title>
-    <desc>Infantil,Serie infantil | 2026 | TP | *6.2/10
-· Sofía participa en un desafío mágico con los alumnos de los demás castillos. Layla intenta hacer un truco de levitación y descubre su poder para desplegar alas de mariposa.
-· País: Estados Unidos
-· Guion: Craig Gerber.
-· Productora: Disney Branded Television.</desc>
+  <programme start="20260810163000 +0200" stop="20260810170500 +0200" channel="Caza y Pesca HD">
+    <title>Panamá, aguas para el pescasub</title>
+    <desc>Ocio y Aficiones,Caza y pesca | 2026 | TP | *6.0/10
+· Panamá esconde algunas de las aguas más salvajes y espectaculares para la pesca submarina y nuestros aventureros están dispuestos a descubrirlas. Entre inmersiones al límite y capturas de impresionantes de amberjacks.</desc>
 	</programme>
   <programme start="20260808165000 +0200" stop="20260808171500 +0200" channel="Disney Channel">
     <title>La casa de Mickey Mouse+ T1 E24 · El cuento de las sirevacas</title>
@@ -7275,20 +7249,22 @@
 · País: Francia
 · Productora: Zagtoon, Method Animation, Toei Animation Company.</desc>
 	</programme>
-  <programme start="20260808160800 +0200" stop="20260808163500 +0200" channel="Nickelodeon HD">
-    <title>Pinky Malinky T1 E2 · Mascota / Merienda</title>
-    <desc>Infantil,Dibujos animados | 2016 | TP | *6.2/10
-· Pinky Malinky es un estudiante de secundaria de 12 años que se convierte en un perrito caliente. Junto a sus dos amigos humanos Babs Buttman y JJ Jameson tratan de ser mejores cada día y viven divertidas aventuras.
+  <programme start="20260810162500 +0200" stop="20260810165000 +0200" channel="Disney Channel">
+    <title>La princesa Sofía: escuela de magia T1 E4 · Caos mágico</title>
+    <desc>Infantil,Serie infantil | 2026 | TP | *6.4/10
+· Camila quiere ser la aprendiz de Cedric, pero provoca el caos con sus trucos avanzados.
 · País: Estados Unidos
-· Reparto: Danny Jacobson, Lucas Grabeel, Nathan Kress.</desc>
+· Guion: Craig Gerber.
+· Productora: Disney Branded Television.</desc>
 	</programme>
-  <programme start="20260808163500 +0200" stop="20260808165700 +0200" channel="Nickelodeon HD">
-    <title>Sonic Prime T1 E3 · La fuga de la gran ciudad</title>
-    <desc>Infantil,Dibujos animados | 2022 | TP | *5.8/10
-· Los rebeldes se enfrentan al Consejo del Caos para conseguir el fragmento de Prisma. Entonces Sonic hace un inquietante descubrimiento sobre cómo se hizo añicos su mundo.
-· País: Canadá
-· Dirección: Erik Wiese.
-· Guion: Man of Action, Erik Wiese.</desc>
+  <programme start="20260810165000 +0200" stop="20260810171500 +0200" channel="Disney Channel">
+    <title>La casa de Mickey Mouse+ T1 E1 · El nuevo ayudante de Mickey</title>
+    <desc>Infantil,Dibujos animados | 2025 | TP | *6.0/10
+· Mickey y sus amigos tienen un nuevo Ayudante.
+· País: Estados Unidos
+· Dirección: Broni Likomanov, Jeff Gordon.
+· Guion: Mark Drop.
+· Productora: Walt Disney Television Animation, Mikros Animation.</desc>
 	</programme>
   <programme start="20260808165700 +0200" stop="20260808172500 +0200" channel="Nickelodeon HD">
     <title>Sonic Prime T1 E4 · La jungla hostil</title>
@@ -8274,10 +8250,231 @@
 · País: Estados Unidos
 · Reparto: Danny Jacobson, Lucas Grabeel, Nathan Kress.</desc>
 	</programme>
-  <programme start="20260808145500 +0200" stop="20260808165000 +0200" channel="Esport 3">
-    <title>Rugby Super League T2026 · Catalans Dragons - Wakefield Trinity</title>
-    <desc>Deportes,Rugby | 2026 | TP
-· La Rugby Super League és la competició de rugbi league de més nivell al Regne Unit.</desc>
+  <programme start="20260810162900 +0200" stop="20260810165000 +0200" channel="Nickelodeon HD">
+    <title>Patricio es la estrella (dobles) T3 E1 · El cubo risueño / Patricio es la estrella: edición nocturna</title>
+    <desc>Infantil,Dibujos animados | 2024 | TP | *6.2/10
+· La familia Estrella celebra el cumpleaños de Patricio en el Cubo de Cebo. Patricio y Calamarina exploran Fondo de Bikini en plena noche.
+· País: Estados Unidos
+· Dirección: Sean Dempsey, Alex S. Conaway.
+· Guion: Luke Brookshier, Andrew Goodman, Kaz Mr. Lawrence, Jacob Fleisher, Stephen Herczeg, Charlie Jackson, Dave Tennant, Andy Gonsalves, Miggs Perez.
+· Productora: Nickelodeon Animation Studios.</desc>
+	</programme>
+  <programme start="20260810165000 +0200" stop="20260810165800 +0200" channel="Nickelodeon HD">
+    <title>Orange Carpet All Access T9 E6 · Patrulla Canina: La Dino Película</title>
+    <desc>Infantil,Programa infantil | 2026 | TP | *5.8/10
+· En esta edición especial de la Orange Carpet, podréis descubrir los secretos tras las cámaras de los últimos estrenos.
+· País: Estados Unidos</desc>
+	</programme>
+  <programme start="20260810165800 +0200" stop="20260810172600 +0200" channel="Nickelodeon HD">
+    <title>Bob Esponja T9 E79 · Manchas extremas; Récord de ardilla</title>
+    <desc>Infantil,Dibujos animados | 2013 | +7 | *6.2/10
+· Bob Esponja y Patricio practican deportes extremos. Arenita intenta batir récords mundiales.
+· País: Estados Unidos
+· Dirección: Alan Smart, Tom Yasumi, Vincent Waller, Dave Cunningham.
+· Guion: Doug Lawrence, Luke Brookshier, Marc Ceccarelli, Derek Iversen.
+· Productora: United Plankton Pictures, Nicktoons Productions.</desc>
+	</programme>
+  <programme start="20260808153000 +0200" stop="20260808170000 +0200" channel="Real Madrid TV">
+    <title>El hijo del capitán Blood · El hijo del Capitán Blood</title>
+    <desc>Cine,Aventuras | 1962 | TP | *5.8/10
+· Un joven, inspirado por las aventuras de su padre, escapa y aborda un barco donde pronto enfrenta un peligro inminente.
+· País: Estados Unidos, España e Italia
+· Dirección: Tulio Demicheli.
+· Reparto: Sean Flean, Alessandra Panaro, Ann Todd, José Nieto, Fernando Sancho, Raf Baldassarre, Sean Flynn.
+· Guion: Casey Robinson, Arturo Rígel.
+· Música: Gregorio García Segura, Angelo Francesco Lavagnino.
+· Producción: Harry Joe Brown.
+· Productora: Benito Perojo, Producciones Benito Perojo S.A, Harry Joe Brown Productions, C.C. Mundiale.</desc>
+	</programme>
+  <programme start="20260808170000 +0200" stop="20260808190000 +0200" channel="Real Madrid TV">
+    <title>DIRECTO Ferencvaros - Real Madrid T26/27 · Hoy jugamos</title>
+    <desc>Deportes,Programa deportes | 2026 | *6.4/10
+· Real Madrid TV hace un seguimiento especial del equipo blanco. El programa describe los momentos previos y posteriores al partido a través de entrevistas y reportajes.
+· País: España</desc>
+	</programme>
+  <programme start="20260808190000 +0200" stop="20260808205500 +0200" channel="Real Madrid TV">
+    <title>DIRECTO Ferencváros - Real Madrid T26/27 · Pretemporada</title>
+    <desc>Deportes,Fútbol | 2026 | *6.6/10
+· Los equipos se preparan para el inicio inminente de las competiciones de clubes con una serie de partidos amistosos. Los entrenadores intentan encajar las piezas, los nuevos fichajes y ensayar las tácticas con las que aspiran a la victoria.
+· País: España</desc>
+	</programme>
+  <programme start="20260808205500 +0200" stop="20260808214500 +0200" channel="Real Madrid TV">
+    <title>DIRECTO Ferencváros - Real Madrid T26/27 · Hoy jugamos: El análisis</title>
+    <desc>Deportes,Programa deportes | 2026 | *6.0/10
+· Tras la finalización del encuentre, este espacio analiza el partido jugado por el Real Madrid. El programa cuenta con entrevistas, reportajes y ruedas de prensa de los protagonistas del conjunto merengue.
+· País: España</desc>
+	</programme>
+  <programme start="20260808214500 +0200" stop="20260808232500 +0200" channel="Real Madrid TV">
+    <title>Cabeza de pelotón</title>
+    <desc>Cine,Bélico | 1988 | +12 | *6.0/10
+· Un joven oficial recien salido de la academia de West Point es enviado a la guerra de Vietnam como líder de un pelotón.
+· País: Estados Unidos
+· Dirección: Aaron Norris.
+· Reparto: Carl Michael Dekker, Rogers Glen Davies, Roy Dhlamini, Raymond Barker, Stephen Forget, Sabelo Eric Ndbele.
+· Guion: Harry Alan Towers, Rick Marx, Andrew Deutsch, David L. Walker.
+· Música: George S Clinton.
+· Producción: Harry Alan Towers.
+· Productora: Cannon International, Avi Lerner, Breton Film Productions.</desc>
+	</programme>
+  <programme start="20260808232500 +0200" stop="20260809010000 +0200" channel="Real Madrid TV">
+    <title>El ejecutor</title>
+    <desc>Cine,Drama | 2017 | +16 | *5.6/10
+· Kyle fue criado por un corrupto sacerdote que lo entreno¿ para hacer el mal, bajo el pretexto de ejecutar la justicia divina. Pero ahora comienza a replantearse su vida y a cuestionarse las retorcidas directrices de su maestro.
+· País: Estados Unidos
+· Dirección: Moziko Wind.
+· Reparto: Markiss McFadden, Paul Sorvino, Mischa Barton, Robert Miano, Aidan Betesh, Eric Roberts.
+· Guion: Michael Marcelin.
+· Productora: Wind Productions, McFadden Family Films.</desc>
+	</programme>
+  <programme start="20260809010000 +0200" stop="20260809025500 +0200" channel="Real Madrid TV">
+    <title>Ciudad Real Madrid</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.2/10
+· Programa deportivo que incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.</desc>
+	</programme>
+  <programme start="20260809025500 +0200" stop="20260809054000 +0200" channel="Real Madrid TV">
+    <title>Historia que tú hiciste T2016 · La Décima: Real Madrid-Atlético de Madrid</title>
+    <desc>Información,Deportes | 2016 | *6.2/10
+· Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid. Títulos, grandes remontadas, épicas victorias, el debut de leyendas y algunos de sus protagonistas se dan cita en el programa.
+· País: España</desc>
+	</programme>
+  <programme start="20260809054000 +0200" stop="20260809080000 +0200" channel="Real Madrid TV">
+    <title>Historia que tú hiciste: La Decimoquinta. Final Champions League · Borussia Dortmund - Real Madrid</title>
+    <desc>Deportes,Programa deportes | 2024 | *5.8/10
+· Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid. Títulos, grandes remontadas, épicas victorias, el debut de leyendas y algunos de sus protagonistas se dan cita en el programa.
+· País: España</desc>
+	</programme>
+  <programme start="20260809080000 +0200" stop="20260809081500 +0200" channel="Real Madrid TV">
+    <title>Aprende inglés con Vaughan en Realmadrid TV</title>
+    <desc>Cultural/Educativo,Programa cultural | 2018 | TP | *6.2/10
+· Programa que ofrece a los espectadores la oportunidad de aprender inglés de la mano del profesor Richard Vaughan. El espacio pretende introducir al público de lleno en el idioma, tanto desde el punto de vista gramatical como desde el analítico.
+· País: España
+· Presenta: Richard Vaughan.</desc>
+	</programme>
+  <programme start="20260809081500 +0200" stop="20260809100000 +0200" channel="Real Madrid TV">
+    <title>Ciudad Real Madrid</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.2/10
+· Programa deportivo que incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.</desc>
+	</programme>
+  <programme start="20260809100000 +0200" stop="20260809153500 +0200" channel="Real Madrid TV">
+    <title>Ciudad Real Madrid</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.2/10
+· Programa deportivo que incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.</desc>
+	</programme>
+  <programme start="20260809153500 +0200" stop="20260809172000 +0200" channel="Real Madrid TV">
+    <title>La isla del tesoro</title>
+    <desc>Cine,Aventuras | 1972 | TP | *6.4/10
+· En un desolado paraje de la costa inglesa, el joven Hawkins y su madre tienen una posada. El azar hace que el chico entre en contacto con un pirata, con el que se verá inmiscuido en una aventura.
+· País: España y Reino Unido
+· Dirección: John Hough, Andrea Bianchi, Antonio Margheriti.
+· Reparto: Orson Welles, Kim Burfield, Walter Slezak.
+· Guion: Orson Welles.
+· Productora: Central Cinema Company Film (CCC).</desc>
+	</programme>
+  <programme start="20260809172000 +0200" stop="20260809191500 +0200" channel="Real Madrid TV">
+    <title>Belleza negra</title>
+    <desc>Cine,Drama | 1971 | TP | *5.8/10
+· Película que narra la amistad que se establece entre un fiero caballo negro y un niño.Basado en la clásica novela homónima de Anna Sewell, este largometraje familiar cuenta una eterna historia de amistad, amor y coraje.
+· País: Reino Unido
+· Dirección: James Hill.
+· Reparto: Mark Lester, Walter Slezak, Peter Lee Lawrence, Uschi Glas, Patrick Mower.
+· Guion: Wolf Mankowitz.
+· Producción: Artur Brauner, Malcolm B Heyworth, Peter L Andrews.
+· Productora: Tigon British Film Productions Ltd, Chilton Films.</desc>
+	</programme>
+  <programme start="20260809191500 +0200" stop="20260809194500 +0200" channel="Real Madrid TV">
+    <title>30 minutos T18/19 · La Decimotercera: Real Madrid-Liverpool</title>
+    <desc>Deportes,Programa deportes | 2018 | *6.2/10
+· Espacio que ofrece un resumen de los mejores partidos del Real Madrid.
+· País: España</desc>
+	</programme>
+  <programme start="20260809194500 +0200" stop="20260809201500 +0200" channel="Real Madrid TV">
+    <title>30 minutos T21/22 · La Decimocuarta. Final Champions 21/22. Liverpool-R. Madrid</title>
+    <desc>Deportes,Programa deportes | 2022 | *6.2/10
+· Espacio que ofrece un resumen de los mejores partidos del Real Madrid.
+· País: España</desc>
+	</programme>
+  <programme start="20260809201500 +0200" stop="20260809210000 +0200" channel="Real Madrid TV">
+    <title>30 minutos T21/22 · La Decimoquinta. Bor. Dortmund - R. Madrid. Final Champions League 2024</title>
+    <desc>Deportes,Programa deportes | 2026 | *5.8/10
+· Espacio que ofrece un resumen de los mejores partidos del Real Madrid.
+· País: España</desc>
+	</programme>
+  <programme start="20260809210000 +0200" stop="20260809213000 +0200" channel="Real Madrid TV">
+    <title>Conecta Informativo</title>
+    <desc>Información,Deportes | 2021 | TP | *6.4/10
+· Un profundo repaso a la actualidad que ha generado el Real Madrid en las últimas horas.
+· País: España</desc>
+	</programme>
+  <programme start="20260809213000 +0200" stop="20260809232000 +0200" channel="Real Madrid TV">
+    <title>El río de la muerte</title>
+    <desc>Cine,Aventuras | 1989 | +16 | *5.8/10
+· Un aventurero decide ir en busca de una ciudad perdida en la Amazonia. Junto a él viaja un grupo de personas interesadas en la ciudad por diversos motivos. Pero la expedición se topa con un doctor nazi que ha estado haciendo experimentos por la zona.
+· País: Estados Unidos
+· Dirección: Steve Carver.
+· Reparto: Donald Pleasence, Herbert Lom, Robert Vaughn, Michael Dudikoff, L.Q. Jones.
+· Guion: Andrew Deutsch, Andrew Simpson, Edward Simpson.
+· Música: Sasha Matson.
+· Productora: Breton Film Productions, Cannon Int., Path, Pathe Communications, Cannon International.</desc>
+	</programme>
+  <programme start="20260809232000 +0200" stop="20260810005500 +0200" channel="Real Madrid TV">
+    <title>Aislados</title>
+    <desc>Cine,Thriller | 2015 | +16 | *6.0/10
+· Pelicula inspirada en hechos reales. Una pareja es cazada por un grupo de piratas modernos cuando pasaban sus vacaciones en una isla remota de las Bahamas.
+· País: Estados Unidos
+· Dirección: Shane Dax Taylor.
+· Reparto: Dominic Purcell, Luke Mably, Marie Avgeropoulos, Claudia Church, Robert Ryan, Michael Burns, Tricia Helfer.
+· Guion: Chad Law, Shane Dax Taylor.
+· Productora: Hollywood Media Bridge.</desc>
+	</programme>
+  <programme start="20260810005500 +0200" stop="20260810063000 +0200" channel="Real Madrid TV">
+    <title>Ciudad Real Madrid</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.2/10
+· Programa deportivo que incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.</desc>
+	</programme>
+  <programme start="20260810063000 +0200" stop="20260810080000 +0200" channel="Real Madrid TV">
+    <title>Historia que tú hiciste · La Quinta. R. Madrid-Eintracht Frankfurt</title>
+    <desc>Información,Deportes | 2016 | *6.4/10
+· Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid. Títulos, grandes remontadas, épicas victorias, el debut de leyendas y algunos de sus protagonistas se dan cita en el programa.
+· País: España</desc>
+	</programme>
+  <programme start="20260810080000 +0200" stop="20260810095500 +0200" channel="Real Madrid TV">
+    <title>Historia que tú hiciste T2016 · La Duodécima: Juventus-Real Madrid</title>
+    <desc>Información,Deportes | 2016 | *6.2/10
+· Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid. Títulos, grandes remontadas, épicas victorias, el debut de leyendas y algunos de sus protagonistas se dan cita en el programa.
+· País: España</desc>
+	</programme>
+  <programme start="20260810095500 +0200" stop="20260810123500 +0200" channel="Real Madrid TV">
+    <title>Historia que tú hiciste T2016 · Final Copa del Rey 2011: Barcelona-Real Madrid</title>
+    <desc>Información,Deportes | 2016 | *6.2/10
+· Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid. Títulos, grandes remontadas, épicas victorias, el debut de leyendas y algunos de sus protagonistas se dan cita en el programa.
+· País: España</desc>
+	</programme>
+  <programme start="20260810123500 +0200" stop="20260810143000 +0200" channel="Real Madrid TV">
+    <title>Historia que tú hiciste: Supercopa de Europa · Real Madrid - Eintracht de Frankfurt</title>
+    <desc>Deportes,Programa deportes | 2022 | *6.4/10
+· Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid. Títulos, grandes remontadas, épicas victorias, el debut de leyendas y algunos de sus protagonistas se dan cita en el programa.
+· País: España</desc>
+	</programme>
+  <programme start="20260810143000 +0200" stop="20260810150000 +0200" channel="Real Madrid TV">
+    <title>Conecta Informativo</title>
+    <desc>Información,Deportes | 2021 | TP | *6.4/10
+· Un profundo repaso a la actualidad que ha generado el Real Madrid en las últimas horas.
+· País: España</desc>
+	</programme>
+  <programme start="20260810150000 +0200" stop="20260810153500 +0200" channel="Real Madrid TV">
+    <title>Ciudad Real Madrid</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.2/10
+· Programa deportivo que incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.</desc>
+	</programme>
+  <programme start="20260810153500 +0200" stop="20260810171500 +0200" channel="Real Madrid TV">
+    <title>Hércules contra Roma</title>
+    <desc>Cine,Aventuras | 1964 | +7 | *6.0/10
+· Roma, año 244. Tras el asesinato del emperador Gordiano, Hércules lucha por derrocar al usurpador y devolver el trono a los herederos.
+· País: Francia e Italia
+· Dirección: Piero Pieroti.
+· Reparto: Salvatore Borghese, Wandisa Guida, Livio Lorenzon, Daniele Vargas, Sergio Ciani, Mimmo Palmara, Andrea Aureli, Alberto Cevenini, Simonetta Simeoni, Armando Guarnieri, Nello Pazzafini, Renato Navarrini, Tullio Altamura, Dina de Santis, Carlo Tamberlani, Sal Borgese, Attilio Dottesio.
+· Guion: Piero Pieroti, Arpad DeRiso, Nino Scolaro, Giovanni Scolaro.
+· Productora: SFF Alfred Rode, Romana Film, Regina Films.</desc>
 	</programme>
   <programme start="20260808165000 +0200" stop="20260808175000 +0200" channel="Esport 3">
     <title>Núñez: El dinero no da la felicidad · El patrimoni no fa la felicitat</title>
@@ -8462,7 +8659,7 @@
 · Productora: TVC Televisió de Catalunya.</desc>
 	</programme>
   <programme start="20260809185500 +0200" stop="20260809205500 +0200" channel="Esport 3">
-    <title>Retransmissió esportiva · Retransmisión deportiva</title>
+    <title>Retransmissió esportiva</title>
     <desc>Deportes,Otros deportes | 2026 | TP | *5.6/10
 · Retransmisión deportiva.</desc>
 	</programme>
@@ -8643,8 +8840,23 @@
 · País: España
 · Productora: TVC Televisió de Catalunya.</desc>
 	</programme>
-  <programme start="20260808150000 +0200" stop="20260808170000 +0200" channel="M+ Vamos HD">
-    <title>Semifinal: Triay/Brea - Sánchez/Ustero T2026 · Premier Padel. Londres</title>
+  <programme start="20260810162000 +0200" stop="20260810164400 +0200" channel="Esport 3">
+    <title>Riu avall: Noguera Ribagorçana</title>
+    <desc>Documentales,Viajes | 2016 | TP | *5.8/10
+· La Noguera Ribagorçana travessa un paisatge amb un alt patrimoni històric i natural.
+· País: España
+· Dirección: José Luis Gallego.
+· Productora: Somos.som.</desc>
+	</programme>
+  <programme start="20260810164400 +0200" stop="20260810173600 +0200" channel="Esport 3">
+    <title>Gent de món T1 · Turquia</title>
+    <desc>Entretenimiento | 2015 | TP | *6.0/10
+· Avui tindreu l'oportunitat de visitar un dels països on la tradició musulmana i la modernitat estan en harmonia, un dels països emergents més dinàmic, divers i carregat d'història del planeta. Avui visitarem Turquia.
+· País: España
+· Productora: Televisió de Catalunya (TV3), Lironda Films, BCN Play.</desc>
+	</programme>
+  <programme start="20260808152000 +0200" stop="20260808170000 +0200" channel="M+ Vamos HD">
+    <title>Premier Padel. Londres T2026 · Semifinal: Triay/Brea - Sánchez/Ustero</title>
     <desc>Deportes,Pádel | 2026 | TP | *6.2/10
 · Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
 	</programme>
@@ -8686,7 +8898,7 @@
 · El Torneo Clausura cierra la Primera División argentina. Se trata de una competición independiente del Apertura, con su propia clasificación, playoffs y campeón, aunque los puntos de ambas.</desc>
 	</programme>
   <programme start="20260809021500 +0200" stop="20260809041500 +0200" channel="M+ Vamos HD">
-    <title>Semifinal: Fernández/Calvo - Josemaría/González T2026 · Premier Padel. Londres</title>
+    <title>Premier Padel. Londres T2026 · Semifinal: Fernández/Calvo - Josemaría/González</title>
     <desc>Deportes,Pádel | 2026 | TP | *6.2/10
 · Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
 	</programme>
@@ -8717,7 +8929,7 @@
 	</programme>
   <programme start="20260809091000 +0200" stop="20260809110000 +0200" channel="M+ Vamos HD">
     <title>Jornada 1: Argentina - Sudáfrica T2026 · Rugby Test Matches Internationals</title>
-    <desc>Deportes,Rugby | TP | *6.4/10
+    <desc>Deportes,Rugby | TP | *6.6/10
 · Rugby Test Matches Internationals.
 · País: &lt;span&gt;Selección de Argentina&lt;/span&gt;</desc>
 	</programme>
@@ -8799,7 +9011,7 @@
 	</programme>
   <programme start="20260810063000 +0200" stop="20260810083000 +0200" channel="M+ Vamos HD">
     <title>Jornada 1: Argentina - Sudáfrica T2026 · Rugby Test Matches Internationals</title>
-    <desc>Deportes,Rugby | TP | *6.4/10
+    <desc>Deportes,Rugby | TP | *6.6/10
 · Rugby Test Matches Internationals.
 · País: &lt;span&gt;Selección de Argentina&lt;/span&gt;</desc>
 	</programme>
@@ -8846,15 +9058,17 @@
 · Más de 120 personajes entre los que se encuentran ex jugadores, entrenadores, periodistas y las caras más reconocidas de Movistar+ repasan momentos, partidos o jugadores destacados de la historia de LaLiga en un formato de Ranking formado por 15 puestos.
 · País: España</desc>
 	</programme>
-  <programme start="20260808151100 +0200" stop="20260808161800 +0200" channel="M+ LaLiga HD">
-    <title>El Calendario de LaLiga 2026/27</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
-· LaLiga se traslada a la Plaza de Colón donde tendrá lugar su tradicional Asamblea. La nueva temporada se presenta apasionante y esta noche conoceremos cómo quedan todos los emparejamientos de las 38 jornadas de la temporada 2026/27.
-· País: España</desc>
+  <programme start="20260810165000 +0200" stop="20260810175000 +0200" channel="M+ Vamos HD">
+    <title>Universo Valdano T9 · Andrés Iniesta</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Andrés Iniesta es el invitado en esta nueva entrega de Universo Valdano. Junto a él, profundizamos en su momento más oscuro en lo personal, que coincidió con su momento más brillante como futbolista.
+· País: España
+· Presenta: Jorge Valdano.
+· Productora: Mediapro.</desc>
 	</programme>
   <programme start="20260808161800 +0200" stop="20260808181100 +0200" channel="M+ LaLiga HD">
     <title>LALIGA EA SPORTS T25/26 · Jornada 7: Barcelona - Real Sociedad</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *7.2/10
+    <desc>Deportes,Fútbol | 2025 | TP
 · Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
 	</programme>
@@ -9038,9 +9252,16 @@
 · Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
 	</programme>
+  <programme start="20260810163200 +0200" stop="20260810173900 +0200" channel="M+ LaLiga HD">
+    <title>El fútbol según Raúl T2 · Valencia CF, aquellos maravillosos años</title>
+    <desc>Deportes,Programa deportes | 2021 | TP | *6.6/10
+· Raúl Ruiz rememora el lustro dorado del Valencia, que arranca con el golazo de Mendieta en la final de Copa 98-99 y la consecución de aquel título y termina en 2004 con el doblete Liga-UEFA con Benítez, su marcha y la Supercopa de Europa.
+· País: España
+· Presenta: Raúl González.</desc>
+	</programme>
   <programme start="20260808150000 +0200" stop="20260808170000 +0200" channel="DAZN LaLiga HD">
     <title>Mundial 2026 T2026 · Octavos de final: Argentina - Egipto</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+    <desc>Deportes,Fútbol | 2026 | TP
 · El Mundial más grande de la historia ya está aquí. La gran cita de selecciones de la FIFA cuenta por primera vez con 48 equipos en busca de la gloria. Estados Unidos, México y Canadá se convierten en el epicentro del planeta fútbol.
 · País: Estados Unidos</desc>
 	</programme>
@@ -9268,12 +9489,6 @@
     <title>M+ LALIGA 2</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260808143000 +0200" stop="20260808163000 +0200" channel="M+ Liga de Campeones HD">
-    <title>UEFA Europa League T25/26 · Jornada 4: Betis - Olympique Lyon</title>
-    <desc>Deportes,Fútbol | 2025 | TP
-· El Real Betis recibe al Olympique de Lyon, que ha ganado sus tres partidos de Europa League, con el objetivo de sumar su segundo triunfo y mantener el invicto en Europa.
-· País: España</desc>
-	</programme>
   <programme start="20260808163000 +0200" stop="20260808183000 +0200" channel="M+ Liga de Campeones HD">
     <title>UEFA Europa League T25/26 · Jornada 5: Betis - Utrecht</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.6/10
@@ -9466,15 +9681,32 @@
 · Presenta: Jorge Valdano.
 · Productora: Mediapro.</desc>
 	</programme>
-  <programme start="20260808120000 +0200" stop="20260809000000 +0200" channel="M+ Liga de Campeones 2 HD">
+  <programme start="20260810163000 +0200" stop="20260810183000 +0200" channel="M+ Liga de Campeones HD">
+    <title>UEFA Europa League T25/26 · Jornada 5: Aston Villa - Young Boys</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *6.8/10
+· Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
+· País: Reino Unido</desc>
+	</programme>
+  <programme start="20260808140000 +0200" stop="20260808215000 +0200" channel="M+ Liga de Campeones 2 HD">
+    <title>M+ Liga de Campeones 2</title>
+    <desc>Deportes,Fútbol | TP | *6.2/10
+· M+ Liga de Campeones 2 -.</desc>
+	</programme>
+  <programme start="20260808215000 +0200" stop="20260809000000 +0200" channel="M+ Liga de Campeones 2 HD">
+    <title>DIRECTO Jornada 4: Tigre - River Plate T2026 · Liga Argentina. Torneo Clausura</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· El Torneo Clausura cierra la Primera División argentina. Se trata de una competición independiente del Apertura, con su propia clasificación, playoffs y campeón, aunque los puntos de ambas.</desc>
+	</programme>
+  <programme start="20260809000000 +0200" stop="20260809080000 +0200" channel="M+ Liga de Campeones 2 HD">
+    <title>M+ Liga de Campeones 2</title>
+    <desc>Deportes,Fútbol | TP | *6.2/10
+· M+ Liga de Campeones 2 -.</desc>
+	</programme>
+  <programme start="20260809080000 +0200" stop="20260809200000 +0200" channel="M+ Liga de Campeones 2 HD">
     <title>M+ Liga de Campeones 2</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-  <programme start="20260809000000 +0200" stop="20260809120000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-  <programme start="20260809120000 +0200" stop="20260810000000 +0200" channel="M+ Liga de Campeones 2 HD">
+  <programme start="20260809200000 +0200" stop="20260810000000 +0200" channel="M+ Liga de Campeones 2 HD">
     <title>M+ Liga de Campeones 2</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -9511,19 +9743,19 @@
     <desc>Deportes,Béisbol | 2026 | TP
 · Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante, las World Series.</desc>
 	</programme>
-  <programme start="20260808181700 +0200" stop="20260808202200 +0200" channel="M+ Deportes HD">
-    <title>Semifinal: Fernández/Calvo - Josemaría/González T2026 · Premier Padel. Londres</title>
+  <programme start="20260808181700 +0200" stop="20260808202100 +0200" channel="M+ Deportes HD">
+    <title>Premier Padel. Londres T2026 · Semifinal: Fernández/Calvo - Josemaría/González</title>
     <desc>Deportes,Pádel | 2026 | TP | *6.2/10
 · Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
 	</programme>
-  <programme start="20260808202200 +0200" stop="20260808205000 +0200" channel="M+ Deportes HD">
+  <programme start="20260808202100 +0200" stop="20260808205000 +0200" channel="M+ Deportes HD">
     <title>ATP Tour This Week T2026 E30</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · ATP Tour This Week.</desc>
 	</programme>
   <programme start="20260808205000 +0200" stop="20260808231500 +0200" channel="M+ Deportes HD">
     <title>DIRECTO Jornada 1: Argentina - Sudáfrica T2026 · Rugby Test Matches Internationals</title>
-    <desc>Deportes,Rugby | TP | *6.4/10
+    <desc>Deportes,Rugby | TP | *6.6/10
 · Rugby Test Matches Internationals.
 · País: &lt;span&gt;Selección de Argentina&lt;/span&gt;</desc>
 	</programme>
@@ -9533,7 +9765,7 @@
 · Las mejores jugadas de la Major League Baseball, resumidas en media hora con la magníficas narraciones originales de las cadenas de EEUU. El verdadero pasatiempo nacional...</desc>
 	</programme>
   <programme start="20260808234500 +0200" stop="20260809015000 +0200" channel="M+ Deportes HD">
-    <title>Semifinal: Triay/Brea - Sánchez/Ustero T2026 · Premier Padel. Londres</title>
+    <title>Premier Padel. Londres T2026 · Semifinal: Triay/Brea - Sánchez/Ustero</title>
     <desc>Deportes,Pádel | 2026 | TP | *6.2/10
 · Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
 	</programme>
@@ -9573,7 +9805,7 @@
 	</programme>
   <programme start="20260809090000 +0200" stop="20260809102500 +0200" channel="M+ Deportes HD">
     <title>NCAA T25/26 · 1ª Ronda: Texas Tech - Akron</title>
-    <desc>Deportes,Baloncesto | 2026 | TP | *6.4/10
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.2/10
 · Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.
 · País: Estados Unidos</desc>
 	</programme>
@@ -9589,13 +9821,13 @@
 	</programme>
   <programme start="20260809144500 +0200" stop="20260809164800 +0200" channel="M+ Deportes HD">
     <title>Jornada 1: Argentina - Sudáfrica T2026 · Rugby Test Matches Internationals</title>
-    <desc>Deportes,Rugby | TP | *6.4/10
+    <desc>Deportes,Rugby | TP | *6.6/10
 · Rugby Test Matches Internationals.
 · País: &lt;span&gt;Selección de Argentina&lt;/span&gt;</desc>
 	</programme>
   <programme start="20260809164800 +0200" stop="20260809171500 +0200" channel="M+ Deportes HD">
     <title>Vela Panorama T2026 · Vela Clásica Javea</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+    <desc>Deportes,Programa deportes | 2026 | TP
 · Las mejores competiciones vinculadas a la vela y el mar.
 · País: España</desc>
 	</programme>
@@ -9632,7 +9864,7 @@
 	</programme>
   <programme start="20260810004800 +0200" stop="20260810021400 +0200" channel="M+ Deportes HD">
     <title>NCAA T25/26 · 1ª Ronda: Texas Tech - Akron</title>
-    <desc>Deportes,Baloncesto | 2026 | TP | *6.4/10
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.2/10
 · Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.
 · País: Estados Unidos</desc>
 	</programme>
@@ -9664,7 +9896,7 @@
 	</programme>
   <programme start="20260810080000 +0200" stop="20260810092500 +0200" channel="M+ Deportes HD">
     <title>NCAA T25/26 · 1ª Ronda: Texas Tech - Akron</title>
-    <desc>Deportes,Baloncesto | 2026 | TP | *6.4/10
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.2/10
 · Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.
 · País: Estados Unidos</desc>
 	</programme>
@@ -9693,6 +9925,17 @@
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · ATP Tour This Week.</desc>
 	</programme>
+  <programme start="20260810162500 +0200" stop="20260810165500 +0200" channel="M+ Deportes HD">
+    <title>Vela Panorama T2026 · Vela Clásica Javea</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Las mejores competiciones vinculadas a la vela y el mar.
+· País: España</desc>
+	</programme>
+  <programme start="20260810165500 +0200" stop="20260810180500 +0200" channel="M+ Deportes HD">
+    <title>09/08/2026 Hipódromo de San Sebastián T2026 · Carreras de Caballos- Turf</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Las carreras de caballos son un espectáculo extendido por todo el mundo y generan multitud de apuestas. Monturas y jinetes se exprimen al máximo para llegar a la meta en el menor tiempo posible.</desc>
+	</programme>
   <programme start="20260808150000 +0200" stop="20260808183500 +0200" channel="M+ Deportes 2 HD">
     <title>M+ Deportes 2</title>
     <desc>Deportes,Otros deportes | TP | *6.0/10
@@ -9705,7 +9948,7 @@
 	</programme>
   <programme start="20260808203500 +0200" stop="20260808223500 +0200" channel="M+ Deportes 2 HD">
     <title>DIRECTO Octavos de Final: Rinderknech - Nakashima T2026 · Torneo de Montreal</title>
-    <desc>Deportes,Tenis | 2026 | TP | *6.0/10
+    <desc>Deportes,Tenis | 2026 | TP | *5.6/10
 · Montreal acoge este año el Masters 1000 canadiense que se alterna con Toronto. Alexander Zverev y el local Félix Auger-Aliassime son los primeros cabezas de serie.</desc>
 	</programme>
   <programme start="20260808223500 +0200" stop="20260809000500 +0200" channel="M+ Deportes 2 HD">
@@ -9778,22 +10021,22 @@
     <desc>Deportes,Otros deportes | TP | *6.0/10
 · M+ Deportes 2 -.</desc>
 	</programme>
-  <programme start="20260808150000 +0200" stop="20260808170000 +0200" channel="M+ Deportes 3">
-    <title>Semifinal: Triay/Brea - Sánchez/Ustero T2026 · Premier Padel. Londres</title>
+  <programme start="20260808152000 +0200" stop="20260808172000 +0200" channel="M+ Deportes 3">
+    <title>Premier Padel. Londres T2026 · Semifinal: Triay/Brea - Sánchez/Ustero</title>
     <desc>Deportes,Pádel | 2026 | TP | *6.2/10
 · Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
 	</programme>
-  <programme start="20260808170000 +0200" stop="20260808190000 +0200" channel="M+ Deportes 3">
+  <programme start="20260808172000 +0200" stop="20260808192000 +0200" channel="M+ Deportes 3">
     <title>Semifinal: Tapia/Coello - Di Nenno/Navarro T2026 · Premier Padel. Londres</title>
     <desc>Deportes,Pádel | 2026 | TP | *6.2/10
 · Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
 	</programme>
-  <programme start="20260808190000 +0200" stop="20260808220000 +0200" channel="M+ Deportes 3">
+  <programme start="20260808192000 +0200" stop="20260808222000 +0200" channel="M+ Deportes 3">
     <title>DIRECTO Semifinal: Augsburger/Lebron - Chingotto/Galan T2026 · Premier Padel. Londres</title>
     <desc>Deportes,Pádel | 2026 | TP | *5.8/10
 · Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
 	</programme>
-  <programme start="20260808220000 +0200" stop="20260809010000 +0200" channel="M+ Deportes 3">
+  <programme start="20260808222000 +0200" stop="20260809010000 +0200" channel="M+ Deportes 3">
     <title>M+ Deportes 3</title>
     <desc>Deportes,Otros deportes | 2026 | TP | *6.0/10
 · M+ Deportes 3 -.</desc>
@@ -9979,11 +10222,6 @@
     <desc>Deportes,Golf | 2026 | TP | *6.4/10
 · Los mejores jugadores del mundo afrontan una jornada más en el PGA TOUR rumbo a los playoffs de la FedEx Cup, donde espera un bonus de 10 millones de dólares para el profesional más regular de la temporada.</desc>
 	</programme>
-  <programme start="20260808145100 +0200" stop="20260808165100 +0200" channel="DAZN F1 HD">
-    <title>Mundial F1 - GP de Bélgica T2026 · Carrera</title>
-    <desc>Deportes,Motor | 2026 | TP
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
-	</programme>
   <programme start="20260808165100 +0200" stop="20260808171100 +0200" channel="DAZN F1 HD">
     <title>Código F1 T2026 · Bélgica</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
@@ -10149,12 +10387,6 @@
     <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-  <programme start="20260808145300 +0200" stop="20260808165600 +0200" channel="DAZN 1 HD">
-    <title>Premier League T25/26 · Jornada 32: Chelsea - Manchester City</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Tras solventar con holgura la eliminatoria de FA Cup, Rosenior y Guardiola vuelven a la competición de la regularidad. Los londinenses, con problemas internos, sólo han ganado uno de los últimos seis en liga. El City persigue al líder y no puede fallar.
-· País: Reino Unido</desc>
-	</programme>
   <programme start="20260808165600 +0200" stop="20260808171200 +0200" channel="DAZN 1 HD">
     <title>Inside Ducati T2026 · Alemania</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
@@ -10207,7 +10439,7 @@
 	</programme>
   <programme start="20260808225800 +0200" stop="20260808235900 +0200" channel="DAZN 1 HD">
     <title>MotoGP - GP de Gran Bretaña T2026 · Carrera al sprint</title>
-    <desc>Deportes,Motociclismo | TP | *6.0/10
+    <desc>Deportes,Motociclismo | TP | *5.8/10
 · El GP de Gran Bretaña de MotoGP es una icónica cita del mundial celebrada en el veloz circuito de Silverstone. Destaca por sus curvas rápidas, clima británico impredecible y una rica historia que desafía al límite la técnica de los pilotos.
 · País: Alemania</desc>
 	</programme>
@@ -10333,6 +10565,17 @@
 · En 2025, Marc Márquez apostó todo por el rojo y se pasó al equipo oficial de Ducati.
 · País: España</desc>
 	</programme>
+  <programme start="20260810163200 +0200" stop="20260810164400 +0200" channel="DAZN 1 HD">
+    <title>Inside Ducati T2026 · Países Bajos</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Programa que ofrece una visión entre bastidores del equipo Ducati Lenovo en la temporada de MotoGP.</desc>
+	</programme>
+  <programme start="20260810164400 +0200" stop="20260810171200 +0200" channel="DAZN 1 HD">
+    <title>La Titan Patagonia, una experiencia inigualable</title>
+    <desc>Documentales,Deportes | 2026 | TP | *5.6/10
+· Vive la dura experiencia de la Titan World Series en la Patagonia en este apasionante documental.
+· País: España</desc>
+	</programme>
   <programme start="20260808150000 +0200" stop="20260808180000 +0200" channel="DAZN 2 HD">
     <title>Disfruta de DAZN en Movistar Plus</title>
     <desc>· Programa por determinar...</desc>
@@ -10395,8 +10638,8 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
   <programme start="20260808153000 +0200" stop="20260808180000 +0200" channel="Eurosport 1 HD">
-    <title>DIRECTO Etapa 8 - Sisteron - Niza T2026 · Tour de Francia F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
+    <title>Tour de Francia F T2026 · Etapa 8 - Sisteron - Niza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.
 · País: Francia</desc>
 	</programme>
@@ -10408,57 +10651,57 @@
 	</programme>
   <programme start="20260808183000 +0200" stop="20260808200000 +0200" channel="Eurosport 1 HD">
     <title>Golden Trail World Series T2026 · Sierre - Zinal</title>
-    <desc>Deportes,Atletismo | 2026 | TP
+    <desc>Deportes,Atletismo | 2026 | TP | *6.2/10
 · Una serie de carreras de montaña de alto nivel que reúnen a los mejores corredores de trail running del mundo. El certamen ofrece desafíos atléticos y escenarios impresionantes en diferentes lugares del planeta.</desc>
 	</programme>
   <programme start="20260808200000 +0200" stop="20260808220000 +0200" channel="Eurosport 1 HD">
     <title>Snooker: Open de China T26/27 · Día 1</title>
-    <desc>Deportes,Snooker | 2026 | TP | *6.2/10
+    <desc>Deportes,Snooker | 2026 | TP | *6.4/10
 · La ciudad de Taiyuan alberga la disputa del Open de China del 8 al 16 de agosto.</desc>
 	</programme>
   <programme start="20260808220000 +0200" stop="20260808230000 +0200" channel="Eurosport 1 HD">
-    <title>Etapa 8 - Sisteron - Niza T2026 · Tour de Francia F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
+    <title>Tour de Francia F T2026 · Etapa 8 - Sisteron - Niza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.
 · País: Francia</desc>
 	</programme>
   <programme start="20260808230000 +0200" stop="20260809000000 +0200" channel="Eurosport 1 HD">
-    <title>Etapa 6 - Bukovina Resort - Bukowina Tatrzańska T2026 · Tour de Polonia M</title>
+    <title>Tour de Polonia M T2026 · Etapa 6 - Bukovina Resort - Bukowina Tatrzańska</title>
     <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
 · El Tour de Polonia llega a la 83.ª edición. Esta carrera ciclista del UCI WorldTour se celebra del 3 al 9 de agosto. Consta de 7 etapas bajo el lema "Norte-Sur", iniciando en Gdynia y cerrando en la mina de sal de Wieliczka.
 · País: Polonia</desc>
 	</programme>
   <programme start="20260809000000 +0200" stop="20260809013000 +0200" channel="Eurosport 1 HD">
     <title>Snooker: Open de China T26/27 · Día 1</title>
-    <desc>Deportes,Snooker | 2026 | TP | *6.2/10
+    <desc>Deportes,Snooker | 2026 | TP | *6.4/10
 · La ciudad de Taiyuan alberga la disputa del Open de China del 8 al 16 de agosto.</desc>
 	</programme>
   <programme start="20260809013000 +0200" stop="20260809023000 +0200" channel="Eurosport 1 HD">
-    <title>Etapa 6 - Bukovina Resort - Bukowina Tatrzańska T2026 · Tour de Polonia M</title>
+    <title>Tour de Polonia M T2026 · Etapa 6 - Bukovina Resort - Bukowina Tatrzańska</title>
     <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
 · El Tour de Polonia llega a la 83.ª edición. Esta carrera ciclista del UCI WorldTour se celebra del 3 al 9 de agosto. Consta de 7 etapas bajo el lema "Norte-Sur", iniciando en Gdynia y cerrando en la mina de sal de Wieliczka.
 · País: Polonia</desc>
 	</programme>
   <programme start="20260809023000 +0200" stop="20260809033000 +0200" channel="Eurosport 1 HD">
-    <title>Etapa 8 - Sisteron - Niza T2026 · Tour de Francia F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
+    <title>Tour de Francia F T2026 · Etapa 8 - Sisteron - Niza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.
 · País: Francia</desc>
 	</programme>
   <programme start="20260809033000 +0200" stop="20260809050000 +0200" channel="Eurosport 1 HD">
     <title>Snooker: Open de China T26/27 · Día 1</title>
-    <desc>Deportes,Snooker | 2026 | TP | *6.2/10
+    <desc>Deportes,Snooker | 2026 | TP | *6.4/10
 · La ciudad de Taiyuan alberga la disputa del Open de China del 8 al 16 de agosto.</desc>
 	</programme>
   <programme start="20260809050000 +0200" stop="20260809063000 +0200" channel="Eurosport 1 HD">
-    <title>Etapa 8 - Sisteron - Niza T2026 · Tour de Francia F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
+    <title>Tour de Francia F T2026 · Etapa 8 - Sisteron - Niza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.
 · País: Francia</desc>
 	</programme>
   <programme start="20260809063000 +0200" stop="20260809080000 +0200" channel="Eurosport 1 HD">
     <title>Snooker: Open de China T26/27 · Día 1</title>
-    <desc>Deportes,Snooker | 2026 | TP | *6.2/10
+    <desc>Deportes,Snooker | 2026 | TP | *6.4/10
 · La ciudad de Taiyuan alberga la disputa del Open de China del 8 al 16 de agosto.</desc>
 	</programme>
   <programme start="20260809080000 +0200" stop="20260809113000 +0200" channel="Eurosport 1 HD">
@@ -10467,8 +10710,8 @@
 · La ciudad de Taiyuan alberga la disputa del Open de China del 8 al 16 de agosto.</desc>
 	</programme>
   <programme start="20260809113000 +0200" stop="20260809123000 +0200" channel="Eurosport 1 HD">
-    <title>Etapa 8 - Sisteron - Niza T2026 · Tour de Francia F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
+    <title>Tour de Francia F T2026 · Etapa 8 - Sisteron - Niza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.
 · País: Francia</desc>
 	</programme>
@@ -10485,8 +10728,8 @@
 · País: Hong Kong</desc>
 	</programme>
   <programme start="20260809143000 +0200" stop="20260809154500 +0200" channel="Eurosport 1 HD">
-    <title>Etapa 8 - Sisteron - Niza T2026 · Tour de Francia F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
+    <title>Tour de Francia F T2026 · Etapa 8 - Sisteron - Niza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.
 · País: Francia</desc>
 	</programme>
@@ -10562,12 +10805,6 @@
     <desc>Deportes,Snooker | 2026 | TP | *5.8/10
 · La ciudad de Taiyuan alberga la disputa del Open de China del 8 al 16 de agosto.</desc>
 	</programme>
-  <programme start="20260808134500 +0200" stop="20260808164500 +0200" channel="Eurosport 2">
-    <title>DIRECTO Etapa 6 - Bukovina Resort - Bukowina Tatrzańska T2026 · Tour de Polonia M</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
-· El Tour de Polonia llega a la 83.ª edición. Esta carrera ciclista del UCI WorldTour se celebra del 3 al 9 de agosto. Consta de 7 etapas bajo el lema "Norte-Sur", iniciando en Gdynia y cerrando en la mina de sal de Wieliczka.
-· País: Polonia</desc>
-	</programme>
   <programme start="20260808164500 +0200" stop="20260808190000 +0200" channel="Eurosport 2">
     <title>24 Horas de Le Mans - Mundial de resistencia de la FIA T2026 · Carrera</title>
     <desc>Deportes,Automovilismo | 2026 | TP | *5.6/10
@@ -10581,13 +10818,13 @@
 · País: Polonia</desc>
 	</programme>
   <programme start="20260808200000 +0200" stop="20260808210000 +0200" channel="Eurosport 2">
-    <title>Etapa 8 - Sisteron - Niza T2026 · Tour de Francia F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
+    <title>Tour de Francia F T2026 · Etapa 8 - Sisteron - Niza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.
 · País: Francia</desc>
 	</programme>
   <programme start="20260808210000 +0200" stop="20260808220000 +0200" channel="Eurosport 2">
-    <title>Etapa 6 - Bukovina Resort - Bukowina Tatrzańska T2026 · Tour de Polonia M</title>
+    <title>Tour de Polonia M T2026 · Etapa 6 - Bukovina Resort - Bukowina Tatrzańska</title>
     <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
 · El Tour de Polonia llega a la 83.ª edición. Esta carrera ciclista del UCI WorldTour se celebra del 3 al 9 de agosto. Consta de 7 etapas bajo el lema "Norte-Sur", iniciando en Gdynia y cerrando en la mina de sal de Wieliczka.
 · País: Polonia</desc>
@@ -10605,19 +10842,19 @@
 · País: Polonia</desc>
 	</programme>
   <programme start="20260809000000 +0200" stop="20260809013000 +0200" channel="Eurosport 2">
-    <title>Etapa 8 - Sisteron - Niza T2026 · Tour de Francia F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
+    <title>Tour de Francia F T2026 · Etapa 8 - Sisteron - Niza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.
 · País: Francia</desc>
 	</programme>
   <programme start="20260809013000 +0200" stop="20260809033000 +0200" channel="Eurosport 2">
     <title>Snooker: Open de China T26/27 · Día 1</title>
-    <desc>Deportes,Snooker | 2026 | TP | *6.2/10
+    <desc>Deportes,Snooker | 2026 | TP | *6.4/10
 · La ciudad de Taiyuan alberga la disputa del Open de China del 8 al 16 de agosto.</desc>
 	</programme>
   <programme start="20260809033000 +0200" stop="20260809050000 +0200" channel="Eurosport 2">
-    <title>Etapa 8 - Sisteron - Niza T2026 · Tour de Francia F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
+    <title>Tour de Francia F T2026 · Etapa 8 - Sisteron - Niza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.
 · País: Francia</desc>
 	</programme>
@@ -10634,14 +10871,14 @@
 · País: Francia</desc>
 	</programme>
   <programme start="20260809063000 +0200" stop="20260809073000 +0200" channel="Eurosport 2">
-    <title>Etapa 6 - Bukovina Resort - Bukowina Tatrzańska T2026 · Tour de Polonia M</title>
+    <title>Tour de Polonia M T2026 · Etapa 6 - Bukovina Resort - Bukowina Tatrzańska</title>
     <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
 · El Tour de Polonia llega a la 83.ª edición. Esta carrera ciclista del UCI WorldTour se celebra del 3 al 9 de agosto. Consta de 7 etapas bajo el lema "Norte-Sur", iniciando en Gdynia y cerrando en la mina de sal de Wieliczka.
 · País: Polonia</desc>
 	</programme>
   <programme start="20260809073000 +0200" stop="20260809083000 +0200" channel="Eurosport 2">
-    <title>Etapa 8 - Sisteron - Niza T2026 · Tour de Francia F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
+    <title>Tour de Francia F T2026 · Etapa 8 - Sisteron - Niza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.
 · País: Francia</desc>
 	</programme>
@@ -10653,7 +10890,7 @@
 	</programme>
   <programme start="20260809110000 +0200" stop="20260809120000 +0200" channel="Eurosport 2">
     <title>Golden Trail World Series T2026 · Sierre - Zinal</title>
-    <desc>Deportes,Atletismo | 2026 | TP
+    <desc>Deportes,Atletismo | 2026 | TP | *6.2/10
 · Una serie de carreras de montaña de alto nivel que reúnen a los mejores corredores de trail running del mundo. El certamen ofrece desafíos atléticos y escenarios impresionantes en diferentes lugares del planeta.</desc>
 	</programme>
   <programme start="20260809120000 +0200" stop="20260809123000 +0200" channel="Eurosport 2">
@@ -10663,7 +10900,7 @@
 · País: Francia</desc>
 	</programme>
   <programme start="20260809123000 +0200" stop="20260809132500 +0200" channel="Eurosport 2">
-    <title>Etapa 6 - Bukovina Resort - Bukowina Tatrzańska T2026 · Tour de Polonia M</title>
+    <title>Tour de Polonia M T2026 · Etapa 6 - Bukovina Resort - Bukowina Tatrzańska</title>
     <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
 · El Tour de Polonia llega a la 83.ª edición. Esta carrera ciclista del UCI WorldTour se celebra del 3 al 9 de agosto. Consta de 7 etapas bajo el lema "Norte-Sur", iniciando en Gdynia y cerrando en la mina de sal de Wieliczka.
 · País: Polonia</desc>
@@ -10764,7 +11001,7 @@
 	</programme>
   <programme start="20260810113000 +0200" stop="20260810123000 +0200" channel="Eurosport 2">
     <title>Golden Trail World Series T2026 · Sierre - Zinal</title>
-    <desc>Deportes,Atletismo | 2026 | TP
+    <desc>Deportes,Atletismo | 2026 | TP | *6.2/10
 · Una serie de carreras de montaña de alto nivel que reúnen a los mejores corredores de trail running del mundo. El certamen ofrece desafíos atléticos y escenarios impresionantes en diferentes lugares del planeta.</desc>
 	</programme>
   <programme start="20260810123000 +0200" stop="20260810133000 +0200" channel="Eurosport 2">
@@ -10780,7 +11017,7 @@
 · País: Polonia</desc>
 	</programme>
   <programme start="20260810150000 +0200" stop="20260810160000 +0200" channel="Eurosport 2">
-    <title>Etapa 6 - Bukovina Resort - Bukowina Tatrzańska T2026 · Tour de Polonia M</title>
+    <title>Tour de Polonia M T2026 · Etapa 6 - Bukovina Resort - Bukowina Tatrzańska</title>
     <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
 · El Tour de Polonia llega a la 83.ª edición. Esta carrera ciclista del UCI WorldTour se celebra del 3 al 9 de agosto. Consta de 7 etapas bajo el lema "Norte-Sur", iniciando en Gdynia y cerrando en la mina de sal de Wieliczka.
 · País: Polonia</desc>
@@ -10793,7 +11030,7 @@
 	</programme>
   <programme start="20260808154500 +0200" stop="20260808210000 +0200" channel="GOL">
     <title>Turismo Carretera T2026 · F9/F7 - 02/08/2026</title>
-    <desc>Deportes,Automovilismo | 2026 | TP | *5.6/10
+    <desc>Deportes,Automovilismo | 2026 | TP
 · Campeonato argentino de automovilismo especializado en coches turismo. La temporada cuenta con ocho pruebas puntuables.
 · País: Argentina</desc>
 	</programme>
@@ -10970,21 +11207,27 @@
 · El Trump Plaza de Atlantic City acoge este combate entre Mike Tyson y Larry Holmes por el cinturón de campeón de los pesos pesados de la WBA, la WBC y la IBF.
 · País: Estados Unidos</desc>
 	</programme>
+  <programme start="20260810163000 +0200" stop="20260810174500 +0200" channel="GOL">
+    <title>Liga Nacional de Fuerza T2022 · Torrijos</title>
+    <desc>Deportes,Programa deportes | 2022 | +7 | *6.4/10
+· Descubre hasta dónde es capaz de llegar la superación humana. De provincia en provincia, un grupo de atletas competirán entre ellos por ser el deportista más fuerte del país.
+· País: España</desc>
+	</programme>
   <programme start="20260808154500 +0200" stop="20260808181500 +0200" channel="Teledeporte">
-    <title>Etapa 8 - Sisteron - Niza T2026 · Tour de Francia F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
+    <title>Tour de Francia F T2026 · Etapa 8 - Sisteron - Niza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.
 · País: Francia</desc>
 	</programme>
   <programme start="20260808181500 +0200" stop="20260808191500 +0200" channel="Teledeporte">
-    <title>Etapa 5: Caleruega - Lagunas de Neila T2026 · Vuelta a Burgos M</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *5.8/10
+    <title>Vuelta a Burgos M T2026 · Etapa 5: Caleruega - Lagunas de Neila</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La Vuelta a Burgos reúne a un selecto pelotón del 4 al 8 de agosto. Englobada en el circuito ProSeries, sirve como preparación para la inminente Vuelta a España. Isaac del Toro se impuso en 2025.
 · País: España</desc>
 	</programme>
   <programme start="20260808191500 +0200" stop="20260808195500 +0200" channel="Teledeporte">
     <title>Europeo de deportes acuáticos T2026 · Salto de altura - Ronda 3 y 4 M</title>
-    <desc>Deportes,Natación | 2026 | TP | *6.0/10
+    <desc>Deportes,Natación | 2026 | TP | *5.8/10
 · París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.
 · País: Francia</desc>
 	</programme>
@@ -11032,25 +11275,25 @@
 	</programme>
   <programme start="20260809022000 +0200" stop="20260809032000 +0200" channel="Teledeporte">
     <title>Europeo de deportes acuáticos T2026 · Salto de altura - Ronda 3 y 4 M</title>
-    <desc>Deportes,Natación | 2026 | TP | *6.0/10
+    <desc>Deportes,Natación | 2026 | TP | *5.8/10
 · París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.
 · País: Francia</desc>
 	</programme>
   <programme start="20260809032000 +0200" stop="20260809035500 +0200" channel="Teledeporte">
-    <title>Salto de altura - Ronda 3 y 4 F T2026 · Europeo de deportes acuáticos</title>
-    <desc>Deportes,Natación | 2026 | TP | *6.0/10
+    <title>Europeo de deportes acuáticos T2026 · Salto de altura - Ronda 3 y 4 F</title>
+    <desc>Deportes,Natación | 2026 | TP
 · París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.
 · País: Francia</desc>
 	</programme>
   <programme start="20260809035500 +0200" stop="20260809054500 +0200" channel="Teledeporte">
-    <title>Etapa 5: Caleruega - Lagunas de Neila T2026 · Vuelta a Burgos M</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *5.8/10
+    <title>Vuelta a Burgos M T2026 · Etapa 5: Caleruega - Lagunas de Neila</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La Vuelta a Burgos reúne a un selecto pelotón del 4 al 8 de agosto. Englobada en el circuito ProSeries, sirve como preparación para la inminente Vuelta a España. Isaac del Toro se impuso en 2025.
 · País: España</desc>
 	</programme>
   <programme start="20260809054500 +0200" stop="20260809080000 +0200" channel="Teledeporte">
-    <title>Etapa 8 - Sisteron - Niza T2026 · Tour de Francia F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.4/10
+    <title>Tour de Francia F T2026 · Etapa 8 - Sisteron - Niza</title>
+    <desc>Deportes,Ciclismo | 2026 | TP
 · La quinta edición del Tour de Francia femenino se disputa del 1 al 9 de agosto. La carrera crece y ya cuenta con nueve etapas y casi 1.200 kilómetros de recorrido. La local Pauline Ferrand-Prévot se impuso en 2025.
 · País: Francia</desc>
 	</programme>
@@ -11062,13 +11305,13 @@
 	</programme>
   <programme start="20260809084500 +0200" stop="20260809094500 +0200" channel="Teledeporte">
     <title>Europeo de deportes acuáticos T2026 · Salto de altura - Ronda 3 y 4 M</title>
-    <desc>Deportes,Natación | 2026 | TP | *6.0/10
+    <desc>Deportes,Natación | 2026 | TP | *5.8/10
 · París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.
 · País: Francia</desc>
 	</programme>
   <programme start="20260809094500 +0200" stop="20260809104000 +0200" channel="Teledeporte">
     <title>Europeo de deportes acuáticos T2026 · Medallas España</title>
-    <desc>Deportes,Natación | 2026 | TP | *6.4/10
+    <desc>Deportes,Natación | 2026 | TP
 · París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.
 · País: Francia</desc>
 	</programme>
@@ -11188,7 +11431,7 @@
 	</programme>
   <programme start="20260810064500 +0200" stop="20260810074000 +0200" channel="Teledeporte">
     <title>Europeo de deportes acuáticos T2026 · Medallas España</title>
-    <desc>Deportes,Natación | 2026 | TP | *6.4/10
+    <desc>Deportes,Natación | 2026 | TP
 · París acoge del 31 de julio al 16 de agosto el Campeonato de Europa de natación. En la capital francesa se disputa la 38ª edición de los campeonatos europeos en las especialidades de natación en piscina larga, artística, saltos y aguas abiertas.
 · País: Francia</desc>
 	</programme>
@@ -11223,6 +11466,12 @@
     <desc>Deportes,Atletismo | 2026 | TP | *6.0/10
 · El Alexander Stadium de Birmingham acoge del 10 al 16 de agosto el campeonato europeo de atletismo del 2026.
 · País: Reino Unido</desc>
+	</programme>
+  <programme start="20260810163000 +0200" stop="20260810173500 +0200" channel="Teledeporte">
+    <title>TDPedales T2026 · Lunes 10 agosto</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· El ciclismo es uno de los deportes más duros y exigentes de todos los que se practican, algo que lo convierten en todo un espectáculo. Este espacio repasa la actualidad del mundo de la bicicleta.
+· País: España</desc>
 	</programme>
   <programme start="20260808120000 +0200" stop="20260809000000 +0200" channel="M+ Liga de Campeones 4">
     <title>M+ Liga de Campeones 4</title>
@@ -11749,12 +11998,15 @@
 · Música: John Cale.
 · Producción: Christian Halsey Solomon, Chris Hanley, Edward R. Pressman.</desc>
 	</programme>
-  <programme start="20260808160000 +0200" stop="20260808163000 +0200" channel="Canal Cocina">
-    <title>Fiesta en casa. Al aire libre. T1 E19</title>
-    <desc>Programa,Cocina | 2023 | TP
-· En este episodio de Fiesta en casa, Carmen López del Hierro elabora dos recetas: Salteado de fabas y almejas al cava y Ravioli relleno de pollo y membrillo con salsa de Idiazábal.
-· País: España
-· Reparto: Carmen López del Hierro, del Hierro.</desc>
+  <programme start="20260810163800 +0200" stop="20260810183500 +0200" channel="DARK">
+    <title>El exorcista</title>
+    <desc>Cine,Terror,Drama,Suspense | 1973 | +18 | *8.1/10
+· Una inocente niña de 12 años sufre un grave trastorno en su comportamiento, pero los médicos son incapaces de diagnosticar las causas. En realidad, está poseída por el demonio y solo un exorcismo puede sanarla.
+· País: Ecuador, Estados Unidos
+· Dirección: William Friedkin.
+· Reparto: Ellen Burstyn, Max von Sydow, Lee J. Cobb, Linda Blair, Kitty Winn, Jason Miller, Jack MacGowran, William O'Malley, Rudolf Schündler, Gina Petrushka, Robert Symonds, Thomas Bermingham, Donna Mitchell, Ellen McRae, Arthur Storch, Barton Heyman, Peter Masterson, Jack MacGowan, Lee Cobb Cobb.
+· Música: Jack Nitzsche.
+· Producción: William Peter Blatty.</desc>
 	</programme>
   <programme start="20260808163000 +0200" stop="20260808170100 +0200" channel="Canal Cocina">
     <title>Blanca en Menorca T1 E3 · Sabores tradicionales</title>
@@ -12310,12 +12562,6 @@
 · País: Reino Unido
 · Dirección: Katy Fryer.
 · Reparto: Jamie Oliver, Gennaro Contaldo.</desc>
-	</programme>
-  <programme start="20260808153000 +0200" stop="20260808163000 +0200" channel="Tennis Channel">
-    <title>ATP Toronto T2025 E12 · Third Round</title>
-    <desc>Deportes,Tenis | 2026 | TP
-· Torneo ATP Master 1000 de Toronto (Canadá).
-· País: Canadá</desc>
 	</programme>
   <programme start="20260808163000 +0200" stop="20260808183000 +0200" channel="Tennis Channel">
     <title>ATP Toronto T2025 E10 · Third Round</title>
@@ -13387,6 +13633,11 @@
     <title>Tentaderos. Los Aranguez</title>
     <desc>+16</desc>
 	</programme>
+  <programme start="20260810162600 +0200" stop="20260810171200 +0200" channel="Onetoro">
+    <title>El Tato. En Corto y por Derecho</title>
+    <desc>+16
+· En esta nueva entrega de la serie de televisión "En Corto y por Derecho”, Eduardo Dávila Miura nos llevará hasta la ganadería de “El Cahoso” y “Rio Grande.</desc>
+	</programme>
   <programme start="20260808130000 +0000" stop="20260808150000 +0000" channel="beIN SPORTS XTRA ñ">
     <title>Fútbol Ligue 1</title>
     <desc>Sports event,Soccer
@@ -13735,10 +13986,6 @@
   <programme start="20260810160000 +0200" stop="20260810170000 +0200" channel="ESPN">
     <title>SportsCenter</title>
     <desc>· SportsCenter (Sports Center) es un noticiero deportivo de televisión de la cadena ESPN. SportsCenter muestra repeticiones de las mejores jugadas del día así como también lo más sobresaliente en el deporte alrededor del mundo. En Latinoamérica SportsCenter se transmite por todos los canales de ESPN los cuales incluye ESPN Deportes (Estados Unidos) ESPN, ESPN2 y ESPN+.</desc>
-	</programme>
-  <programme start="20260808160000 +0200" stop="20260808163000 +0200" channel="ESPN 2">
-    <title>Where It Lies · The Patch</title>
-    <desc>· Sin detalles...</desc>
 	</programme>
   <programme start="20260808163000 +0200" stop="20260808174500 +0200" channel="ESPN 2">
     <title>MotoGP - Sprint · Gran Premio de Gran Bretaña, Circuito de Silverstone</title>
@@ -14409,18 +14656,6 @@
 · Assiste ao jogo da Liga Endesa entre Real Madrid x Unicaja - Quartos-De-Final.
 · País: España</desc>
 	</programme>
-  <programme start="20260808134500 +0000" stop="20260808141500 +0000" channel="PT | DAZN 4">
-    <title>Informação Não Disponibilizada pelo Canal T1 · sáb 8-ago, 14:45</title>
-    <desc>Estilo de vida | 2026 | +12
-· Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-	</programme>
-  <programme start="20260808141500 +0000" stop="20260808144500 +0000" channel="PT | DAZN 4">
-    <title>Informação Não Disponibilizada pelo Canal T1 · sáb 8-ago, 15:15</title>
-    <desc>Estilo de vida | 2026 | +12
-· Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-	</programme>
   <programme start="20260808144500 +0000" stop="20260808151500 +0000" channel="PT | DAZN 4">
     <title>Informação Não Disponibilizada pelo Canal T1 · sáb 8-ago, 15:45</title>
     <desc>Estilo de vida | 2026 | +12
@@ -14650,6 +14885,11 @@
 	</programme>
   <programme start="20260810103200 +0000" stop="20260810143200 +0000" channel="PT | DAZN 4">
     <title>Sem Emissão T1 · seg 10-ago, 11:32</title>
+    <desc>Estilo de vida | 2026 | +12
+· O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a DAZN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.</desc>
+	</programme>
+  <programme start="20260810143200 +0000" stop="20260810183200 +0000" channel="PT | DAZN 4">
+    <title>Sem Emissão T1 · seg 10-ago, 15:32</title>
     <desc>Estilo de vida | 2026 | +12
 · O melhor do futebol internacional e outros conteúdos premium estão na sua casa com a DAZN. Transmissões exclusivas: Premier League, Liga dos Campeões, LaLiga (Espanha), Bundesliga (Alemanha), Jupiler Pro League e Supercup (Bélgica), NFL e muito mais.</desc>
 	</programme>
@@ -15004,6 +15244,12 @@
 · Informação Não Disponibilizada pelo Canal.
 · País: Portugal</desc>
 	</programme>
+  <programme start="20260810142500 +0000" stop="20260810152000 +0000" channel="PT | DAZN 5">
+    <title>Informação Não Disponibilizada pelo Canal T1 E26</title>
+    <desc>Estilo de vida | 2026 | +12
+· Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+	</programme>
   <programme start="20260808133000 +0000" stop="20260808164500 +0000" channel="UK | TNT Sports 1">
     <title>Live: Tour de France Women T2026 E8 · Stage 8</title>
     <desc>Cycling,Sports
@@ -15184,11 +15430,6 @@
     <desc>Snooker,Sports
 · Coverage of the seventh session from round one of the tournament at Riverside Sports Centre in Taiyuan.</desc>
 	</programme>
-  <programme start="20260808124500 +0000" stop="20260808144500 +0000" channel="UK | TNT Sports 2">
-    <title>Live MotoGP T2026 E149 · British Grand Prix-Qualifying-Moto3 &amp; Moto2</title>
-    <desc>Motorcycling,Sports
-· The Grand Prix of Britain Moto3 and Moto2 qualifying sessions. Coverage from the 12th round of the season at Silverstone.</desc>
-	</programme>
   <programme start="20260808144500 +0000" stop="20260808154500 +0000" channel="UK | TNT Sports 2">
     <title>Live MotoGP T2026 E150 · British Grand Prix-MotoGP Sprint Race</title>
     <desc>Motorcycling,Sports
@@ -15344,10 +15585,10 @@
     <desc>Baseball,Sports
 · A look at the most exciting plays from the past week's matches.</desc>
 	</programme>
-  <programme start="20260808110000 +0000" stop="20260808144500 +0000" channel="UK | TNT Sports 3">
-    <title>Live: Men's Cycling World Tour T2026 E91 · Tour of Poland-Stage 6</title>
-    <desc>Cycling,Sports
-· Coverage of the sixth stage of the 2026 Tour of Poland, a 125.6km route from Bukovina Resort to Bukowina Tatrzanska.</desc>
+  <programme start="20260810143000 +0000" stop="20260810153000 +0000" channel="UK | TNT Sports 2">
+    <title>Fencing World Championships T2026 E7 · Review 1</title>
+    <desc>Fencing,Sports
+· Action from the 2026 World Fencing Championships in Hong Kong.</desc>
 	</programme>
   <programme start="20260808144500 +0000" stop="20260808150000 +0000" channel="UK | TNT Sports 3">
     <title>Playing for Our Future - Cricket T2023 E57</title>
@@ -15713,11 +15954,6 @@
     <title>Football T2026 E56 · Leverkusen v Sevilla</title>
     <desc>Football,Sports
 · Bayer Leverkusen v Sevilla.</desc>
-	</programme>
-  <programme start="20260808123000 +0000" stop="20260808143000 +0000" channel="UK | Premier Sports 2">
-    <title>Top 14 Rugby Union T2025 E109 · Toulouse v Montpellier</title>
-    <desc>Rugby Union - Domestic,Sports
-· Action from Toulouse v Montpellier in the final.</desc>
 	</programme>
   <programme start="20260808143000 +0000" stop="20260808150000 +0000" channel="UK | Premier Sports 2">
     <title>Temples of Sport T2022 E1 · Temples of Sport 1</title>
